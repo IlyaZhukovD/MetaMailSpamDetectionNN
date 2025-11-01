@@ -7,7 +7,6 @@ from sklearn.metrics import accuracy_score
 from torch.nn.utils.rnn import pad_sequence
 from collections import Counter
 from torch.utils.data import DataLoader, TensorDataset
-
 from pathlib import Path
 
 folder_path = Path('.\\metadata')
@@ -78,9 +77,9 @@ model = SpamMetaBiGRU(vocab_size)
 criterion = nn.BCELoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 dataset = TensorDataset(X_train, y_train)
-loader = DataLoader(dataset, batch_size=32, shuffle=True)
+loader = DataLoader(dataset, batch_size=1024, shuffle=True)
 
-EPOCHS = 40
+EPOCHS = 20
 for epoch in range(EPOCHS):
     model.train()
     for batch_X, batch_y in loader:
