@@ -1,0 +1,10 @@
+Return-Path: skip@pobox.com
+Delivery-Date: Mon Sep  9 20:19:04 2002
+From: skip@pobox.com (Skip Montanaro)
+Date: Mon, 9 Sep 2002 14:19:04 -0500
+Subject: [Spambayes] deleting "duplicate" spam before training?  good idea
+ orbad?
+In-Reply-To: <LNBBLJKPBEHFEDALKOLCIECKBDAB.tim.one@comcast.net>
+References: <15740.52432.861148.597750@12-248-11-90.client.attbi.com>
+        <LNBBLJKPBEHFEDALKOLCIECKBDAB.tim.one@comcast.net>
+Message-ID: <15740.62504.533596.995365@12-248-11-90.client.attbi.com>

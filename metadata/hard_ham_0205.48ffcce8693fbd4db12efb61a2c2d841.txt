@@ -1,0 +1,37 @@
+Return-Path: mailinglist@michaelmoore.com
+Delivery-Date: Wed Sep  4 18:35:22 2002
+Return-Path: <mailinglist@michaelmoore.com>
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mothlight.dyndns.org (8.11.6/8.11.6) with ESMTP id g84MZIA04911
+	for <nice@localhost>; Wed, 4 Sep 2002 18:35:19 -0400
+Received: from fastmail.fm [209.61.183.86]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for nice@localhost (single-drop); Wed, 04 Sep 2002 18:35:19 -0400 (EDT)
+Received: from www.fastmail.fm (server1.internal [10.202.2.132])
+	by server2.fastmail.fm (Cyrus v2.1.5) with LMTP; Wed, 04 Sep 2002 17:23:24 -0500
+X-Sieve: CMU Sieve 2.2
+Received: from www.fastmail.fm (server1.internal [10.202.2.132])
+	by www.fastmail.fm (Cyrus v2.1.3) with LMTP; Wed, 04 Sep 2002 17:23:25 -0500
+Received: from www.fastmail.fm (localhost [127.0.0.1])
+	by localhost.localdomain (Postfix) with ESMTP id A426E6D9F6
+	for <mothlight@fastmail.fm>; Wed,  4 Sep 2002 17:23:24 -0500 (CDT)
+X-Mail-from: mailinglist@michaelmoore.com
+X-Delivered-to: <mothlight@fastmail.fm>
+X-Spam-score: 7.2
+X-Spam: spam
+X-Spam-hits: DEAR_FRIEND, CLICK_BELOW, UNSUB_PAGE
+Received: from michaelmoore.com (unknown [207.164.167.226])
+	by www.fastmail.fm (Postfix) with SMTP id 825F76D99F
+	for <mothlight@fastmail.fm>; Wed,  4 Sep 2002 17:23:23 -0500 (CDT)
+Date: Wed, 4 Sep 2002 18:23:28 -0400
+From: "Michael Moore's Mailing List" <mailinglist@michaelmoore.com>
+Message-ID: <B99C0020.1411192@[207.164.167.226]>
+To: "kerry nice" <mothlight@fastmail.fm>
+Subject: On The Way to Telluride, On My Way Back to the World
+MIME-Version: 1.0
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 31

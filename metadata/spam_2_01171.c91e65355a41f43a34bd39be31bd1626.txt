@@ -1,0 +1,19 @@
+From timaims@hotmail.com  Mon Jul 29 13:08:36 2002
+Return-Path: <timaims@hotmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 6B2D0440EC
+	for <jm@localhost>; Mon, 29 Jul 2002 08:08:36 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 13:08:36 +0100 (IST)
+Received: from human09 ([211.117.193.139])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6TC5np07190
+	for <jm@netnoteinc.com>; Mon, 29 Jul 2002 13:05:50 +0100
+Message-Id: <200207291205.g6TC5np07190@mandark.labs.netnoteinc.com>
+From: "Tim Aims" <timaims@hotmail.com>
+To: <yyyy@netnoteinc.com>
+Subject: The Money Control System
+Mime-Version: 1.0
+Date: Mon, 29 Jul 2002 21:03:50
+Content-Type: text/html; charset="iso-8859-1"

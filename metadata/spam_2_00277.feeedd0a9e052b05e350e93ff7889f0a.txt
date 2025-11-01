@@ -1,0 +1,22 @@
+From newsletters@the-financial-news.com  Mon Jun 24 17:03:15 2002
+Return-Path: newsletters@the-financial-news.com
+Delivery-Date: Sun May 12 09:55:43 2002
+Received: from wtnserver (80-25-218-178.uc.nombres.ttd.es [80.25.218.178])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4C8tfe05976 for
+    <aban@taint.org>; Sun, 12 May 2002 09:55:41 +0100
+Received: from EI2 by wtnserver with SMTP (MDaemon.v3.1.2.R) for
+    <aban@taint.org>; Sun, 12 May 2002 10:55:04 +0200
+From: "The Financial News" <newsletters@the-financial-news.com>
+Subject: Production Mini-plants in mobile containers. Co-investment Program
+To: aban@taint.org
+MIME-Version: 1.0
+Date: Sun, 12 May 2002 10:52:47 +0200
+X-Priority: 3
+X-Library: Indy 8.0.22
+X-MDRCPT-To: aban@taint.org
+X-Return-Path: newsletters@the-financial-news.com
+X-Mdaemon-Deliver-To: aban@taint.org
+Reply-To: newsletters@the-financial-news.com
+Message-Id: <MDAEMON-F200205121055.AA550387md50007649758@wtnserver>
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="=_NextPart_2rfkindysadvnqw3nerasdf";

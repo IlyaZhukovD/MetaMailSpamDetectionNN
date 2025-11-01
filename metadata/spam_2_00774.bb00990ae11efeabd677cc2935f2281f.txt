@@ -1,0 +1,40 @@
+From fork-admin@xent.com  Fri Jul 19 15:05:58 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 09DA443FB7
+	for <jm@localhost>; Fri, 19 Jul 2002 10:05:52 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 15:05:52 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6JE52J02555 for <jm@jmason.org>;
+    Fri, 19 Jul 2002 15:05:03 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 8E47F2940A5; Fri, 19 Jul 2002 06:55:02 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from zephers.com (unknown [63.218.225.157]) by xent.com
+    (Postfix) with SMTP id C16F5294098 for <fork@xent.com>; Fri,
+    19 Jul 2002 06:54:58 -0700 (PDT)
+X-Sender: vanity@zephers.com
+From: vanity@zephers.com
+Received: from zephers.com by 1IPR7CCT4G7S17.zephers.com with SMTP for
+    fork@xent.com; Fri, 19 Jul 2002 10:03:47 -0500
+Importance: $KWH_IMP
+Date: Fri, 19 Jul 2002 10:03:47 -0500
+X-Msmail-Priority: $KWH_XMSP
+MIME-Version: 1.0
+To: fork@spamassassin.taint.org
+Reply-To: lookinggood@zephers.com
+X-Priority: 3
+X-Encoding: MIME
+X-Mailer: Microsoft Outlook Express, Build 5.2.4600
+Subject: LOOKING FOR LEADERS IN YOUR AREA
+Message-Id: <03887N5.2G0T7J9L8H0.vanity@zephers.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Friends of Rohit Khare <fork.xent.com>
+X-Beenthere: fork@spamassassin.taint.org
+Content-Type: multipart/alternative; boundary="----=_NextPart_244_43836275737818467044071"

@@ -1,0 +1,39 @@
+From ilug-admin@linux.ie  Mon Sep  2 13:13:46 2002
+Return-Path: <ilug-admin@linux.ie>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 68C3E47C83
+	for <zzzz@localhost>; Mon,  2 Sep 2002 07:44:33 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Mon, 02 Sep 2002 12:44:33 +0100 (IST)
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g82B6sZ30020 for
+    <zzzz-ilug@example.com>; Mon, 2 Sep 2002 12:06:54 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id MAA00495; Mon, 2 Sep 2002 12:05:10 +0100
+X-Authentication-Warning: lugh.tuatha.org: Host root@localhost [127.0.0.1]
+    claimed to be lugh
+Received: from saffron.via-net-works.ie (saffron.via-net-works.ie
+    [212.17.32.24]) by lugh.tuatha.org (8.9.3/8.9.3) with ESMTP id MAA00434
+    for <ilug@linux.ie>; Mon, 2 Sep 2002 12:05:00 +0100
+Received: from box.dialups.via-net-works.ie ([212.17.32.233]
+    helo=PELICANCLUB.vianetworks.ie) by saffron.via-net-works.ie with esmtp
+    (Exim 3.20 #1) id 17lp0s-0000gr-00; Mon, 02 Sep 2002 12:04:58 +0100
+X-NCC-Regid: ie.medianet
+Message-Id: <5.1.0.14.0.20020902120100.02a78308@212.17.32.225>
+X-Sender: tbridge@212.17.32.225
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+Date: Mon, 02 Sep 2002 12:04:04 +0100
+To: Ray.Dermody@ITCARLOW.IE, ilug@linux.ie
+From: Thomas Bridge <tbridge@vianetworks.ie>
+Subject: Re: [ILUG] Serial number in hosts file
+In-Reply-To: <3D735065.23921.771154@localhost>
+MIME-Version: 1.0
+Content-Type: text/plain
+Sender: ilug-admin@linux.ie
+Errors-To: ilug-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group <ilug.linux.ie>
+X-Beenthere: ilug@linux.ie

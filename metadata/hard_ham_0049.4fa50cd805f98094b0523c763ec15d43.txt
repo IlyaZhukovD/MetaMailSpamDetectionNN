@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19986.0c-1vJugZkmTgmCK9RR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6D7tYJ12402
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Sat, 13 Jul 2002 08:55:34 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Sat, 13 Jul 2002 03:57:29 -0700 (envelope-from <Online#3.19986.0c-1vJugZkmTgmCK9RR.1.b@newsletter.online.com>)
+Message-ID: <7047636.1026546922375.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Sat, 13 Jul 2002 00:55:22 -0700 (PDT)
+From: "CNET News.com Daily Dispatch" <Online#3.19986.0c-1vJugZkmTgmCK9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: THE WEEK IN REVIEW: Quit copying
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

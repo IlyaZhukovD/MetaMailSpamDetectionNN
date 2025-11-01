@@ -1,0 +1,24 @@
+From hudson@netcnct.net  Mon Jun 24 17:02:57 2002
+Return-Path: vindc@folkekirken.dk
+Delivery-Date: Sat May 11 01:48:46 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4B0mee30137 for
+    <jm@jmason.org>; Sat, 11 May 2002 01:48:45 +0100
+Received: from qta.infolink.net.pk ([202.176.225.195]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4B0mUD01112 for
+    <jm@netnoteinc.com>; Sat, 11 May 2002 01:48:32 +0100
+Received: by qta.infolink.net.pk from localhost (router,SLMail V3.0);
+    Sat, 11 May 2002 05:18:05 +0500
+Received: by qta.infolink.net.pk from vmomo9753.com (202.41.87.46::mail
+    daemon; unverified,SLMail V3.0); Sat, 11 May 2002 05:18:02 +0500
+From: "hudson" <hudson@netcnct.net>
+Date: Fri, 10 May 2002 16:18:39 -0700
+Subject: Reach Prospects Competitors Miss
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+X-Precedence-Ref: l234056789zxc
+Content-Type: text/plain; charset=us-ascii
+To: nobody@qta.infolink.net.pk
+Message-Id: <20020511051805.01e64ac4.in@qta.infolink.net.pk>
+X-Keywords: 
+Content-Transfer-Encoding: 7bit

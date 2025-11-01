@@ -1,0 +1,17 @@
+From WEBMASTER@theperfumebox.ie  Mon Jun 24 17:06:58 2002
+Return-Path: mmailco@mail.com
+Delivery-Date: Tue May 28 07:13:22 2002
+Received: from ns.kneo.com ([210.94.152.2]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g4S6DKe24947 for <WEBMASTER@efi.ie>;
+    Tue, 28 May 2002 07:13:20 +0100
+Received: from html (www.kneo.com [127.0.0.1]) by ns.kneo.com
+    (8.10.1/8.10.0) with SMTP id g4S5svi28689; Tue, 28 May 2002 14:55:00 +0900
+Message-Id: <200205280555.g4S5svi28689@ns.kneo.com>
+From: WEBMASTER@theperfumebox.ie
+Reply-To: mmailco@mail.com
+To: WEBMASTER@theperfumebox.ie
+Subject: Re: Account Information
+Date: Mon, 27 May 2002 20:46:19
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="DEFAULT"

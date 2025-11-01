@@ -1,0 +1,7 @@
+Return-Path: anthony@interlink.com.au
+Delivery-Date: Fri Sep  6 09:06:57 2002
+From: anthony@interlink.com.au (Anthony Baxter)
+Date: Fri, 06 Sep 2002 18:06:57 +1000
+Subject: [Spambayes] Re: [Python-Dev] Getting started with GBayes testing 
+In-Reply-To: <BIEJKCLHCIOIHAGOKOLHGEEMDKAA.tim.one@comcast.net> 
+Message-ID: <200209060806.g8686ve03964@localhost.localdomain>

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20078.0d-FCpDgKyACD7GRdRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6FLdlJ09325
+	for <qqqqqqqqqq-zdnet@example.com>; Mon, 15 Jul 2002 22:39:48 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Mon, 15 Jul 2002 14:40:33 -0700 (envelope-from <Online#3.20078.0d-FCpDgKyACD7GRdRR.1.b@newsletter.online.com>)
+Message-ID: <4844447.1026769182209.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Mon, 15 Jul 2002 14:39:41 -0700 (PDT)
+From: CNET Shopper Weekly Newsletter <Online#3.20078.0d-FCpDgKyACD7GRdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Looking for a quick, affordable way to upgrade your PC? (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

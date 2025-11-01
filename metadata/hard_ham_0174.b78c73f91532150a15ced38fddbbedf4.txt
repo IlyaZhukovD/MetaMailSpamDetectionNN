@@ -1,0 +1,43 @@
+Return-Path: <owner-linux-xfs@oss.sgi.com>
+Received: from oss.sgi.com (oss.sgi.com [128.167.58.27])
+	by eclectic.kluge.net (8.11.6/8.11.6) with ESMTP id g7H7BVC31814
+	for <felicity@kluge.net>; Sat, 17 Aug 2002 03:11:32 -0400
+Received: from oss.sgi.com (localhost [127.0.0.1])
+	by oss.sgi.com (8.12.5/8.12.5) with ESMTP id g7H78ERw020962;
+	Sat, 17 Aug 2002 00:08:14 -0700
+Received: from localhost (mail@localhost)
+	by oss.sgi.com (8.12.5/8.12.3/Submit) with SMTP id g7H78Bra020961;
+	Sat, 17 Aug 2002 00:08:11 -0700
+X-Authentication-Warning: oss.sgi.com: mail owned process doing -bs
+Received: by oss.sgi.com (bulk_mailer v1.13); Sat, 17 Aug 2002 00:06:05 -0700
+Received: from oss.sgi.com (localhost [127.0.0.1])
+	by oss.sgi.com (8.12.5/8.12.5) with ESMTP id g7H765Rw020865
+	for <linux-xfs-outgoing@oss.sgi.com>; Sat, 17 Aug 2002 00:06:05 -0700
+Received: (from majordomo@localhost)
+	by oss.sgi.com (8.12.5/8.12.3/Submit) id g7H7659K020864
+	for linux-xfs-outgoing; Sat, 17 Aug 2002 00:06:05 -0700
+X-Authentication-Warning: oss.sgi.com: majordomo set sender to owner-linux-xfs@oss.sgi.com using -f
+Received: from pepsi.splentec.com (ns.splentec.com [209.47.35.194])
+	by oss.sgi.com (8.12.5/8.12.5) with SMTP id g7H74wRw020790
+	for <linux-xfs@oss.sgi.com>; Sat, 17 Aug 2002 00:04:59 -0700
+Received: from corona (corona.splentec.com [209.47.35.254])
+	by pepsi.splentec.com (8.11.6/8.11.0) with SMTP id g7H77Vs07556;
+	Sat, 17 Aug 2002 03:07:32 -0400
+Message-ID: <04b201c245bd$787c4220$d3232fd1@corona>
+From: "James Lee" <jlee@canada.com>
+To: "Eric Sandeen" <sandeen@sgi.com>
+Cc: <linux-xfs@oss.sgi.com>, <ilmari@ping.uio.no>
+References: <d8jsn1k9b03.fsf@wirth.ping.uio.no> <012301c241cb$16ea8530$fe232fd1@corona> <1029265417.14205.29.camel@stout.americas.sgi.com>
+Subject: Re: kernel BUG at filemap.c:843!
+Date: Sat, 17 Aug 2002 03:12:38 -0400
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: owner-linux-xfs@oss.sgi.com
+Precedence: bulk
+X-Reject: Spamassassin match!
+Status: RO
+Content-Length: 24895
+Lines: 463
+MIME-Version: 1.0

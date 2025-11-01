@@ -1,0 +1,19 @@
+From seseko7@worldemail.com  Mon Jun 24 17:05:28 2002
+Return-Path: seseko7@worldemail.com
+Delivery-Date: Tue May 21 05:02:56 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4L42te20308 for
+    <jm@jmason.org>; Tue, 21 May 2002 05:02:56 +0100
+Received: from mandark.labs.netnoteinc.com (host-217-146-15-10.warsun.com
+    [217.146.15.10] (may be forged)) by mandark.labs.netnoteinc.com
+    (8.11.2/8.11.2) with SMTP id g4L42lD23629 for <jm@netnoteinc.com>;
+    Tue, 21 May 2002 05:02:52 +0100
+Message-Id: <200205210402.g4L42lD23629@mandark.labs.netnoteinc.com>
+From: "moshood seko" <seseko7@worldemail.com>
+Date: Tue, 21 May 2002 05:00:40
+To: yyyy@netnoteinc.com
+Subject: hello
+MIME-Version: 1.0
+Content-Type: text/plain;charset="iso-8859-1"
+X-Keywords: 
+Content-Transfer-Encoding: 7bit

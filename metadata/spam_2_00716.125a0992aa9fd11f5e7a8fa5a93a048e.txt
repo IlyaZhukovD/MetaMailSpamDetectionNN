@@ -1,0 +1,19 @@
+X-Status: 
+X-Keywords: 
+X-Persona: <Fallingrock>
+Return-Path: <learning_that_lasts@yahoo.com>
+Delivered-To: fallingrock.net%david@fallingrock.net
+Received: (cpmta 1094 invoked from network); 17 Jul 2002 01:56:56 -0700
+Received: from 209.197.199.5 (HELO www)
+  by smtp.c001.snv.cp.net (209.228.32.109) with SMTP; 17 Jul 2002 01:56:56 -0700
+X-Received: 17 Jul 2002 08:56:56 GMT
+Message-Id: <200207171047.g6HAlfr22745@www>
+X-Mailer: MIME::Lite 1.3  
+From: Frontline Learning <learning_that_lasts@yahoo.com>
+To: Business Professional <bzpro@list21.com>
+Cc: 
+Subject: Employee Productivity in Tough Times
+Date: Wed, 17 Jul 2002 01:08:06 -0500
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by linux.midrange.com id g6HBU4n28777

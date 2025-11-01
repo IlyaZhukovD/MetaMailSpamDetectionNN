@@ -1,0 +1,19 @@
+Return-Path: <bounce-lghtml-2534368@sprocket.lockergnome.com>
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6G9DeJ24129
+	for <qqqqqqqqqq-lg@example.com>; Tue, 16 Jul 2002 10:13:40 +0100
+X-Mailer: ListManager Web Interface
+Date: Tue, 16 Jul 2002 00:24:03 -0500
+Subject: [Lockergnome Windows Daily]  Dignity Shakedown
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Windows Daily <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lghtml-2534368N@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lghtml@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lghtml@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lghtml-2534368N@sprocket.lockergnome.com
+Sender: bounce-lghtml-2534368@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534368-1679108-2002.07.16-00.27.47--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii

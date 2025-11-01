@@ -1,0 +1,53 @@
+From fork-admin@xent.com  Sat Oct  5 12:38:50 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 7420E16F03
+	for <jm@localhost>; Sat,  5 Oct 2002 12:38:49 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Sat, 05 Oct 2002 12:38:49 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g94JfEK05823 for <jm@jmason.org>;
+    Fri, 4 Oct 2002 20:41:14 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 8467C2940B8; Fri,  4 Oct 2002 12:41:03 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from colossus.systems.pipex.net (colossus.systems.pipex.net
+    [62.241.160.73]) by xent.com (Postfix) with ESMTP id 88BD429409A for
+    <fork@xent.com>; Fri,  4 Oct 2002 12:40:46 -0700 (PDT)
+Received: from PETER (81-86-177-135.dsl.pipex.com [81.86.177.135]) by
+    colossus.systems.pipex.net (Postfix) with SMTP id 74FB216000571;
+    Fri,  4 Oct 2002 20:41:01 +0100 (BST)
+Message-Id: <036901c26bdd$f2f03c50$0100a8c0@PETER>
+From: "Peter Kilby" <peterkilby@dsl.pipex.com>
+To: <fork@example.com>
+Cc: "Mr. FoRK" <fork_list@hotmail.com>
+References: <DAV19uS7sBdxkiiZIHd0000ac6c@hotmail.com>
+Subject: Re: Documentum Acquires E-Room, Melding Content, Collaboration
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Fri, 4 Oct 2002 20:40:51 +0100
+X-Spam-Status: No, hits=-3.5 required=5.0
+	tests=KNOWN_MAILING_LIST,QUOTED_EMAIL_TEXT,REFERENCES,
+	      T_NONSENSE_FROM_40_50,T_ORIGINAL_MESSAGE,T_OUTLOOK_REPLY,
+	      T_QUOTE_TWICE_1,US_DOLLARS_2,US_DOLLARS_4
+	version=2.50-cvs
+X-Spam-Level:

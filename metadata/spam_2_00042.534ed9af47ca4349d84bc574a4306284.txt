@@ -1,0 +1,21 @@
+From aifrik@corpusmail.com  Fri Jun 29 02:51:20 2001
+Return-Path: <aifrik@corpusmail.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from smtp.easydns.com (ns1.easydns.com [216.220.40.243]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 70599130028; Fri,
+    29 Jun 2001 02:51:18 +0100 (IST)
+Received: from egon.instakom.ch (client197-202.hispeed.ch [62.2.197.202])
+    by smtp.easydns.com (8.11.3/8.11.0) with ESMTP id f5T1pEa11156;
+    Thu, 28 Jun 2001 21:51:14 -0400
+Received: from Artic.net (ip-129-9.newgen.net.ph [202.171.129.9]) by
+    egon.instakom.ch with SMTP (Microsoft Exchange Internet Mail Service
+    Version 5.5.2653.13) id NLZTAG1Q; Fri, 29 Jun 2001 03:48:31 +0200
+Message-Id: <0000382d3858$0000403d$00007ce9@Artic.net>
+To: <174@portugalmail.com>
+From: aifrik@corpusmail.com
+Subject: FW:
+Date: Thu, 28 Jun 2001 16:58:52 -0700
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-Msmail-Priority: Normal

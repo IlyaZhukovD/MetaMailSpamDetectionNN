@@ -1,0 +1,22 @@
+From WebOffers@7a6a.net  Mon Jun 24 17:06:43 2002
+Return-Path: WebOffers@7a6a.net
+Delivery-Date: Mon May 27 01:37:31 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4R0bUe18351 for
+    <jm@jmason.org>; Mon, 27 May 2002 01:37:30 +0100
+Received: from rack6 (ATHM-216-217-xxx-160.newedgenetworks.com
+    [216.217.85.160] (may be forged)) by mandark.labs.netnoteinc.com
+    (8.11.2/8.11.2) with ESMTP id g4R0bR722433 for <jm@netnoteinc.com>;
+    Mon, 27 May 2002 01:37:28 +0100
+Received: from Mailer ([216.217.85.159]) by rack6 with Microsoft
+    SMTPSVC(5.0.2195.2966); Sun, 26 May 2002 20:43:56 -0400
+Date: Sun, 26 May 2002 20:43:57 Eastern Daylight Time
+From: Web Offers <WebOffers@7a6a.net>
+To: yyyy@netnoteinc.com
+Subject: PROTECT YOUR FAMILY'S FUTURE and Save up to 70%
+X-Mailer: Flicks Softwares OCXMail 2.2f
+X-Messageno: 32000191827
+Message-Id: <7A6ASMTPaFxeyBkNyYc001b0ce7@rack6>
+X-Originalarrivaltime: 27 May 2002 00:43:56.0250 (UTC) FILETIME=[9507D3A0:01C20517]
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"

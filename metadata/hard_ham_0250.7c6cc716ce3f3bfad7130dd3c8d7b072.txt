@@ -1,0 +1,25 @@
+Return-Path: <test-admin@lists.sourceforge.net>
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+	[216.136.171.252]) by home.sewingwitch.com (8.11.6/8.11.6) with ESMTP id
+	g9208B729827 for <shiva+qpopper-webdev@sewingwitch.com>; Tue, 1 Oct 2002
+	17:08:11 -0700
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+	helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+	esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17wX3l-0004o7-00 for
+	<shiva+qpopper-webdev@sewingwitch.com>; Tue, 01 Oct 2002 17:08:13 -0700
+Date: Tue, 01 Oct 2002 17:08:10 -0700
+Subject: (SPAM? 08.00) lists.sourceforge.net mailing list memberships reminder
+From: mailman-owner@lists.sourceforge.net
+To: shiva+qpopper-webdev@sewingwitch.com
+X-No-Archive: yes
+X-Ack: no
+Sender: test-admin@lists.sourceforge.net
+Errors-To: test-admin@lists.sourceforge.net
+X-BeenThere: test@lists.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+Message-Id: <E17wX3l-0004o7-00@usw-sf-list2.sourceforge.net>
+Content-Type: text/plain; CHARSET=US-ASCII
+X-Evolution-Source: imap://ken@home.sewingwitch.com/
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit

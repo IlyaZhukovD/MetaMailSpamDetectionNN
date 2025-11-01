@@ -1,0 +1,33 @@
+From tony@svanstrom.com  Wed Aug 28 10:56:41 2002
+Return-Path: <tony@svanstrom.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 5927743F9B
+	for <jm@localhost>; Wed, 28 Aug 2002 05:56:37 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 28 Aug 2002 10:56:37 +0100 (IST)
+Received: from moon.campus.luth.se (root@moon.campus.luth.se
+    [130.240.202.158]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7RJIqZ22179 for <jm@jmason.org>; Tue, 27 Aug 2002 20:18:52 +0100
+Received: from moon.campus.luth.se (tony@moon.campus.luth.se
+    [130.240.202.158]) by moon.campus.luth.se (8.12.3/8.12.3) with ESMTP id
+    g7RJJ2Mg007856; Tue, 27 Aug 2002 21:19:02 +0200 (CEST) (envelope-from
+    tony@svanstrom.com)
+Date: Tue, 27 Aug 2002 21:19:02 +0200 (CEST)
+From: "Tony L. Svanstrom" <tony@svanstrom.com>
+X-X-Sender: tony@moon.campus.luth.se
+To: "Jason R. Mastaler" <jason-exp-1031164464.7f11b3@mastaler.com>
+Cc: Justin Mason <yyyy@example.com>,
+	<spamassassin-talk@lists.sourceforge.net>, <tmda-users@tmda.net>
+Subject: Re: [SAtalk] Re: patent on TMDA-like system
+In-Reply-To: <hhvg5wkv68.fsf@hrothgar.la.mastaler.com>
+Message-Id: <20020827211008.Y6871-100000@moon.campus.luth.se>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-6.1 required=7.0
+	tests=IN_REP_TO,QUOTED_EMAIL_TEXT,SIGNATURE_SHORT_SPARSE,
+	      SPAM_PHRASE_00_01
+	version=2.40-cvs
+X-Spam-Level:

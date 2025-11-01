@@ -1,0 +1,19 @@
+From gtts@cable.net.co  Tue Jul 23 00:07:52 2002
+Return-Path: <gtts@cable.net.co>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 248B9440C9
+	for <jm@localhost>; Mon, 22 Jul 2002 19:07:51 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 23 Jul 2002 00:07:51 +0100 (IST)
+Received: from cable.net.co (24-197-151-50.charterga.net [24.197.151.50])
+    by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6MN7u406059 for
+    <jm@jmason.org>; Tue, 23 Jul 2002 00:07:58 +0100
+From: <gtts@cable.net.co>
+To: yyyy@spamassassin.taint.org
+Subject: SAVE UP TO 50% ON TONER PRINTER, COPIER, AND FAX CARTRIDGES
+Date: Mon, 22 Jul 2002 19:01:42
+Message-Id: <242.662543.853339@cable.net.co>
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"

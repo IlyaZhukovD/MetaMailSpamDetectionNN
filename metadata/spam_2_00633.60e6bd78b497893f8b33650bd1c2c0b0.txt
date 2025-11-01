@@ -1,0 +1,22 @@
+From gsl@insurancemail.net  Mon Jun 24 17:48:43 2002
+Return-Path: gsl@insurancemail.net
+Delivery-Date: Fri Jun  7 02:32:49 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g571Wm504323 for <jm@jmason.org>; Fri, 7 Jun 2002 02:32:48
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Thu, 6 Jun 2002 21:32:00 -0400
+Subject: Ground breaking post card creates annuity leads
+To: <yyyy@spamassassin.taint.org>
+Date: Thu, 6 Jun 2002 21:32:00 -0400
+From: "IQ - GSL" <gsl@insurancemail.net>
+Message-Id: <5d90e201c20dc3$1e991d50$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcINqNX/F5enCouWSra3TAoAEW0Fzg==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 07 Jun 2002 01:32:00.0493 (UTC) FILETIME=[1EB7A1D0:01C20DC3]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_5B81AF_01C20D87.4EEF5910"

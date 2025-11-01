@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19725.55-A8YAgb1NX5rYkdRR.1.b@newsletter.online.com>
+Received: from acmta3.cnet.com (abv-sfo1-acmta3.cnet.com [206.16.1.162])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6B9Q2J19220
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 11 Jul 2002 10:26:02 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by acmta3.cnet.com (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 02:18:40 -0700 (envelope-from <Online#3.19725.55-A8YAgb1NX5rYkdRR.1.b@newsletter.online.com>)
+Message-ID: <958481.1026379554452.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Thu, 11 Jul 2002 02:25:54 -0700 (PDT)
+From: CNET Auctions <Online#3.19725.55-A8YAgb1NX5rYkdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Intel 900MHz / 256MB PC-133 / 10X DVD / 20GB PC: Starting Bid $229
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

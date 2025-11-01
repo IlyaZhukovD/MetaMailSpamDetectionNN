@@ -1,0 +1,21 @@
+From alerts@action.eff.org  Mon Aug 19 11:28:19 2002
+Return-Path: <alerts@action.eff.org>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 0CF7843C55
+	for <zzz@localhost>; Mon, 19 Aug 2002 06:15:48 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Mon, 19 Aug 2002 11:15:48 +0100 (IST)
+Received: from eug-app01.ctsg.com (firewall2.ctsg.com [216.210.226.98]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7GNoM608320 for
+    <qqqqqqqqqqs-eff@example.com>; Sat, 17 Aug 2002 00:50:22 +0100
+Message-Id: <727828.1029542015265.JavaMail.IWAM_EUG-APP01@eug-app01>
+Date: Fri, 16 Aug 2002 16:53:35 -0700 (PDT)
+From: Effector List <alerts@action.eff.org>
+To: qqqqqqqqqqs-eff@example.com
+Subject: EFFector 15.25: Judge Grants Consumer Voice in ReplayTV Lawsuit, Musician Endorses Music Sharing
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Pyzor: Reported 15 times.

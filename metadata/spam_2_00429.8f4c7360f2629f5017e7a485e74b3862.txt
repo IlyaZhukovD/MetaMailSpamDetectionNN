@@ -1,0 +1,16 @@
+From elizibeth-bradley@allexecs.org  Mon Jun 24 17:05:57 2002
+Return-Path: elizibeth-bradley@allexecs.org
+Delivery-Date: Thu May 23 03:45:27 2002
+Received: from allexecs.com ([211.167.174.226]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g4N2jOe15899 for <jm-cv@jmason.org>;
+    Thu, 23 May 2002 03:45:26 +0100
+Received: from allexecs.org (mail [127.0.0.1]) by allexecs.com
+    (8.12.2/8.12.2) with SMTP id g4N2jBTn011426 for <jm-cv@jmason.org>;
+    Thu, 23 May 2002 10:45:12 +0800
+Message-Id: <200205230245.g4N2jBTn011426@allexecs.com>
+Date: Thu, 23 May 2002 10:45:11 +0800
+From: Elizibeth Bradley <elizibeth-bradley@allexecs.org>
+Subject: Saw your resume. . . .
+To: yyyy-cv@spamassassin.taint.org
+X-Cidl: 5625291J
+X-Keywords:

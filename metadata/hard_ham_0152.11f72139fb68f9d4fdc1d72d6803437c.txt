@@ -1,0 +1,26 @@
+From newsletters@buy4now.ie  Fri Aug  9 15:55:23 2002
+Return-Path: <newsletters@buy4now.ie>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 3A8C7440DA
+	for <zzz@localhost>; Fri,  9 Aug 2002 10:47:29 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Fri, 09 Aug 2002 15:47:29 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g79Effb09168 for
+    <zzz-buy4now@example.com>; Fri, 9 Aug 2002 15:41:41 +0100
+Received: from b4niis03 ([213.190.129.190]) by webnote.net (8.9.3/8.9.3)
+    with ESMTP id SAA32126 for <zzz-buy4now@example.com>; Thu, 8 Aug 2002
+    18:31:37 +0100
+From: newsletters@buy4now.ie
+Received: from mail pickup service by b4niis03 with Microsoft SMTPSVC;
+    Thu, 8 Aug 2002 18:25:56 +0100
+To: <zzz-buy4now@example.com>
+Subject: Back to School with Buy4Now
+Date: Thu, 8 Aug 2002 18:25:56 +0100
+MIME-Version: 1.0
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-Id: <B4NIIS03Tj7zzobr1wp000091f8@b4niis03>
+X-Originalarrivaltime: 08 Aug 2002 17:25:56.0750 (UTC) FILETIME=[A7CBDAE0:01C23F00]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_22A2C_01C23F09.09760420"

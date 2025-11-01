@@ -1,0 +1,9 @@
+Return-Path: nas@python.ca
+Delivery-Date: Fri Sep  6 16:57:05 2002
+From: nas@python.ca (Neil Schemenauer)
+Date: Fri, 6 Sep 2002 08:57:05 -0700
+Subject: [Spambayes] Deployment
+In-Reply-To: <200209061443.g86Ehie14557@pcp02138704pcs.reston01.va.comcast.net>
+References: <3D788653.9143.1D8992DA@localhost>
+	<200209061443.g86Ehie14557@pcp02138704pcs.reston01.va.comcast.net>
+Message-ID: <20020906155705.GA22115@glacier.arctrix.com>

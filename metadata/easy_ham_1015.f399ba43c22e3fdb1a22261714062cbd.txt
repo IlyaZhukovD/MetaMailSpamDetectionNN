@@ -1,0 +1,51 @@
+From fork-admin@xent.com  Wed Aug 28 10:51:12 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 27C9E43F9B
+	for <jm@localhost>; Wed, 28 Aug 2002 05:51:00 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 28 Aug 2002 10:51:01 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7S0KvZ03252 for <jm@jmason.org>;
+    Wed, 28 Aug 2002 01:20:59 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 93DD1294216; Tue, 27 Aug 2002 17:18:09 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from mrwhite.privacyright.com (unknown [64.169.55.226]) by
+    xent.com (Postfix) with ESMTP id 8017829409A for <fork@xent.com>;
+    Tue, 27 Aug 2002 17:17:03 -0700 (PDT)
+Received: by mrwhite.privacyright.com with Internet Mail Service
+    (5.5.2650.21) id <R4TFTDWB>; Tue, 27 Aug 2002 17:17:44 -0700
+Message-Id: <E146D042F119D211B16F00A0CC32B87F8D11BB@mrwhite.privacyright.com>
+From: Paul Sholtz <paul@privacyright.com>
+To: "'Rohit Khare '" <khare@alumni.caltech.edu>,
+	"'fork@xent.com '" <fork@xent.com>
+Subject: RE: DataPower announces XML-in-silicon
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2650.21)
+Content-Type: text/plain; charset="windows-1252"
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 27 Aug 2002 17:17:41 -0700
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
+    id g7S0KvZ03252
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-3.1 required=7.0
+	tests=BALANCE_FOR_LONG_20K,EXCHANGE_SERVER,GAPPY_TEXT,INVESTMENT,
+	      KNOWN_MAILING_LIST,SPAM_PHRASE_00_01,US_DOLLARS_2,
+	      US_DOLLARS_4
+	version=2.40-cvs
+X-Spam-Level:

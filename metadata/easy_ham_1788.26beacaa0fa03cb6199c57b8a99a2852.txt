@@ -1,0 +1,8 @@
+Return-Path: anthony@interlink.com.au
+Delivery-Date: Sat Sep  7 04:44:50 2002
+From: anthony@interlink.com.au (Anthony Baxter)
+Date: Sat, 07 Sep 2002 13:44:50 +1000
+Subject: [Spambayes] understanding high false negative rate 
+In-Reply-To: 
+	<200209062026.g86KQqJ03393@pcp02138704pcs.reston01.va.comcast.net> 
+Message-ID: <200209070344.g873io020676@localhost.localdomain>

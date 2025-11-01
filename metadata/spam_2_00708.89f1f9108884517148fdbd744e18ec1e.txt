@@ -1,0 +1,72 @@
+From spamassassin-sightings-admin@lists.sourceforge.net  Wed Jul 17 17:24:49 2002
+Return-Path: <spamassassin-sightings-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id D394B43C65
+	for <jm@localhost>; Wed, 17 Jul 2002 12:24:47 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 17 Jul 2002 17:24:47 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g6HGNAJ04470 for <jm-sa-sightings@jmason.org>; Wed, 17 Jul 2002 17:23:10
+    +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17Ura0-0006NO-00; Wed,
+    17 Jul 2002 09:23:08 -0700
+Received: from itchy.serv.net ([205.153.154.199]) by
+    usw-sf-list1.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17UrZj-00010W-00 for <spamassassin-sightings@lists.sourceforge.net>;
+    Wed, 17 Jul 2002 09:22:51 -0700
+Received: (from llyra@localhost) by itchy.serv.net (8.9.3/8.9.3) id
+    JAA43049 for spamassassin-sightings@lists.sf.net; Wed, 17 Jul 2002
+    09:18:47 -0700 (PDT)
+Received: from mx.serv.net (mx [205.153.154.205]) by itchy.serv.net
+    (8.9.3/8.9.3) with ESMTP id XAA17630 for <llyra@itchy.serv.net>;
+    Sat, 13 Jul 2002 23:33:13 -0700 (PDT)
+Received: from drizzle.com (IDENT:root@cascadia.drizzle.com
+    [216.162.192.17]) by mx.serv.net (8.9.3/8.9.1) with ESMTP id XAA20181 for
+    <filtered@llyra.com>; Sat, 13 Jul 2002 23:37:09 -0700 (PDT)
+Received: from drizzle.com (IDENT:harmony@localhost [127.0.0.1]) by
+    drizzle.com (8.12.3/8.12.3) with ESMTP id g6E6bA5C001181 for
+    <filtered@llyra.com>; Sat, 13 Jul 2002 23:37:10 -0700
+Received: (from harmony@localhost) by drizzle.com (8.12.3/8.12.3/Submit)
+    id g6E6bAuB001179 for filtered@llyra.com; Sat, 13 Jul 2002 23:37:10 -0700
+Received: from itchy.serv.net (itchy.serv.net [205.153.154.199]) by
+    drizzle.com (8.12.3/8.12.3) with ESMTP id g6E6b95C001161 for
+    <harmony@drizzle.com>; Sat, 13 Jul 2002 23:37:10 -0700
+Received: (from llyra@localhost) by itchy.serv.net (8.9.3/8.9.3) id
+    XAA17625 for harmony@drizzle.com; Sat, 13 Jul 2002 23:33:10 -0700 (PDT)
+Received: from mx.serv.net (mx [205.153.154.205]) by itchy.serv.net
+    (8.9.3/8.9.3) with ESMTP id XAA17621 for <llyra@itchy.serv.net>;
+    Sat, 13 Jul 2002 23:33:06 -0700 (PDT)
+Received: from home (c141.h061013202.is.net.tw [61.13.202.141]) by
+    mx.serv.net (8.9.3/8.9.1) with SMTP id XAA19984; Sat, 13 Jul 2002 23:36:05
+    -0700 (PDT)
+Message-Id: <200207140636.XAA19984@mx.serv.net>
+From: ¤O±¶¬ì§Þ@mx.serv.net
+To: nnn@mx.serv.net, new-9@mx.serv.net, new-8@mx.serv.net
+X-Mailer: 03LCWYdVcBeUPnKtkA2v
+Content-Type: text/plain
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-MIME-Autoconverted: from Quoted-Printable to 8bit by itchy.serv.net id
+    XAA17621
+Subject: [SA] =?big5?Q?=BE=A5=A4=F4=A7X=A7=E5=B5o=B9q=A4l=B3=F8?=
+Sender: spamassassin-sightings-admin@example.sourceforge.net
+Errors-To: spamassassin-sightings-admin@example.sourceforge.net
+X-Beenthere: spamassassin-sightings@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-sightings-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-sightings@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-sightings>,
+    <mailto:spamassassin-sightings-request@lists.sourceforge.net?subject=subscribe>
+List-Id: <spamassassin-sightings.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-sightings>,
+    <mailto:spamassassin-sightings-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-sightings>
+X-Original-Date: Sat, 13 Jul 2002 23:36:05 -0700 (PDT)
+Date: Sat, 13 Jul 2002 23:36:05 -0700 (PDT)
+Content-Transfer-Encoding: 8bit

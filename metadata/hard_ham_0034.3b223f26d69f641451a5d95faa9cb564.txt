@@ -1,0 +1,19 @@
+Return-Path: <bounce-lglinux-2534371@sprocket.lockergnome.com>
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6C17hJ24390
+	for <qqqqqqqqqq-lg@example.com>; Fri, 12 Jul 2002 02:07:44 +0100
+X-Mailer: ListManager Web Interface
+Date: Thu, 11 Jul 2002 17:39:04 -0500
+Subject: [Lockergnome Penguin Shell]  Karaoke Kernel
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Penguin Shell<subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lglinux-2534371U@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lglinux@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lglinux@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lglinux-2534371U@sprocket.lockergnome.com
+Sender: bounce-lglinux-2534371@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534371-1672921-2002.07.11-17.39.16--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii

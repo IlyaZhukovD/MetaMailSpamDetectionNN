@@ -1,0 +1,20 @@
+Return-Path: <bounce-lgtech-2534369@sprocket.lockergnome.com>
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6GHoTJ00647
+	for <qqqqqqqqqq-lg@example.com>; Tue, 16 Jul 2002 18:50:29 +0100
+X-Mailer: ListManager Web Interface
+Date: Tue, 16 Jul 2002 09:51:41 -0500
+Subject: [Lockergnome Tech Specialist]  Frequent Format
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Tech Specialist <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lgtech-2534369U@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lgtech@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lgtech@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lgtech-2534369U@sprocket.lockergnome.com
+Sender: bounce-lgtech-2534369@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534369-1679937-2002.07.16-09.58.26--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Precedence: bulk

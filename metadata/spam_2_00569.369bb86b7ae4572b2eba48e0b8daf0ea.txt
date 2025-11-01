@@ -1,0 +1,17 @@
+From reply@seekercenter.net  Mon Jun 24 17:52:41 2002
+Return-Path: reply@seekercenter.net
+Delivery-Date: Mon Jun  3 06:15:58 2002
+Received: from XXXXXX ([211.101.236.162]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g535FuO00365 for <jm@jmason.org>;
+    Mon, 3 Jun 2002 06:15:57 +0100
+Message-Id: <200206030515.g535FuO00365@dogma.slashnull.org>
+From: "Vanessa Lintner" <reply@seekercenter.net>
+Subject: I have visited IIU.TAINT.ORG and noticed that ...
+To: yyyy@spamassassin.taint.org
+Sender: Vanessa Lintner <reply@seekercenter.net>
+Reply-To: "Vanessa Lintner" <vanessa@seekercenter.net>
+Date: Mon, 3 Jun 2002 13:19:02 +0800
+X-Priority: 3
+X-Library: Business Promotion
+X-Keywords: 
+Content-Type: text/html;

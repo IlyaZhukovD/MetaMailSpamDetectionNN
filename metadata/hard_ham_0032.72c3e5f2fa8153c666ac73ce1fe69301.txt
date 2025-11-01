@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19822.84-7a8Hl0_lygzZARRR.1.b@newsletter.online.com>
+Received: from acmta3.cnet.com (abv-sfo1-acmta3.cnet.com [206.16.1.162])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6BKuYJ02668
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 11 Jul 2002 21:56:35 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by acmta3.cnet.com (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 13:49:18 -0700 (envelope-from <Online#3.19822.84-7a8Hl0_lygzZARRR.1.b@newsletter.online.com>)
+Message-ID: <7804199.1026420992990.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Thu, 11 Jul 2002 13:56:32 -0700 (PDT)
+From: CNET Message Boards <Online#3.19822.84-7a8Hl0_lygzZARRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: CNET: Why I don't use firewalls
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

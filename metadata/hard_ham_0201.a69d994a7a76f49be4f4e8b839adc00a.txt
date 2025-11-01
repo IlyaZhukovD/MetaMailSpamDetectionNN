@@ -1,0 +1,34 @@
+From trivia@allthingsnewengland.com Fri Aug 23 11:18:31 2002
+Return-Path: <trivia@allthingsnewengland.com>
+Delivered-To: carrie@axess.com
+Return-Path: <trivia@allthingsnewengland.com>
+Delivered-To: newmail.axess.com-carrie@newmail.axess.com
+Received: (qmail 8509 invoked by uid 0); 23 Aug 2002 11:18:31 -0000
+Received: from trivia@allthingsnewengland.com by newmail
+	 by uid 1005 with qmail-scanner-1.10 (avp. Clear:0. Processed in 0.071422 secs); 23 Aug 2002 11:18:31 -0000
+Received: from mail.axess.com (216.162.64.150)
+  by newmail.axess.com with SMTP; 23 Aug 2002 11:18:31 -0000
+Received: from newmail.axess.com (qmailr@newmail.axess.com [216.162.64.120])
+	by mail.axess.com (8.12.0/8.12.0) with SMTP id g7NBBsgm016319
+	for <carrie@axess.com>; Fri, 23 Aug 2002 07:11:54 -0400
+Received: (qmail 8490 invoked by uid 0); 23 Aug 2002 11:18:31 -0000
+Received: from trivia@allthingsnewengland.com by newmail
+	 by uid 1005 with qmail-scanner-1.10 (avp. Clear:0. Processed in 0.187293 secs); 23 Aug 2002 11:18:31 -0000
+Received: from mail01d.rapidsite.net (207.158.192.52)
+  by newmail.axess.com with SMTP; 23 Aug 2002 11:18:30 -0000
+Received: from www.allthingsnewengland.com (209.238.222.187)
+	by mail01d.rapidsite.net (RS ver 1.0.63s) with SMTP id 111976;
+	Fri, 23 Aug 2002 07:17:57 -0400 (EDT)
+Message-ID: <002a01c24a99$f8570760$603a2f18@177h501>
+From: "All Things New England - Movie Trivia" <trivia@allthingsnewengland.com>
+To: <Undisclosed-Recipient:;>
+Subject: This Weeks Movie Trivia Question from All Things New England
+Date: Fri, 23 Aug 2002 07:41:00 -0400
+Organization: All Things New England
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Loop-Detect: 1
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0027_01C24A78.6D4710A0"

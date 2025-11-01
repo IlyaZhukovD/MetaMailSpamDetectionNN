@@ -1,0 +1,13 @@
+Received: from national-adv.com (vns.ne.client2.attbi.com [24.147.130.121])
+	by linux.midrange.com (8.11.6/8.11.6) with SMTP id g6KNsN411718
+	for <new-list-list@midrange.com>; Sat, 20 Jul 2002 18:54:24 -0500
+Message-ID: <XJFIEESSSS35293845076959780906586-qdaakglj>
+Date: Sun, 21 Jul 2002 08:00:10 +1000
+To: <new-list-list@midrange.com>
+From: <qdaakglj@national-adv.com>
+Reply-to: <qdaakglj@national-adv.com>
+Subject: Your Paycheck!
+MIME-Version: 1.0
+Content-Type: text/html
+X-Status: 
+X-Keywords:

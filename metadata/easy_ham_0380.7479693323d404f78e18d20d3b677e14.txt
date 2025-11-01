@@ -1,0 +1,56 @@
+From fork-admin@xent.com  Mon Aug 26 22:18:18 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 0D76343F99
+	for <jm@localhost>; Mon, 26 Aug 2002 17:18:17 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 26 Aug 2002 22:18:17 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7QLDMZ09780 for <jm@jmason.org>;
+    Mon, 26 Aug 2002 22:13:22 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id E08232941D6; Mon, 26 Aug 2002 13:39:05 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from seawall.homeport.org (Seawall.Homeport.org [66.152.246.82])
+    by xent.com (Postfix) with ESMTP id 503A5294099 for <fork@xent.com>;
+    Thu, 22 Aug 2002 07:06:28 -0700 (PDT)
+Received: from lightship.internal.homeport.org
+    (lightship.internal.homeport.org [10.0.0.11]) by seawall.homeport.org
+    (Postfix) with ESMTP id 2FCE9568; Thu, 22 Aug 2002 11:07:55 -0400 (EDT)
+Received: by lightship.internal.homeport.org (Postfix, from userid 125) id
+    372302C92B; Thu, 22 Aug 2002 10:08:09 -0400 (EDT)
+From: Adam Shostack <adam@homeport.org>
+To: Kragen Sitaker <kragen@pobox.com>
+Cc: fork@example.com
+Subject: Re: the underground software vulnerability marketplace and its
+    hazards (fwd)
+Message-Id: <20020822100808.A72593@lightship.internal.homeport.org>
+References: <Pine.LNX.4.33.0208220842040.8506-100000@hydrogen.leitl.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.2.5.1i
+In-Reply-To: <Pine.LNX.4.33.0208220842040.8506-100000@hydrogen.leitl.org>;
+    from eugen@leitl.org on Thu, Aug 22, 2002 at 08:42:12AM +0200
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Thu, 22 Aug 2002 10:08:09 -0400
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-9.4 required=7.0
+	tests=IN_REP_TO,KNOWN_MAILING_LIST,REFERENCES,
+	      SIGNATURE_SHORT_SPARSE,SPAM_PHRASE_03_05,USER_AGENT,
+	      USER_AGENT_MUTT
+	version=2.40-cvs
+X-Spam-Level:

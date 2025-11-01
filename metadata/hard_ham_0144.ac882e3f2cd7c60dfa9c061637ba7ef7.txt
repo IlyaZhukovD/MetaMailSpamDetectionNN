@@ -1,0 +1,50 @@
+Return-Path: <owner-mgi_englishlist@matrox.com>
+Received: (qmail 3737 invoked by alias); 23 Jul 2002 19:33:04 -0000
+Received: (qmail 3727 invoked by uid 82); 23 Jul 2002 19:33:04 -0000
+Received: from owner-mgi_englishlist@matrox.com by mailhost with qmail-scanner-1.00 (uvscan: v4.1.40/v4213. . Clean. Processed in 0.742928 secs); 23 Jul 2002 19:33:04 -0000
+Received: from oasis.matrox.com (HELO oasis.matrox.net) (138.11.240.18)
+  by mi-1.rz.ruhr-uni-bochum.de with SMTP; 23 Jul 2002 19:33:03 -0000
+Received: from host (localhost [127.0.0.1])
+	by oasis.matrox.net (8.11.6/8.11.6) with SMTP id g6NJUOK05207;
+	Tue, 23 Jul 2002 15:30:24 -0400 (EDT)
+Received: from scratchy.matrox.com (scratchy.matrox.com [138.11.254.205])
+	by oasis.matrox.net (8.11.6/8.11.6) with ESMTP id g6NIcSK18622
+	for <mgi_englishlist@oasis.matrox.net>; Tue, 23 Jul 2002 14:38:28 -0400 (EDT)
+Received: from venus.matrox.com (venus.matrox.com [192.168.1.30])
+	by scratchy.matrox.com (Postfix) with ESMTP id DF6E32C6F9
+	for <mgi_englishlist@oasis.matrox.net>; Tue, 23 Jul 2002 14:37:30 -0400 (EDT)
+Received: (from root@localhost)
+	by venus.matrox.com (8.11.6/8.11.6) id g6NIcSQ19578
+	for <mgi_englishlist@matrox.com>; Tue, 23 Jul 2002 14:38:28 -0400 (EDT)
+Received: from nodnsquery(192.168.148.165) by venus.matrox.com via csmap (V1.5)
+	id srcAAAXSaOnM; Tue, 23 Jul 02 14:38:26 -0400
+Message-Id: <4.3.1.2.20020723143656.00a96a60@mailbox.matrox.com>
+Date: Tue, 23 Jul 2002 14:37:05 -0400
+Sender: owner-mgi_englishlist@matrox.com
+From: Matrox In-the-Loop newsletter <newsletter@matrox.com>
+To: mgi_englishlist@matrox.com
+Subject: =?iso-8859-1?Q?Matrox_Parhelia=99_now_available?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====================_22773175==_.ALT"
+X-Sender: newsletter@mailbox.matrox.com (Unverified)
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.1
+X-Listprocessor-Version: 8.1 -- ListProcessor(tm) by CREN
+X-Spam-Status: Yes, hits=5.2 required=5.0 tests=CLICK_BELOW,UNSUB_PAGE,HTTP_USERNAME_USED,MAILTO_LINK version=2.20
+X-Spam-Flag: YES
+X-Spam-Tag: type signature trigger Spamassassin action complain issuer mailhost.rz.ruhr-uni-bochum.de
+X-Spam-Level: *****
+X-Spam-Checker-Version: SpamAssassin 2.20 (devel $Id: SpamAssassin.pm,v 1.77 2002/04/06 19:28:30 hughescr Exp $)
+X-Spam-Report: Detailed Report
+SPAM: -------------------- Start SpamAssassin results ----------------------
+  SPAM: This mail is probably spam.  The original message has been altered
+  SPAM: so you can recognise or block similar unwanted mail in future.
+  SPAM: See http://spamassassin.org/tag/ for more details.
+  SPAM: 
+  SPAM: Content analysis details:   (5.2 hits, 5 required)
+  SPAM: Hit! (1.5 points)  BODY: Asks you to click below
+  SPAM: Hit! (3.5 points)  URI: URL of page called "unsubscribe"
+  SPAM: Hit! (0.2 points)  URI: Uses a username in a URL
+  SPAM: Hit! (0.0 points)  BODY: Includes a URL link to send an email
+  SPAM: 
+  SPAM: -------------------- End of SpamAssassin results ---------------------

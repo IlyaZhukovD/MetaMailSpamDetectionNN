@@ -1,0 +1,24 @@
+From storemanager2276@msn.com  Mon Jun 24 17:03:17 2002
+Return-Path: JHGM@attbi.COM
+Delivery-Date: Sun May 12 14:54:08 2002
+Received: from rwcrmhc54.attbi.com (rwcrmhc54.attbi.com [216.148.227.87])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4CDs6e14327 for
+    <jm@jmason.org>; Sun, 12 May 2002 14:54:07 +0100
+Received: from c2235544-a ([12.245.142.206]) by rwcrmhc54.attbi.com
+    (InterMail vM.4.01.03.27 201-229-121-127-20010626) with ESMTP id
+    <20020512135359.SUFM25765.rwcrmhc54.attbi.com@c2235544-a> for
+    <jm@jmason.org>; Sun, 12 May 2002 13:53:59 +0000
+Message-Id: <41133-220025012135223220@c2235544-a>
+Return-Receipt-To: storemanager2276@msn.com
+Reply-To: "Bob Johnson" <storemanager2276@msn.com>
+Errors-To: JOHNSONHOMESTOR1@msn.com
+From: "Bob Johnson" <storemanager2276@msn.com>
+Organization: JOHNSON HOME PRODUCTS & SERVICES
+Disposition-Notification-To: storemanager2276@msn.com
+To: "yyyy@spamassassin.taint.org" <yyyy@spamassassin.taint.org>
+Subject: Wishing you a wonderful day
+Date: Sun, 12 May 2002 09:52:23 -0400
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_84815C5ABAF209EF376268C8"
+X-ExmhMDN: ignored

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19908.0a-BsA8gPyVcnFqAdRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta5.cnet.com (abv-sfo1-acmta5.cnet.com [206.16.1.164])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6C925J18154
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 12 Jul 2002 10:02:06 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by abv-sfo1-acmta5.cnet.com (PowerMTA(TM) v1.5); Fri, 12 Jul 2002 01:55:19 -0700 (envelope-from <Online#3.19908.0a-BsA8gPyVcnFqAdRR.1.b@newsletter.online.com>)
+Message-ID: <2717807.1026464519618.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Fri, 12 Jul 2002 02:01:59 -0700 (PDT)
+From: ZDNet Shopper <Online#3.19908.0a-BsA8gPyVcnFqAdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Take all your music on the road (ZDNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

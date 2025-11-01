@@ -1,0 +1,24 @@
+Received: from rs6000.resqnet.com (rs6000.resqnet.com [64.209.23.67])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6P8NG406275
+	for <resqnet_com@spamtraps.taint.org>; Thu, 25 Jul 2002 09:23:17 +0100
+Received: from mailhost3 (nelson.techtarget.com [65.214.43.159])
+	by rs6000.resqnet.com (8.11.2/8.11.2) with ESMTP id g6P8MNS20510
+	for <zzzarotta@resqnet.com>; Thu, 25 Jul 2002 04:22:23 -0400
+Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
+	by mailhost3 (Postfix) with ESMTP
+	id ABBAF3E3348; Thu, 25 Jul 2002 04:00:12 -0400 (EDT)
+To: "SearchNetworking" <searchNetworking@lists.techtarget.com>
+From: "SearchNetworking" <searchNetworking-ED20D7B9A49E402C@lists.techtarget.com>
+Reply-To: "SearchNetworking" <searchNetworking-ED20D7B9A49E402C@lists.techtarget.com>
+Subject: VoIP tip: Troubleshooting voice
+Mime-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: TargetMail E-Mail By TechTarget.com
+X-Content_id: 451006
+Message-Id: <20020725080012.ABBAF3E3348@mailhost3>
+Date: Thu, 25 Jul 2002 04:00:12 -0400 (EDT)
+X-MailScanner: Found to be clean
+X-MailScanner-SpamCheck: not spam, SpamAssassin (score=-0.2, required 5,
+	FROM_HAS_MIXED_NUMS, TO_LOCALPART_EQ_REAL, CLICK_BELOW,
+	DEAR_SOMEBODY, COPYRIGHT_CLAIMED)

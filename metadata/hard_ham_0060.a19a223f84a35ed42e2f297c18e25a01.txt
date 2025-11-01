@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20074.fe-hz1flt-yytPTpdRR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6FLBTJ07193
+	for <qqqqqqqqqq-zdnet@example.com>; Mon, 15 Jul 2002 22:11:29 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Mon, 15 Jul 2002 17:13:37 -0700 (envelope-from <Online#3.20074.fe-hz1flt-yytPTpdRR.1.b@newsletter.online.com>)
+Message-ID: <3660433.1026767487726.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Mon, 15 Jul 2002 14:11:27 -0700 (PDT)
+From: "CNET News.com Daily Dispatch" <Online#3.20074.fe-hz1flt-yytPTpdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: CNET NEWS.COM: File-traders in the crosshairs
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

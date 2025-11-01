@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20777.51-8J4zgE1Uu7_vxsRR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6N33c422567
+	for <qqqqqqqqqq-zdnet@example.com>; Tue, 23 Jul 2002 04:03:38 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Mon, 22 Jul 2002 23:04:59 -0700 (envelope-from <Online#3.20777.51-8J4zgE1Uu7_vxsRR.1.b@newsletter.online.com>)
+Message-ID: <8010110.1027393364941.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Mon, 22 Jul 2002 20:02:44 -0700 (PDT)
+From: "CNET News.com Daily Dispatch" <Online#3.20777.51-8J4zgE1Uu7_vxsRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: CNET NEWS.COM: WorldCom woes lead to bankruptcy
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

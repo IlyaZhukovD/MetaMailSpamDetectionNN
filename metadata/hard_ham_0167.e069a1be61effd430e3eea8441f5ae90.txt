@@ -1,0 +1,49 @@
+Return-Path: spamassassin-talk-admin@lists.sourceforge.net
+Delivery-Date: Thu Aug 15 15:14:14 2002
+Return-Path: <spamassassin-talk-admin@lists.sourceforge.net>
+Received: from webnote.net (mail.webnote.net [193.120.211.219])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7FEEEi01451
+	for <zzz-sa@example.com>; Thu, 15 Aug 2002 15:14:14 +0100
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net [216.136.171.252])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id OAA08721
+	for <zzz-sa@example.com>; Thu, 15 Aug 2002 14:36:27 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13] helo=usw-sf-list1.sourceforge.net)
+	by usw-sf-list2.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian))
+	id 17fKjL-0005HV-00; Thu, 15 Aug 2002 06:32:03 -0700
+Received: from mail11.speakeasy.net ([216.254.0.211] helo=mail.speakeasy.net)
+	by usw-sf-list1.sourceforge.net with esmtp 
+	(Cipher TLSv1:DES-CBC3-SHA:168) (Exim 3.31-VA-mm2 #1 (Debian))
+	id 17fKik-0006IO-00
+	for <spamassassin-talk@lists.sourceforge.net>; Thu, 15 Aug 2002 06:31:26 -0700
+Received: (qmail 31585 invoked from network); 15 Aug 2002 13:31:22 -0000
+Received: from unknown (HELO smoking) ([66.92.72.101]) (envelope-sender <rOD@arsecandle.org>)
+          by mail11.speakeasy.net (qmail-ldap-1.03) with SMTP
+          for <spamassassin-talk@lists.sourceforge.net>; 15 Aug 2002 13:31:22 -0000
+Message-ID: <02f901c24460$096f1820$65485c42@smoking>
+From: "rODbegbie" <rOD@arsecandle.org>
+To: "Spam Assassin" <spamassassin-talk@lists.sourceforge.net>
+MIME-Version: 1.0
+Content-Type: multipart/signed;
+	protocol="application/x-pkcs7-signature";
+	micalg=SHA1;
+	boundary="----=_NextPart_000_02F4_01C2443E.80476960"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Subject: [SAtalk] OT: Can Weblogs Reach Ronald Scelson?
+Sender: spamassassin-talk-admin@lists.sourceforge.net
+Errors-To: spamassassin-talk-admin@lists.sourceforge.net
+X-BeenThere: spamassassin-talk@lists.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-talk@lists.sourceforge.net>
+List-Subscribe: <https://lists.sourceforge.net/lists/listinfo/spamassassin-talk>,
+	<mailto:spamassassin-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Talk about SpamAssassin <spamassassin-talk.lists.sourceforge.net>
+List-Unsubscribe: <https://lists.sourceforge.net/lists/listinfo/spamassassin-talk>,
+	<mailto:spamassassin-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-talk>
+X-Original-Date: Thu, 15 Aug 2002 09:31:14 -0400
+Date: Thu, 15 Aug 2002 09:31:14 -0400

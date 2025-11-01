@@ -1,0 +1,56 @@
+From fork-admin@xent.com  Sun Sep 22 21:57:43 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 631F116F03
+	for <jm@localhost>; Sun, 22 Sep 2002 21:57:42 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Sun, 22 Sep 2002 21:57:42 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g8MF0sC05387 for <jm@jmason.org>;
+    Sun, 22 Sep 2002 16:00:54 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id A07E72940A2; Sun, 22 Sep 2002 07:57:07 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from sunserver.permafrost.net (u172n16.hfx.eastlink.ca
+    [24.222.172.16]) by xent.com (Postfix) with ESMTP id 4C99329409A for
+    <fork@xent.com>; Sun, 22 Sep 2002 07:56:18 -0700 (PDT)
+Received: from [192.168.123.179] (helo=permafrost.net) by
+    sunserver.permafrost.net with esmtp (Exim 3.35 #1 (Debian)) id
+    17t84r-0001m6-00; Sun, 22 Sep 2002 11:51:17 -0300
+Message-Id: <3D8DDBC8.8030602@permafrost.net>
+From: Owen Byrne <owen@permafrost.net>
+User-Agent: Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.1) Gecko/20020826
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Owen Byrne <owen@permafrost.net>
+Cc: Gary Lawrence Murphy <garym@canada.com>,
+	"Mr. FoRK" <fork_list@hotmail.com>, fork@xent.com,
+	Digital Bearer Settlement List <dbs@philodox.com>
+Subject: Re: sed /s/United States/Roman Empire/g
+References: <979BE8FE-CCF6-11D6-817E-000393A46DEA@alumni.caltech.edu>
+    <DAV72xvjPkQTGpaoG1V00000fd0@hotmail.com>
+    <p05111a27b9b1d842c9fe@[66.149.49.6]> <m24rcjl8gh.fsf@maya.dyndns.org>
+    <p05111a02b9b264038af0@[66.149.49.6]> <3D8DCF62.4040809@permafrost.net>
+Content-Type: multipart/related;
+    boundary="------------090600030109070305070809"
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Sun, 22 Sep 2002 12:03:36 -0300
+X-Spam-Status: No, hits=-4.7 required=5.0
+	tests=AWL,EMAIL_ATTRIBUTION,JAVASCRIPT_URI,KNOWN_MAILING_LIST,
+	      QUOTED_EMAIL_TEXT,REFERENCES,REPLY_WITH_QUOTES,USER_AGENT,
+	      USER_AGENT_MOZILLA_UA,X_ACCEPT_LANG
+	version=2.50-cvs
+X-Spam-Level:

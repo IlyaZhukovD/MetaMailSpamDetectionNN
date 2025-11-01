@@ -1,0 +1,25 @@
+From gbarcoe@netnation.ie  Mon Jun 24 17:05:41 2002
+Return-Path: gbarcoe@netnation.ie
+Delivery-Date: Tue May 21 16:40:35 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4LFeYe15300 for
+    <jm@jmason.org>; Tue, 21 May 2002 16:40:35 +0100
+Received: from saffron.via-net-works.ie (saffron.via-net-works.ie
+    [212.17.32.24]) by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP
+    id g4LFeXD26655 for <jmason@netnoteinc.com>; Tue, 21 May 2002 16:40:34
+    +0100
+Received: from applejuice.dialups.via-net-works.ie ([212.17.34.18]
+    helo=sever.netnation.ie) by saffron.via-net-works.ie with esmtp (Exim 3.20
+    #1) id 17ABkN-0000VZ-00 for jmason@netnoteinc.com; Tue, 21 May 2002
+    16:40:24 +0100
+Received: by SEVER with Internet Mail Service (5.5.2448.0) id <JSJNNK7B>;
+    Tue, 21 May 2002 14:57:19 +0100
+Message-Id: <7F238E950238D611A38F00E018C55F74094F67@SEVER>
+From: "Garry Barcoe, Net Nation IT" <gbarcoe@netnation.ie>
+To: "'yyyyason@netnoteinc.com'" <yyyyason@netnoteinc.com>
+Subject: Candidate update 21.05.02
+Date: Tue, 21 May 2002 14:57:18 +0100
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2448.0)
+Content-Type: text/plain
+X-Keywords:

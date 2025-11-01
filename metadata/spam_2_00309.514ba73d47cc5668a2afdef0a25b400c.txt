@@ -1,0 +1,19 @@
+From CopyMyDVDcom@permissionpass.com  Mon Jun 24 17:03:47 2002
+Return-Path: tppn@ftu-13.permissionpass.com
+Delivery-Date: Wed May 15 00:39:57 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4ENdqe28771 for
+    <jm@jmason.org>; Wed, 15 May 2002 00:39:56 +0100
+Received: from ftu-13.permissionpass.com (ftu-13.permissionpass.com
+    [64.251.16.159]) by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP
+    id g4ENdoD22462 for <jm@netnoteinc.com>; Wed, 15 May 2002 00:39:51 +0100
+Received: (from tppn@localhost) by ftu-13.permissionpass.com
+    (8.11.6/8.11.6) id g4ENcGd12182 for jm@netnoteinc.com; Tue, 14 May 2002
+    19:38:16 -0400
+Date: Tue, 14 May 2002 19:38:16 -0400
+Message-Id: <200205142338.g4ENcGd12182@ftu-13.permissionpass.com>
+From: "CopyMyDVD.com" <CopyMyDVDcom@permissionpass.com>
+To: yyyy@netnoteinc.com
+Subject: Wow...what a program!
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="##########"

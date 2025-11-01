@@ -1,0 +1,45 @@
+From ilug-admin@linux.ie  Fri Sep  6 11:40:51 2002
+Return-Path: <ilug-admin@linux.ie>
+Delivered-To: zzzz@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by example.com (Postfix) with ESMTP id CDED116F18
+	for <zzzz@localhost>; Fri,  6 Sep 2002 11:39:11 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Fri, 06 Sep 2002 11:39:11 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g869rbC29317 for
+    <zzzz-ilug@example.com>; Fri, 6 Sep 2002 10:53:37 +0100
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    webnote.net (8.9.3/8.9.3) with ESMTP id XAA19032 for <zzzz-ilug@example.com>;
+    Thu, 5 Sep 2002 23:31:39 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id XAA12567; Thu, 5 Sep 2002 23:30:20 +0100
+Received: from omta03.mta.everyone.net (sitemail3.everyone.net
+    [216.200.145.37]) by lugh.tuatha.org (8.9.3/8.9.3) with ESMTP id XAA12494
+    for <ilug@linux.ie>; Thu, 5 Sep 2002 23:29:54 +0100
+X-Authentication-Warning: lugh.tuatha.org: Host sitemail3.everyone.net
+    [216.200.145.37] claimed to be omta03.mta.everyone.net
+Received: from sitemail.everyone.net (dsnat [216.200.145.62]) by
+    omta03.mta.everyone.net (Postfix) with ESMTP id 9B4DD4B332 for
+    <ilug@linux.ie>; Thu,  5 Sep 2002 15:17:36 -0700 (PDT)
+Received: by sitemail.everyone.net (Postfix, from userid 99) id 822B53942;
+    Thu,  5 Sep 2002 15:17:36 -0700 (PDT)
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.41 (Entity 5.404)
+Date: Thu, 5 Sep 2002 15:17:36 -0700 (PDT)
+From: eric nichols <matchsprint@trackbike.com>
+To: ilug@linux.ie
+Reply-To: matchsprint@trackbike.com
+X-Originating-Ip: [194.145.128.31]
+Message-Id: <20020905221736.822B53942@sitemail.everyone.net>
+Subject: [ILUG] PCTel modules
+Sender: ilug-admin@linux.ie
+Errors-To: ilug-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group <ilug.linux.ie>
+X-Beenthere: ilug@linux.ie

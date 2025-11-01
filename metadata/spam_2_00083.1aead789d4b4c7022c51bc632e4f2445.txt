@@ -1,0 +1,20 @@
+From boogwie@hawaiian.net  Sat Jul 28 15:05:59 2001
+Return-Path: <boogwie@hawaiian.net>
+Delivered-To: yyyy@netnoteinc.com
+Received: from smtp.easydns.com (ns1.easydns.com [216.220.40.243]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 2318011410E for
+    <jm@netnoteinc.com>; Sat, 28 Jul 2001 14:05:58 +0000 (Eire)
+Received: from caroubier.wanadoo.fr (smtp-rt-6.wanadoo.fr
+    [193.252.19.160]) by smtp.easydns.com (8.11.3/8.11.0) with ESMTP id
+    f6SE5to27991 for <jm@netnoteinc.com>; Sat, 28 Jul 2001 10:05:55 -0400
+Received: from andira.wanadoo.fr (193.252.19.152) by caroubier.wanadoo.fr;
+    28 Jul 2001 15:59:31 +0200
+Received: from good (194.2.146.197) by andira.wanadoo.fr; 28 Jul 2001
+    15:59:28 +0200
+Message-Id: <3b62c5423c63bfdd@andira.wanadoo.fr> (added by andira.wanadoo.fr)
+From: boogwie@hawaiian.net
+To: 
+Subject: Cd Rom 2000 How To Books
+Date: Sat, 28 Jul 2001 06:45:21 -0500
+X-Priority: 1
+X-Msmail-Priority: High

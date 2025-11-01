@@ -1,0 +1,22 @@
+From ceu@insurancemail.net  Mon Jun 24 17:49:00 2002
+Return-Path: ceu@insurancemail.net
+Delivery-Date: Fri Jun  7 23:19:22 2002
+Received: from insiq5.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g57MJMG21875 for <jm@jmason.org>; Fri, 7 Jun 2002 23:19:22
+    +0100
+Received: from mail pickup service by insiq5.insuranceiq.com with
+    Microsoft SMTPSVC; Fri, 7 Jun 2002 18:18:23 -0400
+Subject: The Future of Continuing Education
+To: <yyyy@spamassassin.taint.org>
+Date: Fri, 7 Jun 2002 18:18:23 -0400
+From: "IQ - CEU" <ceu@insurancemail.net>
+Message-Id: <14460101c20e71$3c955c70$7101a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Thread-Index: AcIOX3jQ3KJVnBprR/a513o9CQrfrw==
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 07 Jun 2002 22:18:23.0234 (UTC) FILETIME=[3CB45620:01C20E71]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_128E33_01C20E3D.F1BEC340"

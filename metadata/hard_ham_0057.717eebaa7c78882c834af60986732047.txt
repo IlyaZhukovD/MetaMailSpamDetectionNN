@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20001.96-U3_zlwFfMd5UDdRR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6F8KFJ23099
+	for <qqqqqqqqqq-zdnet@example.com>; Mon, 15 Jul 2002 09:20:16 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by acmta4.cnet.com (PowerMTA(TM) v1.5); Mon, 15 Jul 2002 01:14:46 -0700 (envelope-from <Online#3.20001.96-U3_zlwFfMd5UDdRR.1.b@newsletter.online.com>)
+Message-ID: <6754765.1026721205951.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Mon, 15 Jul 2002 01:20:05 -0700 (PDT)
+From: AnchorDesk <Online#3.20001.96-U3_zlwFfMd5UDdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Dear Steve Jobs: At Macworld, show me this... [ANCHORDESK]
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

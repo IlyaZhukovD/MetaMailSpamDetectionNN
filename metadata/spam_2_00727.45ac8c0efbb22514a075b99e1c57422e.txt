@@ -1,0 +1,25 @@
+From leads&sales3642@Flashmail.com  Thu Jul 18 01:30:02 2002
+Return-Path: <leads&sales3642@Flashmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 39D2743FA2
+	for <jm@localhost>; Wed, 17 Jul 2002 20:30:01 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 18 Jul 2002 01:30:01 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6I0TkJ07278 for
+    <jm@jmason.org>; Thu, 18 Jul 2002 01:29:47 +0100
+Received: from imap3.entelchile.net (imap3.real.mail.entelchile.net
+    [164.77.62.77]) by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP
+    id g6I0TiR22539 for <jm@netnoteinc.com>; Thu, 18 Jul 2002 01:29:45 +0100
+Received: from howdydoo ([200.72.129.242]) by imap3.entelchile.net with
+    SMTP id <20020718002755.UTPF4130.imap3@howdydoo>; Wed, 17 Jul 2002
+    20:27:55 -0400
+From: leads&sales3642@Flashmail.com
+To: 
+Subject: ~`~ Increase Your Sales by 100%
+Date: Wed, 17 Jul 2002 17:18:00 -0500
+X-Priority: 3
+X-Msmail-Priority: Normal
+Message-Id: <20020718002755.UTPF4130.imap3@howdydoo>

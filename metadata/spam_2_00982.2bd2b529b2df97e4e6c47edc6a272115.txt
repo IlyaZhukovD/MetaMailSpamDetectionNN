@@ -1,0 +1,24 @@
+From QGo0@yahoo.com  Wed Jul 24 03:17:36 2002
+Return-Path: <QGo0@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id D7B68440CD
+	for <jm@localhost>; Tue, 23 Jul 2002 22:17:34 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 24 Jul 2002 03:17:34 +0100 (IST)
+Received: from USER ([210.200.244.145]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g6O2IY414328 for <jm@jmason.org>;
+    Wed, 24 Jul 2002 03:18:35 +0100
+Date: Wed, 24 Jul 2002 03:18:35 +0100
+Received: from pchome by ksts.seed.net.tw with SMTP id D9i2IdchjbiZg5O;
+    Wed, 24 Jul 2002 10:24:17 +0800
+Message-Id: <KCW9nPlnJ0p@mail.ht.net.tw>
+From: lover3388@seed.net.tw
+To: 0720002@dogma.slashnull.org
+Subject: =?big5?Q?=B3o=ACO=A7A=A4W=A6=B8=ADn=AA=BA=AAF=A6=E8!?=
+MIME-Version: 1.0
+X-Mailer: MMQrAVyalWchd7xNWJgJ
+X-Priority: 3
+X-Msmail-Priority: Normal
+Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_5O8i9UYbYKxGWktq5bsk5OC8"

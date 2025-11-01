@@ -1,0 +1,26 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6O6FFhY095796
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Wed, 24 Jul 2002 01:15:16 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6O6FFPf095793
+	for cypherpunks-forward@ds.pro-ns.net; Wed, 24 Jul 2002 01:15:15 -0500 (CDT)
+Received: from 216.231.22.250 ([216.231.22.127])
+	by hq.pro-ns.net (8.12.5/8.12.5) with SMTP id g6O6EohX095578
+	for <cpunks@hq.pro-ns.net>; Wed, 24 Jul 2002 01:15:13 -0500 (CDT)
+	(envelope-from special@busnweb.com)
+X-Authentication-Warning: hq.pro-ns.net: Host [216.231.22.127] claimed to be 216.231.22.250
+Message-ID: <002501c232ad$3f0f3f10$7f16e7d8@mailbox>
+From: "InfoBytel" <special@busnweb.com>
+To: <InfoByTel@localhost.com>
+Subject: Discover InfoByTel Today!
+Date: Tue, 23 Jul 2002 17:58:38 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0021_01C23272.92934220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4807.1700
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4807.1700

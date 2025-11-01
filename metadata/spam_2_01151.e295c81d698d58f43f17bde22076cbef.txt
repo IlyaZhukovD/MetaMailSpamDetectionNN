@@ -1,0 +1,20 @@
+From mrsabacha_11@mail.com  Mon Jul 29 11:22:20 2002
+Return-Path: <mrsabacha_11@mail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 1222644117
+	for <jm@localhost>; Mon, 29 Jul 2002 06:21:01 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:21:01 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com (host-66-133-58-214.verestar.net [66.133.58.214])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6SIT5p05023
+	for <jm@netnoteinc.com>; Sun, 28 Jul 2002 19:29:08 +0100
+Message-Id: <200207281829.g6SIT5p05023@mandark.labs.netnoteinc.com>
+From: "Hajia Maryam Abacha" <mrsabacha_11@mail.com>
+Date: Sun, 28 Jul 2002 19:28:54
+To: yyyy@netnoteinc.com
+Subject: Call me on My Telephone Number 234-80-33357110
+MIME-Version: 1.0
+Content-Type: text/plain;charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit

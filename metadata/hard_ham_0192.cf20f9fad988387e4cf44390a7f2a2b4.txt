@@ -1,0 +1,31 @@
+From zzz@example.com  Wed Sep  4 18:34:57 2002
+Return-Path: <zzz@example.com>
+Delivered-To: zzz@example.com
+Received: by example.com (Postfix, from userid 500)
+	id D040916F7B; Wed,  4 Sep 2002 18:34:25 +0100 (IST)
+Received: from timhunt.net (ns1.timhunt.net [216.27.147.130])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6QA9w407854
+	for <tim_timhunt_net@spamtraps.taint.org>; Fri, 26 Jul 2002 11:09:58 +0100
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by timhunt.net (8.11.3/8.11.1) with ESMTP id g6QA9CE49303
+	for <belliott@fsl.com>; Fri, 26 Jul 2002 06:09:13 -0400 (EDT)
+	(envelope-from Online#3.21245.db-Q-HAlkjZim2H.1.b@newsletter.online.com)
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Fri, 26 Jul 2002 03:11:42 -0700 (envelope-from <Online#3.21245.db-Q-HAlkjZim2H.1.b@newsletter.online.com>)
+Message-ID: <465020.1027678146999.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Fri, 26 Jul 2002 03:09:05 -0700 (PDT)
+From: ZDNet Shopper <Online#3.21245.db-Q-HAlkjZim2H.1@newsletter.online.com>
+To: belliott@fsl.com
+Subject: Do you dream of the latest gadgets? (ZDNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2
+X-Spam-Status: No, hits=6.9 required=7.0
+	tests=BIG_FONT,CTYPE_JUST_HTML,DEAR_SOMEBODY,FORGED_RCVD_TRAIL,
+	      HTML_50_70,HTML_FONT_COLOR_GRAY,HTML_FONT_COLOR_RED,
+	      HTML_FONT_FACE_BAD,HTML_FONT_FACE_ODD,HTML_FONT_INVISIBLE,
+	      HTML_TAG_MIXED_CASE,HTTP_WITH_EMAIL_IN_URL,JAVASCRIPT,
+	      NO_PURCHASE,RELAYING_FRAME,SPAM_PHRASE_02_03,WEB_BUGS
+	version=2.41-cvs
+X-Spam-Level: ******

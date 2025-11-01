@@ -1,0 +1,20 @@
+Return-Path: <bounce-lgmedia-2534370@sprocket.lockergnome.com>
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6FMPvJ12298
+	for <qqqqqqqqqq-lg@example.com>; Mon, 15 Jul 2002 23:25:57 +0100
+X-Mailer: ListManager Web Interface
+Date: Mon, 15 Jul 2002 14:40:19 -0500
+Subject: [Lockergnome Digital Media]  Humblest Alarm
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Digital Media <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lgmedia-2534370N@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lgmedia@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lgmedia@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lgmedia-2534370N@sprocket.lockergnome.com
+Sender: bounce-lgmedia-2534370@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534370-1678519-2002.07.15-14.41.54--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Precedence: bulk

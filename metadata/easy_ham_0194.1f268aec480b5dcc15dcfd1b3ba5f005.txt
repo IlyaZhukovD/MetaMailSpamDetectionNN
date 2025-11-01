@@ -1,0 +1,47 @@
+From sentto-2242572-56009-1034075149-zzzz=example.com@returns.groups.yahoo.com  Tue Oct  8 12:27:16 2002
+Return-Path: <sentto-2242572-56009-1034075149-zzzz=example.com@returns.groups.yahoo.com>
+Delivered-To: zzzz@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 731DF16F03
+	for <zzzz@localhost>; Tue,  8 Oct 2002 12:27:15 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Tue, 08 Oct 2002 12:27:15 +0100 (IST)
+Received: from n20.grp.scd.yahoo.com (n20.grp.scd.yahoo.com
+    [66.218.66.76]) by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id
+    g98B5CK12365 for <zzzz@example.com>; Tue, 8 Oct 2002 12:05:12 +0100
+X-Egroups-Return: sentto-2242572-56009-1034075149-zzzz=example.com@returns.groups.yahoo.com
+Received: from [66.218.67.201] by n20.grp.scd.yahoo.com with NNFMP;
+    08 Oct 2002 11:05:52 -0000
+X-Sender: martin@srv0.ems.ed.ac.uk
+X-Apparently-To: zzzzteana@yahoogroups.com
+Received: (EGP: mail-8_2_2_0); 8 Oct 2002 11:05:49 -0000
+Received: (qmail 41834 invoked from network); 8 Oct 2002 11:04:02 -0000
+Received: from unknown (66.218.66.216) by m9.grp.scd.yahoo.com with QMQP;
+    8 Oct 2002 11:04:02 -0000
+Received: from unknown (HELO haymarket.ed.ac.uk) (129.215.128.53) by
+    mta1.grp.scd.yahoo.com with SMTP; 8 Oct 2002 11:04:03 -0000
+Received: from srv0.ems.ed.ac.uk (srv0.ems.ed.ac.uk [129.215.117.0]) by
+    haymarket.ed.ac.uk (8.11.6/8.11.6) with ESMTP id g98B42304365 for
+    <forteana@yahoogroups.com>; Tue, 8 Oct 2002 12:04:02 +0100 (BST)
+Received: from EMS-SRV0/SpoolDir by srv0.ems.ed.ac.uk (Mercury 1.44);
+    8 Oct 02 12:04:01 +0000
+Received: from SpoolDir by EMS-SRV0 (Mercury 1.44); 8 Oct 02 12:03:56 +0000
+Organization: Management School
+To: zzzzteana@yahoogroups.com
+Message-Id: <3DA2C9B0.1469.5C8ED72@localhost>
+Priority: normal
+X-Mailer: Pegasus Mail for Windows (v4.01)
+Content-Description: Mail message body
+From: "Martin Adamson" <martin@srv0.ems.ed.ac.uk>
+MIME-Version: 1.0
+Mailing-List: list zzzzteana@yahoogroups.com; contact
+    forteana-owner@yahoogroups.com
+Delivered-To: mailing list zzzzteana@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:zzzzteana-unsubscribe@yahoogroups.com>
+Date: Tue, 8 Oct 2002 12:03:55 +0100
+Subject: [zzzzteana] Fake bank website cons victims
+Reply-To: zzzzteana@yahoogroups.com
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit

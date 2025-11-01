@@ -1,0 +1,21 @@
+Received: from mrmime.airsat.com.ar ([200.69.212.161])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6NA7me28749
+	for <gibbs@midrange.com>; Tue, 23 Jul 2002 05:07:49 -0500
+Received: from clearlakepubs.com ([200.81.31.214] RDNS failed) by mrmime.airsat.com.ar with Microsoft SMTPSVC(5.0.2195.4905);
+	 Tue, 23 Jul 2002 07:13:34 -0300
+Message-ID: <0000193c4773$00003725$00000df8@clientfirstcom.com>
+To: <stev@thedgroup.com>, <aberger@newnorth.net>, <cjcragun@hotmail.com>,
+   <makovner@hotmail.com>, <barlow@att.net>, <fidido@hotmail.com>
+Cc: <antonineus@aol.com>, <mobypeter@hotmail.com>, <ali@greatersouthern.com>,
+   <106773.3657@compuserve.com>, <gibbs@midrange.com>
+From: dangerlove@hotmail.com
+Subject: Ink Prices Got You Down?               SY
+Date: Tue, 23 Jul 2002 06:14:46 -1600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Reply-To: dangerlove@hotmail.com
+X-OriginalArrivalTime: 23 Jul 2002 10:13:35.0811 (UTC) FILETIME=[9B2EB130:01C23231]
+X-Status: 
+X-Keywords:

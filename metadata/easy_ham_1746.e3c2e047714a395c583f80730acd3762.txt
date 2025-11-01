@@ -1,0 +1,7 @@
+Return-Path: bkc@murkworks.com
+Delivery-Date: Fri Sep  6 15:39:48 2002
+From: bkc@murkworks.com (Brad Clements)
+Date: Fri, 06 Sep 2002 10:39:48 -0400
+Subject: [Spambayes] Deployment
+In-Reply-To: <200209061431.g86EVM114413@pcp02138704pcs.reston01.va.comcast.net>
+Message-ID: <3D788653.9143.1D8992DA@localhost>

@@ -1,0 +1,41 @@
+From iqsoftware@export2000.ro  Mon Jun 24 17:46:46 2002
+Return-Path: avfs-admin@fazekas.hu
+Delivery-Date: Sun Apr 21 18:26:13 2002
+Received: from csibe.fazekas.hu (postfix@csibe.fazekas.hu [195.199.63.65])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g3LHPY617326 for
+    <jm@jmason.org>; Sun, 21 Apr 2002 18:25:35 +0100
+Received: by csibe.fazekas.hu (Postfix, from userid 99) id A8687FFE7;
+    Sun, 21 Apr 2002 19:25:19 +0200 (CEST)
+Received: from csibe.fazekas.hu (localhost [127.0.0.1]) by
+    csibe.fazekas.hu (Postfix) with ESMTP id 225BF2F2EF; Sun, 21 Apr 2002
+    19:25:02 +0200 (CEST)
+Delivered-To: avfs@fazekas.hu
+Received: by csibe.fazekas.hu (Postfix, from userid 99) id 9098EFCC9;
+    Sun, 21 Apr 2002 19:24:53 +0200 (CEST)
+Received: from server.export2000.ro (unknown [194.176.186.33]) by
+    csibe.fazekas.hu (Postfix) with ESMTP id 0E1B02F239 for <avfs@fazekas.hu>;
+    Sun, 21 Apr 2002 19:24:39 +0200 (CEST)
+Received: from cosmin (ppp-lnk01.gigishor.de [192.168.0.12] (may be
+    forged)) by server.export2000.ro (8.9.3/8.9.3) with SMTP id UAA06931 for
+    avfs@fazekas.hu; Sun, 21 Apr 2002 20:19:14 +0300
+From: iqsoftware@export2000.ro
+To: avfs@fazekas.hu
+Message-Id: <eaep.3.0.reg.CorMKN.37367.6974799769@server.export2000.ro>
+Content-Type: TEXT/PLAIN charset=US-ASCII
+Subject: [Avfs] Romanian Software Production & Export
+Sender: avfs-admin@fazekas.hu
+Errors-To: avfs-admin@fazekas.hu
+X-Beenthere: avfs@csibe.fazekas.hu
+X-Mailman-Version: 2.0.3
+Precedence: bulk
+Reply-To: avfs@fazekas.hu
+List-Help: <mailto:avfs-request@csibe.fazekas.hu?subject=help>
+List-Post: <mailto:avfs@csibe.fazekas.hu>
+List-Subscribe: <http://www.fazekas.hu/mailman/listinfo/avfs>,
+    <mailto:avfs-request@csibe.fazekas.hu?subject=subscribe>
+List-Id: <avfs.csibe.fazekas.hu>
+List-Unsubscribe: <http://www.fazekas.hu/mailman/listinfo/avfs>,
+    <mailto:avfs-request@csibe.fazekas.hu?subject=unsubscribe>
+List-Archive: <http://www.fazekas.hu/pipermail/avfs/>
+Date: Sun, 21 Apr 2002 20:19:14 +0300
+X-Keywords:

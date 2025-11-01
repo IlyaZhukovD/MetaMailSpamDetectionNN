@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20115.09-rB-TgEkNwY9w6RRR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6G82cJ20321
+	for <qqqqqqqqqq-zdnet@example.com>; Tue, 16 Jul 2002 09:02:38 +0100
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Tue, 16 Jul 2002 01:04:57 -0700 (envelope-from <Online#3.20115.09-rB-TgEkNwY9w6RRR.1.b@newsletter.online.com>)
+Message-ID: <5244123.1026806550776.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Tue, 16 Jul 2002 01:02:30 -0700 (PDT)
+From: AnchorDesk <Online#3.20115.09-rB-TgEkNwY9w6RRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Why we're changing our publishing schedule [ANCHORDESK]
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

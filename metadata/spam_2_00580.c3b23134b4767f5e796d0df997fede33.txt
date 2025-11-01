@@ -1,0 +1,21 @@
+From targetemailextractor@btamail.net.cn  Mon Jun 24 17:53:11 2002
+Return-Path: targetemailextractor@btamail.net.cn
+Delivery-Date: Mon Jun  3 13:00:57 2002
+Received: from mail.GREENMETRO.COM ([61.129.121.193]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g53C0sO12323 for
+    <jm@jmason.org>; Mon, 3 Jun 2002 13:00:56 +0100
+Received: from html ([61.174.192.114]) by mail.GREENMETRO.COM with
+    Microsoft SMTPSVC(5.0.2195.3779); Mon, 3 Jun 2002 19:52:14 +0800
+From: targetemailextractor@btamail.net.cn
+To: yyyy4lmhobu13.fsf@mail.hssun02b
+Subject: Direct Email Blaster, Email extractor, email downloader, email verify ...........
+Date: Mon, 3 Jun 2002 20:00:35
+MIME-Version: 1.0
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-Mimeole: Produced By Microsoft MimeOLE V5.00.2919.6700
+Message-Id: <MAILXeo6fQSgeR4UIS400001c9d@mail.GREENMETRO.COM>
+X-Originalarrivaltime: 03 Jun 2002 11:52:16.0328 (UTC) FILETIME=[1B6E6480:01C20AF5]
+X-Keywords: 
+Content-Type: text/html; charset="DEFAULT_CHARSET"

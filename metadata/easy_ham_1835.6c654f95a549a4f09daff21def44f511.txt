@@ -1,0 +1,7 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Mon Sep  9 15:45:52 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Mon, 09 Sep 2002 10:45:52 -0400
+Subject: [Spambayes] test sets?
+In-Reply-To: <200209091410.g89EA0428928@pcp02138704pcs.reston01.va.comcast.net>
+Message-ID: <LNBBLJKPBEHFEDALKOLCIECBBDAB.tim.one@comcast.net>

@@ -1,0 +1,58 @@
+From rpm-list-admin@freshrpms.net  Mon Aug 26 15:21:33 2002
+Return-Path: <rpm-zzzlist-admin@freshrpms.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 35DE544174
+	for <jm@localhost>; Mon, 26 Aug 2002 10:17:46 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 26 Aug 2002 15:17:46 +0100 (IST)
+Received: from egwn.net (ns2.egwn.net [193.172.5.4]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7P0glZ25869 for
+    <jm-rpm@jmason.org>; Sun, 25 Aug 2002 01:42:47 +0100
+Received: from auth02.nl.egwn.net (localhost [127.0.0.1]) by egwn.net
+    (8.11.6/8.11.6/EGWN) with ESMTP id g7P0f2J13996; Sun, 25 Aug 2002 02:41:02
+    +0200
+Received: from imf17bis.bellsouth.net (mail217.mail.bellsouth.net
+    [205.152.58.157]) by egwn.net (8.11.6/8.11.6/EGWN) with ESMTP id
+    g7P0eEJ05587 for <rpm-list@freshrpms.net>; Sun, 25 Aug 2002 02:40:14 +0200
+Received: from adsl-157-17-129.msy.bellsouth.net ([66.157.17.129]) by
+    imf17bis.bellsouth.net (InterMail vM.5.01.04.19
+    201-253-122-122-119-20020516) with ESMTP id
+    <20020825004145.MZZJ23893.imf17bis.bellsouth.net@adsl-157-17-129.msy.bellsouth.net>
+    for <rpm-list@freshrpms.net>; Sat, 24 Aug 2002 20:41:45 -0400
+Subject: Re: Fw: Re: When are we going to get. [making ALSA rpms]
+From: Lance <lance_tt@bellsouth.net>
+To: FreshRPMs List <rpm-zzzlist@freshrpms.net>
+In-Reply-To: <20020824.rme.78600400@www.dudex.net>
+References: <20020824.rme.78600400@www.dudex.net>
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Ximian Evolution 1.0.8 (1.0.8-6)
+Message-Id: <1030236009.27767.5.camel@localhost.localdomain>
+MIME-Version: 1.0
+X-Mailscanner: Found to be clean, Found to be clean
+Sender: rpm-zzzlist-admin@freshrpms.net
+Errors-To: rpm-zzzlist-admin@freshrpms.net
+X-Beenthere: rpm-zzzlist@freshrpms.net
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: rpm-zzzlist@freshrpms.net
+List-Help: <mailto:rpm-zzzlist-request@freshrpms.net?subject=help>
+List-Post: <mailto:rpm-zzzlist@freshrpms.net>
+List-Subscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=subscribe>
+List-Id: Freshrpms RPM discussion list <rpm-zzzlist.freshrpms.net>
+List-Unsubscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=unsubscribe>
+List-Archive: <http://lists.freshrpms.net/pipermail/rpm-zzzlist/>
+X-Original-Date: 24 Aug 2002 19:40:08 -0500
+Date: 24 Aug 2002 19:40:08 -0500
+Lines: 106
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-7.6 required=7.0
+	tests=FUDGE_MULTIHOP_RELAY,IN_REP_TO,KNOWN_MAILING_LIST,
+	      OUTLOOK_FW_MSG,QUOTED_EMAIL_TEXT,RCVD_IN_MULTIHOP_DSBL,
+	      RCVD_IN_UNCONFIRMED_DSBL,REFERENCES,SPAM_PHRASE_03_05
+	version=2.40-cvs
+X-Spam-Level:

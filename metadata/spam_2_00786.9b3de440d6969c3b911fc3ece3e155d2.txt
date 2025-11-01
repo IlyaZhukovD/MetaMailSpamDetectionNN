@@ -1,0 +1,20 @@
+Received: from aurora.pres.gob.pe (mail.ctarpuno.pres.gob.pe [200.37.31.29])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6JAtkH28728
+	for <lynn.dietz@midrange.com>; Fri, 19 Jul 2002 05:55:47 -0500
+Received: (from root@localhost)
+	by aurora.pres.gob.pe (8.11.6/linuxconf) id g6JAug924602;
+	Fri, 19 Jul 2002 05:56:43 -0500
+Received: from mta.onebox.com ([67.105.130.194])
+	by aurora.pres.gob.pe (8.11.6/linuxconf) with ESMTP id g6JAtUe20344;
+	Fri, 19 Jul 2002 05:55:36 -0500
+Message-ID: <00007e1e3de6$00007cdd$00007979@mta.onebox.com>
+To: <Undisclosed.Recipients@onebox.com>
+From: "Software Experts" <software-experts-2002@onebox.com>
+Subject: 21st Century Web Specialists                  JRGBM
+Date: Fri, 19 Jul 2002 04:02:38 -1900
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Status: 
+X-Keywords:

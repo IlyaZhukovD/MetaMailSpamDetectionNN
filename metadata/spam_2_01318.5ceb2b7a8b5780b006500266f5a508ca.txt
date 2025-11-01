@@ -1,0 +1,23 @@
+From jhzyi@eng.tau.ac.il  Tue Aug  6 11:05:54 2002
+Return-Path: <jhzyi@eng.tau.ac.il>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 9B9BB44115
+	for <jm@localhost>; Tue,  6 Aug 2002 05:57:47 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 10:57:47 +0100 (IST)
+Received: from mail3.freesurf.fr (bastille.freesurf.fr [212.43.206.2])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id KAA17193
+	for <jm@netnoteinc.com>; Tue, 6 Aug 2002 10:46:23 +0100
+Received: from email1.atc.cz (du-201-51.nat.dialup.freesurf.fr [212.43.201.51])
+	by mail3.freesurf.fr (Postfix) with ESMTP
+	id 143AE19078; Tue,  6 Aug 2002 11:38:25 +0200 (CEST)
+To: <Undisclosed.Recipients@mail3.freesurf.fr>
+From: "J.T. Morgan" <jhzyi@eng.tau.ac.il>
+Subject: Is Your Mortgage Payment Too High? Reduce It Now
+Date: Tue, 06 Aug 2002 02:44:01 -1900
+MIME-Version: 1.0
+Message-Id: <20020806093825.143AE19078@mail3.freesurf.fr>
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

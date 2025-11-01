@@ -1,0 +1,22 @@
+Return-Path: <tomkelly2fg7@address.com>
+Received: from user2.pro-ns.net (user2.pro-ns.net [208.200.182.45])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6LMqkCT076963
+	for <wmo+webmaster@hq.pro-ns.net>; Sun, 21 Jul 2002 17:52:46 -0500 (CDT)
+	(envelope-from tomkelly2fg7@address.com)
+Received: from IIS.The9thInning.Net (cdm-66-7-222-bent.cox-internet.com [66.233.7.222])
+	by user2.pro-ns.net (8.12.3/8.12.2) with ESMTP id g6LMqjrR042595
+	for <webmaster@prons.com>; Sun, 21 Jul 2002 17:52:45 -0500 (CDT)
+	(envelope-from tomkelly2fg7@address.com)
+X-Authentication-Warning: user2.pro-ns.net: Host cdm-66-7-222-bent.cox-internet.com [66.233.7.222] claimed to be IIS.The9thInning.Net
+Received: from postoffice.address.com (host110250.arnet.net.ar [200.45.110.250]) by IIS.The9thInning.Net with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PKX05FBX; Sun, 21 Jul 2002 17:48:21 -0500
+Message-ID: <000010d30e52$000009e1$00003484@postoffice.address.com>
+To: <Undisclosed.Recipients@user2.pro-ns.net>
+From: tomkelly2fg7@address.com
+Subject: Your application is below. Expires July 27.
+Date: Sun, 21 Jul 2002 18:53:01 -1600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Reply-To: tomkelly2fg7@address.com

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20510.39-CTjLgE3RyAhaFsRR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6INV5J29523
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Fri, 19 Jul 2002 00:31:06 +0100
+Received: from abv-sfo1-ac-agent6 (206.16.0.241) by acmta4.cnet.com (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 16:25:38 -0700 (envelope-from <Online#3.20510.39-CTjLgE3RyAhaFsRR.1.b@newsletter.online.com>)
+Message-ID: <1855693.1027035060165.JavaMail.root@abv-sfo1-ac-agent6>
+Date: Thu, 18 Jul 2002 16:31:00 -0700 (PDT)
+From: CNET Shopper Newsletter Alerts <Online#3.20510.39-CTjLgE3RyAhaFsRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Great deals on the Summer's hottest MP3 players (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

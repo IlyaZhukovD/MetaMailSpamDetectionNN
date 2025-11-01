@@ -1,0 +1,28 @@
+From GreenSP3387v35@yahoo.com  Fri Aug  2 16:52:06 2002
+Return-Path: <GreenSP3387v35@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B941744100
+	for <jm@localhost>; Fri,  2 Aug 2002 11:50:13 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 02 Aug 2002 16:50:13 +0100 (IST)
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id QAA04640;
+	Fri, 2 Aug 2002 16:38:10 +0100
+From: GreenSP3387v35@yahoo.com
+Received: from yahoo.com (unknown [203.70.210.197])
+	by smtp.easydns.com (Postfix) with SMTP
+	id 144D02DB15; Fri,  2 Aug 2002 11:37:55 -0400 (EDT)
+Reply-To: <GreenSP3387v35@yahoo.com>
+Message-ID: <035e67c20d4a$4732e4a0$2ca23db0@txpuyp>
+To: <yyyy@netnoteinc.com>
+Cc: <sales@netnoteinc.com>
+Subject: Entrepreneur
+Date: Fri, 02 Aug 2002 08:28:43 +0700
+MiME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+Content-Type: text/html; charset="iso-8859-1"

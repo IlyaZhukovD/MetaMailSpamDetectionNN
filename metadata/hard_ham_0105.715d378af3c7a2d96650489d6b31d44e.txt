@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20483.52-WfysgP14zsqzURRR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6IKkIJ06932
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 18 Jul 2002 21:46:18 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by acmta4.cnet.com (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 13:40:51 -0700 (envelope-from <Online#3.20483.52-WfysgP14zsqzURRR.1.b@newsletter.online.com>)
+Message-ID: <5834678.1027025172447.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Thu, 18 Jul 2002 13:46:12 -0700 (PDT)
+From: CNET Message Boards <Online#3.20483.52-WfysgP14zsqzURRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: CNET: Miniature cameras and privacy laws
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

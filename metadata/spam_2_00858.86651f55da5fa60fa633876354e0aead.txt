@@ -1,0 +1,37 @@
+From dougw_reply@excite.com  Mon Jul 22 18:39:29 2002
+Return-Path: <dougw_reply@excite.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 397F5440C8
+	for <jm@localhost>; Mon, 22 Jul 2002 13:39:28 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 18:39:28 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFhaI08562 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 16:43:36 +0100
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    webnote.net (8.9.3/8.9.3) with ESMTP id IAA30815 for <jm@jmason.org>;
+    Mon, 22 Jul 2002 08:48:53 +0100
+Received: from 151.38.167.208 (adsl-208-167.38-151.net24.it
+    [151.38.167.208]) by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP
+    id g6M7mnp08573 for <jm@netnoteinc.com>; Mon, 22 Jul 2002 08:48:51 +0100
+Message-Id: <200207220748.g6M7mnp08573@mandark.labs.netnoteinc.com>
+Received: from sparc.isl.net ([45.55.85.241]) by anther.webhostingtalk.com
+    with NNFMP; Jul, 22 2002 3:41:55 AM -0800
+Received: from [177.34.196.8] by f64.law4.hotmail.com with NNFMP;
+    Jul, 22 2002 2:29:34 AM -0000
+Received: from unknown (HELO anther.webhostingtalk.com) (205.220.75.34) by
+    asy100.as122.sol.superonline.com with smtp; Jul, 22 2002 1:31:57 AM -0200
+Received: from unknown (134.164.251.44) by mail.gmx.net with asmtp;
+    Jul, 22 2002 12:31:33 AM +0600
+From: "D. Woodward" <dougw_reply@excite.com>
+To: yyyy@netnoteinc.com
+Cc: 
+Subject: Honest Family Oriented Home based business with residual income on the net.  Get involved! anvx
+Sender: "D. Woodward" <dougw_reply@excite.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Date: Mon, 22 Jul 2002 03:49:00 -0400
+X-Mailer: Internet Mail Service (5.5.2650.21)
+X-Priority: 1

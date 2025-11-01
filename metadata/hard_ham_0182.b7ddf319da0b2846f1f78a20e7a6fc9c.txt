@@ -1,0 +1,46 @@
+Return-Path: ticket_erp.xem7f9k1029828689438@sneakemail.com
+Delivery-Date: Tue Aug 20 03:35:03 2002
+Return-Path: <ticket_erp.xem7f9k1029828689438@sneakemail.com>
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mothlight.dyndns.org (8.11.6/8.11.6) with ESMTP id g7K7Z2s15525
+	for <nice@localhost>; Tue, 20 Aug 2002 03:35:02 -0400
+Received: from fastmail.fm [209.61.183.86]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for nice@localhost (single-drop); Tue, 20 Aug 2002 03:35:02 -0400 (EDT)
+Received: from www.fastmail.fm (server1.internal [10.202.2.132])
+	by server2.fastmail.fm (Cyrus v2.1.5) with LMTP; Tue, 20 Aug 2002 02:31:31 -0500
+X-Sieve: CMU Sieve 2.2
+Received: from www.fastmail.fm (server1.internal [10.202.2.132])
+	by www.fastmail.fm (Cyrus v2.1.3) with LMTP; Tue, 20 Aug 2002 02:31:32 -0500
+Received: from www.fastmail.fm (localhost [127.0.0.1])
+	by localhost.localdomain (Postfix) with ESMTP id 525656DA68
+	for <mothlight@fastmail.fm>; Tue, 20 Aug 2002 02:31:30 -0500 (CDT)
+X-Mail-from: ticket_erp.xem7f9k1029828689438@sneakemail.com
+X-Delivered-to: <mothlight@fastmail.fm>
+X-Spam-score: 15.4
+X-Spam: high
+X-Spam-hits: FROM_HAS_MIXED_NUMS, FROM_ENDS_IN_NUMS, EXCUSE_1, CLICK_BELOW,
+  DOUBLE_CAPSWORD, UNSUB_PAGE, WEB_BUGS, CLICK_HERE_LINK, FREQ_SPAM_PHRASE,
+  SPAM_PHRASES_020
+Received: from mail.sneakemail.com (mail.sneakemail.com [207.106.87.13])
+	by www.fastmail.fm (Postfix) with SMTP id DEB7C6DA63
+	for <mothlight@fastmail.fm>; Tue, 20 Aug 2002 02:31:29 -0500 (CDT)
+Received: (qmail 14255 invoked from network); 20 Aug 2002 07:31:30 -0000
+Received: from localhost (HELO monkey) (127.0.0.1)
+  by localhost with SMTP; 20 Aug 2002 07:31:30 -0000
+Received: (qmail 14238 invoked from network); 20 Aug 2002 07:31:27 -0000
+Received: from unknown (HELO NYE-gorcysn1) (199.201.7.21)
+  by mail.sneakemail.com with SMTP; 20 Aug 2002 07:31:27 -0000
+Received: from mail pickup service by NYE-gorcysn1 with Microsoft SMTPSVC;
+	 Tue, 20 Aug 2002 03:30:52 -0400
+Message-ID: <651607377.1029828690271.JavaMail.root@monkey>
+Date: Tue, 20 Aug 2002 03:30:51 -0400
+From: "AuthorTracker@harpercollins.com [mothlight/harpercollins]" <ticket_23aj49j1029828689414@sneakemail.com>
+To: mothlight@fastmail.fm
+Subject: Terry Pratchett - AuthorTracker News from HarperCollins
+Mime-Version: 1.0
+Content-Type: multipart/alternative;	boundary="----=_NextPart_000_0358_01C247F9.FBE93A30"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 17

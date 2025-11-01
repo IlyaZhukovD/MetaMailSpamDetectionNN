@@ -1,0 +1,19 @@
+From gtts@cable.net.co  Fri Jul 19 19:15:01 2002
+Return-Path: <gtts@cable.net.co>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 8B97E440C8
+	for <jm@localhost>; Fri, 19 Jul 2002 14:15:00 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 19:15:00 +0100 (IST)
+Received: from cable.net.co (24-196-229-55.charterga.net [24.196.229.55])
+    by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6JIDZJ22453 for
+    <jm@jmason.org>; Fri, 19 Jul 2002 19:13:37 +0100
+From: <gtts@cable.net.co>
+To: yyyy@spamassassin.taint.org
+Subject: Great prices on laser toner cartridges for printers, copiers, and faxes .... Guaranteed
+Date: Fri, 19 Jul 2002 14:06:47
+Message-Id: <338.371619.730070@cable.net.co>
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"

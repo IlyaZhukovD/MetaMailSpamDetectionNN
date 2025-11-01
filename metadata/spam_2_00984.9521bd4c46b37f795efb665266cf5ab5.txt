@@ -1,0 +1,26 @@
+From rates@digitalmortgage.cc  Wed Jul 24 06:56:38 2002
+Return-Path: <rates@digitalmortgage.cc>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B71AE440CC
+	for <jm@localhost>; Wed, 24 Jul 2002 01:56:37 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 24 Jul 2002 06:56:37 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6O5sm423389 for
+    <jm@jmason.org>; Wed, 24 Jul 2002 06:54:50 +0100
+Received: from linux04.axis.lt ([205.238.220.2]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6O5rap17521 for
+    <jm@netnoteinc.com>; Wed, 24 Jul 2002 06:53:44 +0100
+Received: from mx (linux04.axis.lt [127.0.0.1]) by linux04.axis.lt
+    (Postfix) with SMTP id 7EF36125E0E for <jm@netnoteinc.com>; Tue,
+    23 Jul 2002 22:56:33 -0400 (EDT)
+Comments: Mail sent by DigitalCompany server
+MIME-Version: 1.0
+From: "Digital Mortgage" <rates@digitalmortgage.cc>
+To: yyyy@netnoteinc.com
+Subject: Free Mortgage Quotes
+Message-Id: <20020724025633.7EF36125E0E@linux04.axis.lt>
+Date: Tue, 23 Jul 2002 22:56:33 -0400 (EDT)
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0012_01C1E216.45376260"

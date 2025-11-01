@@ -1,0 +1,6 @@
+Return-Path: neale@woozle.org
+Delivery-Date: Wed Sep 11 06:14:36 2002
+From: neale@woozle.org (Neale Pickett)
+Date: 10 Sep 2002 22:14:36 -0700
+Subject: [Spambayes] stack.pop() ate my multipart message
+Message-ID: <w53lm6985vn.fsf@woozle.org>

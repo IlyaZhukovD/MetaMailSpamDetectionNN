@@ -1,0 +1,39 @@
+From fork-admin@xent.com  Thu Jul 18 10:13:14 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 19AC643F90
+	for <jm@localhost>; Thu, 18 Jul 2002 05:13:14 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 18 Jul 2002 10:13:14 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6I97uJ10769 for <jm@jmason.org>;
+    Thu, 18 Jul 2002 10:07:58 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id A48E42940A6; Thu, 18 Jul 2002 01:57:40 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from $domain (unknown [61.57.28.53]) by xent.com (Postfix) with
+    SMTP id 7D4ED294098 for <fork@xent.com>; Thu, 18 Jul 2002 01:57:34 -0700
+    (PDT)
+Reply-To: fork@spamassassin.taint.org
+X-Sender: fork@spamassassin.taint.org
+From: fork@spamassassin.taint.org
+Received: from xent.com by F5T06C00WK.xent.com with SMTP for fork@spamassassin.taint.org;
+    Thu, 18 Jul 2002 05:10:02 -0500
+MIME-Version: 1.0
+Date: Thu, 18 Jul 2002 05:10:02 -0500
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Encoding: MIME
+Subject: Lowest Mortgage Rates Around
+To: fork@spamassassin.taint.org
+Message-Id: <12Q0EY1NI25H096H3.3WJ41B2N9.fork@spamassassin.taint.org>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Friends of Rohit Khare <fork.xent.com>
+X-Beenthere: fork@spamassassin.taint.org
+Content-Type: multipart/alternative; boundary="----=_NextPart_943_7386722343340587207363271782623"
+Content-Transfer-Encoding: Quoted-Printable

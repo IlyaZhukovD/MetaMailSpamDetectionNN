@@ -1,0 +1,25 @@
+From amu2@c4.com  Mon Jun 24 17:43:32 2002
+Return-Path: amu2@c4.com
+Delivery-Date: Wed Mar 27 05:38:11 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g2R5cAg29422 for
+    <jm@jmason.org>; Wed, 27 Mar 2002 05:38:10 GMT
+Received: from mail1.chek.com (homer.chek.com [208.197.227.7]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g2R5c2204072 for
+    <jm@netnoteinc.com>; Wed, 27 Mar 2002 05:38:03 GMT
+Received: (qmail 23451 invoked from network); 27 Mar 2002 05:38:00 -0000
+Received: from whiskas.chek.com (208.197.227.138) by mailrelay1.chek.com
+    with SMTP; 27 Mar 2002 05:38:00 -0000
+Received: (qmail 15123 invoked by uid 99); 27 Mar 2002 05:38:00 -0000
+Date: 27 Mar 2002 05:38:00 -0000
+Message-Id: <20020327053800.15122.qmail@whiskas.chek.com>
+From: "Alhaji Abubakar" <amu2@c4.com>
+To: amu2@c4.com
+X-Originating-Ip: [217.146.9.6]
+Subject: urgent and confidential business proposal
+MIME-Version: 1.0
+X-Massmail: 1.0
+X-Massmail: precedence.bulk
+X-Status: 
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="=====================_889472414==_"

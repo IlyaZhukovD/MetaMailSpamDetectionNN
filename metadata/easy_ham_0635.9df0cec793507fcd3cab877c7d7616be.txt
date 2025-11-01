@@ -1,0 +1,46 @@
+From fork-admin@xent.com  Fri Sep 13 13:37:27 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id C2C2316F16
+	for <jm@localhost>; Fri, 13 Sep 2002 13:37:26 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 13 Sep 2002 13:37:26 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g8CNsQC20509 for <jm@jmason.org>;
+    Fri, 13 Sep 2002 00:54:27 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id A31B02940D3; Thu, 12 Sep 2002 16:51:04 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from web13003.mail.yahoo.com (web13003.mail.yahoo.com
+    [216.136.174.13]) by xent.com (Postfix) with SMTP id 5696629409A for
+    <fork@xent.com>; Thu, 12 Sep 2002 16:50:13 -0700 (PDT)
+Message-Id: <20020912235313.4003.qmail@web13003.mail.yahoo.com>
+Received: from [67.114.193.54] by web13003.mail.yahoo.com via HTTP;
+    Thu, 12 Sep 2002 16:53:13 PDT
+From: Michael Watson <scruz_mike@yahoo.com>
+Subject: Re: From salon.com - Forbidden thoughts about 9/11
+To: Chris Haun <chris@noskillz.com>
+Cc: fork@example.com
+In-Reply-To: <Pine.LNX.4.44.0209111507050.31122-100000@isolnetsux.techmonkeys.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1051763016-1031874793=:3397"
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Thu, 12 Sep 2002 16:53:13 -0700 (PDT)
+X-Spam-Status: No, hits=-5.1 required=7.0
+	tests=HTML_TAG_MIXED_CASE,IN_REP_TO,KNOWN_MAILING_LIST,
+	      SPAM_PHRASE_03_05,SUPERLONG_LINE,YAHOO_MSGID_ADDED
+	version=2.50-cvs
+X-Spam-Level:

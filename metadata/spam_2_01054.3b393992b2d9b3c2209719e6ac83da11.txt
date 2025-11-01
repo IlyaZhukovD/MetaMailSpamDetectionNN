@@ -1,0 +1,26 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6PEfGi5066072
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Thu, 25 Jul 2002 09:41:17 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6PEfGtp066064
+	for cypherpunks-forward@ds.pro-ns.net; Thu, 25 Jul 2002 09:41:16 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6PEewi4065996
+	for <cypherpunks@ds.pro-ns.net>; Thu, 25 Jul 2002 09:41:14 -0500 (CDT)
+	(envelope-from cpunks@einstein.ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id JAA22839
+	for cypherpunks@ds.pro-ns.net; Thu, 25 Jul 2002 09:50:05 -0500
+Received: from cable.net.co (24-196-229-55.charterga.net [24.196.229.55])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id JAA22820;
+	Thu, 25 Jul 2002 09:49:58 -0500
+From: <gtts1@cable.net.co>
+Subject: Save up to 50% on laser printer, copier, and fax cartridges.
+Date: Thu, 25 Jul 2002 10:33:08
+Message-Id: <675.39658.863299@cable.net.co>
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+To: undisclosed-recipients:;

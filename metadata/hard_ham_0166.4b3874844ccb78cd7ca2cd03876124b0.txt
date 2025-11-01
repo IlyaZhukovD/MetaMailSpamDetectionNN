@@ -1,0 +1,19 @@
+Received: from timhunt.net (ns1.timhunt.net [216.27.147.130])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6J6AZJ25232
+	for <tim_timhunt_net@spamtraps.taint.org>; Fri, 19 Jul 2002 07:10:35 +0100
+Received: from bounce.winxpnews.com (dal21037lyr001.datareturn.com [216.46.238.20])
+	by timhunt.net (8.11.3/8.11.1) with SMTP id g6J6ABS16827
+	for <cncnvc@fsg.com>; Fri, 19 Jul 2002 02:10:12 -0400 (EDT)
+	(envelope-from do_not_reply@bounce.winxpnews.com)
+Importance: Normal
+To: cncnvc@fsg.com
+Reply-To: "WinXPnews"<do_not_reply@bounce.winxpnews.com>
+Content-Type: text/html;
+	 charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Date: Fri, 19 Jul 2002 01:10:07 -0600
+From: "WinXPnews"<do_not_reply@bounce.winxpnews.com>
+Subject: WinXPnews: Time To Patch Your Windows Media Player
+Message-Id: <5ksc2.105x1y34m@bounce.winxpnews.com>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal

@@ -1,0 +1,67 @@
+From spamassassin-sightings-admin@lists.sourceforge.net  Fri Jul 19 18:21:31 2002
+Return-Path: <spamassassin-sightings-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id EB764440C8
+	for <jm@localhost>; Fri, 19 Jul 2002 13:21:25 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 18:21:25 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g6JHH5J18076 for <jm-sa-sightings@jmason.org>; Fri, 19 Jul 2002 18:17:05
+    +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17VbNH-0004QP-00; Fri,
+    19 Jul 2002 10:17:03 -0700
+Received: from consort.superb.net ([209.61.216.22] helo=f7.net) by
+    usw-sf-list1.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17VbMB-0001C4-00 for <spamassassin-sightings@lists.sourceforge.net>;
+    Fri, 19 Jul 2002 10:15:55 -0700
+Received: (from spamassassin@localhost) by f7.net (8.11.6/8.11.6) id
+    g6JHFm505192 for spamassassin-sightings@lists.sourceforge.net;
+    Fri, 19 Jul 2002 13:15:48 -0400
+Received: from ns.vn4b.propagation.net ([66.221.76.251]) by f7.net
+    (8.11.6/8.11.6) with ESMTP id g6JHFgA05177 for <jay.tu@blade.net>;
+    Fri, 19 Jul 2002 13:15:42 -0400
+Received: from saoviet.com ([203.162.19.116]) by ns.vn4b.propagation.net
+    (8.11.6/8.11.6) with ESMTP id g6JH17P09532; Fri, 19 Jul 2002 12:01:09
+    -0500
+Received: from tuan [127.0.0.1] by saoviet.com [127.0.0.1] with SMTP
+    (MDaemon.PRO.v4.0.0.R) for <others@saoviet.com>; Fri, 19 Jul 2002 23:47:27
+    +0700
+Message-Id: <003301c22f43$a756e7c0$0100007f@tuan>
+Reply-To: visco@saoviet.com
+From: "Sao Viet Consulting Co., Ltd" <e-sales@saoviet.com>
+To: <others@saoviet.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+    type="multipart/alternative";
+    boundary="----=_NextPart_000_002D_01C22F7E.50ED29E0"
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-Mimeole: Produced By Microsoft MimeOLE V5.00.2615.200
+X-Mdremoteip: 127.0.0.1
+X-Return-Path:
+Precedence: bulk
+X-Mdmailing-List: others@saoviet.com
+X-Mdsend-Notifications-To: [trash]
+X-Mdaemon-Deliver-To: others@saoviet.com
+Subject: [SA] Chuong trinh khuyen mai he 2002
+Sender: spamassassin-sightings-admin@example.sourceforge.net
+Errors-To: spamassassin-sightings-admin@example.sourceforge.net
+X-Beenthere: spamassassin-sightings@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+List-Help: <mailto:spamassassin-sightings-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-sightings@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-sightings>,
+    <mailto:spamassassin-sightings-request@lists.sourceforge.net?subject=subscribe>
+List-Id: <spamassassin-sightings.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-sightings>,
+    <mailto:spamassassin-sightings-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-sightings>
+X-Original-Date: Fri, 19 Jul 2002 23:45:08 +0700
+Date: Fri, 19 Jul 2002 23:45:08 +0700
+    MAILTO_TO_SPAM_ADDR version=2.40

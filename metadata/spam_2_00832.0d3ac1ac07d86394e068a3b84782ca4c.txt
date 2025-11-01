@@ -1,0 +1,43 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6LJEJCU088122
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Sun, 21 Jul 2002 14:14:20 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6LJEJYP088119
+	for cypherpunks-forward@ds.pro-ns.net; Sun, 21 Jul 2002 14:14:19 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6LJEECT088006
+	for <cypherpunks@ds.pro-ns.net>; Sun, 21 Jul 2002 14:14:14 -0500 (CDT)
+	(envelope-from cpunks@einstein.ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id OAA11818
+	for cypherpunks@ds.pro-ns.net; Sun, 21 Jul 2002 14:22:19 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id OAA11786
+	for cypherpunks-outgoing; Sun, 21 Jul 2002 14:21:48 -0500
+Received: from mail11.top-special-offers.com (mail11.top-special-offers.com [66.216.91.50])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id OAA11781
+	for <cypherpunks@einstein.ssz.com>; Sun, 21 Jul 2002 14:21:16 -0500
+Message-Id: <200207211921.OAA11781@einstein.ssz.com>
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html
+MIME-Version: 1.0
+Date: Sun, 21 Jul 2002 19:13:03 UT
+X-X: H4F%N9&]M258OCID!:-6GE)\[G++/J'K)PN_/.])'XBT.2-54MK("`P``
+Subject: Friend, Save 75% on Printer Ink!
+X-List-Unsubscribe: <unsub-60763006-1047@top-special-offers.com>
+From: "Top Special Offers" <TopSpecialOffers__r-60763006-1047@top-special-offers.com>
+X-Stormpost-To: cypherpunks@einstein.ssz.com 60763006 1047
+To: "Friend" <cypherpunks@einstein.ssz.com>
+X-Mailer: StormPost 1.0
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19658.4b-VXMQgNtUP_hbAdRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6ADF7J09142
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 10 Jul 2002 14:15:07 +0100
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 10 Jul 2002 06:15:50 -0700 (envelope-from <Online#3.19658.4b-VXMQgNtUP_hbAdRR.1.b@newsletter.online.com>)
+Message-ID: <2397132.1026306899629.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Wed, 10 Jul 2002 06:14:59 -0700 (PDT)
+From: AnchorDesk <Online#3.19658.4b-VXMQgNtUP_hbAdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: MS's Palladium: What the hell is it? (Here's what!) [ANCHORDESK]
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

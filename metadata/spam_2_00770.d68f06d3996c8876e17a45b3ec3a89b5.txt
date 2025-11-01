@@ -1,0 +1,27 @@
+From uktfu@eei.ericsson.se  Fri Jul 19 02:11:31 2002
+Return-Path: <uktfu@eei.ericsson.se>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id BD26743F90
+	for <jm@localhost>; Thu, 18 Jul 2002 21:11:30 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 02:11:30 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6J0rxJ14046 for
+    <jm@jmason.org>; Fri, 19 Jul 2002 01:53:59 +0100
+Received: from kale.meridyenbilisim.com ([213.204.65.66]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6J0ruR24064 for
+    <jm@netnoteinc.com>; Fri, 19 Jul 2002 01:53:57 +0100
+Received: from darkside.demon.co.uk ([64.173.75.218]) by
+    kale.meridyenbilisim.com with Microsoft SMTPSVC(5.0.2195.2966);
+    Mon, 22 Jul 2002 03:54:41 +0300
+To: <Undisclosed.Recipients@netnoteinc.com>
+From: "Julie" <uktfu@eei.ericsson.se>
+Subject: Re: Instant Quote
+Date: Thu, 18 Jul 2002 17:59:10 -1900
+MIME-Version: 1.0
+Message-Id: <KALET6658EMJmAkxWne000001a2@kale.meridyenbilisim.com>
+X-Originalarrivaltime: 22 Jul 2002 00:54:42.0462 (UTC) FILETIME=[5D55F3E0:01C2311A]
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

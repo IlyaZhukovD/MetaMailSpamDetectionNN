@@ -1,0 +1,33 @@
+From owner-melbwireless@wireless.org.au  Fri Jul 19 00:55:29 2002
+Return-Path: <owner-melbwireless@wireless.org.au>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 78F8A43F90
+	for <jm@localhost>; Thu, 18 Jul 2002 19:55:28 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 00:55:28 +0100 (IST)
+Received: from wireless.org.au (www.wireless.org.au [202.161.127.82]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6INieJ31114 for
+    <jm@jmason.org>; Fri, 19 Jul 2002 00:44:40 +0100
+Received: (from majordomo@localhost) by wireless.org.au (8.11.6/8.11.6) id
+    g6INeDl26314 for melbwireless-list; Fri, 19 Jul 2002 09:40:13 +1000
+Received: from apk01fe2.mail1.triara.com (x.triara.com [200.57.128.70]
+    (may be forged)) by wireless.org.au (8.11.6/8.11.6) with ESMTP id
+    g6INeBx26311 for <melbwireless@wireless.org.au>; Fri, 19 Jul 2002 09:40:11
+    +1000
+Received: from gina ([200.67.156.243]) by apk01fe2.mail1.triara.com with
+    ESMTP id <20020718232025.OPGB1025.apk01fe2@gina>; Thu, 18 Jul 2002
+    18:20:25 -0500
+From: Quality Training de =?ISO-8859-1?Q?M=E9xico?= <villahermosa@rebackee.com>
+Subject: [MLB-WIRELESS] CONTRALORIA Y GERENCIA ADMINISTRATIVA
+To: "Lista de destinatarios oculta" <villahermosa@rebackee.com>
+MIME-Version: 1.0
+Reply-To: villahermosa@rebackee.com
+Date: Thu, 18 Jul 2002 18:16:04 -0500
+X-Priority: 3
+X-Library: Indy 8.0.22
+Message-Id: <20020718232025.OPGB1025.apk01fe2@gina>
+Sender: owner-melbwireless@wireless.org.au
+Precedence: bulk
+Content-Type: multipart/alternative; boundary="=_NextPart_2rfkindysadvnqw3nerasdf";

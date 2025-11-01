@@ -1,0 +1,19 @@
+From PermissionPasscom@permissionpass.com  Mon Jun 24 17:04:49 2002
+Return-Path: tppn@ftu-08.permissionpass.com
+Delivery-Date: Sat May 18 22:34:46 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4ILYje05714 for
+    <jm@jmason.org>; Sat, 18 May 2002 22:34:45 +0100
+Received: from ftu-08.permissionpass.com (ftu-08.permissionpass.com
+    [64.251.16.154]) by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP
+    id g4ILYiD08481 for <jm@netnoteinc.com>; Sat, 18 May 2002 22:34:44 +0100
+Received: (from tppn@localhost) by ftu-08.permissionpass.com
+    (8.11.6/8.11.6) id g4ILWem15360 for jm@netnoteinc.com; Sat, 18 May 2002
+    17:32:40 -0400
+Date: Sat, 18 May 2002 17:32:40 -0400
+Message-Id: <200205182132.g4ILWem15360@ftu-08.permissionpass.com>
+From: "PermissionPass.com" <PermissionPasscom@permissionpass.com>
+To: yyyy@netnoteinc.com
+Subject: Stay at Home Business-24 hr Support!
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="##########"

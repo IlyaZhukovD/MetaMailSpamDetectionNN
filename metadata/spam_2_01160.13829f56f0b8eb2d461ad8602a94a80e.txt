@@ -1,0 +1,27 @@
+From allmerica@insurancemail.net  Mon Jul 29 11:41:14 2002
+Return-Path: <allmerica@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 66AA6440ED
+	for <jm@localhost>; Mon, 29 Jul 2002 06:36:54 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:36:54 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g6T2xii06886 for <jm@jmason.org>; Mon, 29 Jul 2002 03:59:45
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Sun, 28 Jul 2002 22:59:15 -0400
+Subject: Fresh, Crisp Leads from Allmerica Financial
+To: <yyyy@spamassassin.taint.org>
+Date: Sun, 28 Jul 2002 22:59:15 -0400
+From: "IQ - Allmerica" <allmerica@insurancemail.net>
+Message-Id: <e63a001c236ab$ec4f1b30$6b01a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+MIME-Version: 1.0
+Thread-Index: AcI2lyS8zVuXwoaaTneSKzLPLdXuSA==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 29 Jul 2002 02:59:15.0375 (UTC) FILETIME=[EC6E3BF0:01C236AB]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_C7975_01C23675.9DAF2550"

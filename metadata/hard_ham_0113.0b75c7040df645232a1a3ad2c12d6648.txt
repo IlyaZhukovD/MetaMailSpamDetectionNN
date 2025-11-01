@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20535.d7-gzJKl8aOVTkWksRR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6J8tNJ12015
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Fri, 19 Jul 2002 09:55:23 +0100
+Received: from abv-sfo1-ac-agent6 (206.16.0.241) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Fri, 19 Jul 2002 04:57:28 -0700 (envelope-from <Online#3.20535.d7-gzJKl8aOVTkWksRR.1.b@newsletter.online.com>)
+Message-ID: <669357.1027068916268.JavaMail.root@abv-sfo1-ac-agent6>
+Date: Fri, 19 Jul 2002 01:55:16 -0700 (PDT)
+From: CNET Shopper Desktops  Notebooks <Online#3.20535.d7-gzJKl8aOVTkWksRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Shopping for an affordable gaming PC? (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

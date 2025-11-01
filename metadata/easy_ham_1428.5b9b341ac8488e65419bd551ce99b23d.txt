@@ -1,0 +1,39 @@
+From felicity@kluge.net  Wed Aug 28 10:46:13 2002
+Return-Path: <felicity@kluge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B23AB4415D
+	for <jm@localhost>; Wed, 28 Aug 2002 05:45:41 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 28 Aug 2002 10:45:41 +0100 (IST)
+Received: from eclectic.kluge.net
+    (IDENT:8D4+93loqH1uP9+nnpXx+6aPzB2y7pYQ@eclectic.kluge.net [66.92.69.221])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7S1aCZ06126 for
+    <jm@jmason.org>; Wed, 28 Aug 2002 02:36:12 +0100
+Received: (from felicity@localhost) by eclectic.kluge.net (8.11.6/8.11.6)
+    id g7S1aMk07018; Tue, 27 Aug 2002 21:36:22 -0400
+Date: Tue, 27 Aug 2002 21:36:22 -0400
+From: Theo Van Dinter <felicity@kluge.net>
+To: Justin Mason <yyyy@example.com>
+Cc: mark@mlucas.net, spamassassin-talk@example.sourceforge.net
+Subject: Re: FAQ: taint warnings from SA in /etc/procmailrc
+Message-Id: <20020828013622.GD30677@kluge.net>
+References: <20020827224738.GA30677@kluge.net>
+    <33052.194.125.220.138.1030490064.squirrel@jmason.org>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+    protocol="application/pgp-signature";
+    boundary="wLAMOaPNJ0fu1fTG"
+Content-Disposition: inline
+In-Reply-To: <33052.194.125.220.138.1030490064.squirrel@example.com>
+User-Agent: Mutt/1.4i
+X-GPG-Keyserver: http://wwwkeys.pgp.net
+X-GPG-Keynumber: 0xE580B363
+X-GPG-Fingerprint: 75B1 F6D0 8368 38E7 A4C5  F6C2 02E3 9051 E580 B363
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-11.8 required=7.0
+	tests=IN_REP_TO,MULTIPART_SIGNED,PGP_SIGNATURE,QUOTED_EMAIL_TEXT,
+	      REFERENCES,SPAM_PHRASE_00_01,USER_AGENT
+	version=2.40-cvs
+X-Spam-Level:

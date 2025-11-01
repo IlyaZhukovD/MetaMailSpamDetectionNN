@@ -1,0 +1,44 @@
+From fork-admin@xent.com  Wed Jul 24 03:08:35 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id C5061440CC
+	for <jm@localhost>; Tue, 23 Jul 2002 22:08:34 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 24 Jul 2002 03:08:34 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6O267413688 for <jm@jmason.org>;
+    Wed, 24 Jul 2002 03:06:09 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id C0B962940ED; Tue, 23 Jul 2002 18:55:06 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from dns2.carpediemic.com.ar (unknown [200.69.218.90]) by
+    xent.com (Postfix) with ESMTP id 7E4DB2940E9 for <fork@xent.com>;
+    Tue, 23 Jul 2002 18:54:02 -0700 (PDT)
+Received: from smtp0421.mail.yahoo.com
+    (adsl-64-217-12-1.dsl.okcyok.swbell.net [64.217.12.1]) by
+    dns2.carpediemic.com.ar (8.11.6/linuxconf) with SMTP id g6O1pmh09481;
+    Tue, 23 Jul 2002 22:51:53 -0300
+Message-Id: <200207240151.g6O1pmh09481@dns2.carpediemic.com.ar>
+Reply-To: KevinMitchellson@yahoo.com
+From: KevinMitchellson381912@yahoo.com
+To: fork@vpi.net
+Cc: fork@winskus.com, fork@wizard.com, fork@wnol.net, fork@spamassassin.taint.org,
+	fork@yahoo.com
+Subject: in under 1 minute - we can beat your current rate 38191297
+MIME-Version: 1.0
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 23 Jul 2002 21:14:31 -0500
+Content-Type: text/html; charset="iso-8859-1"

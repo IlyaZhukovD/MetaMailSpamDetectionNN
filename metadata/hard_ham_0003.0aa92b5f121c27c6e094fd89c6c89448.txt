@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19586.b5-9w0blztbvHPdZdRR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6A1r9T18415
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 10 Jul 2002 02:53:10 +0100
+Received: from abv-sfo1-ac-agent1 (206.16.0.223) by acmta4.cnet.com (PowerMTA(TM) v1.5); Tue, 9 Jul 2002 18:47:44 -0700 (envelope-from <Online#3.19586.b5-9w0blztbvHPdZdRR.1.b@newsletter.online.com>)
+Message-ID: <8177251.1026265981670.JavaMail.root@abv-sfo1-ac-agent1>
+Date: Tue, 9 Jul 2002 18:53:01 -0700 (PDT)
+From: "CNET Download.com for Mac" <Online#3.19586.b5-9w0blztbvHPdZdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: This week: Deck, Tex-Edit Plus, Boom
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

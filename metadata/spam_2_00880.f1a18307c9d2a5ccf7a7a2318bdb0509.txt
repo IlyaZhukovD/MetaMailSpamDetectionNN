@@ -1,0 +1,28 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MIG5hY041141
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Mon, 22 Jul 2002 13:16:05 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6MIG55s041138
+	for cypherpunks-forward@ds.pro-ns.net; Mon, 22 Jul 2002 13:16:05 -0500 (CDT)
+Received: from twnte.com (IDENT:postfix@twnte.com [61.222.240.97])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MIG1hX041112
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 13:16:01 -0500 (CDT)
+	(envelope-from 023anlin@ms35.hinet.net)
+Received: from mail01 (61-217-167-47.HINET-IP.hinet.net [61.217.167.47])
+	by twnte.com (Postfix) with ESMTP
+	id 6B237FB6E; Tue, 23 Jul 2002 02:03:09 -0400 (EDT)
+From: 023anlin@ms35.hinet.net
+Subject: =?Big5?B?s8y3c6V4xles2aR1sNOmV7/9LTEtMTY3LQ==?=
+To: cypher00000000@yahoo.com.tw
+Content-Type: 
+ text/html;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Reply-To: 023anlin@ms35.hinet.net
+Date: Tue, 23 Jul 2002 00:26:15 +0800
+X-Priority: 3
+X-Library: Indy 8.0.25
+Message-Id: <20020723060309.6B237FB6E@twnte.com>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by hq.pro-ns.net id g6MKOxhX092865

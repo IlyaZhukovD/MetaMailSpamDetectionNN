@@ -1,0 +1,19 @@
+Return-Path: <bounce-lghtml-2534368@sprocket.lockergnome.com>
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6DK9wJ16568
+	for <qqqqqqqqqq-lg@example.com>; Sat, 13 Jul 2002 21:09:59 +0100
+X-Mailer: ListManager Web Interface
+Date: Sat, 13 Jul 2002 11:38:08 -0500
+Subject: [Lockergnome Windows Daily]  Beefier Vinyl
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Windows Daily <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lghtml-2534368N@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lghtml@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lghtml@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lghtml-2534368N@sprocket.lockergnome.com
+Sender: bounce-lghtml-2534368@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534368-1675315-2002.07.13-11.41.07--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii

@@ -1,0 +1,18 @@
+Return-Path: <Online#3.20715.1b-g8TkgHOAIazg9sRR.1.b@newsletter.online.com>
+Received: from webnote.net (mail.webnote.net [193.120.211.219])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFHL902107
+	for <qqqqqqqqqq-zdnet@example.com>; Mon, 22 Jul 2002 16:17:22 +0100
+Received: from acmta3.cnet.com (abv-sfo1-acmta3.cnet.com [206.16.1.162])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id OAA31974
+	for <qqqqqqqqqq-zdnet@example.com>; Mon, 22 Jul 2002 14:07:28 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by acmta3.cnet.com (PowerMTA(TM) v1.5); Mon, 22 Jul 2002 05:49:25 -0700 (envelope-from <Online#3.20715.1b-g8TkgHOAIazg9sRR.1.b@newsletter.online.com>)
+Message-ID: <5659464.1027342610800.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Mon, 22 Jul 2002 05:56:50 -0700 (PDT)
+From: ZDNet Tech Update Today <Online#3.20715.1b-g8TkgHOAIazg9sRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Why HP could be king of servers (Tech Update)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

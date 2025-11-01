@@ -1,0 +1,19 @@
+From cgarnett@bording.dk  Mon Jun 24 17:48:07 2002
+Return-Path: cgarnett@bording.dk
+Delivery-Date: Wed Jun  5 00:23:50 2002
+Received: from tehuacan1.pue.upaep.mx ([200.33.13.195]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g54NNi529386 for
+    <jm@jmason.org>; Wed, 5 Jun 2002 00:23:45 +0100
+Received: from fallback.vuurwerk.nl (dclient217-162-106-91.hispeed.ch
+    [217.162.106.91]) by tehuacan1.pue.upaep.mx (8.9.3/8.8.7) with ESMTP id
+    SAA19056; Tue, 4 Jun 2002 18:14:02 -0500
+Message-Id: <00002e6f3b64$00005255$0000230d@mail1.boi.co.in>
+To: <cgarnett@bording.dk>
+From: "New Age Technologies" <cgarnett@bording.dk>
+Subject: Use the Web to conduct your meetings
+Date: Tue, 04 Jun 2002 16:04:42 -1900
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

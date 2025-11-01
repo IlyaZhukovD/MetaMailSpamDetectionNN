@@ -1,0 +1,22 @@
+From ja@insurancemail.net  Mon Jun 24 17:05:02 2002
+Return-Path: ja@insurancemail.net
+Delivery-Date: Sun May 19 18:12:08 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4JHC3e21730 for <jm@jmason.org>; Sun, 19 May 2002 18:12:08
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Sun, 19 May 2002 13:11:26 -0400
+Subject: An Untapped Market = An Easy Sale
+To: <yyyy@spamassassin.taint.org>
+Date: Sun, 19 May 2002 13:11:26 -0400
+From: "John Alden Life" <ja@insurancemail.net>
+Message-Id: <1725df01c1ff58$356bd9b0$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcH/QjQT1Pm8FlGHSXuRBJOmb3qDQg==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 19 May 2002 17:11:26.0355 (UTC) FILETIME=[358A5E30:01C1FF58]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_152120_01C1FF20.AD02E910"

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20552.e7-ldDFl1QrfB8UC9RR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6JAJ9J17531
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 19 Jul 2002 11:19:10 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by acmta4.cnet.com (PowerMTA(TM) v1.5); Fri, 19 Jul 2002 03:13:28 -0700 (envelope-from <Online#3.20552.e7-ldDFl1QrfB8UC9RR.1.b@newsletter.online.com>)
+Message-ID: <577557.1027073927871.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Fri, 19 Jul 2002 03:18:47 -0700 (PDT)
+From: ZDNet Shopper <Online#3.20552.e7-ldDFl1QrfB8UC9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Need a PDA that's more than a phonebook? (ZDNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

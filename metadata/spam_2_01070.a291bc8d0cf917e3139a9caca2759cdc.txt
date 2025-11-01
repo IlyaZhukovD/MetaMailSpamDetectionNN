@@ -1,0 +1,49 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6P5wfi5060851
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Thu, 25 Jul 2002 00:58:42 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6P5wf9s060848
+	for cypherpunks-forward@ds.pro-ns.net; Thu, 25 Jul 2002 00:58:41 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6P5wci5060803
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Thu, 25 Jul 2002 00:58:39 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6P5wbJ68532
+	for <cypherpunks@ds.pro-ns.net>; Thu, 25 Jul 2002 01:58:38 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6P5wbj28745
+	for cypherpunks@ds.pro-ns.net; Thu, 25 Jul 2002 01:58:37 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6P5wZR28726
+	for <cpunks@minder.net>; Thu, 25 Jul 2002 01:58:35 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6P5wYJ68520
+	for <cpunks@minder.net>; Thu, 25 Jul 2002 01:58:34 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id BAA01192
+	for cpunks@minder.net; Thu, 25 Jul 2002 01:07:35 -0500
+Received: from pascal.entorno.es (pascal.entorno.es [195.77.116.2])
+	by einstein.ssz.com (8.8.8/8.8.8) with ESMTP id BAA01184
+	for <cpunks@einstein.ssz.com>; Thu, 25 Jul 2002 01:07:29 -0500
+Received: from babbage.entorno.es (babbage.entorno.es [195.77.116.6])
+	by pascal.entorno.es (8.11.6/8.11.6) with ESMTP id g6P5ou518142;
+	Thu, 25 Jul 2002 07:50:57 +0200
+Received: from xmxpita.excite.com (dsc04.dai-tx-4-59.rasserver.net [204.31.171.59])
+	by babbage.entorno.es (8.8.8+Sun/8.8.8) with SMTP id HAA17519;
+	Thu, 25 Jul 2002 07:56:14 +0200 (MET DST)
+Message-ID: <0000776453ec$000024c0$000045c1@xmxpita.excite.com>
+To: <Money.In.Motion@babbage.entorno.es>
+From: "Term Quotes, Life Insurance of America" <CXIN05@excite.com>
+Subject: Traders                   DQB
+Date: Thu, 25 Jul 2002 00:57:41 -1700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Reply-To: CXINTrades04@excite.com

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20080.61-hi7ag2S-9fV2Y9RR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta5.cnet.com (abv-sfo1-acmta5.cnet.com [206.16.1.164])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6FLiqJ09499
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Mon, 15 Jul 2002 22:44:52 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by abv-sfo1-acmta5.cnet.com (PowerMTA(TM) v1.5); Mon, 15 Jul 2002 14:38:02 -0700 (envelope-from <Online#3.20080.61-hi7ag2S-9fV2Y9RR.1.b@newsletter.online.com>)
+Message-ID: <2265081.1026769485859.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Mon, 15 Jul 2002 14:44:45 -0700 (PDT)
+From: "CNET News.com Investor" <Online#3.20080.61-hi7ag2S-9fV2Y9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: NEWS.COM INVESTOR: Techs rise, but Dow falls on day of Bush speech
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

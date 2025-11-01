@@ -1,0 +1,15 @@
+Return-Path: <2.21043.2c-kMPmgZUD7TNG.1.b@ummail4.unitedmedia.com>
+Received: from webnote.net (mail.webnote.net [193.120.211.219])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MHQS403439
+	for <qqqqqqqqqq-dilbert@example.com>; Mon, 22 Jul 2002 18:26:28 +0100
+Received: from ummail1a.unitedmedia.com (umnet12.unitedmedia.com [65.114.4.12] (may be forged))
+	by webnote.net (8.9.3/8.9.3) with ESMTP id MAA23314
+	for <qqqqqqqqqq-dilbert@example.com>; Sat, 20 Jul 2002 12:29:43 +0100
+Received: from umsan1 (10.1.1.75) by ummail1a.unitedmedia.com (PowerMTA(TM) v1.5); Sat, 20 Jul 2002 06:58:52 -0400 (envelope-from <2.21043.2c-kMPmgZUD7TNG.1.b@ummail4.unitedmedia.com>)
+Message-ID: <27198637.1027162641600.JavaMail.root@umsan1>
+Date: Sat, 20 Jul 2002 06:57:21 -0400 (EDT)
+From: Daily Dilbert <2.21043.2c-kMPmgZUD7TNG.1@ummail4.unitedmedia.com>
+To: qqqqqqqqqq-dilbert@example.com
+Subject: Your Daily Dilbert 07/20/2002
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=24851503.1027162641507.JavaMail.root.umsan1

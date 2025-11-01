@@ -1,0 +1,36 @@
+From guterman@mediaunspun.imakenews.net  Mon Aug 12 14:17:14 2002
+Return-Path: <guterman@mediaunspun.imakenews.net>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 1CBA844177
+	for <zzz@localhost>; Mon, 12 Aug 2002 09:17:08 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Mon, 12 Aug 2002 14:17:08 +0100 (IST)
+Received: from eng.imakenews.com (mailservice4.imakenews.com
+    [65.214.33.17]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7CDDlb14366 for <zzz-unspun@example.com>; Mon, 12 Aug 2002 14:13:48 +0100
+Received: by eng.imakenews.com (PowerMTA(TM) v1.5); Mon, 12 Aug 2002
+    09:13:21 -0400 (envelope-from <guterman@mediaunspun.imakenews.net>)
+Content-Transfer-Encoding: binary
+Content-Type: multipart/alternative;
+    boundary="----------=_1029157891-23956-4";
+    charset="iso-8859-1"
+Date: Mon, 12 Aug 2002 09:11:31 -0400
+Errors-To: <guterman@mediaunspun.imakenews.net>
+From: "Media Unspun" <guterman@mediaunspun.imakenews.net>
+MIME-Version: 1.0
+Message-Id: <23956$1029157891$mediaunspun$5114587@imakenews.net>
+Precedence: normal
+Reply-To: "Media Unspun" <guterman@vineyard.com>
+Sender: "Media Unspun" <guterman@mediaunspun.imakenews.net>
+Subject: Brother, Can You Spare a Jet?
+To: zzz-unspun@example.com
+X-Imn: mediaunspun,176311,5114587,0
+X-Spam-Status: No, hits=-86.9 required=7.0
+	tests=BIG_FONT,CLICK_BELOW,CLICK_HERE_LINK,EXCUSE_3,FREE_TRIAL,
+	      GAPPY_TEXT,HTML_WITH_BGCOLOR,LINES_OF_YELLING,MAILTO_LINK,
+	      MAILTO_TO_SPAM_ADDR,MARKETING_PARTNERS,REMOVE_PAGE,
+	      SUPERLONG_LINE,USER_IN_WHITELIST
+	version=2.40
+X-Spam-Level:

@@ -1,0 +1,48 @@
+From fork-admin@xent.com  Mon Aug 26 15:32:36 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 0AE2744171
+	for <jm@localhost>; Mon, 26 Aug 2002 10:26:41 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 26 Aug 2002 15:26:41 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7Q1SxZ04063 for <jm@jmason.org>;
+    Mon, 26 Aug 2002 02:29:08 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id D77BA2940A0; Sun, 25 Aug 2002 18:26:08 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from granger.mail.mindspring.net (granger.mail.mindspring.net
+    [207.69.200.148]) by xent.com (Postfix) with ESMTP id DB8FA29409E for
+    <fork@xent.com>; Sun, 25 Aug 2002 18:25:57 -0700 (PDT)
+Received: from user-119ac86.biz.mindspring.com ([66.149.49.6]) by
+    granger.mail.mindspring.net with esmtp (Exim 3.33 #1) id 17j8fN-0006PA-00;
+    Sun, 25 Aug 2002 21:27:42 -0400
+MIME-Version: 1.0
+X-Sender: rahettinga@pop.earthlink.net
+Message-Id: <p05111a10b98ef708270d@[66.149.49.6]>
+To: Digital Bearer Settlement List <dbs@philodox.com>, fork@example.com,
+	cypherpunks@lne.com, dcsb@ai.mit.edu
+From: "R. A. Hettinga" <rah@shipwright.com>
+Subject: TGE: Thugs of South Boston and The Revenge of the Bandit Princess
+Content-Type: text/plain; charset="us-ascii"
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Sun, 25 Aug 2002 21:18:34 -0400
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-6.6 required=7.0
+	tests=KNOWN_MAILING_LIST,PGP_MESSAGE,SIGNATURE_LONG_DENSE,
+	      SPAM_PHRASE_00_01,US_DOLLARS_2
+	version=2.40-cvs
+X-Spam-Level:

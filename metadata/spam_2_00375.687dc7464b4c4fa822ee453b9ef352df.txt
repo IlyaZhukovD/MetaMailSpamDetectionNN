@@ -1,0 +1,17 @@
+From jm@netnoteinc.com  Mon Jun 24 17:05:04 2002
+Return-Path: yyyy@netnoteinc.com
+Delivery-Date: Sun May 19 21:09:44 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4JK9he27944 for
+    <jm@jmason.org>; Sun, 19 May 2002 21:09:43 +0100
+Received: from mx4.mail.yahoo.com ([198.78.28.10]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g4JK9gD16427 for
+    <jm@netnoteinc.com>; Sun, 19 May 2002 21:09:42 +0100
+Date: Sun, 19 May 2002 21:09:42 +0100
+Message-Id: <200205192009.g4JK9gD16427@mandark.labs.netnoteinc.com>
+From: yyyy@netnoteinc.com
+To: yyyy@netnoteinc.com
+Subject: You Won $30 Dollars !
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html

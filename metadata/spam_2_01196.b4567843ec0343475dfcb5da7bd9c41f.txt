@@ -1,0 +1,24 @@
+From stinkman1@hotmail.com  Tue Jul 30 08:19:53 2002
+Return-Path: <stinkman1@hotmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 64980440EF
+	for <jm@localhost>; Tue, 30 Jul 2002 03:19:53 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 30 Jul 2002 08:19:53 +0100 (IST)
+Received: from server.GRAYLODGE.ORG (host2.155.212.112.conversent.net
+    [155.212.112.2]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g6U7F7q12454 for <webmaster@efi.ie>; Tue, 30 Jul 2002 08:15:07 +0100
+Received: from serg.net (catv-d5deac2d.bp13catv.broadband.hu
+    [213.222.172.45]) by server.GRAYLODGE.ORG with SMTP (Microsoft Exchange
+    Internet Mail Service Version 5.5.2653.13) id 31C23WW9; Tue,
+    30 Jul 2002 03:11:25 -0400
+Message-Id: <000035793757$000003e6$0000245a@serotech.com>
+To: <az@dogma.slashnull.org>
+From: stinkman1@hotmail.com
+Subject: DON'T LET A COMPUTER VIRUS RUIN YOUR DAY           32448
+Date: Tue, 30 Jul 2002 03:11:18 -1600
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

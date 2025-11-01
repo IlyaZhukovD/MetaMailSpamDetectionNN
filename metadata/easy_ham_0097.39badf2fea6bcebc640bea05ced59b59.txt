@@ -1,0 +1,23 @@
+From webster@ryanairmail.com  Mon Sep  2 12:30:45 2002
+Return-Path: <webster@ryanairmail.com>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 1B3B143F9B
+	for <zzzz@localhost>; Mon,  2 Sep 2002 07:30:37 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Mon, 02 Sep 2002 12:30:37 +0100 (IST)
+Received: from mail.ryanair2.ie ([193.120.152.8]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g7ULMQZ08782 for <zzzz-ryanair@example.com>;
+    Fri, 30 Aug 2002 22:22:36 +0100
+From: webster@ryanairmail.com
+To: "Customers" <customers@mail.ryanairmail.com>
+Subject: Save up to 70% on international calls!
+Date: Fri, 30 Aug 2002 17:42:52 +0100
+X-Assembled-BY: XWall v3.21
+Message-Id: <LISTMANAGER-949326-32914-2002.08.30-17.47.31--zzzz-ryanair#example.com@mail.ryanairmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+    boundary="_NextPart_1_bvfoDiTVghtoCXFdvJNKcuWblFV"
+List-Unsubscribe: <mailto:leave-customers-949326K@mail.ryanairmail.com>
+Reply-To: webster@ryanairmail.com

@@ -1,0 +1,14 @@
+Received: from consumerpackage.net ([65.123.236.7])
+	by linux.midrange.com (8.11.6/8.11.6) with SMTP id g6KNHf411331
+	for <evie@midrange.com>; Sat, 20 Jul 2002 18:17:41 -0500
+Message-Id: <200207202317.g6KNHf411331@linux.midrange.com>
+Date: 20 Jul 2002 23:22:22 -0000
+X-Sender: consumerpackage.net
+X-MailID: 1511722.15
+Complain-To: abuse@consumerpackage.com
+To: evie@midrange.com
+From: Legal Consultation <legalconsul@consumerpackage.net>
+Subject: Top-Notch attorneys for PENNIES a day
+Content-Type: text/html;
+X-Status: 
+X-Keywords:

@@ -1,0 +1,23 @@
+From gender4828@flashmail.com  Tue Aug  6 13:39:41 2002
+Return-Path: <gender4828@flashmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id AE0E4440CD
+	for <jm@localhost>; Tue,  6 Aug 2002 08:39:40 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 13:39:40 +0100 (IST)
+Received: from c.postmasterdirect.com ([206.161.21.66])
+	by webnote.net (8.9.3/8.9.3) with SMTP id MAA17694
+	for <jm@netnoteinc.com>; Tue, 6 Aug 2002 12:05:36 +0100
+From: gender4828@flashmail.com
+X-Mailer: X-MSMail-Priority: Normal
+To: freud@acmemail.net
+Subject: Blue horseshoe meet me
+Message-Id: <7w3q6u.780y6xabm11j8dj1@c.postmasterdirect.com>
+Date: Tue, 06 Aug 2002 07:18:05 -0500
+Reply-To: mbay@btamail.net.cn
+MIME-Version: 1.0
+X-Encoding: MIME
+Cc: yyyy@netnoteinc.com
+Content-Type: multipart/alternative; boundary="----=_NextPart_2554534503687811774"

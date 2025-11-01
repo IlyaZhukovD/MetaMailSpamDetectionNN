@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19660.88-olLIlW2o6IOeGRRR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6ADWJJ10328
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 10 Jul 2002 14:32:19 +0100
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Wed, 10 Jul 2002 06:34:35 -0700 (envelope-from <Online#3.19660.88-olLIlW2o6IOeGRRR.1.b@newsletter.online.com>)
+Message-ID: <649569.1026307933031.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Wed, 10 Jul 2002 06:32:13 -0700 (PDT)
+From: ZDNet Tech Update Today <Online#3.19660.88-olLIlW2o6IOeGRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: What to look for in your next smart phone (Tech Update)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

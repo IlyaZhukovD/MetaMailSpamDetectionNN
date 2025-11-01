@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20516.fc-LmYwlaX_4cin49RR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6J0CaJ03647
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 19 Jul 2002 01:12:37 +0100
+Received: from abv-sfo1-ac-agent6 (206.16.0.241) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 17:14:58 -0700 (envelope-from <Online#3.20516.fc-LmYwlaX_4cin49RR.1.b@newsletter.online.com>)
+Message-ID: <6859972.1027037549498.JavaMail.root@abv-sfo1-ac-agent6>
+Date: Thu, 18 Jul 2002 17:12:29 -0700 (PDT)
+From: CNET Digital Dispatch <Online#3.20516.fc-LmYwlaX_4cin49RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: CNET DIGITAL DISPATCH: Mac zealots unite
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

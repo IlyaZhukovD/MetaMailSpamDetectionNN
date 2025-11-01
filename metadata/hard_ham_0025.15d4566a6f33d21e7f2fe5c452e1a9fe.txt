@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19799.13-cLBKgHwZrJFX3dRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta5.cnet.com (abv-sfo1-acmta5.cnet.com [206.16.1.164])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6BAY2J23694
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 11 Jul 2002 11:34:02 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by abv-sfo1-acmta5.cnet.com (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 03:27:16 -0700 (envelope-from <Online#3.19799.13-cLBKgHwZrJFX3dRR.1.b@newsletter.online.com>)
+Message-ID: <4648047.1026383634977.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Thu, 11 Jul 2002 03:33:52 -0700 (PDT)
+From: AnchorDesk <Online#3.19799.13-cLBKgHwZrJFX3dRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Next MS Office? Here's what I'd add--and delete [ANCHORDESK]
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

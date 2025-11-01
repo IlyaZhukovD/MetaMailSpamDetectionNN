@@ -1,0 +1,41 @@
+From fork-admin@xent.com  Tue Jul 30 07:29:13 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 6ED34440EF
+	for <jm@localhost>; Tue, 30 Jul 2002 02:29:13 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 30 Jul 2002 07:29:13 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6U6QLq10954 for <jm@jmason.org>;
+    Tue, 30 Jul 2002 07:26:21 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 519652940EC; Mon, 29 Jul 2002 23:20:09 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from ns-01.starhosting.net (ns-01.starhosting.net
+    [12.34.156.239]) by xent.com (Postfix) with ESMTP id AE4282940E8 for
+    <FoRK@xent.com>; Mon, 29 Jul 2002 23:19:01 -0700 (PDT)
+Received: from ns-01.starhosting.net (localhost [127.0.0.1]) by
+    ns-01.starhosting.net (8.12.1/8.12.1) with ESMTP id g6U6Tpxx021306;
+    Tue, 30 Jul 2002 01:29:51 -0500
+Received: (from apache@localhost) by ns-01.starhosting.net
+    (8.12.1/8.12.1/Submit) id g6U6TlgU021283; Tue, 30 Jul 2002 01:29:47 -0500
+Message-Id: <200207300629.g6U6TlgU021283@ns-01.starhosting.net>
+To: foo-faq@foo-ag.de, FOREGONE@MSN.COM, forgione@starpower.net,
+	FoRK@xent.com, formmail@rightsports.com
+From: xcutieamandax@yahoo.com ()
+Subject: Penis Enlargement Pills - 100% Guarantee Or Money Back
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 30 Jul 2002 01:29:47 -0500

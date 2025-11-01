@@ -1,0 +1,24 @@
+From bboop313@hotmail.com  Tue Aug  6 13:41:06 2002
+Return-Path: <bboop313@hotmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B78344410D
+	for <jm@localhost>; Tue,  6 Aug 2002 08:39:49 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 13:39:49 +0100 (IST)
+Received: from mail.webnote.net ([211.93.118.253])
+	by webnote.net (8.9.3/8.9.3) with SMTP id NAA18085
+	for <jm@netnoteinc.com>; Tue, 6 Aug 2002 13:02:22 +0100
+From: bboop313@hotmail.com
+Received: Tue, 6 Aug 2002 18:39:26 +0800
+Message-ID: <0000720449a4$0000231f$000069d3@mrdrpsbrktyc.com>
+To: <klaganga@hotmail.com>, <pipop@loxinfo.co.th>,
+	<104642.3540@msn.com>, <jime@uvsg.com>
+Cc: <maxbosara@hotmail.com>, <douglaslaity@hotmail.com>,
+	<jane.andersen@mailexcite.com>
+Subject: Attn: PROTECT YOUR COMPUTER,YOU NEED SYSTEMWORKS2002!            19806
+Date: Tue, 06 Aug 2002 03:43:31 -1900
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

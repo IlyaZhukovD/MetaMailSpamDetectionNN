@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19692.cd-kEiTl7czTUOatRRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6ALeUJ06740
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 10 Jul 2002 22:40:31 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 10 Jul 2002 14:41:15 -0700 (envelope-from <Online#3.19692.cd-kEiTl7czTUOatRRR.1.b@newsletter.online.com>)
+Message-ID: <6957489.1026337224942.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Wed, 10 Jul 2002 14:40:24 -0700 (PDT)
+From: "CNET News.com Investor" <Online#3.19692.cd-kEiTl7czTUOatRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: NEWS.COM INVESTOR: Tech stocks drop again on Qwest criminal probe news
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

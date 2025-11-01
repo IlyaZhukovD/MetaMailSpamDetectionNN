@@ -1,0 +1,17 @@
+From targetemailextractor@btamail.net.cn  Mon Jun 24 17:49:40 2002
+Return-Path: targetemailextractor@btamail.net.cn
+Delivery-Date: Sat Jun  1 17:51:09 2002
+Received: from localhost.com ([218.0.72.85]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g51Gp5O15647 for <fma@jmason.org>;
+    Sat, 1 Jun 2002 17:51:08 +0100
+Message-Id: <200206011651.g51Gp5O15647@dogma.slashnull.org>
+From: targetemailextractor@btamail.net.cn
+Reply-To: targetemailextractor@btamail.net.cn
+To: fma@spamassassin.taint.org
+Date: Sun, 2 Jun 2002 00:50:39 +0800
+Subject: ADV: Harvest lots of Target Email addresses quickly,/
+X-Mailer: QuickSender 1.05
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable

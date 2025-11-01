@@ -1,0 +1,18 @@
+From vcyonjqktt@compuserve.com  Fri Aug  9 07:52:55 2002
+Return-Path: <vcyonjqktt@compuserve.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 58CBB440CF
+	for <jm@localhost>; Fri,  9 Aug 2002 02:52:55 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 09 Aug 2002 07:52:55 +0100 (IST)
+Received: from qw (0-1pool128-168.nas10.somerville1.ma.us.da.qwest.net [63.159.128.168])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id HAA04006
+	for <jm@netnoteinc.com>; Fri, 9 Aug 2002 07:52:23 +0100
+Date: Fri, 9 Aug 2002 07:52:23 +0100
+From: vcyonjqktt@compuserve.com
+Subject: Don't Be a Victim protect your Laptop
+To: 
+Message-ID: dpaedyuqvrtnkkf.vcyonjqktt@compuserve.com
+Content-Type: text/html

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20341.24-QI_LgZARqA78CdRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6I4PsJ26465
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 18 Jul 2002 05:25:54 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 21:26:39 -0700 (envelope-from <Online#3.20341.24-QI_LgZARqA78CdRR.1.b@newsletter.online.com>)
+Message-ID: <7957247.1026966347345.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Wed, 17 Jul 2002 21:25:47 -0700 (PDT)
+From: CNET Delivers <Online#3.20341.24-QI_LgZARqA78CdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Canon USA Reseller News : July
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

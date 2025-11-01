@@ -1,0 +1,25 @@
+From OneIncomeLiving-bounce@groups.msn.com  Mon Aug 12 16:46:35 2002
+Return-Path: <OneIncomeLiving-bounce@groups.msn.com>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 81D8144179
+	for <zzz@localhost>; Mon, 12 Aug 2002 11:46:25 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Mon, 12 Aug 2002 16:46:25 +0100 (IST)
+Received: from groups.msn.com (tk2dcpuba04.msn.com [65.54.195.216]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7CFjgb22724 for
+    <zzz-qqqqqqqqqqs-msn@example.com>; Mon, 12 Aug 2002 16:45:43 +0100
+Received: from mail pickup service by groups.msn.com with Microsoft
+    SMTPSVC; Mon, 12 Aug 2002 08:44:52 -0700
+Message-Id: <OneIncomeLiving-1412@groups.msn.com>
+X-Loop: notifications@groups.msn.com
+Reply-To: "One Income Living" <OneIncomeLiving@groups.msn.com>
+From: "joyful" <abcusa88@hotmail.com>
+To: "One Income Living" <OneIncomeLiving@groups.msn.com>
+Subject: Re: Hi! I'm new here.
+Date: Mon, 12 Aug 2002 08:44:52 -0700
+MIME-Version: 1.0
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4910.0300
+X-Originalarrivaltime: 12 Aug 2002 15:44:52.0789 (UTC) FILETIME=[330BD650:01C24217]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_106262_01C241DC.868B93A0"

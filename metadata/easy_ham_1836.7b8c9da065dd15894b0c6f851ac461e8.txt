@@ -1,0 +1,10 @@
+Return-Path: skip@pobox.com
+Delivery-Date: Mon Sep  9 15:11:16 2002
+From: skip@pobox.com (Skip Montanaro)
+Date: Mon, 9 Sep 2002 09:11:16 -0500
+Subject: [Spambayes] spambayes package?
+In-Reply-To: <20020909131606.GA1136@cthulhu.gerg.ca>
+References: <15738.34711.467756.145336@12-248-11-90.client.attbi.com>
+        <200209080247.g882lNt17033@pcp02138704pcs.reston01.va.comcast.net>
+        <20020909131606.GA1136@cthulhu.gerg.ca>
+Message-ID: <15740.44036.651321.285627@12-248-11-90.client.attbi.com>

@@ -1,0 +1,20 @@
+From httpd@blue003.nwcyberbaseus.com  Fri Jul 26 16:07:55 2002
+Return-Path: <httpd@blue003.nwcyberbaseus.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7916A440E9
+	for <jm@localhost>; Fri, 26 Jul 2002 11:07:55 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 26 Jul 2002 16:07:55 +0100 (IST)
+Received: from blue003.nwcyberbaseus.com ([208.170.46.244])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6QF60p28490
+	for <jm@netnoteinc.com>; Fri, 26 Jul 2002 16:06:03 +0100
+Received: (from httpd@localhost)
+	by blue003.nwcyberbaseus.com (8.9.3/8.9.3) id IAA05336;
+	Fri, 26 Jul 2002 08:06:20 -0700
+Date: Fri, 26 Jul 2002 08:06:20 -0700
+Message-Id: <200207261506.IAA05336@blue003.nwcyberbaseus.com>
+To: yyyy@netnoteinc.com
+From: "Opt In News LAXPress.com" <admin1@laxpress.com>
+Subject: Your monthly LaXPress Adults Only Newsletter

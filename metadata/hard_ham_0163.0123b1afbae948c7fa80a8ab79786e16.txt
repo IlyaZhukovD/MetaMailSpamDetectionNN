@@ -1,0 +1,38 @@
+From guterman@mediaunspun.imakenews.net  Wed Aug 14 14:38:59 2002
+Return-Path: <guterman@mediaunspun.imakenews.net>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 87FA743C34
+	for <zzz@localhost>; Wed, 14 Aug 2002 09:38:52 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Wed, 14 Aug 2002 14:38:52 +0100 (IST)
+Received: from eng.imakenews.com (mailservice4.imakenews.com
+    [65.214.33.17]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7EDZx416820 for <zzz-unspun@example.com>; Wed, 14 Aug 2002 14:35:59 +0100
+Received: by eng.imakenews.com (PowerMTA(TM) v1.5); Wed, 14 Aug 2002
+    09:35:04 -0400 (envelope-from <guterman@mediaunspun.imakenews.net>)
+Content-Transfer-Encoding: binary
+Content-Type: multipart/alternative;
+    boundary="----------=_1029331990-31627-4";
+    charset="iso-8859-1"
+Date: Wed, 14 Aug 2002 09:33:10 -0400
+Errors-To: <guterman@mediaunspun.imakenews.net>
+From: "Media Unspun" <guterman@mediaunspun.imakenews.net>
+MIME-Version: 1.0
+Message-Id: <31627$1029331990$mediaunspun$5114587@imakenews.net>
+Precedence: normal
+Reply-To: "Media Unspun" <guterman@vineyard.com>
+Sender: "Media Unspun" <guterman@mediaunspun.imakenews.net>
+Subject: SEC Exposes Big Blue's Pink Slips
+To: zzz-unspun@example.com
+X-Imn: mediaunspun,178767,5114587,0
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-87.5 required=7.0
+	tests=BIG_FONT,CLICK_BELOW,CLICK_HERE_LINK,EXCUSE_3,FREE_TRIAL,
+	      GAPPY_TEXT,HTML_WITH_BGCOLOR,LINES_OF_YELLING,
+	      LINES_OF_YELLING_2,MAILTO_LINK,MAILTO_TO_REMOVE,
+	      MAILTO_TO_SPAM_ADDR,REMOVE_PAGE,SPAM_PHRASE_03_05,
+	      SUPERLONG_LINE,USER_IN_WHITELIST
+	version=2.40
+X-Spam-Level:

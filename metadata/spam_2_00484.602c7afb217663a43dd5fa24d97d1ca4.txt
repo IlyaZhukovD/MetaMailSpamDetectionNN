@@ -1,0 +1,25 @@
+From County-Origin.?@dogma.slashnull.org  Mon Jun 24 17:06:53 2002
+Return-Path: inquiresto@yahoo.com
+Delivery-Date: Tue May 28 01:59:57 2002
+Received: from mail01.svc.cra.dublin.eircom.net
+    (mail01.svc.cra.dublin.eircom.net [159.134.118.17]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g4S0xue13025 for <jm@jmason.org>;
+    Tue, 28 May 2002 01:59:57 +0100
+Message-Id: <200205280059.g4S0xue13025@dogma.slashnull.org>
+Received: (qmail 29876 messnum 160913 invoked from
+    network[159.134.184.96/p96.as2.virginia1.eircom.net]); 28 May 2002
+    00:59:34 -0000
+Received: from p96.as2.virginia1.eircom.net (HELO xzfg.net)
+    (159.134.184.96) by mail01.svc.cra.dublin.eircom.net (qp 29876) with SMTP;
+    28 May 2002 00:59:34 -0000
+From: "" <County-Origin.?@dogma.slashnull.org>
+To: "yyyy" <yyyy@spamassassin.taint.org>
+Subject: Question From Patrick In Ireland
+Date: Tue, 28 May 02 01:25:09 GMT Daylight Time
+MIME-Version: 1.0
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2462.0000
+X-Keywords: 
+Content-Type: multipart/mixed;boundary= "----=_NextPart_000_0066_62CFF34B.9C652FBA"

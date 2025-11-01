@@ -1,0 +1,22 @@
+From emc@insurancemail.net  Mon Jun 24 17:04:25 2002
+Return-Path: emc@insurancemail.net
+Delivery-Date: Thu May 16 22:46:46 2002
+Received: from insiq4.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4GLkje23833 for <jm@jmason.org>; Thu, 16 May 2002 22:46:45
+    +0100
+Received: from mail pickup service by insiq4.insuranceiq.com with
+    Microsoft SMTPSVC; Thu, 16 May 2002 17:46:04 -0400
+From: "EMC" <emc@insurancemail.net>
+To: <yyyy@spamassassin.taint.org>
+Date: Thu, 16 May 2002 17:46:04 -0400
+Subject: What is EMC Stock to Cash?
+MIME-Version: 1.0
+Message-Id: <f096601c1fd23$142e35e0$3201a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcH9FoGhNmCMTZHHQiqBTrxB6oB4qA==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 16 May 2002 21:46:04.0937 (UTC) FILETIME=[144D2F90:01C1FD23]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_DD23E_01C1FCF4.FA928290"

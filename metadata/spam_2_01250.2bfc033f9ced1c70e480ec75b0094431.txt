@@ -1,0 +1,27 @@
+From mando@insurancemail.net  Tue Aug  6 12:51:07 2002
+Return-Path: <mando@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id A5A6D44321
+	for <jm@localhost>; Tue,  6 Aug 2002 07:13:18 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 12:13:18 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g72N2Bv15095 for <jm@jmason.org>; Sat, 3 Aug 2002 00:02:12
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Fri, 2 Aug 2002 19:01:19 -0400
+Subject: Let Us "Show You the Money!"
+To: <yyyy@spamassassin.taint.org>
+Date: Fri, 2 Aug 2002 19:01:19 -0400
+From: "IQ - M & O Marketing" <mando@insurancemail.net>
+Message-Id: <23064401c23a78$83301c50$6b01a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+MIME-Version: 1.0
+Thread-Index: AcI6Y/K4e3WizK+bQKCixsyGq3Ye6Q==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 02 Aug 2002 23:01:19.0328 (UTC) FILETIME=[834F1600:01C23A78]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_211FCD_01C23A42.6BB016B0"

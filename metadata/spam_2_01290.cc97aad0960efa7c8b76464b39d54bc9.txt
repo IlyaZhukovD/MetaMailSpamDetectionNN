@@ -1,0 +1,22 @@
+From emailharvest@email.com  Tue Aug  6 12:55:31 2002
+Return-Path: <emailharvest@email.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id DB40C4411E
+	for <jm@localhost>; Tue,  6 Aug 2002 07:32:03 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 12:32:03 +0100 (IST)
+Received: from localhost.com ([61.174.203.135]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g75CdUv11298 for <fma@jmason.org>;
+    Mon, 5 Aug 2002 13:39:36 +0100
+Message-Id: <200208051239.g75CdUv11298@dogma.slashnull.org>
+From: emailharvest@email.com
+Reply-To: emailharvest@email.com
+To: fma@spamassassin.taint.org
+Date: Mon, 5 Aug 2002 20:38:02 +0800
+Subject: ADV: Harvest lots of E-mail addresses quickly !
+X-Mailer: QuickSender 1.05
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable

@@ -1,0 +1,21 @@
+From chickweed@wt.net  Mon Jun 24 17:03:11 2002
+Return-Path: chickweed@wt.net
+Delivery-Date: Sun May 12 05:45:28 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4C4jSe31117 for
+    <jm@jmason.org>; Sun, 12 May 2002 05:45:28 +0100
+Received: from html (24-240-231-200.hsacorp.net [24.240.231.200]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g4C4jDD09249 for
+    <jm@netnoteinc.com>; Sun, 12 May 2002 05:45:16 +0100
+Message-Id: <0000607c112e$000043a3$0000180a@html>
+To: <yyyy@netnoteinc.com>
+From: chickweed@wt.net
+Subject: Relief for all skin disorders
+Date: Sat, 11 May 2002 23:45:19 -0500
+MIME-Version: 1.0
+X-Priority: 3
+X-Msmail-Priority: Normal
+Reply-To: chickweed@wt.net
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

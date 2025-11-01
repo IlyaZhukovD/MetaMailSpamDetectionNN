@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19963.a7-m4d9lL5yDbfN5RRR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6CKWuJ31376
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 12 Jul 2002 21:32:56 +0100
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by acmta4.cnet.com (PowerMTA(TM) v1.5); Fri, 12 Jul 2002 13:27:20 -0700 (envelope-from <Online#3.19963.a7-m4d9lL5yDbfN5RRR.1.b@newsletter.online.com>)
+Message-ID: <3893462.1026505958963.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Fri, 12 Jul 2002 13:32:38 -0700 (PDT)
+From: "CNET News.com Daily Dispatch" <Online#3.19963.a7-m4d9lL5yDbfN5RRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: CNET NEWS.COM: Canning spam without eating up real mail
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

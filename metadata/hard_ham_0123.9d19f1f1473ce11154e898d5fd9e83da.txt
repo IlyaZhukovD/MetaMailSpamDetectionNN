@@ -1,0 +1,18 @@
+Return-Path: <Online#3.20705.6a-MXJpglaCUJic5dRR.1.b@newsletter.online.com>
+Received: from webnote.net (mail.webnote.net [193.120.211.219])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFIZ903161
+	for <qqqqqqqqqq-zdnet@example.com>; Mon, 22 Jul 2002 16:18:35 +0100
+Received: from abv-sfo1-acmta5.cnet.com (abv-sfo1-acmta5.cnet.com [206.16.1.164])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id JAA31061
+	for <qqqqqqqqqq-zdnet@example.com>; Mon, 22 Jul 2002 09:53:30 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by abv-sfo1-acmta5.cnet.com (PowerMTA(TM) v1.5); Mon, 22 Jul 2002 01:36:06 -0700 (envelope-from <Online#3.20705.6a-MXJpglaCUJic5dRR.1.b@newsletter.online.com>)
+Message-ID: <2673112.1027327376649.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Mon, 22 Jul 2002 01:42:56 -0700 (PDT)
+From: AnchorDesk <Online#3.20705.6a-MXJpglaCUJic5dRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: How Microsoft plans to take over your living room [ANCHORDESK]
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

@@ -1,0 +1,38 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6LKbgCU021534
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Sun, 21 Jul 2002 15:37:42 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6LKbggW021531
+	for cypherpunks-forward@ds.pro-ns.net; Sun, 21 Jul 2002 15:37:42 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6LKamCU021193
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Sun, 21 Jul 2002 15:36:49 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6LKaKJ81845
+	for <cypherpunks@ds.pro-ns.net>; Sun, 21 Jul 2002 16:36:20 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6LKaK805661
+	for cypherpunks@ds.pro-ns.net; Sun, 21 Jul 2002 16:36:20 -0400
+Received: from 202.154.59.116 ([203.185.98.227])
+	by waste.minder.net (8.11.6/8.11.6) with SMTP id g6LKXLR05331
+	for <cpunks@minder.net>; Sun, 21 Jul 2002 16:33:59 -0400
+Message-Id: <200207212033.g6LKXLR05331@waste.minder.net>
+Received: from 192.249.166.5 ([192.249.166.5]) by rly-xw05.mx.aol.com with NNFMP; Jul, 21 2002 4:32:13 PM -0200
+Received: from [72.62.68.193] by rly-yk04.mx.aol.com with asmtp; Jul, 21 2002 3:25:09 PM -0300
+Received: from [137.155.98.192] by f64.law4.hotmail.com with QMQP; Jul, 21 2002 2:29:09 PM -0200
+Received: from 184.244.108.80 ([184.244.108.80]) by rly-xr02.mx.aol.com with SMTP; Jul, 21 2002 1:26:58 PM -0300
+From: TellYourSuccessStory <make_money299009@hotmaill.com>
+To: 
+Cc: 
+Subject: You have nothing to loose anlt to gain-Get 220 Multi-Billion Stores.
+Sender: TellYourSuccessStory <make_money299009@hotmaill.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Sun, 21 Jul 2002 16:33:57 -0400
+X-Mailer: The Bat! (v1.52f) Business
+X-Priority: 1

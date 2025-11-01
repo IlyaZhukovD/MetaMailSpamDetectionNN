@@ -1,0 +1,22 @@
+From blease@insurancemail.net  Mon Jun 24 17:54:18 2002
+Return-Path: blease@insurancemail.net
+Delivery-Date: Tue Jun  4 02:39:46 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g541djO12289 for <jm@jmason.org>; Tue, 4 Jun 2002 02:39:45
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Mon, 3 Jun 2002 21:39:05 -0400
+Subject: You Need Full Disclosure!
+To: <yyyy@spamassassin.taint.org>
+Date: Mon, 3 Jun 2002 21:39:04 -0400
+From: "IQ - Blease" <blease@insurancemail.net>
+Message-Id: <5036e901c20b68$9c68bf90$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcILUfggl1ClVeb/QsGBxViwEDT3fQ==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 04 Jun 2002 01:39:05.0042 (UTC) FILETIME=[9C876B20:01C20B68]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_4E25A6_01C20B30.71108900"

@@ -1,0 +1,22 @@
+From webmaster@bidstogo.biz  Tue Jul 16 20:07:03 2002
+Return-Path: <webmaster@bidstogo.biz>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by netnoteinc.com (Postfix) with ESMTP id B121243FA2
+	for <jm@localhost>; Tue, 16 Jul 2002 15:07:02 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 16 Jul 2002 20:07:02 +0100 (IST)
+Received: from xchangeserver.BidsToGo (mail.bidstogo.biz [198.143.244.58])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6GJ7eJ06929 for
+    <jm@jmason.org>; Tue, 16 Jul 2002 20:07:40 +0100
+Received: from PWS6000 ([192.168.1.101]) by xchangeserver.BidsToGo with
+    Microsoft SMTPSVC(5.0.2195.4905); Tue, 16 Jul 2002 14:25:27 -0400
+From: BidsToGo <webmaster@bidstogo.biz>
+To: <yyyy@spamassassin.taint.org>
+Subject: "BidsToGo" is places to go, things to do
+Date: Tue, 16 Jul 2002 14:25:27 -0400
+Content-Transfer-Encoding: 7bit
+Message-Id: <XCHANGESERVERTVLscJ000034bc@xchangeserver.BidsToGo>
+X-Originalarrivaltime: 16 Jul 2002 18:25:27.0906 (UTC) FILETIME=[28DEC420:01C22CF6]
+Content-Type: text/html; charset="US-ASCII"

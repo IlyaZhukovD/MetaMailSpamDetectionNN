@@ -1,0 +1,9 @@
+Return-Path: barry@python.org
+Delivery-Date: Fri Sep  6 17:23:33 2002
+From: barry@python.org (Barry A. Warsaw)
+Date: Fri, 6 Sep 2002 12:23:33 -0400
+Subject: [Spambayes] Deployment
+References: <3D788653.9143.1D8992DA@localhost>
+	<200209061443.g86Ehie14557@pcp02138704pcs.reston01.va.comcast.net>
+	<20020906155705.GA22115@glacier.arctrix.com>
+Message-ID: <15736.54917.688066.738120@anthem.wooz.org>

@@ -1,0 +1,46 @@
+From fork-admin@xent.com  Fri Jul 26 15:41:52 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 3DAEF440E7
+	for <jm@localhost>; Fri, 26 Jul 2002 10:41:51 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 26 Jul 2002 15:41:51 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6QEdwr01549 for
+    <jm@jmason.org>; Fri, 26 Jul 2002 15:39:59 +0100
+Received: from xent.com ([64.161.22.236]) by webnote.net (8.9.3/8.9.3)
+    with ESMTP id PAA13128 for <jm@jmason.org>; Fri, 26 Jul 2002 15:21:07
+    +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 314E6294146; Fri, 26 Jul 2002 07:07:06 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from vinatekco03.vinatekco.com
+    (adsl-63-205-229-14.dsl.snfc21.pacbell.net [63.205.229.14]) by xent.com
+    (Postfix) with ESMTP id D3DC9294136 for <fork@xent.com>; Fri,
+    26 Jul 2002 07:06:24 -0700 (PDT)
+Received: from smtp0301.mail.yahoo.com (61.142.238.123 [61.142.238.123])
+    by vinatekco03.vinatekco.com with SMTP (Microsoft Exchange Internet Mail
+    Service Version 5.5.2653.13) id PDSXW2DK; Fri, 26 Jul 2002 06:15:17 -0700
+From: "Jesse Jimenez" <hgh8766@polbox.com>
+X-Priority: 3
+To: fork@spamassassin.taint.org
+Subject: fork,HGH Liquid!  Lose Weight...Gain Muscle...Affordable Youth!
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Message-Id: <20020726140624.D3DC9294136@xent.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Fri, 26 Jul 2002 21:39:14 +0800
+Content-Type: text/html; charset=us-ascii

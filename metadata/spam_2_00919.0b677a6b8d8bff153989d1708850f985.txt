@@ -1,0 +1,39 @@
+From fork-admin@xent.com  Mon Jul 22 18:14:02 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id E261E440D9
+	for <jm@localhost>; Mon, 22 Jul 2002 13:13:25 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 18:13:25 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFIT903053 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 16:18:29 +0100
+Received: from xent.com ([64.161.22.236]) by webnote.net (8.9.3/8.9.3)
+    with ESMTP id KAA31193 for <jm@jmason.org>; Mon, 22 Jul 2002 10:46:13
+    +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id C68182940A7; Mon, 22 Jul 2002 02:34:58 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from afzhg813.com (unknown [217.78.76.138]) by xent.com
+    (Postfix) with SMTP id 06CC5294098 for <fork@xent.com>; Mon,
+    22 Jul 2002 02:34:16 -0700 (PDT)
+From: "DR.OLUFEMI COKER" <olu_101@mail.com>
+Reply-To: olu_101@mail.com
+To: fork@spamassassin.taint.org
+Date: Mon, 22 Jul 2002 22:56:32 -0700
+Subject: INVITATION TO TREAT
+X-Mailer: Microsoft Outlook Express 5.00.2919.6900 DM
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Message-Id: <20020722093416.06CC5294098@xent.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Friends of Rohit Khare <fork.xent.com>
+X-Beenthere: fork@spamassassin.taint.org
+X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
+    id g6MFIT903053
+Content-Transfer-Encoding: 8bit

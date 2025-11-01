@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20224.c4-ddW5l6ay9S9K-sRR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6HB9BJ13138
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 17 Jul 2002 12:09:11 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 07:11:15 -0700 (envelope-from <Online#3.20224.c4-ddW5l6ay9S9K-sRR.1.b@newsletter.online.com>)
+Message-ID: <4512630.1026904145018.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Wed, 17 Jul 2002 04:09:05 -0700 (PDT)
+From: "CNET Download.com for PC" <Online#3.20224.c4-ddW5l6ay9S9K-sRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: This week: Rhapsody rules
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

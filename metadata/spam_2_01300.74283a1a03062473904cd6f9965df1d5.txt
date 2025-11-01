@@ -1,0 +1,27 @@
+From rstr@insurancemail.net  Tue Aug  6 12:56:51 2002
+Return-Path: <rstr@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 36F1544270
+	for <jm@localhost>; Tue,  6 Aug 2002 07:36:33 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 12:36:33 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g760J7k03281 for <jm@jmason.org>; Tue, 6 Aug 2002 01:19:07
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Mon, 5 Aug 2002 20:18:14 -0400
+Subject: When we say FREE, WE MEAN FREE!
+To: <yyyy@spamassassin.taint.org>
+Date: Mon, 5 Aug 2002 20:18:14 -0400
+From: "IQ - Roster" <rstr@insurancemail.net>
+Message-Id: <2c3c3401c23cde$c15e1550$6b01a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+MIME-Version: 1.0
+Thread-Index: AcI8vxQxWcRNBSfnQPiXZ4nugLfYyw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 06 Aug 2002 00:18:14.0640 (UTC) FILETIME=[C17D0F00:01C23CDE]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_295635_01C23C9D.8D2947A0"

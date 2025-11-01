@@ -1,0 +1,7 @@
+Return-Path: whisper@oz.net
+Delivery-Date: Fri Sep  6 18:53:24 2002
+From: whisper@oz.net (David LeBlanc)
+Date: Fri, 6 Sep 2002 10:53:24 -0700
+Subject: [Spambayes] Deployment
+In-Reply-To: <w53lm6fca8i.fsf@woozle.org>
+Message-ID: <GCEDKONBLEFPPADDJCOECEGMENAA.whisper@oz.net>

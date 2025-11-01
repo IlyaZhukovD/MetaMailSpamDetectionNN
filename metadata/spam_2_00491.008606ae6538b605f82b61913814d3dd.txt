@@ -1,0 +1,22 @@
+From md2002@datacommarketing.com  Mon Jun 24 17:07:06 2002
+Return-Path: md2002@datacommarketing.com
+Delivery-Date: Tue May 28 14:49:41 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4SDnfe08703 for
+    <jm@jmason.org>; Tue, 28 May 2002 14:49:41 +0100
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4SDnc729732 for
+    <jm@netnoteinc.com>; Tue, 28 May 2002 14:49:40 +0100
+Received: from ns.datacommarketing.com ([65.118.38.236]) by webnote.net
+    (8.9.3/8.9.3) with SMTP id OAA05361 for <jm@netnoteinc.com>;
+    Tue, 28 May 2002 14:49:33 +0100
+From: md2002@datacommarketing.com
+Content-Type: text/plain; charset=us-ascii
+Message-Id: <4y1n6r5ttw7ppc78kw.wng64c5d22ip81m@ns.datacommarketing.com>
+Reply-To: md2002@datacommarketing.com
+To: yyyy@netnoteinc.com
+X-Mailer: X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+Subject: The product they dont want you to have...
+Date: Tue, 28 May 2002 10:11:13 -0500
+X-Keywords: 
+Content-Transfer-Encoding: 7bit

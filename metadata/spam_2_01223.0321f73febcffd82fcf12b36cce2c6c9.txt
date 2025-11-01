@@ -1,0 +1,25 @@
+From cwc02@mail.hz.zj.cn  Thu Aug  1 23:40:28 2002
+Return-Path: <cwc02@mail.hz.zj.cn>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id C4269440F0
+	for <jm@localhost>; Thu,  1 Aug 2002 18:40:27 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 01 Aug 2002 23:40:27 +0100 (IST)
+Received: from rs04.singnet.com.sg (rs04.singnet.com.sg [165.21.101.94])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g71McZ232243 for
+    <jm@jmason.org>; Thu, 1 Aug 2002 23:38:36 +0100
+Received: from mail.hz.zj.cn (netpc14.ie.cuhk.edu.hk [137.189.96.44] (may
+    be forged)) by rs04.singnet.com.sg (8.12.3/8.12.3) with ESMTP id
+    g715JGX4021585; Thu, 1 Aug 2002 13:19:16 +0800
+Message-Id: <3D48C4C1.CE967A1E@mail.hz.zj.cn>
+Date: Thu, 01 Aug 2002 13:18:57 +0800
+From: CWC02-HZ Office <cwc02@mail.hz.zj.cn>
+X-Mailer: Mozilla 4.79 [en] (Windows NT 5.0; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+Subject: ADV: 2002 China Wireless Congress - Oct. 15-17, 2002
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+To: undisclosed-recipients:;

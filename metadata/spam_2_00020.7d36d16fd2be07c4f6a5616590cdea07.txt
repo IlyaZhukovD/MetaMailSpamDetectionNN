@@ -1,0 +1,20 @@
+From olheie31@usa.net  Mon Aug  6 13:04:09 2001
+Return-Path: <olheie31@usa.net>
+Delivered-To: yyyy@netnoteinc.com
+Received: from ms2.hinet.net (ms2.hinet.net [168.95.4.20]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 8E2C4114088 for
+    <jm7@netnoteinc.com>; Mon,  6 Aug 2001 12:04:06 +0000 (Eire)
+Received: from jwinner.myip.org ([203.75.110.62]) by ms2.hinet.net
+    (8.8.8/8.8.8) with SMTP id TAA02960; Mon, 6 Aug 2001 19:56:57 +0800 (CST)
+From: olheie31@usa.net
+Received: from 63.175.43.55 ([63.175.43.55]) by jwinner.myip.org (WinRoute
+    Pro 4.1.25) with SMTP; Thu, 31 May 2001 13:36:17 +0800
+Message-Id: <00000e256af3$000032f9$00000b75@Received: from [192.168.1.2]
+    ([24.7.157.115]) by mail.rdc1.tx.home.com >
+To: <RateShoppers@ms2.hinet.net>
+Subject: Rates DROPPED! Refinancing your house can SAVE you big dollars!
+Date: Wed, 30 May 2001 22:02:50 -0700
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-Msmail-Priority: Normal

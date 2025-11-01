@@ -1,0 +1,21 @@
+From hock@EASYCALL.NET.PH  Mon Jun 24 17:05:59 2002
+Return-Path: hock@EASYCALL.NET.PH
+Delivery-Date: Thu May 23 13:35:10 2002
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4NCZ8e04279;
+    Thu, 23 May 2002 13:35:10 +0100
+Received: from poczta.deserek.pl ([212.160.106.82]) by webnote.net
+    (8.9.3/8.9.3) with ESMTP id MAA27173; Thu, 23 May 2002 12:08:41 +0100
+Received: from exchange.sdt.dep.NO (po72.knurow.sdi.tpnet.pl
+    [217.98.195.72]) by poczta.deserek.pl (8.11.4/8.11.4) with ESMTP id
+    g4NAfgv18513; Thu, 23 May 2002 12:41:47 +0200
+Message-Id: <00001b0e407c$00000962$00003222@exchange.sdt.dep.NO>
+To: <hock@EASYCALL.NET.PH>
+From: "Telcom center" <hock@EASYCALL.NET.PH>
+Subject: Minimize your phone expenses
+Date: Thu, 23 May 2002 04:05:34 -1900
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

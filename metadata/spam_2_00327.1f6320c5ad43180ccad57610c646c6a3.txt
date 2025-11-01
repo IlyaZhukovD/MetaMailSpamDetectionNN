@@ -1,0 +1,17 @@
+From leadsales400042@yahoo.com  Mon Jun 24 17:03:55 2002
+Return-Path: leadsales400042@yahoo.com
+Delivery-Date: Wed May 15 16:24:17 2002
+Received: from MIRAFLORES.GOB.PE ([161.132.70.10]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g4FFOAe12470 for <webmaster@efi.ie>;
+    Wed, 15 May 2002 16:24:10 +0100
+Message-Id: <200205151524.g4FFOAe12470@dogma.slashnull.org>
+Received: from yahoo.com([208.166.82.124]) by MIRAFLORES.GOB.PE (IBM
+    OS/400 SMTP V05R01M00) with TCP; Wed, 15 May 2002 10:23:51 +0000
+From: leadsales400042@yahoo.com
+To: webmaster@efi.ie
+Subject: Got Leads?
+Date: 15 May 2002 20:34:36 -0700
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable

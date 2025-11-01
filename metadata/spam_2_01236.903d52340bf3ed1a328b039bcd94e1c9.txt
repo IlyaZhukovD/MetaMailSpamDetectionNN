@@ -1,0 +1,44 @@
+From fork-admin@xent.com  Thu Aug  1 18:53:53 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 6B1BF440F0
+	for <jm@localhost>; Thu,  1 Aug 2002 13:53:53 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 01 Aug 2002 18:53:53 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g71Hsv225002 for <jm@jmason.org>;
+    Thu, 1 Aug 2002 18:55:02 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 38E102940EF; Thu,  1 Aug 2002 10:49:03 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from neo.promacom.se (unknown [192.165.239.30]) by xent.com
+    (Postfix) with ESMTP id A18862940AA for <fork@xent.com>; Thu,
+    1 Aug 2002 10:48:21 -0700 (PDT)
+Received: from mx06.hotmail.com (dialin-196.promacom.se [192.168.1.196])
+    by neo.promacom.se with SMTP (Microsoft Exchange Internet Mail Service
+    Version 5.5.2653.13) id QCD6GF4Y; Thu, 1 Aug 2002 19:45:56 +0200
+Message-Id: <00004f95737a$000060a1$00002921@mx06.hotmail.com>
+To: <mpb@rocketsoftware.com>
+Cc: <ellendew@aol.com>, <aster@utilicorp.com>, <fork@spamassassin.taint.org>,
+	<boyhawk1@aol.com>, <nickerss@usa.net>, <icp1121@aol.com>
+From: "Tanya" <mo6jopw0b86814@hotmail.com>
+Subject: Toners and inkjet cartridges for less....          GG
+MIME-Version: 1.0
+Reply-To: mo6jopw0b86814@hotmail.com
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Thu, 01 Aug 2002 10:49:22 -1900
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

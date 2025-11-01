@@ -1,0 +1,41 @@
+Return-Path: <fool@motleyfool.com>
+Received: (qmail 18981 invoked by alias); 25 Jul 2002 18:17:17 -0000
+Received: (qmail 18972 invoked by uid 82); 25 Jul 2002 18:17:17 -0000
+Received: from fool@motleyfool.com by mailhost with qmail-scanner-1.00 (uvscan: v4.1.40/v4214. . Clean. Processed in 22.559397 secs); 25 Jul 2002 18:17:17 -0000
+Received: from mail7.motleyfool.com (HELO ironport2.motleyfool.com) (63.251.90.77)
+  by mi-1.rz.ruhr-uni-bochum.de with SMTP; 25 Jul 2002 18:16:54 -0000
+Received: from [63.251.90.15]
+	by mail7.motleyfool.com (63.251.90.17) with QMQP; 25 Jul 2002 14:16:08 +0000
+To: xxxxxx.yyyyyyyyyy@ruhr-uni-bochum.de
+From: The Motley Fool <Fool@MotleyFool.com>
+Reply-To: The Motley Fool <CS@FoolMart.com>
+Subject: When to Sell Online Seminar, Lesson 2: Companies Gone Wrong
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=Groovy-Foolish-Boundary-2A6F4DA4EE1F4ABCB782
+Priority: 5
+Date: Thu, 25 Jul 2002 14:16:03 -0400
+Message-ID: <20020725141603.4431.16.90@mail5.motleyfool.com>
+X-Spam-Status: Yes, hits=9.2 required=5.0 tests=STRONG_BUY,FREE_MONEY,CLICK_BELOW,COPYRIGHT_CLAIMED,LINES_OF_YELLING,LINES_OF_YELLING_2,HTML_WITH_BGCOLOR,BIG_FONT,CLICK_HERE_LINK,DIFFERENT_REPLY_TO version=2.20
+X-Spam-Flag: YES
+X-Spam-Tag: type signature trigger Spamassassin action complain issuer mailhost.rz.ruhr-uni-bochum.de
+X-Spam-Level: *********
+X-Spam-Checker-Version: SpamAssassin 2.20 (devel $Id: SpamAssassin.pm,v 1.77 2002/04/06 19:28:30 hughescr Exp $)
+X-Spam-Report: Detailed Report
+SPAM: -------------------- Start SpamAssassin results ----------------------
+  SPAM: This mail is probably spam.  The original message has been altered
+  SPAM: so you can recognise or block similar unwanted mail in future.
+  SPAM: See http://spamassassin.org/tag/ for more details.
+  SPAM: 
+  SPAM: Content analysis details:   (9.2 hits, 5 required)
+  SPAM: Hit! (3.8 points)  BODY: Tells you about a strong buy
+  SPAM: Hit! (1.0 point)   BODY: Free money!
+  SPAM: Hit! (1.5 points)  BODY: Asks you to click below
+  SPAM: Hit! (-1.6 points) BODY: Contains a claim of copyright
+  SPAM: Hit! (0.5 points)  BODY: A WHOLE LINE OF YELLING DETECTED
+  SPAM: Hit! (0.6 points)  BODY: 2 WHOLE LINES OF YELLING DETECTED
+  SPAM: Hit! (-0.5 points) BODY: HTML mail with non-white background
+  SPAM: Hit! (2.1 points)  BODY: FONT Size +2 and up or 3 and up
+  SPAM: Hit! (1.8 points)  BODY: Tells you to click on a URL
+  SPAM: Hit! (0.0 points)  Reply-To: massively different from From: or To:
+  SPAM: 
+  SPAM: -------------------- End of SpamAssassin results ---------------------

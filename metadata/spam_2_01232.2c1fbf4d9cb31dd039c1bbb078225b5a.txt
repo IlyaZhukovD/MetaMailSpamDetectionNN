@@ -1,0 +1,27 @@
+From starwars@tytcorp.com  Fri Aug  2 00:51:59 2002
+Return-Path: <starwars@tytcorp.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 9C5D4440F0
+	for <jm@localhost>; Thu,  1 Aug 2002 19:51:57 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 02 Aug 2002 00:51:57 +0100 (IST)
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id AAA32286
+	for <jm@netnoteinc.com>; Fri, 2 Aug 2002 00:48:54 +0100
+From: starwars@tytcorp.com
+Received: from mail.tytcorp.com (unknown [63.218.225.154])
+	by smtp.easydns.com (Postfix) with SMTP id 800662BF81
+	for <jm@netnoteinc.com>; Thu,  1 Aug 2002 19:48:43 -0400 (EDT)
+MIME-Version: 1.0
+To: yyyy@netnoteinc.com
+Reply-To: starwars@tytcorp.com
+Content-Transfer-Encoding: 7bit
+Received: from mail.tytcorp.com by 0RD01FNX8B7D.mail.tytcorp.com with SMTP for yyyy@netnoteinc.com; Thu, 01 Aug 2002 19:15:23 -0500
+Date: Thu, 01 Aug 2002 19:15:23 -0500
+Subject: FREE ORIGINAL STAR WARS CARS Adv:
+Message-Id: <8I8DB.0NFTITHWWFDEQEOM4M.starwars@tytcorp.com>
+X-Encoding: MIME
+X-MSMail-Priority: Normal
+Content-Type: multipart/alternative; boundary="----=_NextPart_434_2562770446087"

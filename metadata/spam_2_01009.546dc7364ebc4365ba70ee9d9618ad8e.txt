@@ -1,0 +1,28 @@
+From densua@Flashmail.com  Wed Jul 24 15:16:32 2002
+Return-Path: <densua@Flashmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7B1D8440CC
+	for <jm@localhost>; Wed, 24 Jul 2002 10:16:28 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 24 Jul 2002 15:16:28 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6OEFn418110 for
+    <jm@jmason.org>; Wed, 24 Jul 2002 15:15:51 +0100
+Received: from walker.fantom.co.kr ([210.216.93.5]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6OEEfp18718 for
+    <jm@netnoteinc.com>; Wed, 24 Jul 2002 15:14:50 +0100
+Received: from smtp0582.mail.yahoo.com ([210.83.123.59]) by
+    walker.fantom.co.kr (8.11.0/8.9.3) with SMTP id g6OECWE07436;
+    Wed, 24 Jul 2002 23:12:39 +0900
+Message-Id: <200207241412.g6OECWE07436@walker.fantom.co.kr>
+Date: Wed, 24 Jul 2002 22:15:49 +0800
+From: "Marie Farmer" <densua@Flashmail.com>
+X-Priority: 3
+To: yyyy@netnoteinc.com
+Cc: yyyy@netvision.net.il
+Subject: yyyy,Introducing HGH: The Most Powerful Anti-Obesity Drug Ever
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii

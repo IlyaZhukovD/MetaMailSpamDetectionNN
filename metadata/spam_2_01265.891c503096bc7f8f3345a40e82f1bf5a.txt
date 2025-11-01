@@ -1,0 +1,25 @@
+From wholesaleman6002@eudoramail.com  Tue Aug  6 10:58:55 2002
+Return-Path: <wholesaleman6002@eudoramail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id EEB224411C
+	for <jm@localhost>; Tue,  6 Aug 2002 05:53:54 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 10:53:54 +0100 (IST)
+Received: from relais.videotron.ca (relais.videotron.ca [24.201.245.36])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id KAA07661
+	for <jm@netnoteinc.com>; Sat, 3 Aug 2002 10:44:23 +0100
+From: wholesaleman6002@eudoramail.com
+Received: from ntserver2.CIM.ORG ([207.253.176.67]) by
+          relais.videotron.ca (Videotron-Netscape Messaging Server v4.15
+          MTA-PRD2) with ESMTP id H09HPE01.MS6; Sat, 3 Aug 2002 05:44:02 -0400 
+Received: from 221 (218.4.51.134 [218.4.51.134]) by ntserver2.CIM.ORG with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id Q10BNT9Z; Sat, 3 Aug 2002 05:46:13 -0400
+Message-ID: <000061e20f37$00004c2f$000033a6@221>
+To: <.0.@webnote.net>
+Subject: .+. 80 to 95% BELOW WHOLESALE             2306
+Date: Sat, 03 Aug 2002 04:52:10 -1900
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

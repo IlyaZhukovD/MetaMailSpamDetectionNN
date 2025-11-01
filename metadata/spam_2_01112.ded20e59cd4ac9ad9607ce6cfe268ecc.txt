@@ -1,0 +1,28 @@
+From kenmonique@msn.com  Fri Jul 26 05:23:01 2002
+Return-Path: <kenmonique@msn.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B6838440E7
+	for <jm@localhost>; Fri, 26 Jul 2002 00:22:56 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 26 Jul 2002 05:22:56 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6Q4KV423428 for
+    <jm@jmason.org>; Fri, 26 Jul 2002 05:20:31 +0100
+Received: from server.janedoe.net (adsl-66-127-26-2.dsl.lsan03.pacbell.net
+    [66.127.26.2]) by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP
+    id g6Q4Jhp25210; Fri, 26 Jul 2002 05:19:45 +0100
+Received: from smtp-gw-4.msn.com (66-169-115-197.ftwrth.tx.charter.com
+    [66.169.115.197]) by server.janedoe.net with SMTP (Microsoft Exchange
+    Internet Mail Service Version 5.5.2653.13) id MNQ5MZ5M; Thu,
+    25 Jul 2002 18:41:20 -0700
+Message-Id: <000041c70bc1$000064c7$0000751b@smtp-gw-4.msn.com>
+To: <Undisclosed.Recipients@netnoteinc.com>
+From: "Gemma Brown" <kenmonique@msn.com>
+Subject: Grants! No credit checks,  No collateral!
+Date: Thu, 25 Jul 2002 21:49:46 -1600
+MIME-Version: 1.0
+Reply-To: kenmonique@msn.com
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

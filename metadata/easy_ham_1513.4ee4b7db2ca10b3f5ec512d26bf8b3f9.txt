@@ -1,0 +1,9 @@
+Return-Path: skip@pobox.com
+Delivery-Date: Fri Sep  6 03:41:13 2002
+From: skip@pobox.com (Skip Montanaro)
+Date: Thu, 5 Sep 2002 21:41:13 -0500
+Subject: [Spambayes] test sets?
+In-Reply-To: <LNBBLJKPBEHFEDALKOLCIEFEBCAB.tim.one@comcast.net>
+References: <15735.50243.135743.32180@12-248-11-90.client.attbi.com>
+        <LNBBLJKPBEHFEDALKOLCIEFEBCAB.tim.one@comcast.net>
+Message-ID: <15736.5577.157228.229200@12-248-11-90.client.attbi.com>

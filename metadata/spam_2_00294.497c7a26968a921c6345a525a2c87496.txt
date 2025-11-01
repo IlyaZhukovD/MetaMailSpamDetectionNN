@@ -1,0 +1,19 @@
+From jos_ed@mail.com  Mon Jun 24 17:03:27 2002
+Return-Path: jos_ed@mail.com
+Delivery-Date: Mon May 13 12:33:42 2002
+Received: from koolre41576.com ([213.251.168.106]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g4DBXfe31474 for <jm@jmason.org>;
+    Mon, 13 May 2002 12:33:42 +0100
+Message-Id: <200205131133.g4DBXfe31474@dogma.slashnull.org>
+From: "JOSEPH EDWARD" <jos_ed@mail.com>
+Reply-To: jos_ed@mail.com
+To: yyyy@spamassassin.taint.org
+Date: Mon, 13 May 2002 13:37:43 +0200
+Subject: 
+X-Mailer: Microsoft Outlook Express 5.00.2919.7000 Demo
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
+    id g4DBXfe31474
+X-Keywords: 
+Content-Transfer-Encoding: 8bit

@@ -1,0 +1,52 @@
+From rpm-list-admin@freshrpms.net  Wed Aug 28 10:45:55 2002
+Return-Path: <rpm-zzzlist-admin@freshrpms.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id A89CC44158
+	for <jm@localhost>; Wed, 28 Aug 2002 05:45:22 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 28 Aug 2002 10:45:22 +0100 (IST)
+Received: from egwn.net (auth02.nl.egwn.net [193.172.5.4]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7RMwrZ29512 for
+    <jm-rpm@jmason.org>; Tue, 27 Aug 2002 23:58:53 +0100
+Received: from auth02.nl.egwn.net (localhost [127.0.0.1]) by egwn.net
+    (8.11.6/8.11.6/EGWN) with ESMTP id g7RMt8J31837; Wed, 28 Aug 2002 00:55:08
+    +0200
+Received: from unknown (80-24-132-206.uc.nombres.ttd.es [80.24.132.206])
+    (authenticated) by egwn.net (8.11.6/8.11.6/EGWN) with ESMTP id
+    g7RMs1J23188; Wed, 28 Aug 2002 00:54:01 +0200
+From: Matthias Saou <matthias@rpmforge.net>
+To: valhalla-list@example.com, RPM-List <rpm-zzzlist@freshrpms.net>
+Subject: ALSA (almost) made easy
+Message-Id: <20020828004215.4bca2588.matthias@rpmforge.net>
+Organization: freshrpms.net / rpmforge.net
+X-Mailer: Sylpheed version 0.8.1claws (GTK+ 1.2.10; i386-redhat-linux)
+X-Operating-System: Red Hat GNU/Linux forever!
+X-Subliminal-Message: Use Linux... use Linux... use Linux...
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+X-Mailscanner: Found to be clean, Found to be clean
+Sender: rpm-zzzlist-admin@freshrpms.net
+Errors-To: rpm-zzzlist-admin@freshrpms.net
+X-Beenthere: rpm-zzzlist@freshrpms.net
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: rpm-zzzlist@freshrpms.net
+List-Help: <mailto:rpm-zzzlist-request@freshrpms.net?subject=help>
+List-Post: <mailto:rpm-zzzlist@freshrpms.net>
+List-Subscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=subscribe>
+List-Id: Freshrpms RPM discussion list <rpm-zzzlist.freshrpms.net>
+List-Unsubscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=unsubscribe>
+List-Archive: <http://lists.freshrpms.net/pipermail/rpm-zzzlist/>
+X-Original-Date: Wed, 28 Aug 2002 00:42:15 +0200
+Date: Wed, 28 Aug 2002 00:42:15 +0200
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-2.4 required=7.0
+	tests=KNOWN_MAILING_LIST,NOSPAM_INC,RCVD_IN_RFCI,
+	      SIGNATURE_SHORT_SPARSE,SPAM_PHRASE_03_05
+	version=2.40-cvs
+X-Spam-Level:

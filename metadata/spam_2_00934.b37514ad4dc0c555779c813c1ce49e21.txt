@@ -1,0 +1,19 @@
+X-Status: 
+X-Keywords: 
+X-Persona: <Fallingrock>
+Return-Path: <lbwx68@netscape.net>
+Delivered-To: fallingrock.net%david@fallingrock.net
+Received: (cpmta 27945 invoked from network); 23 Jul 2002 04:41:04 -0700
+Received: from 65.171.8.235 (HELO www.ussbiddle.org)
+  by smtp.c001.snv.cp.net (209.228.32.109) with SMTP; 23 Jul 2002 04:41:04 -0700
+X-Received: 23 Jul 2002 11:41:04 GMT
+Received: from hjg7656 ([207.88.96.129]) by www.ussbiddle.org
+          (Netscape Messaging Server 4.1) with ESMTP id GZP9NX00.Q05; Tue,
+          23 Jul 2002 06:38:21 -0500 
+From: "Tony Koors" <lbwx68@netscape.net>
+Subject: Second Chance #5182
+To: sec2901ole
+X-Mailer: Mozilla 4.78 [en] (Win95; I)
+Date: Tue, 23 Jul 2002 07:34:19 -0500
+Message-ID: <GZP9NX00.Q05@www.ussbiddle.org>
+Mime-Version: 1.0

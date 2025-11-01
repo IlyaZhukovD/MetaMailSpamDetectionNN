@@ -1,0 +1,32 @@
+From ardi@attbi.com  Mon Jun 24 17:40:43 2002
+Return-Path: ardi@attbi.com
+Delivery-Date: Wed Feb 27 12:24:31 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g1PMlhk13832 for
+    <jm@jmason.org>; Mon, 25 Feb 2002 22:47:43 GMT
+Received: from rwcrmhc52.attbi.com (rwcrmhc52.attbi.com [216.148.227.88])
+    by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g1PMlZ622342
+    for <jm@netnoteinc.com>; Mon, 25 Feb 2002 22:47:36 GMT
+Received: from broome ([12.248.188.91]) by rwcrmhc52.attbi.com (InterMail
+    vM.4.01.03.27 201-229-121-127-20010626) with SMTP id
+    <20020225224727.IUBK1147.rwcrmhc52.attbi.com@broome>; Mon, 25 Feb 2002
+    22:47:27 +0000
+Message-Id: <006001c1be4e$bf7f44c0$5bbcf80c@attbi.com>
+From: "Ardi Broome" <ardi@attbi.com>
+To: <jlwill22@earthlink.net>, <jlwillert@aol.com>, <jlwright@bbnow.net>,
+    <jlyall@etex.net>, <jlyent@gateway.net>, <jlynch@dreamscape.com>,
+    <jlynch@public.nfld.com>, <jlynn102@hotmail.com>, <jlynn77777@aol.com>,
+    <jlysama@earthlink.net>, <jlytle@provantage.com>, <jm@cfriends.com>,
+    <jm@excite.com>, <jm@grandpahough.com>, <jm@jm-systems-software.com>,
+    <jm@netnoteinc.com>, <jm@prosperity2all.com>, <jm@sunlink.net>,
+    <jm@whitedove.net>, <jm1@freeautobot.com>, <jm10@yahoo.com>
+Subject: Press Release
+Date: Mon, 25 Feb 2002 16:49:55 -0600
+MIME-Version: 1.0
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Status: 
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_005D_01C1BE1C.740AA160"

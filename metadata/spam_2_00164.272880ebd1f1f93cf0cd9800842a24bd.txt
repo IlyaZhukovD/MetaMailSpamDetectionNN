@@ -1,0 +1,19 @@
+From hpr-2@solarisexpert.com  Mon Jun 24 17:41:02 2002
+Return-Path: hpr-2@solarisexpert.com
+Delivery-Date: Mon Feb  4 20:43:53 2002
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g14Khr825697 for
+    <jm@jmason.org>; Mon, 4 Feb 2002 20:43:53 GMT
+Received: from ath1400 (24.26.104.124.sanford-ubr-a.cfl.rr.com
+    [24.26.104.124]) by webnote.net (8.9.3/8.9.3) with SMTP id UAA24726 for
+    <jm@jmason.org>; Mon, 4 Feb 2002 20:43:52 GMT
+Message-Id: <200202042043.UAA24726@webnote.net>
+From: SolariseXpert <hpr-2@solarisexpert.com>
+Reply-To: hpr-2@solarisexpert.com
+Subject: Sun Hardware 50% off list price
+Date: Mon, 04 Feb 2002 15:44:10 -0500
+X-Mailer: 007 Direct Email Easy
+MIME-Version: 1.0
+X-Status: 
+X-Keywords: 
+Content-Type: multipart/mixed; boundary="54a5e47a-30cb-4795-82c2-220a03d8450a"

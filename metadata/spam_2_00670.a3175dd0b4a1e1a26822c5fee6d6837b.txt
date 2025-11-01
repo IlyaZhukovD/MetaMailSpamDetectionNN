@@ -1,0 +1,16 @@
+From developers@palmgear.com  Mon Jun 24 17:49:22 2002
+Return-Path: developers@palmgear.com
+Delivery-Date: Mon Jun 10 02:36:57 2002
+Received: from appereto.com (mail2.intelenet.net [209.80.45.9]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g5A1auG15452 for
+    <jm-palmgear@jmason.org>; Mon, 10 Jun 2002 02:36:57 +0100
+Received: from [216.23.191.127] (HELO mail.palmgear.com) by appereto.com
+    (CommuniGate Pro SMTP 3.5.9) with ESMTP id 434609 for
+    jm-palmgear@jmason.org; Sun, 09 Jun 2002 18:36:55 -0700
+Content-Type: text/plain
+Date: Sun, 09 Jun 2002 18:26:58 -0700
+From: developers@palmgear.com
+Subject: Limited Time Offer!
+To: yyyy-palmgear@spamassassin.taint.org
+Message-Id: <auto-000000434609@appereto.com>
+X-Keywords:

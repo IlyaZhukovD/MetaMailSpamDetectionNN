@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19816.79-jnsygj5uv8NiX9RR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6BJO0J29245
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 11 Jul 2002 20:24:00 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 12:24:45 -0700 (envelope-from <Online#3.19816.79-jnsygj5uv8NiX9RR.1.b@newsletter.online.com>)
+Message-ID: <4618389.1026415434597.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Thu, 11 Jul 2002 12:23:54 -0700 (PDT)
+From: CNET Shopper Mac Edition <Online#3.19816.79-jnsygj5uv8NiX9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Our new Memory Configurator makes RAM shopping easy! (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

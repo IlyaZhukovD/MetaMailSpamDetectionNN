@@ -1,0 +1,20 @@
+From reply@seekercenter.net  Fri Aug  9 13:00:04 2002
+Return-Path: yyyy
+Delivery-Date: Tue Aug  6 16:48:54 2002
+Return-Path: <reply@seekercenter.net>
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 16:48:54 +0100 (IST)
+Received: from XXXXXX ([211.101.236.162]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g76Fmek07579 for
+    <jm-latestdodgydotcomstock@jmason.org>; Tue, 6 Aug 2002 16:48:41 +0100
+Message-Id: <200208061548.g76Fmek07579@dogma.slashnull.org>
+From: "Vanessa Lintner" <reply@seekercenter.net>
+Subject: I have visited WWW.TAINT.ORG and noticed that ...
+To: yyyy-latestdodgydotcomstock@spamassassin.taint.org
+Sender: Vanessa Lintner <reply@seekercenter.net>
+Reply-To: "Vanessa Lintner" <vanessa@seekercenter.net>
+Date: Tue, 6 Aug 2002 23:51:01 +0800
+X-Priority: 3
+X-Library: Business Promotion
+Content-Type: text/html;

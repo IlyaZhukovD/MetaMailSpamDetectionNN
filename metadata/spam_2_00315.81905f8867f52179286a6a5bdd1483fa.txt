@@ -1,0 +1,20 @@
+From DebtRelief@mail5.domainset  Mon Jun 24 17:04:09 2002
+Return-Path: root@MAIL5.INB-INTERNATIONAL.COM
+Delivery-Date: Wed May 15 17:24:19 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4FGOEe15300 for
+    <jm@jmason.org>; Wed, 15 May 2002 17:24:19 +0100
+Received: from MAIL5.INB-INTERNATIONAL.COM
+    (IDENT:root@mail5.inb-international.com [65.162.84.134]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4FGOCD26887 for
+    <jm@netnoteinc.com>; Wed, 15 May 2002 17:24:13 +0100
+Received: (from root@localhost) by MAIL5.INB-INTERNATIONAL.COM
+    (8.11.0/8.11.0) id g4FGO7G13305; Wed, 15 May 2002 12:24:07 -0400
+Date: Wed, 15 May 2002 12:24:07 -0400
+Message-Id: <200205151624.g4FGO7G13305@MAIL5.INB-INTERNATIONAL.COM>
+To: yyyy@netnoteinc.com
+From: Debt Relief<DebtRelief@mail5.domainset>
+Reply-To: service@domainset
+Subject: Too many credit card bills! - this fixes that!
+X-Keywords: 
+Content-Type: text/html

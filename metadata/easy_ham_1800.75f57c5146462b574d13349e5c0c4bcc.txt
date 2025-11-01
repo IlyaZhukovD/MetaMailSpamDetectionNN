@@ -1,0 +1,9 @@
+Return-Path: skip@pobox.com
+Delivery-Date: Sat Sep  7 06:40:18 2002
+From: skip@pobox.com (Skip Montanaro)
+Date: Sat, 7 Sep 2002 00:40:18 -0500
+Subject: [Spambayes] can't write to CVS...
+In-Reply-To: <LNBBLJKPBEHFEDALKOLCCELKBCAB.tim.one@comcast.net>
+References: <15737.35722.956784.600958@12-248-11-90.client.attbi.com>
+        <LNBBLJKPBEHFEDALKOLCCELKBCAB.tim.one@comcast.net>
+Message-ID: <15737.37186.513740.936811@12-248-11-90.client.attbi.com>

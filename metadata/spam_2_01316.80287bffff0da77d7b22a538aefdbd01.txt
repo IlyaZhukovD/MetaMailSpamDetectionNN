@@ -1,0 +1,24 @@
+From 2l8k3LgfQ@ara.seed.net.tw  Tue Aug  6 20:47:08 2002
+Return-Path: <2l8k3LgfQ@ara.seed.net.tw>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id BF10C440C8
+	for <jm@localhost>; Tue,  6 Aug 2002 15:47:07 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 20:47:07 +0100 (IST)
+Received: from shadow ([210.64.199.199]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g76JkUk16494 for <jm@jmason.org>;
+    Tue, 6 Aug 2002 20:46:31 +0100
+Date: Tue, 6 Aug 2002 20:46:31 +0100
+Received: from venus by tpts1.seed.net.tw with SMTP id
+    lSQPsrl0oqB7jcCo5NeHp5qQ; Wed, 07 Aug 2002 03:46:35 +0800
+Message-Id: <6XfSyqTyJu8N6D@giga.net.tw>
+From: dimon@h8h.com.tw
+To: 5438@dogma.slashnull.org
+Subject: =?big5?Q?=A6n=C5=A5=A3x=AD=B5=BC=D6=B0e=B5=B9=A7A?=
+MIME-Version: 1.0
+X-Mailer: lWaRyuay7nXORnuBAMO828V
+X-Priority: 3
+X-Msmail-Priority: Normal
+Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_xxt9w9r4F3OfnfRj5A6nlx"

@@ -1,0 +1,40 @@
+Return-Path: env_216095411795471888@hermes.sun.com
+Delivery-Date: Sun Sep 15 00:03:33 2002
+Return-Path: <env_216095411795471888@hermes.sun.com>
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mothlight.dyndns.org (8.11.6/8.11.6) with ESMTP id g8F40qh03708
+	for <nice@localhost>; Sun, 15 Sep 2002 00:00:52 -0400
+Received: from fastmail.fm [209.61.183.86]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for nice@localhost (single-drop); Sun, 15 Sep 2002 00:00:52 -0400 (EDT)
+Received: from www.fastmail.fm (server1.internal [10.202.2.132])
+	by server2.fastmail.fm (Cyrus v2.1.5) with LMTP; Tue, 10 Sep 2002 12:38:41 -0500
+X-Sieve: CMU Sieve 2.2
+Received: from www.fastmail.fm (server1.internal [10.202.2.132])
+	by www.fastmail.fm (Cyrus v2.1.3) with LMTP; Tue, 10 Sep 2002 12:38:41 -0500
+Received: from www.fastmail.fm (localhost [127.0.0.1])
+	by localhost.localdomain (Postfix) with ESMTP id B97BF6DAE2
+	for <mothlight@fastmail.fm>; Tue, 10 Sep 2002 12:38:27 -0500 (CDT)
+X-Mail-from: env_216095411795471888@hermes.sun.com
+X-Delivered-to: <mothlight@fastmail.fm>
+X-Spam-score: 10.5
+X-Spam: spam
+X-Spam-hits: FROM_ENDS_IN_NUMS, DOUBLE_CAPSWORD, COPYRIGHT_CLAIMED, WEIRD_PORT,
+  HTTP_CTRL_CHARS_HOST, UNSUB_PAGE, SUPERLONG_LINE, MAILTO_LINK, WEB_BUGS,
+  NO_MX_FOR_FROM, CTYPE_JUST_HTML
+Received: from hermes.sun.com (hermes.sun.com [64.124.140.169])
+	by www.fastmail.fm (Postfix) with SMTP id 2604B6DB18
+	for <mothlight@fastmail.fm>; Tue, 10 Sep 2002 12:38:27 -0500 (CDT)
+Date: 10 Sep 2002 08:24:12 -0800
+From: "JDC Tech Tips" <body_216095411795471888@hermes.sun.com>
+To: mothlight@fastmail.fm
+Message-Id: <216095411795471888@hermes.sun.com>
+Subject: Core Java Technologies Tech Tips, September 10, 2002 (ArrayList vs. LinkedList, Zero-Length Arrays)
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Mailer: SunMail 1.0
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 28

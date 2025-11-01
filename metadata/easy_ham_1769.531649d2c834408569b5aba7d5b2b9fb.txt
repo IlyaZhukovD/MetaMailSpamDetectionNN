@@ -1,0 +1,9 @@
+Return-Path: skip@pobox.com
+Delivery-Date: Fri Sep  6 19:48:35 2002
+From: skip@pobox.com (Skip Montanaro)
+Date: Fri, 6 Sep 2002 13:48:35 -0500
+Subject: [Spambayes] Deployment
+In-Reply-To: <20020906162505.GB17800@cthulhu.gerg.ca>
+References: <200209061431.g86EVM114413@pcp02138704pcs.reston01.va.comcast.net>
+        <20020906162505.GB17800@cthulhu.gerg.ca>
+Message-ID: <15736.63619.488739.691181@12-248-11-90.client.attbi.com>

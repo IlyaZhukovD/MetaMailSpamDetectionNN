@@ -1,0 +1,17 @@
+Received: from sv-01.ipa-imec.br ([200.182.176.130])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6NMdNe05289
+	for <new-list-list@midrange.com>; Tue, 23 Jul 2002 17:39:24 -0500
+Received: from mailin-01.mx.aol.com (212.141.4.28 [212.141.4.28]) by sv-01.ipa-imec.br with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PN36R9JP; Tue, 23 Jul 2002 19:39:32 -0300
+Message-ID: <00004c431399$00001993$00001c1e@mx1.hongkong.com>
+To: <important@linux.midrange.com>
+From: sljfsl@msn.com
+Subject: FIND ANYONE ANYWHERE ANYTHING
+Date: Tue, 23 Jul 2002 06:35:35 -1600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+Reply-To: "weruet"weou3465@aol.com
+X-Status: 
+X-Keywords:

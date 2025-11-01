@@ -1,0 +1,41 @@
+From fork-admin@xent.com  Thu Jul 18 04:47:37 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id CE6B243F90
+	for <jm@localhost>; Wed, 17 Jul 2002 23:47:36 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 18 Jul 2002 04:47:36 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6I3j1J23878 for <jm@jmason.org>;
+    Thu, 18 Jul 2002 04:45:01 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id E0BC82940A1; Wed, 17 Jul 2002 20:33:56 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from mailsrv.landaashq (231-254.netwurx.net [209.242.231.254])
+    by xent.com (Postfix) with ESMTP id 76A16294098 for <fork@xent.com>;
+    Wed, 17 Jul 2002 20:33:54 -0700 (PDT)
+Received: from C:\Documents (LEGEND01 [61.241.134.243]) by
+    mailsrv.landaashq with SMTP (Microsoft Exchange Internet Mail Service
+    Version 5.5.2653.13) id PDYANH9H; Wed, 17 Jul 2002 22:36:55 -0500
+Message-Id: <0000233503cc$00004d81$000060c0@C:\Documents and
+    Settings\Administrator\Desktop\Send\domains2.txt>
+To: <anmartinet@hotmail.com>, <mtj37@aol.com>, <kkosal@hotmail.com>,
+	<jermaines@hotmail.com>, <looneycats@hotmail.com>
+Cc: <fork@spamassassin.taint.org>, <23280622@pager.icq.com>,
+	<homes@century21firstchoice.com>, <loic71@hotmail.com>,
+	<sherineibrahim@worldnet.att.net>
+From: davidk348@gateway.net
+Subject: Lose 11 Pounds In 7 Days                   IML
+Date: Wed, 17 Jul 2002 23:50:01 -1600
+MIME-Version: 1.0
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: 7bit
+Reply-To: davidk348@gateway.net
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Friends of Rohit Khare <fork.xent.com>
+X-Beenthere: fork@spamassassin.taint.org

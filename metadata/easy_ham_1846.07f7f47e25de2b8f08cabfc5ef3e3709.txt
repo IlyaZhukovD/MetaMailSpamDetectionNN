@@ -1,0 +1,6 @@
+Return-Path: gward@python.net
+Delivery-Date: Mon Sep  9 22:01:10 2002
+From: gward@python.net (Greg Ward)
+Date: Mon, 9 Sep 2002 17:01:10 -0400
+Subject: [Spambayes] python.org email harvesting ready to roll
+Message-ID: <20020909210110.GA2224@cthulhu.gerg.ca>

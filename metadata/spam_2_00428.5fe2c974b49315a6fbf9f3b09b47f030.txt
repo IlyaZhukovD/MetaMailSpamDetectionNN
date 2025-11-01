@@ -1,0 +1,25 @@
+From 1asave-ins1@catcha.com  Mon Jun 24 17:05:52 2002
+Return-Path: 1asave-ins1@catcha.com
+Delivery-Date: Wed May 22 20:18:26 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4MJIGe23283 for
+    <jm@jmason.org>; Wed, 22 May 2002 20:18:24 +0100
+Received: from smtp1.info.com.ph ([202.57.96.79]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4MJIAD00369 for
+    <jm@netnoteinc.com>; Wed, 22 May 2002 20:18:13 +0100
+Received: from smtp2 ([202.57.96.78]) by smtp1.info.com.ph (8.11.2/8.11.2)
+    with ESMTP id g4MJBcL05353; Thu, 23 May 2002 03:11:38 +0800
+Received: from unspecified.host (localhost.localdomain [127.0.0.1]) by
+    smtp2 (8.11.2/8.11.2) with SMTP id g4MJ2sd11918; Thu, 23 May 2002 03:02:54
+    +0800
+Message-Id: <200205221902.g4MJ2sd11918@smtp2>
+Received: from 213.46.75.194 ([213.46.75.194]) by 202.163.198.130
+    (WinRoute Pro 4.1) with SMTP; Thu, 23 May 2002 02:36:33 -0700
+To: <Undisclosed.Recipients@smtp2>
+From: 1asave-ins1@catcha.com
+Subject: Save On Your Insurance
+Date: Wed, 22 May 2002 14:39:29 -1200
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

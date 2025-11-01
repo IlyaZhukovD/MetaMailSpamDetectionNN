@@ -1,0 +1,38 @@
+From intr0519c@bk.ru  Mon Jun 24 17:49:01 2002
+Return-Path: intr0519c@bk.ru
+Delivery-Date: Sat Jun  8 00:28:53 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g57NSGG24629 for
+    <jm@jmason.org>; Sat, 8 Jun 2002 00:28:17 +0100
+Received: from ula-usrv51.brasilis (ip-f3-039.ctbctelecom.com.br
+    [200.225.227.39]) by mandark.labs.netnoteinc.com (8.11.6/8.11.2) with
+    ESMTP id g57NSDm18927 for <jm@netnoteinc.com>; Sat, 8 Jun 2002 00:28:14
+    +0100
+Received: from vtomo6555.com (host217-35-104-98.in-addr.btopenworld.com
+    [217.35.104.98]) by ula-usrv51.brasilis (8.11.1/linuxconf) with SMTP id
+    g57Mf1V12746; Fri, 7 Jun 2002 19:41:01 -0300
+X-Rav-Antivirus: Este e-mail foi analisado em busca de virus em:
+    ula-usrv51.brasilis
+Message-Id: <200206072241.g57Mf1V12746@ula-usrv51.brasilis>
+From: "Interesting Products" <intr0519c@bk.ru>
+To: randcbou@gwi.net, mrbrown@cei.net, yyyy@netnoteinc.com,
+    guycrazy@right.net, shj@cypress.com, lindac@comfortback.com,
+    randd@usaserve.net, guyding@golden.net, dswartwo@bechtel.com,
+    dswartz@fgi.net, shjones@pdsinc.com, guyg@vpm.com, verevent@gamestats.com,
+    clip@xnet.com, guyh@inline.com, randell@premier.net, clipart@vpm.com,
+    jm@value.net, randell@webramp.net, randelle@ezzi.net, jm@wireweb.net,
+    lindad30@grove.net, clipper@bignet.net, dsweger@cfw.com, lindad@cwv.net
+Cc: rander@portup.com, shlee@cmo.com, verhagen@chorus.net,
+    mrc54@connecti.com, guym@kinetica.com, lindad@sonic.net,
+    dswhite@webramp.net, jm_9@bmi.net, clippert@xnet.com, shlomo@seapen.com,
+    dswift@snet.net, lindae@eatel.net, jma@bostonpride.com, guyp@acadia.net,
+    clique@sierratel.com, shm@mccalla.com, veritas@utm.net, dswisher@scia.net,
+    veritech@sundial.net, dswl@direcpc.com, clit@mountain.net,
+    dsworth@netslyder.net, randerson@snet.net, randerson@usaserve.net
+Date: Fri, 7 Jun 2002 15:41:46 -0700
+Subject: New.. Find out ANYTHING about ANYONE with your PC
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit

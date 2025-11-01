@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19578.34-UgGTgZFN19NAr9RR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g69MseT08837
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Tue, 9 Jul 2002 23:54:40 +0100
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by acmta4.cnet.com (PowerMTA(TM) v1.5); Tue, 9 Jul 2002 15:49:15 -0700 (envelope-from <Online#3.19578.34-UgGTgZFN19NAr9RR.1.b@newsletter.online.com>)
+Message-ID: <1100198.1026255272511.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Tue, 9 Jul 2002 15:54:30 -0700 (PDT)
+From: "CNET News.com Daily Dispatch" <Online#3.19578.34-UgGTgZFN19NAr9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: CNET NEWS.COM: Cable companies cracking down on Wi-Fi
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

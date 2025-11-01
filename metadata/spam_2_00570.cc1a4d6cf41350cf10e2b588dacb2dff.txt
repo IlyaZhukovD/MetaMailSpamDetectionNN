@@ -1,0 +1,24 @@
+From return@trafficmagnet.net  Mon Jun 24 17:52:44 2002
+Return-Path: return@trafficmagnet.net
+Delivery-Date: Mon Jun  3 08:59:00 2002
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g537wpO05075 for
+    <jm@jmason.org>; Mon, 3 Jun 2002 08:59:00 +0100
+Received: from localhost.localdomain ([211.101.236.180]) by webnote.net
+    (8.9.3/8.9.3) with ESMTP id IAA16752 for <jm@jmason.org>; Mon,
+    3 Jun 2002 08:58:49 +0100
+Received: from emaserver ([211.157.101.50]) by localhost.localdomain
+    (8.11.6/8.11.6) with ESMTP id g537ucY27491 for <jm@jmason.org>;
+    Mon, 3 Jun 2002 15:56:48 +0800
+Message-Id: <203CR1000002827@emaserver.trafficmagnet.net>
+Date: Mon, 3 Jun 2002 15:56:33 +0800 (CST)
+From: Christine Hall <return@trafficmagnet.net>
+Reply-To: Christine Hall <christinehall@trafficmagnet.net>
+To: yyyy@spamassassin.taint.org
+Subject: http://iiu.taint.org
+MIME-Version: 1.0
+X-Ema-Cid: 3653361
+X-Ema-Lid: 
+X-Ema-PC: 0ee34585a7f00
+X-Keywords: 
+Content-Type: multipart/alternative; boundary=297430269.1023090993312.JavaMail.SYSTEM.emaserver

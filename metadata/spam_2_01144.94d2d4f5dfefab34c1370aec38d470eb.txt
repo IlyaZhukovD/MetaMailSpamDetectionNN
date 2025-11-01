@@ -1,0 +1,21 @@
+From info@9to6.ie  Mon Jul 29 11:40:47 2002
+Return-Path: <info@9to6.ie>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 00B0544117
+	for <jm@localhost>; Mon, 29 Jul 2002 06:36:02 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:36:02 +0100 (IST)
+Received: from 9to6.ie ([194.165.160.119]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g6SAFdi00712 for <webmaster@efi.ie>;
+    Sun, 28 Jul 2002 11:15:39 +0100
+Message-Id: <200207281015.g6SAFdi00712@dogma.slashnull.org>
+From: "9 to 6 Postmaster" <info@9to6.ie>
+To: <webmaster@efi.ie>
+Subject: 
+Sender: "9 to 6 Postmaster" <info@9to6.ie>
+MIME-Version: 1.0
+Date: Sun, 28 Jul 2002 11:14:32 +0100
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit

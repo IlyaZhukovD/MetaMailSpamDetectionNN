@@ -1,0 +1,14 @@
+From a2boo@hotmail.com  Thu Jul  5 03:47:43 2001
+Return-Path: <a2boo@hotmail.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from serviceregistry.net (serviceregistry.net [209.40.123.200])
+    by mail.netnoteinc.com (Postfix) with ESMTP id 9CAC41140BA for
+    <jm@netnoteinc.com>; Thu,  5 Jul 2001 03:47:42 +0100 (IST)
+Received: from james.com ([63.220.53.34]) by serviceregistry.net
+    (8.9.3/8.9.1) with SMTP id WAA02286 for <jm@netnoteinc.com>;
+    Wed, 4 Jul 2001 22:17:15 -0400
+From: a2boo@hotmail.com
+Message-Id: <200107050217.WAA02286@serviceregistry.net>
+To: <yyyy@netnoteinc.com>
+Subject: Free money from the government!
+Date: Wed, 4 Jul 2001 18:55:09

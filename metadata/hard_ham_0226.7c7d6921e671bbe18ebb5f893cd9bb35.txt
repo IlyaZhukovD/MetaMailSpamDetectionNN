@@ -1,0 +1,24 @@
+Return-Path: Fool@motleyfool.com
+Delivery-Date: Wed Jan 02 13:56:54 2002
+Return-Path: <express-errors@motleyfool.com>
+Received: from h12.mail.home.com ([24.0.95.46])
+          by femail33.sdc1.sfba.home.com
+          (InterMail vM.4.01.03.20 201-229-121-120-20010223) with ESMTP
+          id <20020102185503.MWHC12857.femail33.sdc1.sfba.home.com@h12.mail.home.com>
+          for <mkettler@mail.hwrd1.md.home.com>;
+          Wed, 2 Jan 2002 10:55:03 -0800
+Received: from mx6-w.mail.home.com (mx6-w.mail.home.com [24.0.95.71])
+	by h12.mail.home.com (8.9.3/8.9.0) with ESMTP id KAA12696
+	for <mkettler@home.com>; Wed, 2 Jan 2002 10:55:03 -0800 (PST)
+Received: from mail1.motleyfool.com (mail1.motleyfool.com [64.94.26.201])
+	by mx6-w.mail.home.com (8.11.1/8.11.1) with ESMTP id g02It1l02955
+	for <mkettler@home.com>; Wed, 2 Jan 2002 10:55:02 -0800 (PST)
+Message-Id: <200201021855.g02It1l02955@mx6-w.mail.home.com>
+Received: (qmail 5065 invoked by uid 507); 2 Jan 2002 18:55:00 -0000
+To: mkettler@home.com
+From: The Motley Fool <Fool@motleyfool.com>
+Reply-To: The Motley Fool <Otto@Fool.com>
+Date: Wed, 02 Jan 2002 13:55:00 -0500
+Subject: Personal Finance: Resolutions You Can Keep
+Content-Type: text/plain; charset=us-ascii
+X-Eudora2Unix: 2002-09-20T15:53:20Z converted

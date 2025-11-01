@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19685.54-2t7_gc22RoTI4sRR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6AKHYJ02058
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Wed, 10 Jul 2002 21:17:34 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Wed, 10 Jul 2002 16:19:34 -0700 (envelope-from <Online#3.19685.54-2t7_gc22RoTI4sRR.1.b@newsletter.online.com>)
+Message-ID: <1219134.1026332248132.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Wed, 10 Jul 2002 13:17:28 -0700 (PDT)
+From: CNET Shopper Electronics Edition <Online#3.19685.54-2t7_gc22RoTI4sRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Looking for the perfect camera for your summer vacation? (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

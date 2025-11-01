@@ -1,0 +1,24 @@
+From gsl@insurancemail.net  Mon Jun 24 17:06:12 2002
+Return-Path: gsl@insurancemail.net
+Delivery-Date: Fri May 24 01:43:17 2002
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4O0hHe08309 for
+    <jm@jmason.org>; Fri, 24 May 2002 01:43:17 +0100
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by webnote.net (8.9.3/8.9.3) with ESMTP
+    id BAA28160 for <jm@jmason.org>; Fri, 24 May 2002 01:43:00 +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Thu, 23 May 2002 19:39:13 -0400
+Subject: Roth conversions = jumbo annuity sale
+To: <yyyy@spamassassin.taint.org>
+Date: Thu, 23 May 2002 19:39:13 -0400
+From: "Senior Selling" <gsl@insurancemail.net>
+Message-Id: <2885ef01c202b3$0bb8fef0$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcICmFP0KieyfrHkR96IbMfGU/lViQ==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 23 May 2002 23:39:13.0917 (UTC) FILETIME=[0BBD92D0:01C202B3]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_268694_01C20276.CCE3E8C0"

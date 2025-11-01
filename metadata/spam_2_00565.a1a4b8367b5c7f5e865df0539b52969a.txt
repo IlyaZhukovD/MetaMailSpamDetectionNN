@@ -1,0 +1,22 @@
+From mg@insurancemail.net  Mon Jun 24 17:52:29 2002
+Return-Path: mg@insurancemail.net
+Delivery-Date: Sun Jun  2 22:01:24 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g52L1NO08801 for <jm@jmason.org>; Sun, 2 Jun 2002 22:01:23
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Sun, 2 Jun 2002 17:00:30 -0400
+Subject: 3 Year Annuity...5% Guaranteed Rate
+To: <yyyy@spamassassin.taint.org>
+Date: Sun, 2 Jun 2002 17:00:29 -0400
+From: "IQ - The Milner Group" <mg@insurancemail.net>
+Message-Id: <4bdb5801c20a78$871f6490$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIKYx5pLwr6+nuMTR+o41o2dlKG8g==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 02 Jun 2002 21:00:30.0113 (UTC) FILETIME=[873DE910:01C20A78]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_49E3B3_01C20A41.97599E20"

@@ -1,0 +1,24 @@
+From donnaryder7@hotmail.com  Tue Aug  6 11:04:56 2002
+Return-Path: <donnaryder7@hotmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 9669D44141
+	for <jm@localhost>; Tue,  6 Aug 2002 05:57:03 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 10:57:03 +0100 (IST)
+Received: from mail.webnote.net ([218.104.237.149])
+	by webnote.net (8.9.3/8.9.3) with SMTP id UAA15837
+	for <jm@netnoteinc.com>; Mon, 5 Aug 2002 20:36:35 +0100
+From: donnaryder7@hotmail.com
+Received: by 9315.com(WebEasyMail 3.0.0.2)  http://easymail.yeah.net
+	Fri, 12 Jul 2002 01:37:08 -0000
+Message-ID: <0000214d3c87$000057e7$000037a9@mc4.law5.hotmail.com>
+To: <Undisclosed.Recipients@webnote.net>
+Subject: Re: Does Your Bank Account Have Room For More Money?                         14249
+Date: Thu, 11 Jul 2002 13:38:15 -0400
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

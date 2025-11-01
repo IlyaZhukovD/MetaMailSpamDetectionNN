@@ -1,0 +1,19 @@
+From YourMembership2@AEOpublishing.com  Sat Jun 30 07:38:50 2001
+Return-Path: <YourMembership2@AEOpublishing.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from rovdb001.roving.com (rovdb001.roving.com [216.251.239.53])
+    by mail.netnoteinc.com (Postfix) with ESMTP id F0CCC11812D for
+    <jm@netnoteinc.com>; Sat, 30 Jun 2001 07:38:45 +0100 (IST)
+Received: from rovweb002 (unknown [10.208.80.86]) by rovdb001.roving.com
+    (Postfix) with ESMTP id 4324A25ABD for <jm@netnoteinc.com>; Sat,
+    30 Jun 2001 02:38:36 -0400 (EDT)
+From: 'Your Membership' Editor <YourMembership2@AEOpublishing.com>
+To: yyyy@netnoteinc.com
+Subject: Your Membership Community & Commentary, 06-29-01
+X-Roving-Queued: 20010630 02:38.24265
+X-Roving-Version: 4.1.patch39.ThingOne_p39_06_25_01.OrderErrorAndDebugFixes
+X-Mailer: Roving Constant Contact 4.1.patch39.ThingOne_p39_06_25_01.OrderE
+    rrorAndDebugFixes (http://www.constantcontact.com)
+X-Roving-Id: 993877123578
+Message-Id: <20010630063836.4324A25ABD@rovdb001.roving.com>
+Date: Sat, 30 Jun 2001 02:38:36 -0400 (EDT)

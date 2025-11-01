@@ -1,0 +1,28 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6O8rDhY057724
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Wed, 24 Jul 2002 03:53:14 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6O8rDxk057721
+	for cypherpunks-forward@ds.pro-ns.net; Wed, 24 Jul 2002 03:53:13 -0500 (CDT)
+Received: from fiber.avixion.net (fiber.ecommis.net [216.206.140.34])
+	by hq.pro-ns.net (8.12.5/8.12.5) with SMTP id g6O8rBhX057696
+	for <cypherpunks@ds.pro-ns.net>; Wed, 24 Jul 2002 03:53:11 -0500 (CDT)
+	(envelope-from anlin002@ms82.url.com.tw)
+Message-Id: <200207240853.g6O8rBhX057696@hq.pro-ns.net>
+X-Authentication-Warning: hq.pro-ns.net: Host fiber.ecommis.net [216.206.140.34] claimed to be fiber.avixion.net
+Received: (qmail 34237 invoked from network); 24 Jul 2002 04:39:12 -0000
+Received: from 244.203.30.61.isp.tfn.net.tw (HELO CHU) (61.30.203.244)
+  by 216.206.140.35 with SMTP; 24 Jul 2002 04:39:12 -0000
+From: anlin002@ms82.url.com.tw
+Subject: =?Big5?B?ur+36qfZq/wtMi0xNDgt?=
+To: cypher00000000@yahoo.com.tw
+Content-Type: text/html;;;;;;;;;;;;;;;;;;
+Reply-To: anlin002@ms82.url.com.tw
+Date: Wed, 24 Jul 2002 12:28:19 +0800
+X-Priority: 3
+X-Library: Indy 8.0.25
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by hq.pro-ns.net id g6OFFOhX007632

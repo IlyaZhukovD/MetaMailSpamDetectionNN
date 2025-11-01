@@ -1,0 +1,7 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Sat Sep  7 06:36:41 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Sat, 07 Sep 2002 01:36:41 -0400
+Subject: [Spambayes] can't write to CVS...
+In-Reply-To: <15737.35722.956784.600958@12-248-11-90.client.attbi.com>
+Message-ID: <LNBBLJKPBEHFEDALKOLCCELKBCAB.tim.one@comcast.net>

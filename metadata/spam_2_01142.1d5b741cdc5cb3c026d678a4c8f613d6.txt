@@ -1,0 +1,25 @@
+From jm@netnoteinc.com  Mon Jul 29 11:22:06 2002
+Return-Path: <yyyy@netnoteinc.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 909C34410F
+	for <jm@localhost>; Mon, 29 Jul 2002 06:21:00 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:21:00 +0100 (IST)
+Received: from www.supermodels.co.uk (www.supermodels.co.uk [194.168.161.197] (may be forged))
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6S8YPp04102
+	for <jm@netnoteinc.com>; Sun, 28 Jul 2002 09:34:26 +0100
+X-Authentication-Warning: mandark.labs.netnoteinc.com: www.supermodels.co.uk [194.168.161.197] (may be forged) didn't use HELO protocol
+From: yyyy@netnoteinc.com
+Received: from netnoteinc.com by SQ4E3D44TN2.netnoteinc.com with SMTP for yyyy@netnoteinc.com; Sun, 28 Jul 2002 04:35:58 -0500
+Date: Sun, 28 Jul 2002 04:35:58 -0500
+Subject: Mortgage Rates Have Never Been Lower
+X-MSMail-Priority: Normal
+X-Encoding: MIME
+Message-Id: <VLUD0.IPYW9P50XWBX5W.yyyy@netnoteinc.com>
+Reply-To: yyyy@netnoteinc.com
+To: yyyy@netnoteinc.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_34_5888148775635227063366114"
+Content-Transfer-Encoding: quoted-printable

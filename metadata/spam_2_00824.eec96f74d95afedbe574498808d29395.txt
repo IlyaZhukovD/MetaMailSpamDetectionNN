@@ -1,0 +1,15 @@
+Received: from sender ([211.98.136.25])
+	by linux.midrange.com (8.11.6/8.11.6) with SMTP id g6LE6xe31359
+	for <gibbs@midrange.com>; Sun, 21 Jul 2002 09:07:02 -0500
+Message-Id: <200207211407.g6LE6xe31359@linux.midrange.com>
+From: easytest8341@email.com
+To: gibbs@midrange.com
+Subject: Your $1365 Welcome Bonus is waiting for You!! 
+Sender: easytest8341@email.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="GB2312_CHARSET"
+Date: Sun, 21 Jul 2002 22:03:24 +0800
+X-Status: 
+X-Keywords: 
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by linux.midrange.com id g6LEUFe31661

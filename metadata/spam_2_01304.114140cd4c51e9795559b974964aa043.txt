@@ -1,0 +1,38 @@
+From fork-admin@xent.com  Tue Aug  6 12:57:02 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 351FE44196
+	for <jm@localhost>; Tue,  6 Aug 2002 07:36:57 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 12:36:57 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g764YTk13007 for <jm@jmason.org>;
+    Tue, 6 Aug 2002 05:34:32 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 39BA62940BA; Mon,  5 Aug 2002 21:31:04 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from 46.34.15.06 (unknown [61.149.27.205]) by xent.com (Postfix)
+    with SMTP id 5C0F72940AD for <fork@xent.com>; Mon,  5 Aug 2002 21:29:34
+    -0700 (PDT)
+From: "info@chinabusinesstravel.com" <info@chinabusinesstravel.com>
+To: fork@spamassassin.taint.org
+Reply-To: info@chinabusinesstravel.com
+Subject: Valuable Business Information Of China
+MIME-Version: 1.0
+Message-Id: <20020806042934.5C0F72940AD@xent.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 06 Aug 2002 12:34:20 +0800
+Content-Type: multipart/related; boundary="717fbb98-2427-46fa-b1fc-01aeb8d47c3f"

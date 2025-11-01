@@ -1,0 +1,7 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Sat Sep  7 01:06:56 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Fri, 06 Sep 2002 20:06:56 -0400
+Subject: [Spambayes] Ditching WordInfo
+In-Reply-To: <w53r8g6brus.fsf@woozle.org>
+Message-ID: <LNBBLJKPBEHFEDALKOLCOEKKBCAB.tim.one@comcast.net>

@@ -1,0 +1,19 @@
+From ReservationDesk@permissionpass.com  Mon Jun 24 17:04:28 2002
+Return-Path: tppn@ftu-06.permissionpass.com
+Delivery-Date: Fri May 17 05:30:01 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4H4Toe13639 for
+    <jm@jmason.org>; Fri, 17 May 2002 05:29:54 +0100
+Received: from ftu-06.permissionpass.com (ftu-06.permissionpass.com
+    [64.251.16.152]) by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP
+    id g4H4TnD00842 for <jm@netnoteinc.com>; Fri, 17 May 2002 05:29:49 +0100
+Received: (from tppn@localhost) by ftu-06.permissionpass.com
+    (8.11.2/8.11.6) id g4H4RUg11010 for jm@netnoteinc.com; Fri, 17 May 2002
+    00:27:30 -0400
+Date: Fri, 17 May 2002 00:27:30 -0400
+Message-Id: <200205170427.g4H4RUg11010@ftu-06.permissionpass.com>
+From: Reservation Desk <ReservationDesk@permissionpass.com>
+To: yyyy@netnoteinc.com
+Subject: Congrats!  Here are your 2 Free Airline Tickets
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="##########"

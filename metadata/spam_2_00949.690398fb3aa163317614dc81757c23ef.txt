@@ -1,0 +1,40 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NH2GhY084090
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Tue, 23 Jul 2002 12:02:17 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6NH2GOE084087
+	for cypherpunks-forward@ds.pro-ns.net; Tue, 23 Jul 2002 12:02:16 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NH28hX084025
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 12:02:09 -0500 (CDT)
+	(envelope-from cpunks@einstein.ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id MAA14676
+	for cypherpunks@ds.pro-ns.net; Tue, 23 Jul 2002 12:10:44 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id MAA14646
+	for cypherpunks-outgoing; Tue, 23 Jul 2002 12:10:28 -0500
+Received: from appsales.net ([65.168.244.19])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id MAA14638
+	for <cypherpunks@einstein.ssz.com>; Tue, 23 Jul 2002 12:10:18 -0500
+Message-Id: <200207231710.MAA14638@einstein.ssz.com>
+Received: (qmail 2356 invoked by uid 502); 23 Jul 2002 16:15:43 -0000
+Received: from unknown (HELO appsales.net) (65.168.244.26)
+  by 0 with SMTP; 23 Jul 2002 16:15:43 -0000
+From: Link It Software <sendout@appsales.net>
+Subject: Maintenance Tracking/Scheduling Software, $1495
+Date: 23 Jul 2002 09:11:48 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_BkymKzPF_EOQL8qx8_MR"
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+To: undisclosed-recipients:;

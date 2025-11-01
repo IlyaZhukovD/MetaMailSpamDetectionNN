@@ -1,0 +1,22 @@
+From opportunities@optinllc.com  Tue Aug  6 10:57:37 2002
+Return-Path: <opportunities@optinllc.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4974544108
+	for <jm@localhost>; Tue,  6 Aug 2002 05:53:49 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 10:53:49 +0100 (IST)
+Received: from relay31 (host.optinllc.com [64.251.23.133])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id HAA07297
+	for <jm@netnoteinc.com>; Sat, 3 Aug 2002 07:14:27 +0100
+From: opportunities@optinllc.com
+Received: from html ([192.168.0.17])
+	by relay31 (8.11.6/8.11.6) with SMTP id g73IClG09851
+	for <jm@netnoteinc.com>; Sat, 3 Aug 2002 14:12:47 -0400
+Message-Id: <200208031812.g73IClG09851@relay31>
+To: yyyy@netnoteinc.com
+Subject: Would you like a $250 check?
+Date: Sat, 3 Aug 2002 02:13:07
+Mime-Version: 1.0
+Content-Type: text/html; charset="us-ascii"

@@ -1,0 +1,20 @@
+From zonepost11@freemail.hu  Wed Aug  1 23:31:50 2001
+Return-Path: <zonepost11@freemail.hu>
+Delivered-To: yyyy@netnoteinc.com
+Received: from mailman.accessonline.com.au (alex-wg.accessonline.com.au
+    [203.42.79.4]) by mail.netnoteinc.com (Postfix) with ESMTP id 83A29114088
+    for <jm@netnoteinc.com>; Wed,  1 Aug 2001 22:31:48 +0000 (Eire)
+Received: from webman.accessonline.com.au ([203.42.79.8]) by
+    mailman.accessonline.com.au with SMTP (Microsoft Exchange Internet Mail
+    Service Version 5.5.2650.21) id QCJTFPZ2; Thu, 2 Aug 2001 07:55:12 +1000
+Received: from 64.3.210.238 - 64.3.210.238 by webman.accessonline.com.au
+    with Microsoft SMTPSVC(5.5.1774.114.11); Thu, 2 Aug 2001 07:53:02 +1000
+Message-Id: <000018e94cd4$0000220a$000063aa@>
+To: <Undisclosed Recipients@netnoteinc.com>
+From: zonepost11@freemail.hu
+Subject: The Stock has "wow" factor
+Date: Sat, 16 Dec 2000 05:27:20 -0800
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-Msmail-Priority: Normal

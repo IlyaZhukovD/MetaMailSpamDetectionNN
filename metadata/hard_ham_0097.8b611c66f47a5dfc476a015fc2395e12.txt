@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20467.ac-q5A1l6tzmmPhUdRR.1.b@newsletter.online.com>
+Received: from acmta3.cnet.com (abv-sfo1-acmta3.cnet.com [206.16.1.162])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6IA8VJ14893
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 18 Jul 2002 11:08:31 +0100
+Received: from abv-sfo1-ac-agent1 (206.16.0.223) by acmta3.cnet.com (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 03:01:03 -0700 (envelope-from <Online#3.20467.ac-q5A1l6tzmmPhUdRR.1.b@newsletter.online.com>)
+Message-ID: <1159165.1026986905420.JavaMail.root@abv-sfo1-ac-agent1>
+Date: Thu, 18 Jul 2002 03:08:25 -0700 (PDT)
+From: ZDNet Tech Update Today <Online#3.20467.ac-q5A1l6tzmmPhUdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: When search results don't count (Tech Update)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

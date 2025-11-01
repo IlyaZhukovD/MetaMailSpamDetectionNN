@@ -1,0 +1,26 @@
+From steveadler@allexecs.com  Mon Jul 22 18:43:50 2002
+Return-Path: <steveadler@allexecs.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id ACCC5440CD
+	for <jm@localhost>; Mon, 22 Jul 2002 13:43:47 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 18:43:47 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MHQP403415 for
+    <jm-cv@jmason.org>; Mon, 22 Jul 2002 18:26:27 +0100
+Received: from allexecs.com ([211.167.175.17]) by webnote.net
+    (8.9.3/8.9.3) with ESMTP id NAA23418 for <jm-cv@jmason.org>;
+    Sat, 20 Jul 2002 13:04:41 +0100
+Received: from allexecs.com (mail [127.0.0.1]) by allexecs.com
+    (8.12.2/8.12.2) with SMTP id g6I2lAMt030846 for <jm-cv@jmason.org>;
+    Thu, 18 Jul 2002 10:47:10 +0800
+Message-Id: <200207180247.g6I2lAMt030846@allexecs.com>
+Date: Thu, 18 Jul 2002 10:47:10 +0800
+From: Steve Adler <steveadler@allexecs.com>
+Subject: Proven way to get a job....
+To: yyyy-cv@spamassassin.taint.org
+MIME-Version: 1.0
+X-Cidl: 5625291J
+Content-Type: multipart/mixed; boundary="----ack1234"

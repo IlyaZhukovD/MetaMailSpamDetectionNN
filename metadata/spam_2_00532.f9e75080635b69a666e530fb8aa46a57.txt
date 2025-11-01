@@ -1,0 +1,19 @@
+From research_package@nan.ne.jp  Mon Jun 24 17:08:55 2002
+Return-Path: research_package@nan.ne.jp
+Delivery-Date: Fri May 31 12:22:40 2002
+Received: from smtp4.cp.tin.it (vsmtp4.tin.it [212.216.176.224]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4VBMcO31645 for
+    <webmaster@efi.ie>; Fri, 31 May 2002 12:22:39 +0100
+Received: from mail.nan.ne.jp (62.211.32.123) by smtp4.cp.tin.it (6.5.019)
+    id 3CEE7AD6002753C5; Fri, 31 May 2002 13:22:00 +0200
+Date: Fri, 31 May 2002 13:22:00 +0200 (added by postmaster@virgilio.it)
+Message-Id: <3CEE7AD6002753C5@smtp4.cp.tin.it> (added by
+    postmaster@virgilio.it)
+Reply-To: <Investor_resources@irbet.irbet.bf>
+From: "research_package@nan.ne.jp" <research_package@nan.ne.jp>
+To: "3592@prodigy.com" <3592@prodigy.com>
+Subject: This is the final test of a
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

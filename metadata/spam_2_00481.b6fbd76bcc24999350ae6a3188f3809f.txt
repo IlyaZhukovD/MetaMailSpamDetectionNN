@@ -1,0 +1,22 @@
+From rw@insurancemail.net  Mon Jun 24 17:06:54 2002
+Return-Path: rw@insurancemail.net
+Delivery-Date: Tue May 28 02:16:26 2002
+Received: from insiq4.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4S1GPe13739 for <jm@jmason.org>; Tue, 28 May 2002 02:16:25
+    +0100
+Received: from mail pickup service by insiq4.insuranceiq.com with
+    Microsoft SMTPSVC; Mon, 27 May 2002 21:15:52 -0400
+From: "Rockwood" <rw@insurancemail.net>
+To: <yyyy@spamassassin.taint.org>
+Date: Mon, 27 May 2002 21:15:51 -0400
+Subject: Feeling Exposed?
+MIME-Version: 1.0
+Message-Id: <296d0a01c205e5$353ec130$3201a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIF1n4QG6AFiYOnQMO2fPeC1PRD3Q==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 28 May 2002 01:15:52.0078 (UTC) FILETIME=[355DBAE0:01C205E5]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_281518_01C205B4.F6FEA190"

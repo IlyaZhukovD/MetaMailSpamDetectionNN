@@ -1,0 +1,8 @@
+Return-Path: neale@woozle.org
+Delivery-Date: Fri Sep  6 20:58:33 2002
+From: neale@woozle.org (Neale Pickett)
+Date: 06 Sep 2002 12:58:33 -0700
+Subject: [Spambayes] Deployment
+In-Reply-To: <LNBBLJKPBEHFEDALKOLCGEIPBCAB.tim.one@comcast.net>
+References: <LNBBLJKPBEHFEDALKOLCGEIPBCAB.tim.one@comcast.net>
+Message-ID: <w53znuuc2l2.fsf@woozle.org>

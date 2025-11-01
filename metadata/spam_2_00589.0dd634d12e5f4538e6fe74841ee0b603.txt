@@ -1,0 +1,19 @@
+From D.Black@cbs.dk  Mon Jun 24 17:54:18 2002
+Return-Path: D.Black@cbs.dk
+Delivery-Date: Tue Jun  4 00:52:17 2002
+Received: from servlp.rioitaipu.com.br ([200.231.14.194]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g53NqFO02857 for
+    <webmaster@efi.ie>; Tue, 4 Jun 2002 00:52:16 +0100
+Received: from mail1.uct.ac.za ([200.48.36.114] (may be forged)) by
+    servlp.rioitaipu.com.br (2.5 Build 2639 (Berkeley 8.8.6)/8.8.4) with ESMTP
+    id UAA24287; Mon, 03 Jun 2002 20:38:25 -0300
+Message-Id: <000047c264ab$00004c82$00000e53@mail.cbs.ch>
+To: <D.Black@cbs.dk>
+From: "U.S. Conference Service" <D.Black@cbs.dk>
+Subject: 18cent long distance conference calls
+Date: Mon, 03 Jun 2002 16:46:06 -1900
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

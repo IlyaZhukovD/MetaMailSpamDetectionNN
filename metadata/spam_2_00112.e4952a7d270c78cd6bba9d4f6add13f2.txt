@@ -1,0 +1,18 @@
+From emarketing@arabia.com  Thu Aug  2 12:43:15 2001
+Return-Path: <emarketing@arabia.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from dogma.slashnull.org (dogma.slashnull.org [212.17.35.15]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id B0F1B1144A7 for
+    <jm@netnoteinc.com>; Thu,  2 Aug 2001 11:43:05 +0000 (Eire)
+Received: from orionserver1.orion.net.tr ([213.194.95.134]) by
+    dogma.slashnull.org (8.9.3/8.9.3) with ESMTP id LAA08149 for
+    <postmaster@eire.com>; Thu, 2 Aug 2001 11:25:30 +0100
+From: emarketing@arabia.com
+Message-Id: <200108021025.LAA08149@dogma.slashnull.org>
+Received: from 9mtWlkznU ([216.192.45.9]) by orionserver1.orion.net.tr
+    (Post.Office MTA v3.1.2 release (PO205-101c) ID# 0-42849U2500L250S0) with
+    SMTP id ACC1712; Thu, 2 Aug 2001 12:58:45 +0300
+Date: 02 Aug 01 3:11:43 AM
+Reply-To: emarketing@arabia.com
+To: emarketing@arabia.com
+Subject: 99 Million Email Addresses - $99

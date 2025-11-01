@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19910.c5-QoVul7N9F-iPA9RR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6CBgtJ28872
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 12 Jul 2002 12:42:55 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Fri, 12 Jul 2002 04:45:12 -0700 (envelope-from <Online#3.19910.c5-QoVul7N9F-iPA9RR.1.b@newsletter.online.com>)
+Message-ID: <1895877.1026474168972.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Fri, 12 Jul 2002 04:42:48 -0700 (PDT)
+From: ZDNet Tech Update Today <Online#3.19910.c5-QoVul7N9F-iPA9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: What you need for iPaq wireless connectivity (Tech Update)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

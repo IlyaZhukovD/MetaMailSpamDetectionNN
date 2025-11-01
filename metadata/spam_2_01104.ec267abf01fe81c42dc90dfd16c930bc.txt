@@ -1,0 +1,29 @@
+From china_lutong@163.com  Fri Jul 26 11:20:29 2002
+Return-Path: <china_lutong@163.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 03ACF440EA
+	for <jm@localhost>; Fri, 26 Jul 2002 06:20:14 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 26 Jul 2002 11:20:14 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6QAKN408440 for
+    <jm@jmason.org>; Fri, 26 Jul 2002 11:20:23 +0100
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6QAJdp26011 for
+    <jm@netnoteinc.com>; Fri, 26 Jul 2002 11:19:39 +0100
+Received: from 163.com (unknown [218.6.8.11]) by smtp.easydns.com
+    (Postfix) with SMTP id D7F972FCC0 for <jm@netnoteinc.com>; Fri,
+    26 Jul 2002 06:19:35 -0400 (EDT)
+From: "diesel fuel injection" <china_lutong@163.com>
+To: <yyyy@netnoteinc.com>
+Subject: Head & Rotor VE  07/26
+Sender: "diesel fuel injection" <china_lutong@163.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Fri, 26 Jul 2002 18:19:19 +0800
+Reply-To: "diesel fuel injection" <china_lutong@163.com>
+X-Priority: 1 (Highest)
+Message-Id: <20020726101935.D7F972FCC0@smtp.easydns.com>
+Content-Transfer-Encoding: 8bit

@@ -1,0 +1,27 @@
+From sh@insurancemail.net  Tue Jul 23 00:02:08 2002
+Return-Path: <sh@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4E08B440C9
+	for <jm@localhost>; Mon, 22 Jul 2002 19:02:07 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 23 Jul 2002 00:02:07 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g6MN17405760 for <jm@jmason.org>; Tue, 23 Jul 2002 00:01:08
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Mon, 22 Jul 2002 19:00:54 -0400
+Subject: Lock in Your Clients' Gains!
+To: <yyyy@spamassassin.taint.org>
+Date: Mon, 22 Jul 2002 19:00:54 -0400
+From: "IQ - Safe Harbor" <sh@insurancemail.net>
+Message-Id: <12bd9201c231d3$a1ad60f0$6b01a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIxvqivYuwtPMvjTn+4h0lRNlLwZQ==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 22 Jul 2002 23:00:54.0218 (UTC) FILETIME=[A1CC5AA0:01C231D3]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_10CEB1_01C2319D.21A2F770"

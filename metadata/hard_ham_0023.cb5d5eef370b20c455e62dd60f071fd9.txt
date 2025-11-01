@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19785.b8-Opw9lWtyc6p9xsRR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6B9MqJ19006
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 11 Jul 2002 10:22:52 +0100
+Received: from abv-sfo1-ac-agent6 (206.16.0.241) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 02:25:08 -0700 (envelope-from <Online#3.19785.b8-Opw9lWtyc6p9xsRR.1.b@newsletter.online.com>)
+Message-ID: <6400488.1026379365207.JavaMail.root@abv-sfo1-ac-agent6>
+Date: Thu, 11 Jul 2002 02:22:45 -0700 (PDT)
+From: "CNET News.com" <Online#3.19785.b8-Opw9lWtyc6p9xsRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: CNET NEWS.CONTEXT: Hollywood & Silicon Valley: A way out?
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

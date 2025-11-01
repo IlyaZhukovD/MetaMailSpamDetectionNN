@@ -1,0 +1,39 @@
+From owner-melbwireless@wireless.org.au  Thu Sep 26 16:40:13 2002
+Return-Path: <owner-melbwireless@wireless.org.au>
+Delivered-To: zzz@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by example.com (Postfix) with ESMTP id E60C116F6A
+	for <zzz@localhost>; Thu, 26 Sep 2002 16:38:11 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Thu, 26 Sep 2002 16:38:11 +0100 (IST)
+Received: from www.wireless.org.au (www.wireless.org.au [202.161.127.82])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8QBvFg16983 for
+    <zzz@example.com>; Thu, 26 Sep 2002 12:57:16 +0100
+Received: (from majordomo@localhost) by www.wireless.org.au
+    (8.11.6/8.11.6) id g8QBmDb28807 for melbwireless-list; Thu, 26 Sep 2002
+    21:48:13 +1000
+X-Authentication-Warning: www.wireless.org.au: majordomo set sender to
+    owner-melbwireless@wireless.org.au using -f
+Received: from mail018.syd.optusnet.com.au (mail018.syd.optusnet.com.au
+    [210.49.20.176]) by www.wireless.org.au (8.11.6/8.11.6) with ESMTP id
+    g8QBmDG28804 for <melbwireless@wireless.org.au>; Thu, 26 Sep 2002 21:48:13
+    +1000
+Received: from notfound (ocmax27-028.dialup.optusnet.com.au
+    [198.142.129.28]) by mail018.syd.optusnet.com.au (8.11.1/8.11.1) with SMTP
+    id g8QBmAj17570 for <melbwireless@wireless.org.au>; Thu, 26 Sep 2002
+    21:48:10 +1000
+From: "Gary" <gary_winder@optusnet.com.au>
+To: <melbwireless@wireless.org.au>
+Subject: [MLB-WIRELESS] FW: Cisco Wireless LAN Solutions
+Date: Thu, 26 Sep 2002 21:47:55 +1000
+Message-Id: <EAEMILNLIEBAKPJKFCKJGEJPCDAA.gary_winder@optusnet.com.au>
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2800.1106
+Importance: Normal
+Sender: owner-melbwireless@wireless.org.au
+Precedence: list
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0018_01C265A6.5F5B4A30"

@@ -1,0 +1,47 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6PMOji5048990
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Thu, 25 Jul 2002 17:24:46 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6PMOjAZ048987
+	for cypherpunks-forward@ds.pro-ns.net; Thu, 25 Jul 2002 17:24:45 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6PMOIi4048815
+	for <cypherpunks@ds.pro-ns.net>; Thu, 25 Jul 2002 17:24:34 -0500 (CDT)
+	(envelope-from cpunks@einstein.ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id RAA04566
+	for cypherpunks@ds.pro-ns.net; Thu, 25 Jul 2002 17:33:28 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id RAA04540
+	for cypherpunks-outgoing; Thu, 25 Jul 2002 17:33:07 -0500
+Received: from smtpout-2001-2.public.lawson.webtv.net (smtpout-2001-2.public.lawson.webtv.net [209.240.212.82])
+	by einstein.ssz.com (8.8.8/8.8.8) with ESMTP id RAA04520
+	for <cypherpunks@einstein.ssz.com>; Thu, 25 Jul 2002 17:32:39 -0500
+Received: from storefull-2191.public.lawson.webtv.net (storefull-2191.public.lawson.webtv.net [209.240.213.65])
+	by smtpout-2001-2.public.lawson.webtv.net (WebTV_Postfix+sws) with ESMTP id 65FDDBE48
+	for <cypherpunks@ssz.com>; Thu, 25 Jul 2002 15:23:19 -0700 (PDT)
+Received: (from production@localhost) by storefull-2191.public.lawson.webtv.net (8.8.8-wtv-f/mt.gso.26Feb98) id PAA10097; Thu, 25 Jul 2002 15:23:18 -0700 (PDT)
+X-WebTV-Signature: 1
+	ETAsAhRRSIDZ1ZVKpOOZmTA+zKYoqfu18AIUcU9FNejsU34l1p2AT/fMJzsF3wA= 
+From: enenkio@webtv.net (Robert Moore)
+Date: Thu, 25 Jul 2002 12:23:18 -1000 (HST)
+To: cypherpunks@einstein.ssz.com
+Subject: HAWAI`I & ENENKIO KINGDOMS  AMERICANS SHAME !
+Message-ID: <19258-3D407A56-2331@storefull-2191.public.lawson.webtv.net>
+Content-Disposition: Inline
+Content-Type: Text/Plain; Charset=ISO-8859-1
+MIME-Version: 1.0 (WebTV)
+X-MIME-Autoconverted: from Quoted-Printable to 8bit by einstein.ssz.com id RAA04527
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by hq.pro-ns.net id g6Q1hAi4026704

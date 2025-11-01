@@ -1,0 +1,44 @@
+From fork-admin@xent.com  Mon Aug 26 22:08:03 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id DF1ED43F9B
+	for <jm@localhost>; Mon, 26 Aug 2002 17:08:02 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 26 Aug 2002 22:08:02 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7QL8DZ09668 for <jm@jmason.org>;
+    Mon, 26 Aug 2002 22:08:16 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 4C7C22941D2; Mon, 26 Aug 2002 13:38:57 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from docserver.cac.washington.edu (docserver.cac.washington.edu
+    [140.142.32.13]) by xent.com (Postfix) with ESMTP id 825EF294099 for
+    <fork@xent.com>; Wed, 21 Aug 2002 16:33:32 -0700 (PDT)
+Received: (from daemon@localhost) by docserver.cac.washington.edu
+    (8.12.1+UW01.12/8.12.1+UW02.06) id g7LNKH73018839 for fork <fork@xent.com>;
+    Wed, 21 Aug 2002 16:20:17 -0700
+Message-Id: <200208212320.g7LNKH73018839@docserver.cac.washington.edu>
+To: fork <fork@example.com>
+From: UW Email Robot <pine-robot@docserver.cac.washington.edu>
+Subject: The MIME information you requested (last changed 3154 Feb 14)
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Wed, 21 Aug 2002 16:20:17 -0700
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-3.1 required=7.0
+	tests=KNOWN_MAILING_LIST,SPAM_PHRASE_01_02,SUBJECT_MONTH,
+	      SUBJECT_MONTH_2,TO_LOCALPART_EQ_REAL
+	version=2.40-cvs
+X-Spam-Level:

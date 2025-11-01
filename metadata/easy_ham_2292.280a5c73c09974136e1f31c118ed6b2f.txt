@@ -1,0 +1,22 @@
+From rssfeeds@jmason.org  Wed Oct  2 11:44:21 2002
+Return-Path: <rssfeeds@example.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 669ED16F03
+	for <jm@localhost>; Wed,  2 Oct 2002 11:44:21 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 02 Oct 2002 11:44:21 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g9281WK31739 for
+    <jm@jmason.org>; Wed, 2 Oct 2002 09:01:32 +0100
+Message-Id: <200210020801.g9281WK31739@dogma.slashnull.org>
+To: yyyy@example.com
+From: boingboing <rssfeeds@example.com>
+Subject: Danger Hiptop reviewed
+Date: Wed, 02 Oct 2002 08:01:32 -0000
+Content-Type: text/plain; encoding=utf-8
+X-Spam-Status: No, hits=-708.7 required=5.0
+	tests=AWL,HOT_NASTY
+	version=2.50-cvs
+X-Spam-Level:

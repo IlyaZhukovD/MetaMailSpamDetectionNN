@@ -1,0 +1,55 @@
+From fork-admin@xent.com  Mon Aug 26 21:47:37 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7D0AF43F9B
+	for <jm@localhost>; Mon, 26 Aug 2002 16:47:36 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 26 Aug 2002 21:47:36 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7QKi8Z08784 for <jm@jmason.org>;
+    Mon, 26 Aug 2002 21:44:08 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id CB8E2294189; Mon, 26 Aug 2002 13:38:17 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from axiom.braindust.com (axiom.braindust.com [64.69.71.79]) by
+    xent.com (Postfix) with ESMTP id DA705294099 for <fork@xent.com>;
+    Tue, 20 Aug 2002 15:03:21 -0700 (PDT)
+X-Envelope-To: fork@example.com
+Received: from localhost (muses.westel.com [204.244.110.7]) (authenticated
+    (0 bits)) by axiom.braindust.com (8.12.5/8.11.6) with ESMTP id
+    g7KM4qeH011945 (using TLSv1/SSLv3 with cipher EDH-RSA-DES-CBC3-SHA (168
+    bits) verified NO); Tue, 20 Aug 2002 15:04:53 -0700
+Resent-Date: Tue, 20 Aug 2002 15:04:35 -0700
+MIME-Version: 1.0 (Apple Message framework v482)
+Cc: "FoRK" <fork@example.com>
+Resent-Message-Id: <65C23A43-B488-11D6-B8E9-0030657C53EA@ianbell.com>
+Resent-To: fork@example.com
+To: <johnhall@evergo.net>
+Content-Type: text/plain; charset=US-ASCII; format=flowed
+Subject: Re: The Curse of India's Socialism
+From: Ian Andrew Bell <hello@ianbell.com>
+Content-Transfer-Encoding: 7bit
+Message-Id: <D021E330-B488-11D6-B8E9-0030657C53EA@ianbell.com>
+Resent-From: Ian Andrew Bell <fork@ianbell.com>
+X-Mailer: Apple Mail (2.482)
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 20 Aug 2002 15:01:36 -0700
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-6.7 required=7.0
+	tests=EMAIL_ATTRIBUTION,KNOWN_MAILING_LIST,QUOTED_EMAIL_TEXT,
+	      RESENT_TO,SPAM_PHRASE_00_01,USER_AGENT_APPLEMAIL
+	version=2.40-cvs
+X-Spam-Level:

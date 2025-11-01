@@ -1,0 +1,19 @@
+From mynetdetectives@offer888.net  Mon Jun 24 17:04:47 2002
+Return-Path: mynetdetectives-3444431.13@offer888.net
+Delivery-Date: Sat May 18 17:41:18 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4IGfHe28252 for
+    <jm@jmason.org>; Sat, 18 May 2002 17:41:18 +0100
+Received: from offer888.com ([216.177.63.130]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g4IGfGD07738 for
+    <jm@netnoteinc.com>; Sat, 18 May 2002 17:41:16 +0100
+Message-Id: <200205181641.g4IGfGD07738@mandark.labs.netnoteinc.com>
+Date: 18 May 2002 13:41:07 -0000
+X-Sender: offer888.net
+X-Mailid: 3444431.13
+Complain-To: abuse@offer888.com
+To: yyyy@netnoteinc.com
+From: Online Investigation <mynetdetectives@offer888.net>
+Subject: Jm, be your own private eye
+X-Keywords: 
+Content-Type: text/html;

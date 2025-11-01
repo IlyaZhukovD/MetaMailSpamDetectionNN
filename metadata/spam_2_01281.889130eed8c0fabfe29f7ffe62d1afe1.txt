@@ -1,0 +1,27 @@
+From usafin@insurancemail.net  Tue Aug  6 12:53:46 2002
+Return-Path: <usafin@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 2E270441C8
+	for <jm@localhost>; Tue,  6 Aug 2002 07:24:58 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 12:24:58 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g74NA9v12797 for <jm@jmason.org>; Mon, 5 Aug 2002 00:10:09
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Sun, 4 Aug 2002 19:09:17 -0400
+Subject: Triple Your Index Annuity Sales
+To: <yyyy@spamassassin.taint.org>
+Date: Sun, 4 Aug 2002 19:09:17 -0400
+From: "IQ - USA Financial" <usafin@insurancemail.net>
+Message-Id: <2823ee01c23c0b$f5367990$6b01a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+MIME-Version: 1.0
+Thread-Index: AcI77Cbk3LU+EY9xQ7qiaDi+ZrpcoQ==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 04 Aug 2002 23:09:17.0812 (UTC) FILETIME=[F5557340:01C23C0B]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_253BBB_01C23BCA.9FD9F850"

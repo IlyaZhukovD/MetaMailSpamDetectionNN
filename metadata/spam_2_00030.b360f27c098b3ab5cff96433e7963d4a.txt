@@ -1,0 +1,17 @@
+From MAILER-DAEMON  Tue Jun 26 13:05:04 2001
+Return-Path: <>
+Delivered-To: yyyy@netnoteinc.com
+Received: from TmpStr (slip-32-102-60-10.fl.us.prserv.net [32.102.60.10])
+    by mail.netnoteinc.com (Postfix) with SMTP id BA5DD130028 for
+    <jm@netnoteinc.com>; Tue, 26 Jun 2001 13:04:05 +0100 (IST)
+Reply-To: "" <>
+From: "" <>
+To: "" <yyyy@netnoteinc.com>
+Organization: 
+X-Priority: 1
+X-Msmail-Priority: High
+Subject: READ---SHIPPING INSTRUTIONS--FOR YOUR ORDER
+Sender: "" <>
+MIME-Version: 1.0
+Date: Tue, 26 Jun 2001 08:00:31 -0400
+Message-Id: <20010626120405.BA5DD130028@mail.netnoteinc.com>

@@ -1,0 +1,35 @@
+From earn_1000_per_week@btamail.net.cn  Wed Jul 17 08:59:06 2002
+Return-Path: <earn_1000_per_week@btamail.net.cn>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by netnoteinc.com (Postfix) with ESMTP id 680C443FA2
+	for <jm@localhost>; Wed, 17 Jul 2002 03:59:05 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 17 Jul 2002 08:59:05 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6H80AJ31613 for
+    <jm@jmason.org>; Wed, 17 Jul 2002 09:00:11 +0100
+Received: from btamail.net.cn ([211.192.139.79]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6H802R20773 for
+    <jm@netnoteinc.com>; Wed, 17 Jul 2002 09:00:05 +0100
+Received: from unknown (HELO smtp-server.tampabayr.com) (139.173.96.143)
+    by web.mail.halfeye.com with NNFMP; Wed, 17 Jul 0102 09:59:11 +0900
+Received: from unknown (197.215.79.112) by m10.grp.snv.yahui.com with
+    esmtp; Wed, 17 Jul 0102 18:53:51 -0800
+Received: from unknown (HELO mailout2-eri1.midmouth.com) (56.77.20.170) by
+    pet.vosni.net with smtp; 17 Jul 0102 10:48:31 -0700
+Received: from sparc.zubilam.net ([21.101.86.236]) by
+    smtp-server.tampabayr.com with smtp; 17 Jul 0102 03:43:11 +0400
+Reply-To: "Success Team 2002" <earn_1000_per_week@btamail.net.cn>
+Message-Id: <035e46a35e2c$6783a4e2$2dc58de4@sbxrct>
+From: "Success Team 2002" <earn_1000_per_week@btamail.net.cn>
+To: you@netnoteinc.com
+Subject: A Guaranteed Check for you
+Date: Wed, 17 Jul 0102 09:53:05 -0200
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+Importance: Normal
+Content-Type: text/html; charset="iso-8859-1"

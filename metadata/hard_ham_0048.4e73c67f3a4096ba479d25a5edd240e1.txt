@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19971.bf-06fglL9Xsszda9RR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6CLP1J02182
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Fri, 12 Jul 2002 22:25:01 +0100
+Received: from abv-sfo1-ac-agent1 (206.16.0.223) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Fri, 12 Jul 2002 14:25:44 -0700 (envelope-from <Online#3.19971.bf-06fglL9Xsszda9RR.1.b@newsletter.online.com>)
+Message-ID: <6892743.1026509093430.JavaMail.root@abv-sfo1-ac-agent1>
+Date: Fri, 12 Jul 2002 14:24:52 -0700 (PDT)
+From: "CNET News.com Investor" <Online#3.19971.bf-06fglL9Xsszda9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: NEWS.COM INVESTOR: Techs fall with consumer sentiment
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

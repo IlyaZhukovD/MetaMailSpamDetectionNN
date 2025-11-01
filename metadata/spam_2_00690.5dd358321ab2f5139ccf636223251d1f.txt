@@ -1,0 +1,22 @@
+From sli@insurancemail.net  Mon Jun 24 17:49:47 2002
+Return-Path: sli@insurancemail.net
+Delivery-Date: Tue Jun 11 01:20:30 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g5B0KTG09111 for <jm@jmason.org>; Tue, 11 Jun 2002 01:20:29
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Mon, 10 Jun 2002 20:19:42 -0400
+Subject: The Inflation Fighter
+To: <yyyy@spamassassin.taint.org>
+Date: Mon, 10 Jun 2002 20:19:42 -0400
+From: "IQ - Standard Life Insurance" <sli@insurancemail.net>
+Message-Id: <6ade6801c210dd$ae731670$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIQx1U23SetA5e3QsG7dTVzaAbhew==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 11 Jun 2002 00:19:42.0239 (UTC) FILETIME=[AE919AF0:01C210DD]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_68D343_01C210A5.CE2C4050"

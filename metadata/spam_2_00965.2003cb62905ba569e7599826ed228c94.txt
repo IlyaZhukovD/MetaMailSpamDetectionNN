@@ -1,0 +1,29 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NMDfhY007121
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Tue, 23 Jul 2002 17:13:41 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6NMDedL007111
+	for cypherpunks-forward@ds.pro-ns.net; Tue, 23 Jul 2002 17:13:40 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NMDchX007100
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 17:13:39 -0500 (CDT)
+	(envelope-from cpunks@einstein.ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id RAA18020
+	for cypherpunks@ds.pro-ns.net; Tue, 23 Jul 2002 17:22:18 -0500
+Received: from localhost.com ([218.72.128.142])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id RAA17975
+	for <cpunks@einstein.ssz.com>; Tue, 23 Jul 2002 17:20:10 -0500
+From: emailharvest@email.com
+Message-Id: <200207232220.RAA17975@einstein.ssz.com>
+Reply-To: emailharvest@email.com
+To: cpunks@einstein.ssz.com
+Date: Wed, 24 Jul 2002 06:11:12 +0800
+Subject: Harvest lots of E-mail addresses quickly !
+X-Mailer: QuickSender 1.05
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable

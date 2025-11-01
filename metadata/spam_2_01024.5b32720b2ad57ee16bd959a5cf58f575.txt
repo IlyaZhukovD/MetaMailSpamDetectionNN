@@ -1,0 +1,16 @@
+Received: from uuout10smtp6.uu.flonetwork.com (uuout10smtp6.uu.flonetwork.com [205.150.6.36])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6OLTCe16779
+	for <gibbs@midrange.com>; Wed, 24 Jul 2002 16:29:14 -0500
+Received: from UUCORE14PUMPER2 (uuout10relay1.uu.flonetwork.com [172.20.70.10])
+	by uuout10smtp6.uu.flonetwork.com (Postfix) with SMTP id 96510D19D
+	for <gibbs@midrange.com>; Wed, 24 Jul 2002 17:29:31 -0400 (EDT)
+Message-Id: <Kilauea292-235-26536324-1@flonetwork.com>
+From: Consumer Today <reply_3@ct2.consumertoday.net>
+To: gibbs@midrange.com
+Subject: Free New Cars for the Taking!
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Date: Wed, 24 Jul 2002 17:29:31 -0400 (EDT)
+X-Status: 
+X-Keywords:

@@ -1,0 +1,27 @@
+From fddgl@dcs.rhbnc.ac.uk  Thu Jul 18 14:16:26 2002
+Return-Path: <fddgl@dcs.rhbnc.ac.uk>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 915CC43F90
+	for <jm@localhost>; Thu, 18 Jul 2002 09:16:24 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 18 Jul 2002 14:16:24 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6IDB0J28140 for
+    <jm@jmason.org>; Thu, 18 Jul 2002 14:11:02 +0100
+Received: from webserver.unired (mail.ctarlalibertad.gob.pe
+    [200.48.54.194]) by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP
+    id g6IDA3R23674 for <jm@netnoteinc.com>; Thu, 18 Jul 2002 14:10:22 +0100
+Message-Id: <200207181310.g6IDA3R23674@mandark.labs.netnoteinc.com>
+Received: from enlaces.ufro.cl (host2-255.pool212131.interbusiness.it
+    [212.131.255.2]) by webserver.unired with SMTP (Microsoft Exchange
+    Internet Mail Service Version 5.5.2650.21) id PDCHB845; Wed,
+    17 Jul 2002 17:31:03 -0500
+To: <Undisclosed.Recipients@netnoteinc.com>
+From: "Cheech" <fddgl@dcs.rhbnc.ac.uk>
+Subject: Legal herb, anytime
+Date: Wed, 17 Jul 2002 15:36:39 -1900
+MIME-Version: 1.0
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: 7bit

@@ -1,0 +1,27 @@
+From dna@insurancemail.net  Thu Jul 25 11:19:12 2002
+Return-Path: <dna@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id C8C85440D0
+	for <jm@localhost>; Thu, 25 Jul 2002 06:19:06 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 25 Jul 2002 11:19:06 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g6ONQJ414655 for <jm@jmason.org>; Thu, 25 Jul 2002 00:26:20
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Wed, 24 Jul 2002 19:26:04 -0400
+Subject: Free Multi-Generational Sales Kit
+To: <yyyy@spamassassin.taint.org>
+Date: Wed, 24 Jul 2002 19:26:04 -0400
+From: "IQ - DNA Brokerage" <dna@insurancemail.net>
+Message-Id: <1ecde01c23369$7af8bee0$6b01a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIzVKBChWbQSXtHQSG6vVtnp5aR3g==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 24 Jul 2002 23:26:04.0953 (UTC) FILETIME=[7B17B890:01C23369]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0007_01C23333.1932BF20"

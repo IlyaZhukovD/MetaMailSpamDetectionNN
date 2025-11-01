@@ -1,0 +1,39 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NJXvhY044076
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Tue, 23 Jul 2002 14:33:58 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6NJXvww044073
+	for cypherpunks-forward@ds.pro-ns.net; Tue, 23 Jul 2002 14:33:57 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NJXrhX044031
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 14:33:54 -0500 (CDT)
+	(envelope-from cpunks@einstein.ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id OAA16455
+	for cypherpunks@ds.pro-ns.net; Tue, 23 Jul 2002 14:42:34 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id OAA16442
+	for cypherpunks-outgoing; Tue, 23 Jul 2002 14:42:30 -0500
+Received: from localhost ([211.192.32.104])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id OAA16432
+	for <cypherpunks@einstein.ssz.com>; Tue, 23 Jul 2002 14:42:23 -0500
+Message-Id: <200207231942.OAA16432@einstein.ssz.com>
+From: GodSmell<fm21c@hotmal.com>
+To: cypherpunks@einstein.ssz.com
+Subject: [±¤°í]¸íÇ°Çâ¼ö&¸íÇ°È­ÀåÇ°
+Mime-Version: 1.0
+Content-Type: text/html; charset="ks_c_5601-1987"
+Date: Thu, 25 Jul 2002 04:57:09 +0900
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by hq.pro-ns.net id g6O1WAhX085540

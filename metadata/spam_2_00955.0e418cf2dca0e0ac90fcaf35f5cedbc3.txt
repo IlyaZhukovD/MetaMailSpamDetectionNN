@@ -1,0 +1,17 @@
+Received: from hook.helix.sk (bb207.isternet.sk [195.72.0.207])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6NKTpe18014
+	for <gibbs@midrange.com>; Tue, 23 Jul 2002 15:29:53 -0500
+Received: from smtp0452.mail.yahoo.com ([4.42.141.17])
+	by hook.helix.sk (8.12.3/8.12.3/Debian -4) with SMTP id g6NHoOai002903;
+	Tue, 23 Jul 2002 19:53:16 +0200
+Message-Id: <200207231753.g6NHoOai002903@hook.helix.sk>
+Date: Tue, 23 Jul 2002 10:53:47 -0700
+From: "Marc Garcia"<mrhealth@btamail.net.cn>
+X-Priority: 3
+To: anniekim@hotmail.com
+Subject: The database that Bill Gates doesnt want you to know about!!!!!
+Mime-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Status: 
+X-Keywords:

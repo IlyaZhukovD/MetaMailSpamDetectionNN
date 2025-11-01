@@ -1,0 +1,24 @@
+Received: from drghaz-s002.emirates.net.ae ([213.42.118.56])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6N3Qae12491
+	for <gibbs@midrange.com>; Mon, 22 Jul 2002 22:26:37 -0500
+Message-Id: <200207230326.g6N3Qae12491@linux.midrange.com>
+Received: from drgdxb-s002.emirates.net.ae (DRGDXB-S002 [192.168.16.11]) by drghaz-s002.emirates.net.ae with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PK3QX3TT; Tue, 23 Jul 2002 08:25:17 +0500
+Received: from 203.98.134.114 (IS~NS1 [203.98.134.114]) by drgdxb-s002.emirates.net.ae with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PM6RCKA3; Tue, 23 Jul 2002 07:24:48 +0400
+From: "New Product Showcase" <seemsg_5572216@gmx.net>
+Reply-To: remv0615c@bk.ru
+To: joey0248@aol.com, virwil1@aol.com
+CC: cplan@columbus.rr.com, gibbs@midrange.com, blondhh@gate.net,
+   fentonj@aol.com, teddy@hakes.com, mitchb@blackboard.com, mitchb@pathcom.com,
+   gnbc@aol.com, teddy@idirect.com, dandon@loop.com, viryfied@aol.com,
+   denali99@aol.com, dierks@valueweb.net, ropers@westco.net, doublelee@aol.com,
+   denali350@aol.com, spider17@email.com
+Date: Mon, 22 Jul 2002 20:24:28 -0700
+Subject: New Version 7: Uncover the TRUTH about ANYONE!
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Status: 
+X-Keywords:

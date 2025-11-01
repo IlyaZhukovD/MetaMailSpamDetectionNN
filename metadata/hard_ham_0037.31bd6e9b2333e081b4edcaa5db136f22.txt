@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19860.f9-f6ASlANZLfc4x9RR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6C0bCJ22099
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Fri, 12 Jul 2002 01:37:12 +0100
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by acmta4.cnet.com (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 17:31:47 -0700 (envelope-from <Online#3.19860.f9-f6ASlANZLfc4x9RR.1.b@newsletter.online.com>)
+Message-ID: <3563843.1026434225596.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Thu, 11 Jul 2002 17:37:05 -0700 (PDT)
+From: CNET Internet Services <Online#3.19860.f9-f6ASlANZLfc4x9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Broadband ISPs wise up to wireless, defend (or don't) against hackers (CNET INTERNET SERVICES)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20520.de-C6GhlCa9O-fqvRRR.1.b@newsletter.online.com>
+Received: from acmta3.cnet.com (abv-sfo1-acmta3.cnet.com [206.16.1.162])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6J0KeJ05971
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 19 Jul 2002 01:20:40 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by acmta3.cnet.com (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 17:12:58 -0700 (envelope-from <Online#3.20520.de-C6GhlCa9O-fqvRRR.1.b@newsletter.online.com>)
+Message-ID: <121189.1027038020800.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Thu, 18 Jul 2002 17:20:20 -0700 (PDT)
+From: CNET Cell Phone Weekly Newsletter <Online#3.20520.de-C6GhlCa9O-fqvRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Cordless phones: the other wireless devices
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

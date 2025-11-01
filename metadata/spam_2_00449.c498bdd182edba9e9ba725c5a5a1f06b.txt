@@ -1,0 +1,23 @@
+From malalad@mail.ru  Mon Jun 24 17:06:29 2002
+Return-Path: malalad@mail.ru
+Delivery-Date: Fri May 24 21:34:32 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4OKYVe24671 for
+    <jm@jmason.org>; Fri, 24 May 2002 21:34:32 +0100
+Received: from imail.infomatika.com (ns2.infomatika.com [216.119.165.62])
+    by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4OKYR710080;
+    Fri, 24 May 2002 21:34:30 +0100
+Received: from 24.55.128.132 [193.251.78.214] by imail.infomatika.com
+    (SMTPD32-7.10) id A030300138; Fri, 24 May 2002 15:18:56 -0500
+Message-Id: <000053a21c3c$00006740$000067bc@24.55.128.132>
+To: <Fountaine@mandark.labs.netnoteinc.com>
+From: "Sammy Dorn" <malalad@mail.ru>
+Subject: 6 Figures from homeBCUTP
+Date: Fri, 24 May 2002 14:35:24 -1600
+MIME-Version: 1.0
+X-Priority: 1
+X-Mailer: Microsoft Outlook, Build 10.0.3416
+X-Msmail-Priority: High
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

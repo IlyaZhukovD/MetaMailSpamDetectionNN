@@ -1,0 +1,26 @@
+From jenny@hotmail.com  Wed Jul 31 15:55:09 2002
+Return-Path: <jenny@hotmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id EA9E34407C
+	for <jm@localhost>; Wed, 31 Jul 2002 10:55:07 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 31 Jul 2002 15:55:07 +0100 (IST)
+Received: from webmail ([203.151.46.7])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6VErdp15236
+	for <jm@netnoteinc.com>; Wed, 31 Jul 2002 15:53:43 +0100
+Received: from smtp0221.mail.yahoo.com (200-204-74-168.dsl.telesp.net.br [200.204.74.168])
+	by webmail (AIX4.3/8.9.3/8.9.3) with SMTP id VAA23046998;
+	Wed, 31 Jul 2002 21:50:45 +0700
+Message-Id: <200207311450.VAA23046998@webmail>
+Date: Mon, 17 Sep 2001 06:58:04 -0700
+From: "Lee-Whei Brandel" <jenny@hotmail.com>
+X-Priority: 3
+To: yyyy@netmagic.net
+Cc: yyyy@netmore.net, yyyy@netnoteinc.com, yyyy@netrevolution.com,
+	jm@netset.com, jm@netunlimited.net, jm@netvigator.com, jm@netway.com
+Subject: Internet Connectivity that beats the prices & Quality of the Big Boys!
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii

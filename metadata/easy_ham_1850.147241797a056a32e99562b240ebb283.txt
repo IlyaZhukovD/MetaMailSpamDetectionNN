@@ -1,0 +1,7 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Tue Sep 10 18:12:51 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Tue, 10 Sep 2002 13:12:51 -0400
+Subject: [Spambayes] timtest broke?
+In-Reply-To: <15742.8105.960711.715561@12-248-11-90.client.attbi.com>
+Message-ID: <BIEJKCLHCIOIHAGOKOLHIEHJDKAA.tim.one@comcast.net>

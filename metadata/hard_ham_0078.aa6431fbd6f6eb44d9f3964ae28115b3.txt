@@ -1,0 +1,19 @@
+Return-Path: <bounce-lgmac-2534372@sprocket.lockergnome.com>
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6H984J04013
+	for <qqqqqqqqqq-lg@example.com>; Wed, 17 Jul 2002 10:08:04 +0100
+X-Mailer: ListManager Web Interface
+Date: Wed, 17 Jul 2002 01:49:41 -0500
+Subject: [Lockergnome Apple Core]  Intuitive Cash
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Apple Core <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lgmac-2534372C@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lgmac@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lgmac@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lgmac-2534372C@sprocket.lockergnome.com
+Sender: bounce-lgmac-2534372@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534372-1681029-2002.07.17-01.51.10--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii

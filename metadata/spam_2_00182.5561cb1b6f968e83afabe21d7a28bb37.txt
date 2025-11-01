@@ -1,0 +1,45 @@
+From motorvan@fazekas.hu  Mon Jun 24 17:44:10 2002
+Return-Path: avfs-admin@fazekas.hu
+Delivery-Date: Fri Mar 29 11:51:14 2002
+Received: from csibe.fazekas.hu (postfix@csibe.fazekas.hu [195.199.63.65])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g2TBnrA20430 for
+    <jm@jmason.org>; Fri, 29 Mar 2002 11:49:54 GMT
+Received: by csibe.fazekas.hu (Postfix, from userid 99) id 4106CFDEC;
+    Fri, 29 Mar 2002 12:49:37 +0100 (CET)
+Received: from csibe.fazekas.hu (localhost [127.0.0.1]) by
+    csibe.fazekas.hu (Postfix) with ESMTP id 79EB32F29F; Fri, 29 Mar 2002
+    12:49:02 +0100 (CET)
+Delivered-To: avfs@fazekas.hu
+Received: by csibe.fazekas.hu (Postfix, from userid 99) id B7E12FBEA;
+    Fri, 29 Mar 2002 12:48:30 +0100 (CET)
+Received: from 203195058114.ctinets.com (203195058114.ctinets.com
+    [203.195.58.114]) by csibe.fazekas.hu (Postfix) with SMTP id 188C02F22D
+    for <avfs@fazekas.hu>; Fri, 29 Mar 2002 12:48:00 +0100 (CET)
+Message-Id: <001501c1d6ab$ca196c60$777ba8c0@AndrewLi>
+From: "Hing Lung Motor Mfy." <motorvan@fazekas.hu>
+To: avfs@fazekas.hu
+MIME-Version: 1.0
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+Subject: [Avfs] D.C. MOTOR
+Sender: avfs-admin@fazekas.hu
+Errors-To: avfs-admin@fazekas.hu
+X-Beenthere: avfs@csibe.fazekas.hu
+X-Mailman-Version: 2.0.3
+Precedence: bulk
+Reply-To: avfs@fazekas.hu
+X-Reply-To: "Hing Lung Motor Mfy." <motorvan@fazekas.hu>
+List-Help: <mailto:avfs-request@csibe.fazekas.hu?subject=help>
+List-Post: <mailto:avfs@csibe.fazekas.hu>
+List-Subscribe: <http://www.fazekas.hu/mailman/listinfo/avfs>,
+    <mailto:avfs-request@csibe.fazekas.hu?subject=subscribe>
+List-Id: <avfs.csibe.fazekas.hu>
+List-Unsubscribe: <http://www.fazekas.hu/mailman/listinfo/avfs>,
+    <mailto:avfs-request@csibe.fazekas.hu?subject=unsubscribe>
+List-Archive: <http://www.fazekas.hu/pipermail/avfs/>
+Date: Fri, 29 Mar 2002 06:56:25 +0800
+X-Status: 
+X-Keywords: 
+Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_000_0011_01C1D6EE.D7F988E0"

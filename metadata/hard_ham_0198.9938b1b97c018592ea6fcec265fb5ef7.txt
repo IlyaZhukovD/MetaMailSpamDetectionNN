@@ -1,0 +1,56 @@
+From spam-request@z1.example.com  Sat Oct  5 17:23:18 2002
+Return-Path: <spam-request@z1.example.com>
+Delivered-To: zzz@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by example.com (Postfix) with ESMTP id A9BCD16F17
+	for <zzz@localhost>; Sat,  5 Oct 2002 17:22:56 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Sat, 05 Oct 2002 17:22:56 +0100 (IST)
+Received: from z2.example.com (z2.example.com [204.74.68.55]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g95EYGK12689 for
+    <zzz@example.com>; Sat, 5 Oct 2002 15:34:17 +0100
+Received: from localhost (daemon@localhost) by z2.example.com
+    (8.11.6/8.9.3) with SMTP id g95EYre54183; Sat, 5 Oct 2002 07:34:53 -0700
+    (PDT) (envelope-from spam-request@z1.example.com)
+Received: by z2.example.com (bulk_mailer v1.13); Sat, 5 Oct 2002
+    07:34:46 -0700
+Received: (from daemon@localhost) by z2.example.com (8.11.6/8.9.3) id
+    g95EYFi54153 for spam-relay; Sat, 5 Oct 2002 07:34:15 -0700 (PDT)
+    (envelope-from neil@petemoss.com)
+Received: (from smap@localhost) by z2.example.com (8.11.6/8.9.3) id
+    g95EYEn54095 for <zzzzz@z1.example.com>; Sat, 5 Oct 2002 07:34:14 -0700
+    (PDT) (envelope-from neil@petemoss.com)
+Received: from tomts23.bellnexxia.net(209.226.175.185) by z2.example.com
+    via smap (V1.3) id xma054092; Sat, 5 Oct 02 07:34:07 -0700
+Received: from [192.168.0.102] ([65.94.231.199]) by
+    tomts23-srv.bellnexxia.net (InterMail vM.5.01.04.19
+    201-253-122-122-119-20020516) with ESMTP id
+    <20021005143405.TYJM24834.tomts23-srv.bellnexxia.net@[192.168.0.102]> for
+    <zzzzz@z1.example.com>; Sat, 5 Oct 2002 10:34:05 -0400
+MIME-Version: 1.0
+X-Sender: b1gcux43@pop2.sympatico.ca
+Message-Id: <p05200a0db9c4a8c4bd16@[192.168.0.102]>
+X-Plug: http://spamNEWS.com
+X-Habeas-Swe-1: winter into spring
+X-Habeas-Swe-2: brightly anticipated
+X-Habeas-Swe-3: like Habeas SWE (tm)
+X-Habeas-Swe-4: Copyright 2002 Habeas (tm)
+X-Habeas-Swe-5: Sender Warranted Email (SWE) (tm). The sender of this
+X-Habeas-Swe-6: email in exchange for a license for this Habeas
+X-Habeas-Swe-7: warrant mark warrants that this is a Habeas Compliant
+X-Habeas-Swe-8: Message (HCM) and not spam. Please report use of this
+X-Habeas-Swe-9: mark in spam to <http://www.habeas.com/report/>.
+Date: Sat, 5 Oct 2002 10:33:46 -0400
+To: zzzzz@z1.example.com
+From: Neil Schwartzman <neil@petemoss.com>
+Subject: MEDIA: spamNEWS Digest September 30 - October 05, 2002
+Content-Type: text/plain; charset="us-ascii"
+X-Requests-To: spam-request@z1.example.com
+X-Originally-To: zzzzz@z1.example.com
+X-Spam-Status: No, hits=-32.7 required=5.0
+	tests=ALL_CAP_PORN,AWL,EMAIL_MARKETING,HABEAS_SWE,
+	      LINES_OF_YELLING,NO_FEE,OPT_IN,T_NONSENSE_FROM_40_50,
+	      UPPERCASE_25_50
+	version=2.50-cvs
+X-Spam-Level:

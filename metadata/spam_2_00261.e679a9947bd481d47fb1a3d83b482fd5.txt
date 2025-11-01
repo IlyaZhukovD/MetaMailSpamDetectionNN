@@ -1,0 +1,26 @@
+From Emailcenter@cmmail.com  Mon Jun 24 17:03:03 2002
+Return-Path: Emailcenter@cmmail.com
+Delivery-Date: Sat May 11 13:33:43 2002
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4BCXhe22263 for
+    <jm@jmason.org>; Sat, 11 May 2002 13:33:43 +0100
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    webnote.net (8.9.3/8.9.3) with ESMTP id GAA00602 for <jm@jmason.org>;
+    Sat, 11 May 2002 06:40:39 +0100
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4B5dwD02070 for
+    <jm@netnoteinc.com>; Sat, 11 May 2002 06:39:59 +0100
+Received: from cmmail.com (unknown [218.6.2.152]) by smtp.easydns.com
+    (Postfix) with SMTP id 9A6572BFD4 for <jm@netnoteinc.com>; Sat,
+    11 May 2002 01:39:49 -0400 (EDT)
+From: "Marketing Manager" <Emailcenter@cmmail.com>
+To: <yyyy@netnoteinc.com>
+Subject: Grow Your Business
+Sender: "Marketing Manager" <Emailcenter@cmmail.com>
+MIME-Version: 1.0
+Date: Sat, 11 May 2002 13:20:50 +0800
+Reply-To: "Marketing Manager" <Emailcenter@163.com>
+Message-Id: <20020511053949.9A6572BFD4@smtp.easydns.com>
+X-Keywords: 
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit

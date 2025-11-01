@@ -1,0 +1,35 @@
+From danny@spesh.com  Fri Aug 16 17:53:24 2002
+Return-Path: <danny@spesh.com>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 303BC43C32
+	for <zzz@localhost>; Fri, 16 Aug 2002 12:53:22 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Fri, 16 Aug 2002 17:53:22 +0100 (IST)
+Received: from prune.flirble.org (prune.flirble.org [195.40.6.30]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g7GGo3628372 for
+    <zzz-ntk@example.com>; Fri, 16 Aug 2002 17:50:03 +0100
+Received: (qmail 20738 invoked by uid 7789); 16 Aug 2002 16:26:20 -0000
+Mailing-List: contact ntknow-help@lists.ntk.net; run by ezmlm
+Precedence: bulk
+X-No-Archive: yes
+Delivered-To: mailing list ntknow@lists.ntk.net
+Delivered-To: moderator for ntknow@lists.ntk.net
+Received: (qmail 20676 invoked from network); 16 Aug 2002 16:24:36 -0000
+Date: Fri, 16 Aug 2002 09:24:14 -0700
+From: "Danny O'Brien" <danny@spesh.com>
+To: NTK now <ntknow@lists.ntk.net>
+Subject: MiniNTK 2002-08-16
+Message-Id: <20020816092414.A22711@spesh.com>
+Reply-To: tips@spesh.com
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: mutt-nntp/1.3.22.1ix
+X-Excuse: filing taxes and playing with Squeak don't mix, kids
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-2.2 required=7.0
+	tests=BALANCE_FOR_LONG,SPAM_PHRASE_00_01,USER_AGENT
+	version=2.40
+X-Spam-Level:

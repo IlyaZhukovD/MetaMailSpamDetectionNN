@@ -1,0 +1,22 @@
+Return-Path: <webmaster2fg7@address.com>
+Received: from user2.pro-ns.net (user2.pro-ns.net [208.200.182.45])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6M1MQhX039501
+	for <wmo+webmaster@hq.pro-ns.net>; Sun, 21 Jul 2002 20:22:26 -0500 (CDT)
+	(envelope-from webmaster2fg7@address.com)
+Received: from sandiego.cratex.com (adsl-66-123-247-98.dsl.sndg02.pacbell.net [66.123.247.98])
+	by user2.pro-ns.net (8.12.3/8.12.2) with ESMTP id g6M1MQvw055548
+	for <webmaster@pro-ns.com>; Sun, 21 Jul 2002 20:22:26 -0500 (CDT)
+	(envelope-from webmaster2fg7@address.com)
+X-Authentication-Warning: user2.pro-ns.net: Host adsl-66-123-247-98.dsl.sndg02.pacbell.net [66.123.247.98] claimed to be sandiego.cratex.com
+Received: from postoffice.address.com (202.163.194.82 [202.163.194.82]) by sandiego.cratex.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PK6PWTHS; Sun, 21 Jul 2002 15:42:48 -0700
+Message-ID: <000049ee402c$000077a9$00002f42@postoffice.address.com>
+To: <Undisclosed.Recipients@user2.pro-ns.net>
+From: webmaster2fg7@address.com
+Subject: Your application is below. Expires July 27.
+Date: Sun, 21 Jul 2002 18:44:50 -1600
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Reply-To: webmaster2fg7@address.com

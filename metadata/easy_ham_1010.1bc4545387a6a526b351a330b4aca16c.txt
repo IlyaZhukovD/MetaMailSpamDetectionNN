@@ -1,0 +1,50 @@
+From fork-admin@xent.com  Wed Aug 28 10:50:30 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B246644158
+	for <jm@localhost>; Wed, 28 Aug 2002 05:50:12 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 28 Aug 2002 10:50:12 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7RM2tZ27575 for <jm@jmason.org>;
+    Tue, 27 Aug 2002 23:02:58 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 6595D2940EA; Tue, 27 Aug 2002 15:00:10 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from alumnus.caltech.edu (alumnus.caltech.edu [131.215.49.51])
+    by xent.com (Postfix) with ESMTP id CB93729409A; Tue, 27 Aug 2002 14:59:09
+    -0700 (PDT)
+Received: from localhost (localhost [127.0.0.1]) by alumnus.caltech.edu
+    (8.12.3/8.12.3) with ESMTP id g7RM0Gfw020877; Tue, 27 Aug 2002 15:00:17
+    -0700 (PDT)
+Subject: DataPower announces XML-in-silicon
+Content-Type: text/plain; charset=WINDOWS-1252; format=flowed
+MIME-Version: 1.0 (Apple Message framework v482)
+From: Rohit Khare <khare@alumni.caltech.edu>
+To: fork@example.com
+Message-Id: <5D5CC294-BA08-11D6-837F-000393A46DEA@alumni.caltech.edu>
+X-Mailer: Apple Mail (2.482)
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 27 Aug 2002 15:00:13 -0700
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
+    id g7RM2tZ27575
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-1.1 required=7.0
+	tests=GAPPY_TEXT,INVESTMENT,KNOWN_MAILING_LIST,SPAM_PHRASE_00_01,
+	      USER_AGENT_APPLEMAIL,US_DOLLARS_2,US_DOLLARS_4
+	version=2.40-cvs
+X-Spam-Level:

@@ -1,0 +1,20 @@
+From lowrate@softtip.net  Mon Jun 25 13:28:06 2001
+Return-Path: <lowrate@softtip.net>
+Delivered-To: yyyy@netnoteinc.com
+Received: from smtp.easydns.com (ns1.easydns.com [216.220.40.243]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 5C131117F0B for
+    <jm@netnoteinc.com>; Mon, 25 Jun 2001 12:56:14 +0100 (IST)
+Received: from smtp.easydns.com ([61.157.152.5]) by smtp.easydns.com
+    (8.11.3/8.11.0) with SMTP id f5PBu1X14930 for <jm@netnoteinc.com>;
+    Mon, 25 Jun 2001 07:56:06 -0400
+Received: by ealuka.com(WebEasyMail 3.0.0.2)  http://easymail.yeah.net Wed,
+    13 Jun 2001 03:59:25 -0000
+Message-Id: <000066523de7$0000106a$0000646f@softtip.net>
+To: <dealsmart@dealson-line.net>
+From: lowrate@softtip.net
+Subject: Spend Too Much On Your Phone Bill?                 25711
+Date: Tue, 12 Jun 2001 13:00:54 -0700
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-Msmail-Priority: Normal

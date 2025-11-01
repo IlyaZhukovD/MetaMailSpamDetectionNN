@@ -1,0 +1,22 @@
+From tba@insurancemail.net  Mon Jun 24 17:04:15 2002
+Return-Path: tba@insurancemail.net
+Delivery-Date: Thu May 16 03:33:13 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4G2XCe14211 for <jm@jmason.org>; Thu, 16 May 2002 03:33:12
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Wed, 15 May 2002 22:32:36 -0400
+Subject: 9.05% Guaranteed Annuity @ 8% Commission
+To: <yyyy@spamassassin.taint.org>
+Date: Wed, 15 May 2002 22:32:36 -0400
+From: "TBA" <tba@insurancemail.net>
+Message-Id: <aabec01c1fc81$f0e53b20$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcH8ZZGWC37BeofST3qoMyQeRqrpNw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 16 May 2002 02:32:36.0762 (UTC) FILETIME=[F103BFA0:01C1FC81]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_8A2A7_01C1FC44.0A86D9F0"

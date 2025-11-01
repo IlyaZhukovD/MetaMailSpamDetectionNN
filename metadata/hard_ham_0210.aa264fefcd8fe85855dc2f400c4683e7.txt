@@ -1,0 +1,24 @@
+Return-Path: ler@lerami.lerctr.org
+Delivery-Date: Fri Sep  6 11:29:06 2002
+Return-Path: <foxsportsflash-return@mailings.foxsports.com>
+Received: from pebble.foxsports.com (pebble.foxsports.com [206.15.104.27])
+	by lerami.lerctr.org (8.12.2/8.12.2/20020902/$Revision: 1.30 $) with SMTP id g86GT2X2013854
+	for <ler+foxsports@lerctr.org>; Fri, 6 Sep 2002 11:29:04 -0500 (CDT)
+Message-Id: <200209061629.g86GT2X2013854@lerami.lerctr.org>
+Date: Fri,  6 Sep 2002 16:00:15 +0000
+Precedence: bulk
+X-No-Archive: yes
+X-Priority: 3 (Normal)
+Importance: Normal
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+From: "FOXSports FLASH" <FOXSportsFLASH@mailings.foxsports.com>
+To: ler+foxsports@lerctr.org
+Subject: BIG 12 OR BUST
+X-Virus-Scanned: by amavisd-milter (http://amavis.org/)
+Content-Type: text/html; charset="us-ascii"
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 7

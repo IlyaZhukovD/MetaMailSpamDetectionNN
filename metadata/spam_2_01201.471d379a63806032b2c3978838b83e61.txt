@@ -1,0 +1,21 @@
+From mandym210@iname.com  Wed Jul 31 02:19:26 2002
+Return-Path: <mandym210@iname.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 076C04406D
+	for <jm@localhost>; Tue, 30 Jul 2002 21:19:26 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 31 Jul 2002 02:19:26 +0100 (IST)
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6V1Ckp13072
+	for <jm@netnoteinc.com>; Wed, 31 Jul 2002 02:12:47 +0100
+Received: from iname.com (unknown [212.31.103.18])
+	by smtp.easydns.com (Postfix) with SMTP id 117D12E045
+	for <jm@netnoteinc.com>; Tue, 30 Jul 2002 21:11:11 -0400 (EDT)
+Cc: 
+From: "Brady" <mandym210@iname.com>
+Subject: Sometimes, not always, I like the idea of a chick... with a horse... 
+Message-Id: <20020731011111.117D12E045@smtp.easydns.com>
+Date: Tue, 30 Jul 2002 21:11:11 -0400 (EDT)
+Content-Type: text/html; charset="iso-8859-1"

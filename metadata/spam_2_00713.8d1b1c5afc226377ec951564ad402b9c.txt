@@ -1,0 +1,27 @@
+From nbc@insurancemail.net  Wed Jul 17 00:07:19 2002
+Return-Path: <nbc@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by netnoteinc.com (Postfix) with ESMTP id 09A9343D45
+	for <jm@localhost>; Tue, 16 Jul 2002 19:07:18 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 17 Jul 2002 00:07:18 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g6GN3sJ22852 for <jm@jmason.org>; Wed, 17 Jul 2002 00:03:54
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Tue, 16 Jul 2002 19:04:20 -0400
+Subject: Pru Life's UL Portfolio Rocks
+To: <yyyy@spamassassin.taint.org>
+Date: Tue, 16 Jul 2002 19:04:20 -0400
+From: "IQ - NBC" <nbc@insurancemail.net>
+Message-Id: <285a7401c22d1d$1e5dcb00$6b01a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcItB/ODm/IjuH4HTui8gkBXxhCJUg==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 16 Jul 2002 23:04:20.0859 (UTC) FILETIME=[1E7CC4B0:01C22D1D]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_266701_01C22CE6.6C78C6F0"

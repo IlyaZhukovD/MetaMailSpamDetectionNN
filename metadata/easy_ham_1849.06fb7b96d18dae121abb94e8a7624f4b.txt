@@ -1,0 +1,6 @@
+Return-Path: skip@pobox.com
+Delivery-Date: Tue Sep 10 17:36:57 2002
+From: skip@pobox.com (Skip Montanaro)
+Date: Tue, 10 Sep 2002 11:36:57 -0500
+Subject: [Spambayes] timtest broke?
+Message-ID: <15742.8105.960711.715561@12-248-11-90.client.attbi.com>

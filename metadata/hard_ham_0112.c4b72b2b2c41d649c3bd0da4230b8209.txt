@@ -1,0 +1,15 @@
+Return-Path: <update@list.theregister.co.uk>
+Received: from list.theregister.co.uk (theregister-sql2.hosted.netline.net.uk [213.40.196.63])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6J2vLJ32688
+	for <qqqqqqqqqq-reg@example.com>; Fri, 19 Jul 2002 03:57:21 +0100
+Received: from localhost ([127.0.0.1] helo=list.theregister.co.uk)
+	by list.theregister.co.uk with smtp (Exim 3.31 #1)
+	id 17VN87-0007jT-0F
+	for <qqqqqqqqqq-reg@example.com>; Fri, 19 Jul 2002 03:04:27 +0100
+Date: Fri, 19 Jul 2002 03:00:01 +0100
+From: update@list.theregister.co.uk
+Subject: Reg Headlines Friday July 19
+To: Reg Subscribers <update@list.theregister.co.uk>
+Precedence: list
+X-Bulkmail: 2.05
+Message-Id: <E17VN87-0007jT-0F@list.theregister.co.uk>

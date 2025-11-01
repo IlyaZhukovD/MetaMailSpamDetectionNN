@@ -1,0 +1,36 @@
+From craig@hughes-family.org  Mon Sep  2 13:12:49 2002
+Return-Path: <craig@hughes-family.org>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7600944161
+	for <jm@localhost>; Mon,  2 Sep 2002 07:38:06 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 02 Sep 2002 12:38:06 +0100 (IST)
+Received: from blount.mail.mindspring.net (blount.mail.mindspring.net
+    [207.69.200.226]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g81B83Z21386 for <jm@jmason.org>; Sun, 1 Sep 2002 12:08:03 +0100
+Received: from user-1120fqe.dsl.mindspring.com ([66.32.63.78]
+    helo=belphegore.hughes-family.org) by blount.mail.mindspring.net with
+    esmtp (Exim 3.33 #1) id 17lSaV-0007tD-00; Sun, 01 Sep 2002 07:08:16 -0400
+Received: from belphegore.hughes-family.org (belphegore.hughes-family.org
+    [10.0.240.200]) by belphegore.hughes-family.org (Postfix) with ESMTP id
+    BEB2D3C545; Sun,  1 Sep 2002 04:08:14 -0700 (PDT)
+Date: Sun, 1 Sep 2002 04:08:14 -0700 (PDT)
+From: Craig R Hughes <craig@hughes-family.org>
+Reply-To: craig@stanfordalumni.org
+To: Daniel Quinlan <quinlan@pathname.com>
+Cc: "Craig R.Hughes" <craig@deersoft.com>,
+	Justin Mason <jm@jmason.org>,
+	SpamAssassin Developers <spamassassin-devel@lists.sourceforge.net>
+Subject: Re: [SAdev] results of scorer evaluation
+In-Reply-To: <yf27ki6cco2.fsf@proton.pathname.com>
+Message-Id: <Pine.LNX.4.44.0209010357090.5726-100000@belphegore.hughes-family.org>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-1.7 required=7.0
+	tests=EMAIL_ATTRIBUTION,FORGED_RCVD_TRAIL,IN_REP_TO,
+	      SPAM_PHRASE_00_01,USER_AGENT_PINE
+	version=2.40-cvs
+X-Spam-Level:

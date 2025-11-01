@@ -1,0 +1,22 @@
+From mando@insurancemail.net  Mon Jun 24 17:49:21 2002
+Return-Path: mando@insurancemail.net
+Delivery-Date: Sun Jun  9 19:49:02 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g59In1G28248 for <jm@jmason.org>; Sun, 9 Jun 2002 19:49:02
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Sun, 9 Jun 2002 14:48:14 -0400
+Subject: Unlimited Cash Bonuses!
+To: <yyyy@spamassassin.taint.org>
+Date: Sun, 9 Jun 2002 14:48:14 -0400
+From: "IQ - M & O Marketing" <mando@insurancemail.net>
+Message-Id: <666f6f01c20fe6$35ec0470$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIPz8Gac4iEgVZhT3GxQDeQkWVJrg==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 09 Jun 2002 18:48:14.0335 (UTC) FILETIME=[360A88F0:01C20FE6]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_646288_01C20FAE.3A8A1810"

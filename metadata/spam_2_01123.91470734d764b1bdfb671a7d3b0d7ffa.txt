@@ -1,0 +1,23 @@
+From csh1@msn.com  Mon Jul 29 11:21:02 2002
+Return-Path: <csh1@msn.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 169C0440EE
+	for <jm@localhost>; Mon, 29 Jul 2002 06:20:54 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:20:54 +0100 (IST)
+Received: from exchange.citc-canada.com (h66-59-172-106.gtconnect.net [66.59.172.106])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6QJALp29262
+	for <jm@netnoteinc.com>; Fri, 26 Jul 2002 20:10:28 +0100
+Received: from smtp-gw-4.msn.com (ALagny-101-1-5-237.abo.wanadoo.fr [80.11.134.237]) by exchange.citc-canada.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PHY4N8SQ; Fri, 26 Jul 2002 13:03:58 -0400
+Message-ID: <000070721448$00001749$0000322b@smtp-gw-4.msn.com>
+To: <Undisclosed.Recipients@netnoteinc.com>
+From: "Kate Berris" <csh1@msn.com>
+Subject: GREAT News for Men! NEW Breakthrough!
+Date: Fri, 26 Jul 2002 13:05:24 -1600
+MIME-Version: 1.0
+Reply-To: kenmills2@msn.com
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

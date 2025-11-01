@@ -1,0 +1,45 @@
+From timc@2ubh.com  Wed Aug 28 13:03:49 2002
+Return-Path: <timc@2ubh.com>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 9686143F9B
+	for <zzzz@localhost>; Wed, 28 Aug 2002 08:03:48 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Wed, 28 Aug 2002 13:03:48 +0100 (IST)
+Received: from n26.grp.scd.yahoo.com (n26.grp.scd.yahoo.com
+    [66.218.66.82]) by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id
+    g7SC4OZ23062 for <zzzz@example.com>; Wed, 28 Aug 2002 13:04:24 +0100
+X-Egroups-Return: sentto-2242572-53152-1030536261-zzzz=example.com@returns.groups.yahoo.com
+Received: from [66.218.67.201] by n26.grp.scd.yahoo.com with NNFMP;
+    28 Aug 2002 12:04:23 -0000
+X-Sender: timc@2ubh.com
+X-Apparently-To: zzzzteana@yahoogroups.com
+Received: (EGP: mail-8_1_0_1); 28 Aug 2002 12:04:20 -0000
+Received: (qmail 37203 invoked from network); 28 Aug 2002 12:04:20 -0000
+Received: from unknown (66.218.66.217) by m9.grp.scd.yahoo.com with QMQP;
+    28 Aug 2002 12:04:20 -0000
+Received: from unknown (HELO carbon) (194.73.73.92) by
+    mta2.grp.scd.yahoo.com with SMTP; 28 Aug 2002 12:04:22 -0000
+Received: from host217-34-71-140.in-addr.btopenworld.com ([217.34.71.140])
+    by carbon with esmtp (Exim 3.22 #8) id 17k1Yb-0001UI-00 for
+    forteana@yahoogroups.com; Wed, 28 Aug 2002 13:04:22 +0100
+X-Mailer: Microsoft Outlook Express Macintosh Edition - 4.5 (0410)
+To: zzzzteana <zzzzteana@yahoogroups.com>
+X-Priority: 3
+Message-Id: <E17k1Yb-0001UI-00@carbon>
+From: "Tim Chapman" <timc@2ubh.com>
+X-Yahoo-Profile: tim2ubh
+MIME-Version: 1.0
+Mailing-List: list zzzzteana@yahoogroups.com; contact
+    forteana-owner@yahoogroups.com
+Delivered-To: mailing list zzzzteana@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:zzzzteana-unsubscribe@yahoogroups.com>
+Date: Wed, 28 Aug 2002 13:03:39 +0100
+Subject: [zzzzteana] Hot rock
+Reply-To: zzzzteana@yahoogroups.com
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
+    id g7SC4OZ23062

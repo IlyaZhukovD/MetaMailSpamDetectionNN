@@ -1,0 +1,24 @@
+From o18544@bluemail.dk  Mon Jul 29 11:21:53 2002
+Return-Path: <o18544@bluemail.dk>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id DD6AD44108
+	for <jm@localhost>; Mon, 29 Jul 2002 06:20:57 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:20:57 +0100 (IST)
+Received: from picasso.tekoptimus.com (tekopt.net1.nerim.net [62.212.108.79])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6RN4Pp32453
+	for <jm@netnoteinc.com>; Sun, 28 Jul 2002 00:04:26 +0100
+Received: (qmail 26543 invoked from network); 27 Jul 2002 23:05:22 -0000
+Received: from 200-204-196-51.dsl.telesp.net.br (HELO postfix4.ofir.com) (200.204.196.51)
+  by tekopt.net1.nerim.net with SMTP; 27 Jul 2002 23:05:22 -0000
+Message-ID: <00005b76656e$000000d1$00004d2e@mq01.mail.jippii.net>
+To: <finance_now21@cybergrrl.com>
+From: o18544@bluemail.dk
+Subject: Money is available.
+Date: Sat, 27 Jul 2002 17:02:48 -1600
+MIME-Version: 1.0
+Reply-To: wedealer@inbox.lv
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

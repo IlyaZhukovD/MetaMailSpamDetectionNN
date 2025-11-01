@@ -1,0 +1,57 @@
+From rpm-list-admin@freshrpms.net  Mon Sep  2 12:32:46 2002
+Return-Path: <rpm-zzzlist-admin@freshrpms.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 5CDAA43F9B
+	for <jm@localhost>; Mon,  2 Sep 2002 07:32:44 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 02 Sep 2002 12:32:44 +0100 (IST)
+Received: from egwn.net (ns2.egwn.net [193.172.5.4]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7V394Z20828 for
+    <jm-rpm@jmason.org>; Sat, 31 Aug 2002 04:09:04 +0100
+Received: from auth02.nl.egwn.net (localhost [127.0.0.1]) by egwn.net
+    (8.11.6/8.11.6/EGWN) with ESMTP id g7V372J07985; Sat, 31 Aug 2002 05:07:02
+    +0200
+Received: from imf20bis.bellsouth.net (mail020.mail.bellsouth.net
+    [205.152.58.60]) by egwn.net (8.11.6/8.11.6/EGWN) with ESMTP id
+    g7V36EJ07619 for <rpm-list@freshrpms.net>; Sat, 31 Aug 2002 05:06:14 +0200
+Received: from adsl-157-21-77.msy.bellsouth.net ([66.157.21.77]) by
+    imf20bis.bellsouth.net (InterMail vM.5.01.04.19
+    201-253-122-122-119-20020516) with ESMTP id
+    <20020831030604.PBIG7767.imf20bis.bellsouth.net@adsl-157-21-77.msy.bellsouth.net>
+    for <rpm-list@freshrpms.net>; Fri, 30 Aug 2002 23:06:04 -0400
+Subject: Re: alsa-driver rebuild fails with undeclared USB symbol
+From: Lance <lance_tt@bellsouth.net>
+To: rpm-zzzlist@freshrpms.net
+In-Reply-To: <3D70306F.8090201@eecs.berkeley.edu>
+References: <3D70306F.8090201@eecs.berkeley.edu>
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+X-Mailer: Ximian Evolution 1.0.8 (1.0.8-7)
+Message-Id: <1030763168.15592.1.camel@localhost.localdomain>
+MIME-Version: 1.0
+X-Mailscanner: Found to be clean, Found to be clean
+Sender: rpm-zzzlist-admin@freshrpms.net
+Errors-To: rpm-zzzlist-admin@freshrpms.net
+X-Beenthere: rpm-zzzlist@freshrpms.net
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: rpm-zzzlist@freshrpms.net
+List-Help: <mailto:rpm-zzzlist-request@freshrpms.net?subject=help>
+List-Post: <mailto:rpm-zzzlist@freshrpms.net>
+List-Subscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=subscribe>
+List-Id: Freshrpms RPM discussion list <rpm-zzzlist.freshrpms.net>
+List-Unsubscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-zzzlist>,
+    <mailto:rpm-list-request@freshrpms.net?subject=unsubscribe>
+List-Archive: <http://lists.freshrpms.net/pipermail/rpm-zzzlist/>
+X-Original-Date: 30 Aug 2002 22:06:08 -0500
+Date: 30 Aug 2002 22:06:08 -0500
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-11.4 required=7.0
+	tests=FUDGE_MULTIHOP_RELAY,IN_REP_TO,KNOWN_MAILING_LIST,
+	      QUOTED_EMAIL_TEXT,RCVD_IN_MULTIHOP_DSBL,
+	      RCVD_IN_UNCONFIRMED_DSBL,REFERENCES,SPAM_PHRASE_01_02
+	version=2.40-cvs
+X-Spam-Level:

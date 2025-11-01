@@ -1,0 +1,27 @@
+From a_wigtonebook@yahoo.com  Mon Jul 29 20:57:59 2002
+Return-Path: <a_wigtonebook@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 93AC9440EE
+	for <jm@localhost>; Mon, 29 Jul 2002 15:57:59 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 20:57:59 +0100 (IST)
+Received: from yuloo.com ([211.99.196.215])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6TJtLp08647
+	for <jm@netnoteinc.com>; Mon, 29 Jul 2002 20:55:22 +0100
+Received: from . [63.231.254.186] by yuloo.com with ESMTP
+  (SMTPD32-7.05) id ADA514FE0128; Tue, 30 Jul 2002 03:55:17 +0800
+Message-ID: <00000a8e2976$0000371d$00001d47@.>
+To: <yyyy@netway.com>, <yyyy@netmore.net>, <yyyy@neosoft.com>,
+	<jm@netstream.net>, <jm@netgate.net>, <jm@netbox.com>,
+	<jm@newmex.com>, <jm@netpar.com.br>
+Cc: <yyyy@nh.conex.net>, <yyyy@net-quest.com>, <yyyy@netdoor.com>,
+	<jm@netxn.com>, <jm@netquarters.net>, <jm@netti.fi>,
+	<jm@netnoteinc.com>, <jm@netmagic.net>, <jm@neo.lrun.com>
+From: a_wigtonebook@yahoo.com
+Subject: Your order                1963
+Date: Mon, 29 Jul 2002 12:52:55 -1900
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

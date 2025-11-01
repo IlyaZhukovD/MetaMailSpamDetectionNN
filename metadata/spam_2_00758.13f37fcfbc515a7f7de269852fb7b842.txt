@@ -1,0 +1,35 @@
+From fork-admin@xent.com  Fri Jul 19 03:09:29 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 961D843F90
+	for <jm@localhost>; Thu, 18 Jul 2002 22:09:28 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 03:09:28 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6J1vtJ22175 for <jm@jmason.org>;
+    Fri, 19 Jul 2002 02:57:56 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 192D129409D; Thu, 18 Jul 2002 18:47:19 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from server.WMF (unknown [4.41.0.174]) by xent.com (Postfix)
+    with ESMTP id EEC55294098 for <fork@xent.com>; Thu, 18 Jul 2002 18:47:16
+    -0700 (PDT)
+Received: from yoda (ip54.wh.mntn.net [64.114.84.54]) by server.WMF with
+    SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13) id
+    3PC5X6R8; Thu, 18 Jul 2002 17:56:45 -0700
+From: majormedical@excite.com
+Subject: Major Medical Breakthrough Huge Profit Potential
+To: fork@spamassassin.taint.org
+Date: Thu, 18 Jul 2002 17:54:04 -0700
+X-Priority: 3
+X-Library: Indy 8.0.25
+Message-Id: <20020719014716.EEC55294098@xent.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Friends of Rohit Khare <fork.xent.com>
+X-Beenthere: fork@spamassassin.taint.org
+Content-Type: text/html;

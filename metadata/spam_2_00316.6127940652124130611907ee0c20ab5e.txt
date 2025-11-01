@@ -1,0 +1,17 @@
+From register_support@e.register.com  Mon Jun 24 17:04:10 2002
+Return-Path: bouncer-yyyy-register-com=spamassassin.taint.org@bounce.e.register.com
+Delivery-Date: Wed May 15 17:31:03 2002
+Received: from mta112.cheetahmail.com (mta112.cheetahmail.com
+    [216.198.200.6]) by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id
+    g4FGV2e15525 for <jm-register-com@jmason.org>; Wed, 15 May 2002 17:31:02
+    +0100
+Date: Wed, 15 May 2002 16:31:21 -0000
+Message-Id: <appc28ja3p6dz0bmkhsk6b117hp1hf.127599528.8361@mta112.e.register.com>
+From: "Register.com" <register_support@e.register.com>
+To: yyyy-register-com@spamassassin.taint.org
+Subject: New ccTLD! Get yyyyason.us Before Someone Else Does!
+MIME-Version: 1.0
+Reply-To: "Register.com_support"
+    <support-appc28ja3p6dz0bmkhsk6b117hp1hf@e.register.com>
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="=appc28ja3p6dz0bmkhsk6b117hp1hf"

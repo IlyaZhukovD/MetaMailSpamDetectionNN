@@ -1,0 +1,29 @@
+Return-Path: <hito@opentext.com>
+Received: from marconi.wl.opentext.com (marconi.wl.opentext.com [172.21.0.46])
+	by opentext.com (8.9.3/8.9.3) with ESMTP id QAA03127;
+	Thu, 11 Jul 2002 16:28:47 -0400
+Received: from vectorsvc.wl.opentext.com (IDENT:root@krusty.wl.opentext.com [172.21.0.45])
+	by marconi.wl.opentext.com (8.12.4/8.11.6) with ESMTP id g6BKSjjQ017834;
+	Thu, 11 Jul 2002 16:28:45 -0400
+Received: from itodell (168.dhcp-wl2.opentext.com [192.168.131.168])
+	by vectorsvc.wl.opentext.com (8.9.3/8.9.3) with SMTP id QAA03088;
+	Thu, 11 Jul 2002 16:28:45 -0400
+Reply-To: <hito@opentext.com>
+From: "Hitoshi Ito" <hito@opentext.com>
+To: <aebenjam@opentext.com>
+Cc: <michaelb@opentext.com>
+Subject: =?iso-2022-jp?B?UmU6IBskQjswSSkyPTNYJSglcyU4JUslIiVqJXMlME1NJVcbKEI=?=
+	=?iso-2022-jp?B?GyRCJW0lOyU5JUAlJiVzJEskRCQkJEYbKEIgIC0gdGlja2V0ICM1NTYw?=
+	=?iso-2022-jp?B?Nk9UQzEgLQ==?=
+Date: Thu, 11 Jul 2002 16:30:16 -0400
+Message-ID: <000d01c22919$c5890e10$a883a8c0@wl.opentext.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Archived: msg.E84oir@marconi.wl.opentext.com

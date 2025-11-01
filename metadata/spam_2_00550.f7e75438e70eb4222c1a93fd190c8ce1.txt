@@ -1,0 +1,22 @@
+From Emailcentre@up369.com  Mon Jun 24 17:49:58 2002
+Return-Path: Emailcentre@up369.com
+Delivery-Date: Sat Jun  1 18:45:32 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g51HjVO17292 for
+    <jm@jmason.org>; Sat, 1 Jun 2002 18:45:31 +0100
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g51HjU717472 for
+    <jm@netnoteinc.com>; Sat, 1 Jun 2002 18:45:30 +0100
+Received: from up369.com ([218.6.2.85]) by webnote.net (8.9.3/8.9.3) with
+    SMTP id SAA13460 for <jm@netnoteinc.com>; Sat, 1 Jun 2002 18:45:26 +0100
+Message-Id: <200206011745.SAA13460@webnote.net>
+From: "TORE AKESSON" <Emailcentre@up369.com>
+To: <yyyy@netnoteinc.com>
+Subject: An Information
+Sender: "TORE AKESSON" <Emailcentre@up369.com>
+MIME-Version: 1.0
+Date: Sun, 2 Jun 2002 01:50:26 +0800
+Reply-To: "TORE AKESSON" <info@scaninvent.com>
+X-Keywords: 
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit

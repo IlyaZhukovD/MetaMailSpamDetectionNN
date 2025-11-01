@@ -1,0 +1,22 @@
+From ltcc@insurancemail.net  Mon Jun 24 17:48:58 2002
+Return-Path: ltcc@insurancemail.net
+Delivery-Date: Sat Jun  1 03:09:50 2002
+Received: from insiq5.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g5129nO08808 for <jm@jmason.org>; Sat, 1 Jun 2002 03:09:49
+    +0100
+Received: from mail pickup service by insiq5.insuranceiq.com with
+    Microsoft SMTPSVC; Fri, 31 May 2002 22:08:52 -0400
+Subject: Free LTCI Policy Comparison Software
+To: <yyyy@spamassassin.taint.org>
+Date: Fri, 31 May 2002 22:08:52 -0400
+From: "IQ - LTC Consultants" <ltcc@insurancemail.net>
+Message-Id: <1a60b501c20911$46a44560$7101a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Thread-Index: AcII/f0C+h/eVwU3SVmyadOCppmjGA==
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 01 Jun 2002 02:08:52.0609 (UTC) FILETIME=[46C33F10:01C20911]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_18A46D_01C208DC.75F3BB50"

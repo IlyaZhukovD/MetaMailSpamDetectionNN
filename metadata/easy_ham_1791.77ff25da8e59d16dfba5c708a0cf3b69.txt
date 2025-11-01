@@ -1,0 +1,6 @@
+Return-Path: guido@python.org
+Delivery-Date: Sat Sep  7 04:51:12 2002
+From: guido@python.org (Guido van Rossum)
+Date: Fri, 06 Sep 2002 23:51:12 -0400
+Subject: [Spambayes] hammie.py vs. GBayes.py
+Message-ID: <200209070351.g873pC613144@pcp02138704pcs.reston01.va.comcast.net>

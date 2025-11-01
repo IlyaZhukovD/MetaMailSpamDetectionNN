@@ -1,0 +1,47 @@
+From fork-admin@xent.com  Wed Sep  4 11:42:23 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 3EC1A16F76
+	for <jm@localhost>; Wed,  4 Sep 2002 11:40:18 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 04 Sep 2002 11:40:18 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g845KvZ20808 for <jm@jmason.org>;
+    Wed, 4 Sep 2002 06:20:58 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id DD10829409C; Tue,  3 Sep 2002 22:18:02 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from smtp6.mindspring.com (smtp6.mindspring.com
+    [207.69.200.110]) by xent.com (Postfix) with ESMTP id B8988294099 for
+    <fork@xent.com>; Tue,  3 Sep 2002 22:17:41 -0700 (PDT)
+Received: from user-119ac86.biz.mindspring.com ([66.149.49.6]) by
+    smtp6.mindspring.com with esmtp (Exim 3.33 #1) id 17mSaG-0006jX-00;
+    Wed, 04 Sep 2002 01:20:08 -0400
+MIME-Version: 1.0
+X-Sender: rahettinga@pop.earthlink.net
+Message-Id: <p05111a12b99b45690b78@[66.149.49.6]>
+To: <fork@example.com>
+From: "R. A. Hettinga" <rah@shipwright.com>
+Subject: Re: Electric car an Edsel...
+Content-Type: text/plain; charset="us-ascii"
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Wed, 4 Sep 2002 01:08:58 -0400
+X-Spam-Status: No, hits=-6.7 required=7.0
+	tests=KNOWN_MAILING_LIST,QUOTED_EMAIL_TEXT,RCVD_IN_MULTIHOP_DSBL,
+	      RCVD_IN_UNCONFIRMED_DSBL,SIGNATURE_SHORT_DENSE,
+	      SPAM_PHRASE_00_01
+	version=2.41-cvs
+X-Spam-Level:

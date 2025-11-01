@@ -1,0 +1,19 @@
+Received: from www.scmm.com.cn (IDENT:qmailr@[211.95.129.151])
+	by linux.midrange.com (8.11.6/8.11.6) with SMTP id g6IAmLt25648
+	for <gibbs@midrange.com>; Thu, 18 Jul 2002 05:48:22 -0500
+Received: (qmail 8987 invoked from network); 25 May 2002 09:30:21 -0000
+Received: from 03-102.071.popsite.net (HELO 163.net) (64.24.138.102)
+  by 211.95.129.151 with SMTP; 25 May 2002 09:30:21 -0000
+Message-ID: <000037ca5ec5$0000554b$00006949@Artic.net>
+To: <kjesunanuy@Artic.net>
+From: h433@excite.fr
+Subject: Your guide to a new job
+Date: Sat, 25 May 2002 04:29:22 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Status: 
+X-Keywords:

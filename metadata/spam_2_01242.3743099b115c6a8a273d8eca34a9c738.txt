@@ -1,0 +1,25 @@
+From DataTapes@sdpacific.com  Fri Aug  2 16:30:52 2002
+Return-Path: <DataTapes@sdpacific.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id EAC2944101
+	for <jm@localhost>; Fri,  2 Aug 2002 11:30:40 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 02 Aug 2002 16:30:40 +0100 (IST)
+Received: from 200.161.144.56 ([216.248.36.154])
+	by webnote.net (8.9.3/8.9.3) with SMTP id OAA03320
+	for <jm@netnoteinc.com>; Fri, 2 Aug 2002 14:31:37 +0100
+Message-Id: <200208021331.OAA03320@webnote.net>
+Received: from [42.47.39.56] by mta6.snfc21.pbi.net with SMTP; Aug, 02 2002 6:13:54 AM +0700
+Received: from [26.84.34.94] by smtp4.cyberec.com with smtp; Aug, 02 2002 5:04:41 AM +0400
+Received: from unknown (HELO f64.law4.hotmail.com) (13.61.40.178) by ssymail.ssy.co.kr with smtp; Aug, 02 2002 4:12:37 AM -0800
+From: Mag DataTape Buyer <DataTapes@sdpacific.com>
+To: none@webnote.net
+Cc: 
+Subject: We BUY Your NEW & USED Magnetic Media or Backup Data Cartridges
+Sender: Mag DataTape Buyer <DataTapes@sdpacific.com>
+Mime-Version: 1.0
+Date: Fri, 2 Aug 2002 06:30:12 -0700
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+Content-Type: text/html; charset="iso-8859-1"

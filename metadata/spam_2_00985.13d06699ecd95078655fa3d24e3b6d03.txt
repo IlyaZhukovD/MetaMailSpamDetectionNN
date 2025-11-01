@@ -1,0 +1,24 @@
+From bibey@att.net  Tue Jul 23 02:37:30 2002
+Return-Path: <bibey@att.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4CA43440C9
+	for <jm@localhost>; Mon, 22 Jul 2002 21:37:28 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 23 Jul 2002 02:37:28 +0100 (IST)
+Received: from att.net ([211.185.225.2]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g6N1al415668 for <webmaster@efi.ie>;
+    Tue, 23 Jul 2002 02:36:47 +0100
+Reply-To: <bibey@att.net>
+Message-Id: <021d35c27a3c$1444b2d3$3ad04be7@rbbqtc>
+From: <bibey@att.net>
+To: <webmaster@efi.ie>
+Subject: The Government grants you $25,000!
+Date: Wed, 24 Jul 2002 02:19:58 -0100
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+Importance: Normal
+Content-Type: text/html; charset="iso-8859-1"

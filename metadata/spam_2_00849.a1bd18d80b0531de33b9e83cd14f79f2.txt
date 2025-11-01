@@ -1,0 +1,37 @@
+From jm@netnoteinc.com  Mon Jul 22 18:37:00 2002
+Return-Path: <yyyy@netnoteinc.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 58470440C8
+	for <jm@localhost>; Mon, 22 Jul 2002 13:36:57 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 18:36:57 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFkLI10029 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 16:46:21 +0100
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    webnote.net (8.9.3/8.9.3) with ESMTP id BAA29567 for <jm@jmason.org>;
+    Mon, 22 Jul 2002 01:40:15 +0100
+From: yyyy@netnoteinc.com
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6M0eEp07977 for
+    <jm@netnoteinc.com>; Mon, 22 Jul 2002 01:40:14 +0100
+Received: from $domain (host217-37-53-241.in-addr.btopenworld.com
+    [217.37.53.241]) by smtp.easydns.com (Postfix) with SMTP id 082B32F686 for
+    <jm@netnoteinc.com>; Sun, 21 Jul 2002 20:40:09 -0400 (EDT)
+Subject: Keep porn free...
+Received: from netnoteinc.com by T37B1S.netnoteinc.com with SMTP for
+    jm@netnoteinc.com; Sun, 21 Jul 2002 20:41:40 -0500
+To: yyyy@netnoteinc.com
+Reply-To: yyyy@netnoteinc.com
+X-Sender: yyyy@netnoteinc.com
+Date: Sun, 21 Jul 2002 20:41:40 -0500
+X-Msmail-Priority: Normal
+X-Priority: 3 (Normal)
+Message-Id: <9OMH4G9C388O5X.NHC76O4PJ90O8X.yyyy@netnoteinc.com>
+Importance: Normal
+MIME-Version: 1.0
+X-Encoding: MIME
+Content-Type: multipart/alternative; boundary="----=_NextPart_683_88588225468343301146121008774"
+Content-Transfer-Encoding: quoted-printable

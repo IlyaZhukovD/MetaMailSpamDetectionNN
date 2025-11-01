@@ -1,0 +1,24 @@
+From stiff_hgh@psinet.com  Wed Jul 31 23:53:29 2002
+Return-Path: <stiff_hgh@psinet.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 6BDA4440A8
+	for <jm@localhost>; Wed, 31 Jul 2002 18:53:29 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 31 Jul 2002 23:53:29 +0100 (IST)
+Received: from HAA-EXC.HAA.AD ([216.165.207.2])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6VMpLp16745
+	for <jm@netnoteinc.com>; Wed, 31 Jul 2002 23:51:22 +0100
+Received: from mazqnh-hq ([61.142.238.123]) by HAA-EXC.HAA.AD with Microsoft SMTPSVC(5.0.2195.2966);
+	 Wed, 31 Jul 2002 17:55:08 -0500
+Reply-To: stiff_hgh@psinet.com
+From: stiff_hgh2@psinet.com
+To: yyyy@netnoteinc.com
+Subject: HGH Myth --- Learn the Truth
+Sender: stiff_hgh2@psinet.com
+Mime-Version: 1.0
+Date: Thu, 1 Aug 2002 07:01:26 +0800
+Message-ID: <HAA-EXC58HFPOHLi7wv00009555@HAA-EXC.HAA.AD>
+X-OriginalArrivalTime: 31 Jul 2002 22:55:08.0865 (UTC) FILETIME=[51AB6B10:01C238E5]
+Content-Type: text/html; charset="iso-8859-1"

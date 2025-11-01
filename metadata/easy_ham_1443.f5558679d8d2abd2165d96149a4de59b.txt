@@ -1,0 +1,53 @@
+From spamassassin-talk-admin@lists.sourceforge.net  Thu Aug 29 11:05:32 2002
+Return-Path: <spamassassin-talk-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id EC3AA4415E
+	for <jm@localhost>; Thu, 29 Aug 2002 06:04:33 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 29 Aug 2002 11:04:33 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7SIpXZ06083 for <jm-sa@jmason.org>; Wed, 28 Aug 2002 19:51:33 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17k7sK-0005nc-00; Wed,
+    28 Aug 2002 11:49:08 -0700
+Received: from email.uah.edu ([146.229.1.200]) by
+    usw-sf-list1.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17k7s7-0005Tn-00 for <spamassassin-talk@lists.sourceforge.net>;
+    Wed, 28 Aug 2002 11:48:55 -0700
+Received: from email.uah.edu ([146.229.5.22]) by email.uah.edu
+    (8.11.2/8.11.2) with ESMTP id g7SImrs21805 for
+    <spamassassin-talk@lists.sourceforge.net>; Wed, 28 Aug 2002 13:48:53 -0500
+    (CDT)
+Message-Id: <3D6D1AB2.DEDDDC0C@email.uah.edu>
+From: Jim McCullars <mccullj@email.uah.edu>
+X-Mailer: Mozilla 4.7 [en] (Win98; U)
+X-Accept-Language: en,pdf
+MIME-Version: 1.0
+To: spamassassin-talk@example.sourceforge.net
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: [SAtalk] Compile error under Digital Unix
+Sender: spamassassin-talk-admin@example.sourceforge.net
+Errors-To: spamassassin-talk-admin@example.sourceforge.net
+X-Beenthere: spamassassin-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-talk-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-talk@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Talk about SpamAssassin <spamassassin-talk.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-talk>,
+    <mailto:spamassassin-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-talk>
+X-Original-Date: Wed, 28 Aug 2002 13:47:14 -0500
+Date: Wed, 28 Aug 2002 13:47:14 -0500
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-1.9 required=7.0
+	tests=KNOWN_MAILING_LIST,SPAM_PHRASE_00_01,X_ACCEPT_LANG
+	version=2.40-cvs
+X-Spam-Level:

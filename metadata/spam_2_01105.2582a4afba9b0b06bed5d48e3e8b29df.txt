@@ -1,0 +1,23 @@
+From china_lutong@163.com  Fri Jul 26 11:20:35 2002
+Return-Path: <china_lutong@163.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7635A440EB
+	for <jm@localhost>; Fri, 26 Jul 2002 06:20:14 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 26 Jul 2002 11:20:14 +0100 (IST)
+Received: from 163.com ([218.6.8.11]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g6QAKM408438 for <jm@jmason.org>;
+    Fri, 26 Jul 2002 11:20:23 +0100
+Message-Id: <200207261020.g6QAKM408438@dogma.slashnull.org>
+From: "diesel fuel injection" <china_lutong@163.com>
+To: <yyyy@spamassassin.taint.org>
+Subject: Head & Rotor VE  07/26
+Sender: "diesel fuel injection" <china_lutong@163.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Fri, 26 Jul 2002 18:19:23 +0800
+Reply-To: "diesel fuel injection" <china_lutong@163.com>
+X-Priority: 1 (Highest)
+Content-Transfer-Encoding: 8bit

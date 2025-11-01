@@ -1,0 +1,37 @@
+From fork-admin@xent.com  Thu Aug  8 16:00:35 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 5328B44117
+	for <jm@localhost>; Thu,  8 Aug 2002 10:02:33 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 08 Aug 2002 15:02:33 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g78E3O211261 for <jm@jmason.org>;
+    Thu, 8 Aug 2002 15:03:28 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id C98292940DD; Thu,  8 Aug 2002 06:59:04 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from 1.1.1.1 (2-138.mganm700-1.telepar.net.br [200.181.209.138])
+    by xent.com (Postfix) with SMTP id 6D55E2940C8 for <fork@xent.com>;
+    Thu,  8 Aug 2002 06:57:52 -0700 (PDT)
+From: "_Ricardo_" <topseg321@bol.com.br>
+To: <fork@spamassassin.taint.org>
+Subject: _Melhore sua segurança_
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Message-Id: <20020808135752.6D55E2940C8@xent.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Thu, 8 Aug 2002 11:08:32

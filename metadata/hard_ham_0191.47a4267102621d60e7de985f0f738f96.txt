@@ -1,0 +1,37 @@
+From zzz@example.com  Wed Sep  4 18:34:43 2002
+Return-Path: <zzz@example.com>
+Delivered-To: zzz@example.com
+Received: by example.com (Postfix, from userid 500)
+	id EB1B216F49; Wed,  4 Sep 2002 18:34:13 +0100 (IST)
+Received: from qrq.cc.ntu.edu.tw (giga.tw.freebsd.org [203.133.92.249])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6Q82X401334
+	for <postmaster_neto.net@spamtraps.taint.org>; Fri, 26 Jul 2002 09:02:33 +0100
+Received: from ccsun37.cc.ntu.edu.tw (ccsun37.cc.ntu.edu.tw [140.112.8.37])
+	by qrq.cc.ntu.edu.tw (8.12.5/8.12.5) with ESMTP id g6Q81inr043321
+	for <calculus@neto.net>; Fri, 26 Jul 2002 16:01:45 +0800 (CST)
+	(envelope-from bounce-developers_journal-958074@p2p.wrox.com)
+Received: from localhost (localhost [127.0.0.1])
+	by localhost (Postfix) with ESMTP id 846CFDE081
+	for <calculus@neto.net>; Fri, 26 Jul 2002 15:56:53 +0800 (CST)
+Received: from mail.p2p.wrox.com (mail.p2p.wrox.com [212.250.238.84])
+	by ccsun37.cc.ntu.edu.tw (Postfix) with SMTP id 5EA21DE083
+	for <calculus@neto.net>; Fri, 26 Jul 2002 15:56:40 +0800 (CST)
+Date: Wed, 24 Jul 2002 14:42:38 +0100
+Subject: Wrox Press Developer's Journal
+To: "Developers Journal" <developers_journal@p2p.wrox.com>
+From: <journal@wrox.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----Multipart-Boundary-xx5UNseljF43o---"
+List-Unsubscribe: <mailto:leave-developers_journal-958074K@p2p.wrox.com>
+Reply-To: dj-bounce@wrox.com
+Message-Id: <LYRIS-958074-628512-2002.07.26-02.00.26--calculus#neto.net@p2p.wrox.com>
+Precedence: bulk
+X-Spam-Status: No, hits=-0.2 required=7.0
+	tests=BALANCE_FOR_LONG_20K,BIG_FONT,DATE_IN_PAST_24_48,
+	      FORGED_RCVD_TRAIL,HTML_FONT_COLOR_BLUE,HTML_FONT_COLOR_RED,
+	      HTML_FONT_FACE_ODD,LINES_OF_YELLING,LINES_OF_YELLING_2,
+	      LINES_OF_YELLING_3,MAILTO_LINK,MAILTO_WITH_SUBJ,
+	      NO_REAL_NAME,SPAM_PHRASE_01_02,SUSPECT_LIST_HEADERS
+	version=2.41-cvs
+X-Spam-Level:

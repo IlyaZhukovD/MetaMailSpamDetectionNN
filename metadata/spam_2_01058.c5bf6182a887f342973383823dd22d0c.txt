@@ -1,0 +1,31 @@
+From pitster262859971@hotmail.com  Mon Jul 29 11:21:55 2002
+Return-Path: <pitster262859971@hotmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id EAD8844109
+	for <jm@localhost>; Mon, 29 Jul 2002 06:20:57 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:20:57 +0100 (IST)
+Received: from Server.lagunadelmar.com.mx (customer-148-223-70-14.uninet.net.mx [148.223.70.14] (may be forged))
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6S0mEp32660
+	for <jm@netnoteinc.com>; Sun, 28 Jul 2002 01:48:15 +0100
+Message-Id: <200207280048.g6S0mEp32660@mandark.labs.netnoteinc.com>
+Received: from 200.46.39.93 (OPERACIONES3 [200.46.39.93]) by Server.lagunadelmar.com.mx with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PSY8BMPH; Thu, 25 Jul 2002 05:22:25 -0700
+From: "ALLISON" <pitster262859971@hotmail.com>
+To: jlugo@compaq.net, jlwilson@iserv.net, jlynn@scia.net,
+	jm174@vh.net, jm68fr@hotmail.com, jma@students.cc.tut.fi,
+	jma2001@juno.com, jlyoung77@hotmail.com, jm.germain@agf-cognac.com,
+	jm1999@gurlmail.com, jm2@ix.netcom.com
+Cc: yyyy4jghaibnpx@asiansonly.net, yyyy923@hotmail.com, yyyy@stratos.net,
+	jma51@msn.com, jmaaron_4@umailme.com, jmac479217@att.net,
+	jmacadoo@usa.net, jltena@hotmail.com, jlundblad@juno.com,
+	jluu@amega.com
+Date: Thu, 25 Jul 2002 07:28:38 -0400
+Subject: Ez Internet Privacy is finally here
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii

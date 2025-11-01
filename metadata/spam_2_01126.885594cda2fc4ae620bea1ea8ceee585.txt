@@ -1,0 +1,26 @@
+From hxu@cliffhanger.com  Mon Jul 29 11:21:29 2002
+Return-Path: <hxu@cliffhanger.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 0FECE440FB
+	for <jm@localhost>; Mon, 29 Jul 2002 06:20:55 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:20:55 +0100 (IST)
+Received: from 61.177.181.243 ([61.177.181.243])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6RCR9p31280
+	for <jm@netnoteinc.com>; Sat, 27 Jul 2002 13:27:10 +0100
+Message-Id: <200207271227.g6RCR9p31280@mandark.labs.netnoteinc.com>
+Received: from unknown (148.179.169.246) by rly-yk05.mx.aol.com with QMQP; Jul, 27 2002 5:12:59 AM +1200
+Received: from [183.62.39.149] by m10.grp.snv.yahoo.com with QMQP; Jul, 27 2002 4:05:23 AM -0200
+Received: from [42.47.39.56] by mta6.snfc21.pbi.net with SMTP; Jul, 27 2002 3:21:09 AM +0400
+Received: from unknown (HELO da001d2020.lax-ca.osd.concentric.net) (194.29.209.49) by f64.law4.hotmail.com with QMQP; Jul, 27 2002 2:09:26 AM +0600
+From: Online Drugs <hxu@cliffhanger.com>
+To: yyyy@netnoteinc.com
+Cc: 
+Subject: bhgb
+Sender: Online Drugs <hxu@cliffhanger.com>
+Mime-Version: 1.0
+Date: Sat, 27 Jul 2002 05:27:30 -0700
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+Content-Type: text/html; charset="iso-8859-1"

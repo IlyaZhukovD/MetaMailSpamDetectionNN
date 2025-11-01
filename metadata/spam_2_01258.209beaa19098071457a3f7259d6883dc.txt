@@ -1,0 +1,25 @@
+From tlgu.the.truth@cutey.com  Tue Aug  6 10:58:36 2002
+Return-Path: <tlgu.the.truth@cutey.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4377F4411B
+	for <jm@localhost>; Tue,  6 Aug 2002 05:53:53 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 10:53:53 +0100 (IST)
+Received: from 61.179.116.190 ([218.5.148.165])
+	by webnote.net (8.9.3/8.9.3) with SMTP id JAA07599
+	for <jm@netnoteinc.com>; Sat, 3 Aug 2002 09:52:17 +0100
+Message-Id: <200208030852.JAA07599@webnote.net>
+Received: from unknown (201.187.168.97) by smtp-server1.cfl.rr.com with QMQP; Aug, 03 2002 1:46:11 AM -0000
+Received: from mx.rootsystems.net ([60.127.54.24]) by smtp-server6.tampabay.rr.com with SMTP; Aug, 03 2002 12:32:13 AM +0400
+Received: from [63.85.85.236] by smtp-server6.tampabay.rr.com with SMTP; Aug, 02 2002 11:36:30 PM +0700
+From: The Truth <tlgu.the.truth@cutey.com>
+To: yyyy@netnoteinc.com
+Cc: 
+Subject: Fw: 2 minutes to read what I have to say... p.s. & send it to yyyy@netnoteinc.com
+Sender: The Truth <tlgu.the.truth@cutey.com>
+Mime-Version: 1.0
+Date: Sat, 3 Aug 2002 01:52:53 -0700
+X-Mailer: eGroups Message Poster
+Content-Type: text/html; charset="iso-8859-1"

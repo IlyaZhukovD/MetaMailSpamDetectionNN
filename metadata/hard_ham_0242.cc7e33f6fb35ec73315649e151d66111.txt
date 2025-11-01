@@ -1,0 +1,27 @@
+From guterman@mediaunspun.imakenews.net  Tue Oct  1 15:06:29 2002
+Return-Path: <guterman@mediaunspun.imakenews.net>
+Delivered-To: zzz@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 6BBFF16FD7
+	for <zzz@localhost>; Tue,  1 Oct 2002 14:59:06 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Tue, 01 Oct 2002 14:59:06 +0100 (IST)
+Received: from eng.imakenews.com (mailservice4.imakenews.com
+    [65.214.33.17]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g91DSOK26928 for <zzz-unspun@example.com>; Tue, 1 Oct 2002 14:28:24 +0100
+Received: by eng.imakenews.com (PowerMTA(TM) v1.5); Tue, 1 Oct 2002
+    09:28:02 -0400 (envelope-from <guterman@mediaunspun.imakenews.net>)
+Date: Tue, 01 Oct 2002 09:26:14 -0400
+Errors-To: <guterman@mediaunspun.imakenews.net>
+From: "Media Unspun" <guterman@mediaunspun.imakenews.net>
+MIME-Version: 1.0
+Message-Id: <12610$1033478774$mediaunspun$5114587@imakenews.net>
+Precedence: normal
+Reply-To: "Media Unspun" <guterman@vineyard.com>
+Sender: "Media Unspun" <guterman@mediaunspun.imakenews.net>
+Subject: Market Can't Find Its Bottom With Both Hands
+To: zzz-unspun@example.com
+X-Imn: mediaunspun,219036,5114587,0
+Content-Type: multipart/alternative; boundary="----------=_1033478774-12610-4";charset="iso-8859-1"
+Content-Transfer-Encoding: binary

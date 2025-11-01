@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20471.b9-LhVolp59dUxVpsRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6IG8IJ10528
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 18 Jul 2002 17:08:18 +0100
+Received: from abv-sfo1-ac-agent1 (206.16.0.223) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 09:09:03 -0700 (envelope-from <Online#3.20471.b9-LhVolp59dUxVpsRR.1.b@newsletter.online.com>)
+Message-ID: <6821772.1027008491897.JavaMail.root@abv-sfo1-ac-agent1>
+Date: Thu, 18 Jul 2002 09:08:11 -0700 (PDT)
+From: "CNET News.com" <Online#3.20471.b9-LhVolp59dUxVpsRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: CNET NEWS.CONTEXT: Adios to options excess?
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

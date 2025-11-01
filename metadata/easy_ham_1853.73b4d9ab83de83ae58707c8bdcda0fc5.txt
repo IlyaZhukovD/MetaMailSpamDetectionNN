@@ -1,0 +1,7 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Wed Sep 11 04:46:15 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Tue, 10 Sep 2002 23:46:15 -0400
+Subject: [Spambayes] XTreme Training
+In-Reply-To: <LNBBLJKPBEHFEDALKOLCKEGPBDAB.tim.one@comcast.net>
+Message-ID: <LNBBLJKPBEHFEDALKOLCOEHDBDAB.tim.one@comcast.net>

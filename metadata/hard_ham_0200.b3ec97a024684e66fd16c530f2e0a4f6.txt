@@ -1,0 +1,32 @@
+From delias_b@email.iturf.com Fri Aug 23 07:44:19 2002
+Return-Path: <delias_b@email.iturf.com>
+Delivered-To: carrie@axess.com
+Return-Path: <delias_b@email.iturf.com>
+Delivered-To: newmail.axess.com-carrie@newmail.axess.com
+Received: (qmail 13653 invoked by uid 0); 23 Aug 2002 07:44:19 -0000
+Received: from delias_b@email.iturf.com by newmail
+	 by uid 1005 with qmail-scanner-1.10 (avp. Clear:0. Processed in 0.070776 secs); 23 Aug 2002 07:44:19 -0000
+Received: from mail.axess.com (216.162.64.150)
+  by newmail.axess.com with SMTP; 23 Aug 2002 07:44:19 -0000
+Received: from newmail.axess.com (qmailr@newmail.axess.com [216.162.64.120])
+	by mail.axess.com (8.12.0/8.12.0) with SMTP id g7N7bggm003986
+	for <CARRIE@AXESS.COM>; Fri, 23 Aug 2002 03:37:42 -0400
+Received: (qmail 13634 invoked by uid 0); 23 Aug 2002 07:44:18 -0000
+Received: from delias_b@email.iturf.com by newmail
+	 by uid 1005 with qmail-scanner-1.10 (avp. Clear:0. Processed in 0.07035 secs); 23 Aug 2002 07:44:18 -0000
+Received: from web3.iturf.com (216.33.51.131)
+  by newmail.axess.com with SMTP; 23 Aug 2002 07:44:18 -0000
+Received: from web6.iturf.com (web6 [216.33.51.134])
+	by web3.iturf.com (Postfix) with ESMTP id 1B36939D7B
+	for <CARRIE@AXESS.COM>; Fri, 23 Aug 2002 03:44:18 -0400 (EDT)
+Received: by web6.iturf.com (Postfix, from userid 0)
+	id 3875C198BD; Fri, 23 Aug 2002 03:43:58 -0400 (EDT)
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 2.106  (A1.16; B2.11; Q2.03)
+To: CARRIE@AXESS.COM
+From: dELiA*s <delias_b@email.iturf.com>
+Subject: Outer Where? Right here, at dELiAs*cOm!
+Date: Thu, 22 Aug 2002 21:23:14 GMT
+Message-Id: <20020823074358.3875C198BD@web6.iturf.com>
+Content-Type: multipart/alternative; boundary="_----------=_103005139443991"
+Content-Transfer-Encoding: binary

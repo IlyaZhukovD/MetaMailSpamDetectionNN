@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20284.fc-LmYwlaX_4cin49RR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta5.cnet.com (abv-sfo1-acmta5.cnet.com [206.16.1.164])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6HD62J20888
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 17 Jul 2002 14:06:02 +0100
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by abv-sfo1-acmta5.cnet.com (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 05:58:58 -0700 (envelope-from <Online#3.20284.fc-LmYwlaX_4cin49RR.1.b@newsletter.online.com>)
+Message-ID: <7087509.1026911143491.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Wed, 17 Jul 2002 06:05:42 -0700 (PDT)
+From: AnchorDesk <Online#3.20284.fc-LmYwlaX_4cin49RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Triple your dial-up Web surfing speeds! Here's how [ANCHORDESK]
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

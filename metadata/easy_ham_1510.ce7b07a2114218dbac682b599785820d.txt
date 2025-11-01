@@ -1,0 +1,9 @@
+Return-Path: nas@python.ca
+Delivery-Date: Thu Sep  5 23:49:23 2002
+From: nas@python.ca (Neil Schemenauer)
+Date: Thu, 5 Sep 2002 15:49:23 -0700
+Subject: [Spambayes] all but one testing
+In-Reply-To: <BIEJKCLHCIOIHAGOKOLHEEGCDKAA.tim.one@comcast.net>
+References: <20020905190420.GB19726@glacier.arctrix.com>
+	<BIEJKCLHCIOIHAGOKOLHEEGCDKAA.tim.one@comcast.net>
+Message-ID: <20020905224923.GA20480@glacier.arctrix.com>

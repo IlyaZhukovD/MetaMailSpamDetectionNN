@@ -1,0 +1,27 @@
+From valentart@runbox.com  Thu Nov 28 11:41:03 2002
+Return-Path: <valentart@runbox.com>
+Delivered-To: yyyy@localhost.spamassassin.taint.org
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 8799616F16
+	for <jm@localhost>; Thu, 28 Nov 2002 11:41:02 +0000 (GMT)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 28 Nov 2002 11:41:02 +0000 (GMT)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id gAS1uQW13376 for
+    <jm@jmason.org>; Thu, 28 Nov 2002 01:56:26 GMT
+Received: from Champagne (nc-mrsvll-u1-c3b-71.mrvlnc.adelphia.net
+    [68.71.66.71]) by webnote.net (8.9.3/8.9.3) with SMTP id BAA14625 for
+    <jm@netnoteinc.com>; Thu, 28 Nov 2002 01:57:55 GMT
+X-Esmtp: 0 0 1
+Message-Id: <102593-220021142816516573@Champagne>
+Organization: BBPR
+From: "Pat" <valentart@runbox.com>
+To: yyyy@netnoteinc.com
+Subject: Below Wholesale Prices on Name Brand Products
+Date: Thu, 28 Nov 2002 11:51:06 -0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
+    id gAS1uQW13376

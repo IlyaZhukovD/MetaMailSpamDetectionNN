@@ -1,0 +1,24 @@
+From one5367178543@netscape.com  Mon Jun 24 17:06:16 2002
+Return-Path: one5367@netscape.com
+Delivery-Date: Fri May 24 14:14:50 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4ODEje06442 for
+    <jm@jmason.org>; Fri, 24 May 2002 14:14:46 +0100
+Received: from exchange.siempre.com.mx
+    (na-148-243-255-185.na.avantel.net.mx [148.243.255.185] (may be forged))
+    by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4ODEd707856
+    for <jm@netnoteinc.com>; Fri, 24 May 2002 14:14:41 +0100
+Message-Id: <200205241314.g4ODEd707856@mandark.labs.netnoteinc.com>
+Received: from HEWLETT-0CC4EA6 (w142.z066089025.chi-il.dsl.cnc.net
+    [66.89.25.142]) by exchange.siempre.com.mx with SMTP (Microsoft Exchange
+    Internet Mail Service Version 5.5.2653.13) id LQ568SQF; Fri,
+    24 May 2002 00:39:36 -0500
+Reply-To: one5367@netscape.com
+From: one5367178543@netscape.com
+To: yyyy@mvslaser.com
+Cc: yyyy@netnoteinc.com, yyyy@oyyyynet.com
+Subject: breaking news: e-mail & fax marketing works
+MIME-Version: 1.0
+Date: Fri, 24 May 2002 00:41:19 -0500
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"

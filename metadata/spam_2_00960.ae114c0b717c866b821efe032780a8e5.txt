@@ -1,0 +1,54 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NItnhY029228
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Tue, 23 Jul 2002 13:55:49 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6NItns9029222
+	for cypherpunks-forward@ds.pro-ns.net; Tue, 23 Jul 2002 13:55:49 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NItkhY029206
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 13:55:47 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6NItjJ36186
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 14:55:46 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6NItj127272
+	for cypherpunks@ds.pro-ns.net; Tue, 23 Jul 2002 14:55:45 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6NItdR27241
+	for <cpunks@minder.net>; Tue, 23 Jul 2002 14:55:39 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6NItaJ36166
+	for <cpunks@minder.net>; Tue, 23 Jul 2002 14:55:36 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id OAA16129
+	for cpunks@minder.net; Tue, 23 Jul 2002 14:04:15 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id OAA16115
+	for cypherpunks-outgoing; Tue, 23 Jul 2002 14:03:42 -0500
+Received: from localhost ([211.244.160.116])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id OAA16106
+	for <cypherpunks@einstein.ssz.com>; Tue, 23 Jul 2002 14:02:00 -0500
+Message-Id: <200207231902.OAA16106@einstein.ssz.com>
+From: ±¸±³ÇÐ<return@snine.com>
+To: cypherpunks@einstein.ssz.com
+Old-Subject: CDR: (±¤°í)½Å»ç¾÷!!..¿ø°Å¸® °¨½Ã ½Ã½ºÅÛ
+Mime-Version: 1.0
+Content-Type: text/html; charset="ks_c_5601-1987"
+Date: Wed, 24 Jul 2002 03:53:05 +0900
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Subject: (±¤°í)½Å»ç¾÷!!..¿ø°Å¸® °¨½Ã ½Ã½ºÅÛ
+Content-Transfer-Encoding: base64
+X-MIME-Autoconverted: from 8bit to base64 by hq.pro-ns.net id g6O1W7hX085517

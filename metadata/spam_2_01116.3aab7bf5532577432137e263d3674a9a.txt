@@ -1,0 +1,25 @@
+From beth@yahoo.com  Mon Jul 29 11:20:54 2002
+Return-Path: <beth@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id E2361440EC
+	for <jm@localhost>; Mon, 29 Jul 2002 06:20:53 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:20:53 +0100 (IST)
+Received: from sunlong.com ([202.105.130.36])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6QITsp29175
+	for <jm@netnoteinc.com>; Fri, 26 Jul 2002 19:29:59 +0100
+Message-Id: <200207261829.g6QITsp29175@mandark.labs.netnoteinc.com>
+Received: from smtp0231.mail.yahoo.com([66.12.0.202]) by sunlong.com(JetMail 2.5.3.0)
+	with SMTP id jm23d41e3a2; Fri, 26 Jul 2002 18:20:23 -0000
+Reply-To: beth@yahoo.com
+From: beth331611@yahoo.com
+To: yyyy@netcomuk.co.uk
+Cc: yyyy@netdados.com.br, yyyy@neteze.com, yyyy@netmagic.net,
+	jm@netmore.net, jm@netnoteinc.com, jm@netrevolution.com,
+	jm@netset.com, jm@netunlimited.net, jm@netvigator.com
+Subject: smut passes 331611865443
+Mime-Version: 1.0
+Date: Fri, 26 Jul 2002 11:27:33 -0700
+Content-Type: text/html; charset="iso-8859-1"

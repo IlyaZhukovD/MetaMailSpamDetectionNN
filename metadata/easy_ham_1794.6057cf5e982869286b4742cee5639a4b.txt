@@ -1,0 +1,8 @@
+Return-Path: skip@pobox.com
+Delivery-Date: Sat Sep  7 05:30:31 2002
+From: skip@pobox.com (Skip Montanaro)
+Date: Fri, 6 Sep 2002 23:30:31 -0500
+Subject: [Spambayes] hammie.py vs. GBayes.py
+In-Reply-To: <200209070351.g873pC613144@pcp02138704pcs.reston01.va.comcast.net>
+References: <200209070351.g873pC613144@pcp02138704pcs.reston01.va.comcast.net>
+Message-ID: <15737.32999.256881.434812@12-248-11-90.client.attbi.com>

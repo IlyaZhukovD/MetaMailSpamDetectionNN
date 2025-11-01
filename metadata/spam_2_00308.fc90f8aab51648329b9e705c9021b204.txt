@@ -1,0 +1,22 @@
+From sl@insurancemail.net  Mon Jun 24 17:03:46 2002
+Return-Path: sl@insurancemail.net
+Delivery-Date: Wed May 15 00:28:45 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4ENSje28481 for <jm@jmason.org>; Wed, 15 May 2002 00:28:45
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Tue, 14 May 2002 19:28:05 -0400
+Subject: Offer Your Clients 11.19%
+To: <yyyy@spamassassin.taint.org>
+Date: Tue, 14 May 2002 19:28:05 -0400
+From: "Standard Life" <sl@insurancemail.net>
+Message-Id: <641eb01c1fb9e$ff577210$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcH7hbZBwhonRIp2SqSt4Fzxni8Auw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 14 May 2002 23:28:05.0091 (UTC) FILETIME=[FF5F1330:01C1FB9E]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_4365A_01C1FB64.2F304B00"

@@ -1,0 +1,21 @@
+From fh89446@lycos.com  Mon Jun 24 17:03:01 2002
+Return-Path: fh89446@lycos.com
+Delivery-Date: Sat May 11 08:11:19 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4B7BIe12658 for
+    <jm@jmason.org>; Sat, 11 May 2002 08:11:18 +0100
+Received: from wmg27.wmgnic.com ([212.177.180.20]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g4B7BCD02278 for
+    <jm@netnoteinc.com>; Sat, 11 May 2002 08:11:12 +0100
+Received: (qmail 11222 invoked from network); 11 May 2002 01:33:09 -0000
+Received: from 9-123.dialup.comset.net (HELO mx3.mail.lycos.com)
+    (213.172.9.123) by ns.wmgnic.com with SMTP; 11 May 2002 01:33:09 -0000
+Message-Id: <000003597cc9$000003a5$00003eb9@mx3.mail.lycos.com>
+To: <Contact.List@mandark.labs.netnoteinc.com>
+From: "Ashley Pitpitan" <fh89446@lycos.com>
+Subject: Insurance Quote Site
+Date: Sat, 11 May 2002 05:43:21 -0800
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

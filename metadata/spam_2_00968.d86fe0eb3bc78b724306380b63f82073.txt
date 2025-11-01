@@ -1,0 +1,57 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NMXdhY014986
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Tue, 23 Jul 2002 17:33:39 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6NMXcOF014983
+	for cypherpunks-forward@ds.pro-ns.net; Tue, 23 Jul 2002 17:33:38 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NMXahY014953
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 17:33:37 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6NMXZJ52073
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 18:33:35 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6NMXYU18131
+	for cypherpunks@ds.pro-ns.net; Tue, 23 Jul 2002 18:33:34 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6NMXWR18110
+	for <cpunks@minder.net>; Tue, 23 Jul 2002 18:33:32 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6NMXVJ52053
+	for <cpunks@minder.net>; Tue, 23 Jul 2002 18:33:31 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id RAA18313
+	for cpunks@minder.net; Tue, 23 Jul 2002 17:42:12 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id RAA18305
+	for cypherpunks-outgoing; Tue, 23 Jul 2002 17:41:50 -0500
+Received: from mkt2.verticalresponse.com (mkt2.verticalresponse.com [130.94.4.20])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id RAA18300
+	for <cypherpunks@einstein.ssz.com>; Tue, 23 Jul 2002 17:41:39 -0500
+Message-Id: <200207232241.RAA18300@einstein.ssz.com>
+Received: (qmail 1237 invoked from network); 23 Jul 2002 22:32:44 -0000
+Received: from unknown (130.94.4.23)
+  by 0 with QMQP; 23 Jul 2002 22:32:44 -0000
+From: "Special Deals" <unsubs-ab749eca98-cypherpunks=einstein.ssz.com@b.verticalresponse.com>
+To: cypherpunks@einstein.ssz.com
+Old-Subject: CDR: Take Action Immediately or Miss Out.
+Date: Tue, 23 Jul 2002 22:32:44 +0000
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+    boundary="__________MIMEboundary__________"
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Subject: Take Action Immediately or Miss Out.

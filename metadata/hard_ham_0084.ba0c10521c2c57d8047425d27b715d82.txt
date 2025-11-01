@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20314.4f-dCw3gqtNlgTxGdRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6HDX5J23321
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 17 Jul 2002 14:33:05 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 06:33:51 -0700 (envelope-from <Online#3.20314.4f-dCw3gqtNlgTxGdRR.1.b@newsletter.online.com>)
+Message-ID: <622832.1026912779811.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Wed, 17 Jul 2002 06:32:59 -0700 (PDT)
+From: ZDNet Tech Update Today <Online#3.20314.4f-dCw3gqtNlgTxGdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Where TabletPC will succeed (Tech Update)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

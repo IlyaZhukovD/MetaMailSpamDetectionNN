@@ -1,0 +1,24 @@
+From abcd7453b80@yahoo.com  Mon Jun 24 17:49:46 2002
+Return-Path: abcd7453b80@yahoo.com
+Delivery-Date: Tue Jun 11 00:22:52 2002
+Received: from yahoo.com ([210.104.188.140]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g5ANMmG04344 for <webmaster@efi.ie>;
+    Tue, 11 Jun 2002 00:22:49 +0100
+Received: from unknown (HELO mail.gimmixx.net) (28.196.79.55) by
+    sydint1.microthink.com.au with NNFMP; Tue, 11 Jun 0102 05:22:39 -0400
+Received: from rly-xw05.oxyeli.com ([42.61.243.44]) by mta21.bigpong.com
+    with smtp; Tue, 11 Jun 0102 01:08:58 -0200
+Reply-To: <abcd7453b80@yahoo.com>
+Message-Id: <002e74d25a1c$8336e1d8$8ac18ac4@vbuyao>
+From: <abcd7453b80@yahoo.com>
+To: <webmaster@efi.ie>
+Subject: I saw your email 7272Gtnz8-338r-13
+Date: Mon, 10 Jun 0102 22:01:18 +0100
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+Importance: Normal
+X-Keywords: 
+Content-Transfer-Encoding: 8bit

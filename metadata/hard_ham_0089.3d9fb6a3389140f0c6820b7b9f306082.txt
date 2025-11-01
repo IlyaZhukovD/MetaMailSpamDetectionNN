@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20349.a1-TUc1lp9zMobLddRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta5.cnet.com (abv-sfo1-acmta5.cnet.com [206.16.1.164])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6I0FCJ04806
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 18 Jul 2002 01:15:13 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by abv-sfo1-acmta5.cnet.com (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 17:08:19 -0700 (envelope-from <Online#3.20349.a1-TUc1lp9zMobLddRR.1.b@newsletter.online.com>)
+Message-ID: <6121882.1026951304845.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Wed, 17 Jul 2002 17:15:04 -0700 (PDT)
+From: CNET Cool Gear <Online#3.20349.a1-TUc1lp9zMobLddRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: CNET Cool Gear: Find the right cordless phone
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

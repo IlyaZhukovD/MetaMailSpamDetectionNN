@@ -1,0 +1,24 @@
+From warena@freemail.hu  Mon Jun 24 17:03:27 2002
+Return-Path: warena@freemail.hu
+Delivery-Date: Mon May 13 12:05:11 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4DB54e30128 for
+    <jm@jmason.org>; Mon, 13 May 2002 12:05:06 +0100
+Received: from is1.takeone.net ([207.182.238.199]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4DB4dD13956;
+    Mon, 13 May 2002 12:04:48 +0100
+Received: from pluto.runbox.com ([203.168.252.67]) by is1.takeone.net
+    (Post.Office MTA v3.5.3 release 223 ID# 0-63340U200L2S100V35) with ESMTP
+    id net; Mon, 13 May 2002 02:57:06 -0700
+Message-Id: <000012342034$00000641$000068a5@fmx4.freemail.hu>
+To: <Gathings@mandark.labs.netnoteinc.com>
+From: "Richard Redmond" <warena@freemail.hu>
+Subject: don't Pay another monthly Bill until you read thisDGSRW
+Date: Mon, 13 May 2002 04:03:17 -1600
+MIME-Version: 1.0
+X-Priority: 1
+X-Mailer: Internet Mail Service (5.5.2653.19)
+X-Msmail-Priority: High
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

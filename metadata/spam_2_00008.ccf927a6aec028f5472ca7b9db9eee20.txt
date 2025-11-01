@@ -1,0 +1,18 @@
+From ormlh@imail.ru  Sun Jul 15 04:56:31 2001
+Return-Path: <ormlh@imail.ru>
+Delivered-To: yyyy@netnoteinc.com
+Received: from cccp.co.kr (unknown [211.218.149.105]) by
+    mail.netnoteinc.com (Postfix) with SMTP id 789D51140BA for
+    <jm@netnoteinc.com>; Sun, 15 Jul 2001 03:56:28 +0000 (Eire)
+Received: from imail.ru [210.14.5.95] by cccp.co.kr running [nMail 1.04
+    (Windows NT/2000) SMTP Server]; Wed, 11 Jul 2001 02:41:35 +0900
+Message-Id: <00000e0836ec$00006b26$0000082f@imail.ru>
+To: <67@163.net>
+From: ormlh@imail.ru
+Subject: FW:
+Date: Fri, 02 Jan 1998 04:30:44 -0400
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)

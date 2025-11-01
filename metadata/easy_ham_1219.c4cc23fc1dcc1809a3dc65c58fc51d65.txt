@@ -1,0 +1,64 @@
+From exmh-users-admin@redhat.com  Mon Sep 30 10:45:20 2002
+Return-Path: <exmh-users-admin@example.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 8801916F03
+	for <jm@localhost>; Mon, 30 Sep 2002 10:45:19 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 30 Sep 2002 10:45:19 +0100 (IST)
+Received: from listman.example.com (listman.example.com [66.187.233.211]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8RCk1g09597 for
+    <jm-exmh@jmason.org>; Fri, 27 Sep 2002 13:46:05 +0100
+Received: from listman.example.com (localhost.localdomain [127.0.0.1]) by
+    listman.redhat.com (Postfix) with ESMTP id DA41F3F80A; Fri, 27 Sep 2002
+    08:46:25 -0400 (EDT)
+Delivered-To: exmh-users@listman.example.com
+Received: from int-mx1.corp.example.com (int-mx1.corp.example.com
+    [172.16.52.254]) by listman.redhat.com (Postfix) with ESMTP id 15C2C3FC41
+    for <exmh-users@listman.redhat.com>; Fri, 27 Sep 2002 08:44:02 -0400 (EDT)
+Received: (from mail@localhost) by int-mx1.corp.example.com (8.11.6/8.11.6)
+    id g8RCi1218084 for exmh-users@listman.redhat.com; Fri, 27 Sep 2002
+    08:44:01 -0400
+Received: from mx1.example.com (mx1.example.com [172.16.48.31]) by
+    int-mx1.corp.redhat.com (8.11.6/8.11.6) with SMTP id g8RCi1f18071 for
+    <exmh-users@redhat.com>; Fri, 27 Sep 2002 08:44:01 -0400
+Received: from cft.snafu.priv.at (outerworld.snafu.priv.at
+    [193.80.224.65]) by mx1.redhat.com (8.11.6/8.11.6) with SMTP id
+    g8RCPji32603 for <exmh-users@redhat.com>; Fri, 27 Sep 2002 08:25:46 -0400
+Received: from cft.snafu.priv.at (localhost [127.0.0.1]) by
+    cft.snafu.priv.at (8.12.3/8.12.3/Debian -4) with ESMTP id g8RCheOA016820
+    (version=TLSv1/SSLv3 cipher=EDH-RSA-DES-CBC3-SHA bits=168 verify=OK);
+    Fri, 27 Sep 2002 14:43:41 +0200
+Received: (from az@localhost) by cft.snafu.priv.at (8.12.3/8.12.3/Debian
+    -4) id g8RCgfWq015740; Fri, 27 Sep 2002 14:42:41 +0200
+Message-Id: <200209271242.g8RCgfWq015740@cft.snafu.priv.at>
+To: exmh-users@example.com
+Subject: exmh and pgp: support for external passphrase cache (+patch)
+From: Alexander Zangerl <az@snafu.priv.at>
+Cc: welch@panasas.com
+MIME-Version: 1.0
+Content-Type: multipart/signed;
+    boundary="----------=_1033130560-1199-5";
+    micalg="pgp-sha1";
+    protocol="application/pgp-signature"
+X-Loop: exmh-users@example.com
+Sender: exmh-users-admin@example.com
+Errors-To: exmh-users-admin@example.com
+X-Beenthere: exmh-users@example.com
+X-Mailman-Version: 2.0.1
+Precedence: bulk
+Reply-To: exmh-users@example.com
+List-Help: <mailto:exmh-users-request@example.com?subject=help>
+List-Post: <mailto:exmh-users@example.com>
+List-Subscribe: <https://listman.example.com/mailman/listinfo/exmh-users>,
+    <mailto:exmh-users-request@redhat.com?subject=subscribe>
+List-Id: Discussion list for EXMH users <exmh-users.example.com>
+List-Unsubscribe: <https://listman.example.com/mailman/listinfo/exmh-users>,
+    <mailto:exmh-users-request@redhat.com?subject=unsubscribe>
+List-Archive: <https://listman.example.com/mailman/private/exmh-users/>
+Date: Fri, 27 Sep 2002 14:42:27 +0200
+X-Spam-Status: No, hits=0.6 required=5.0
+	tests=KNOWN_MAILING_LIST,T_URI_COUNT_1_2,X_LOOP
+	version=2.50-cvs
+X-Spam-Level:

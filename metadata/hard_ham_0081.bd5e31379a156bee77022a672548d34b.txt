@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20304.83-p1SYlJ1blFvQjRRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6HCfMJ19413
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Wed, 17 Jul 2002 13:41:22 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 05:42:04 -0700 (envelope-from <Online#3.20304.83-p1SYlJ1blFvQjRRR.1.b@newsletter.online.com>)
+Message-ID: <6751098.1026909672648.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Wed, 17 Jul 2002 05:41:12 -0700 (PDT)
+From: "CNET Shopper Newsletter: PDA Edition" <Online#3.20304.83-p1SYlJ1blFvQjRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Check out the new CLIE PEG-T665C from Sony! (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

@@ -1,0 +1,18 @@
+Return-Path: <Online#3.20629.95--yrqlgFIolfTt9RR.1.b@newsletter.online.com>
+Received: from webnote.net (mail.webnote.net [193.120.211.219])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MHQb403583
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Mon, 22 Jul 2002 18:26:37 +0100
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id JAA22721
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Sat, 20 Jul 2002 09:00:24 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Sat, 20 Jul 2002 00:50:42 -0700 (envelope-from <Online#3.20629.95--yrqlgFIolfTt9RR.1.b@newsletter.online.com>)
+Message-ID: <6599570.1027151390383.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Sat, 20 Jul 2002 00:49:50 -0700 (PDT)
+From: "CNET News.com Daily Dispatch" <Online#3.20629.95--yrqlgFIolfTt9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: THE WEEK IN REVIEW: Harvest at Macworld
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

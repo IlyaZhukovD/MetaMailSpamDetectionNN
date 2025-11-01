@@ -1,0 +1,25 @@
+From info@ipogea.com  Mon Jun 24 17:46:35 2002
+Return-Path: info@ipogea.com
+Delivery-Date: Thu Apr 18 22:22:36 2002
+Received: from smtp.ipogea.com (APastourelles-106-1-1-176.abo.wanadoo.fr
+    [80.11.176.176]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g3ILLw630826 for <jm-fm@jmason.org>; Thu, 18 Apr 2002 22:22:03 +0100
+Received: from Direction [192.168.123.20] by ipogea.com [127.0.0.1] with
+    SMTP (MDaemon.PRO.v5.0.5.R) for <jm-fm@jmason.org>; Thu, 18 Apr 2002
+    20:24:18 +0200
+Message-Id: <005401c1e706$0ecc13c0$147ba8c0@XG395.local>
+From: "IPOGEA" <info@ipogea.com>
+To: <info@ipogea.com>
+Subject: Votre maintenance Informatique
+Date: Thu, 18 Apr 2002 20:19:49 +0200
+MIME-Version: 1.0
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+X-Mimeole: Produced By Microsoft MimeOLE V5.00.2919.6700
+X-Mdremoteip: 192.168.123.20
+X-Return-Path: info@ipogea.com
+X-Mdaemon-Deliver-To: yyyy-fm@spamassassin.taint.org
+X-Status: 
+X-Keywords: 
+Content-Type: multipart/related; boundary="----=_NextPart_000_003F_01C1E716.64A6E300";type="multipart/alternative"

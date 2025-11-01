@@ -1,0 +1,24 @@
+From printpal-3444431.13@marketingontarget.net  Tue Jul 23 18:20:20 2002
+Return-Path: <printpal-3444431.13@marketingontarget.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 05E78440CC
+	for <jm@localhost>; Tue, 23 Jul 2002 13:20:20 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 23 Jul 2002 18:20:20 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6NHK1414457 for
+    <jm@jmason.org>; Tue, 23 Jul 2002 18:20:01 +0100
+Received: from marketingontarget.com (mxob1.marketingontarget.net
+    [63.217.31.162]) by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP
+    id g6NHJ8p15813 for <jm@netnoteinc.com>; Tue, 23 Jul 2002 18:19:08 +0100
+Message-Id: <200207231719.g6NHJ8p15813@mandark.labs.netnoteinc.com>
+Date: 23 Jul 2002 18:33:50 -0000
+X-Sender: marketingontarget.net
+X-Mailid: 3444431.13
+Complain-To: abuse@marketingontarget.com
+To: yyyy@netnoteinc.com
+From: PrintPal <printpal@marketingontarget.net>
+Subject: Printer Cartridges - Coupon - Save up to 80%
+Content-Type: text/html;

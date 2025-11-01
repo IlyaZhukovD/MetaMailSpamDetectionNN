@@ -1,0 +1,28 @@
+Return-Path: volunteer-reply@robertreich.org
+Delivery-Date: Sun Sep 15 23:27:43 2002
+Return-Path: <volunteer-reply@robertreich.org>
+Received: from mail3.intermedia.net (mail3.intermedia.net [206.40.48.153])
+	by eclectic.kluge.net (8.12.6/8.12.6) with ESMTP id g8G3RfOk029859
+	for <reich@vandinter.org>; Sun, 15 Sep 2002 23:27:42 -0400
+Received: from dh7863-68 (unverified [64.78.63.68]) by mail3.intermedia.net
+ (Rockliffe SMTPRA 4.5.4) with SMTP id <B0055250236@mail3.intermedia.net> for <reich@vandinter.org>;
+ Sun, 15 Sep 2002 20:27:39 -0700
+Message-ID: <B0055250236@mail3.intermedia.net>
+From: Robert Reich For Governor <volunteer-reply@robertreich.org>
+To: <reich@vandinter.org>
+Date: Mon, 16 Sep 2002 03:27:38 (GMT)
+X-MSMail-Priority: Normal
+X-mailer: AspMail 3.53 (SMTP2D571B)
+Subject: You're signed up for the Reich Report!
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by eclectic.kluge.net id g8G3RfOk029859
+X-Spam-Status: Yes, hits=5.3 required=5.0 tests=INVALID_DATE,MISSING_MIMEOLE,MISSING_OUTLOOK_NAME,MSG_ID_ADDED_BY_MTA_3,REMOVE_SUBJ,SPAM_PHRASE_05_08,SUPERLONG_LINE version=2.41
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 2.41 (1.115.2.8-2002-09-05-exp)
+X-Spam-Prev-Content-Transfer-Encoding: 8bit
+X-Reject: Spamassassin match!
+Status: RO
+Content-Length: 2694
+Lines: 44

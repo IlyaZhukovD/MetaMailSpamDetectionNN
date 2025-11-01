@@ -1,0 +1,47 @@
+From webmake-talk-admin@lists.sourceforge.net  Mon Jul 22 18:43:39 2002
+Return-Path: <webmake-talk-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 92774440C9
+	for <jm@localhost>; Mon, 22 Jul 2002 13:43:37 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 18:43:37 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MG18Y16432 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 17:01:08 +0100
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by webnote.net (8.9.3/8.9.3) with ESMTP id MAA27362 for
+    <jm@jmason.org>; Sun, 21 Jul 2002 12:43:30 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17WF79-0000KE-00; Sun,
+    21 Jul 2002 04:43:03 -0700
+Received: from [218.0.72.36] (helo=localhost.com) by
+    usw-sf-list1.sourceforge.net with smtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17WF6h-0003GW-00 for <webmake-talk@lists.sourceforge.net>; Sun,
+    21 Jul 2002 04:42:35 -0700
+From: targetemailextractor@btamail.net.cn
+Reply-To: targetemailextractor@btamail.net.cn
+To: webmake-talk@example.sourceforge.net
+X-Mailer: QuickSender 1.05
+MIME-Version: 1.0
+Message-Id: <E17WF6h-0003GW-00@usw-sf-list1.sourceforge.net>
+Subject: [WM] ADV:  Direct email blaster, email address extractor, maillist manager, maillist verify ............
+Sender: webmake-talk-admin@example.sourceforge.net
+Errors-To: webmake-talk-admin@example.sourceforge.net
+X-Beenthere: webmake-talk@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:webmake-talk-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:webmake-talk@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/webmake-talk>,
+    <mailto:webmake-talk-request@lists.sourceforge.net?subject=subscribe>
+List-Id: Discussion of WebMake. <webmake-talk.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/webmake-talk>,
+    <mailto:webmake-talk-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=webmake-talk>
+X-Original-Date: Sun, 21 Jul 2002 19:42:28 +0800
+Date: Sun, 21 Jul 2002 19:42:28 +0800
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable

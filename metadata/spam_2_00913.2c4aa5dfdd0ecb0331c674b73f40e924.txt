@@ -1,0 +1,59 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6N3UbhY063676
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Mon, 22 Jul 2002 22:30:38 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6N3UbdL063674
+	for cypherpunks-forward@ds.pro-ns.net; Mon, 22 Jul 2002 22:30:37 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6N3UThY063582
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 22:30:30 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6N3URJ83360
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 23:30:28 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6N3UR429108
+	for cypherpunks@ds.pro-ns.net; Mon, 22 Jul 2002 23:30:27 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6N3UPR29085
+	for <cpunks@minder.net>; Mon, 22 Jul 2002 23:30:25 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6N3UNJ83333
+	for <cpunks@minder.net>; Mon, 22 Jul 2002 23:30:23 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id WAA29243
+	for cpunks@minder.net; Mon, 22 Jul 2002 22:38:44 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id WAA29236
+	for cypherpunks-outgoing; Mon, 22 Jul 2002 22:37:07 -0500
+Received: from bwb.com.mx (root@[200.33.155.1])
+	by einstein.ssz.com (8.8.8/8.8.8) with ESMTP id WAA29230
+	for <cypherpunks@ssz.com>; Mon, 22 Jul 2002 22:36:49 -0500
+From: janice5930923@yahoo.com
+Received: from cookbe36345.com (dsl-200-67-183-177.prodigy.net.mx [200.67.183.177])
+	by bwb.com.mx (8.8.8/8.8.8) with SMTP id WAA18484;
+	Mon, 22 Jul 2002 22:22:49 -0500
+Message-Id: <200207230322.WAA18484@bwb.com.mx>
+Date: Mon, 22 Jul 2002 22:24:24 -0500
+Old-Subject: CDR: VTGE   7/22/2002 10:24:24 PM
+X-Priority: 1
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+To: undisclosed-recipients:;
+Subject: VTGE   7/22/2002 10:24:24 PM

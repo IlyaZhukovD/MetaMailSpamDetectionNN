@@ -1,0 +1,23 @@
+From cheapbargain@yahoo.com  Mon Jul 29 11:40:01 2002
+Return-Path: <cheapbargain@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 5793B44105
+	for <jm@localhost>; Mon, 29 Jul 2002 06:34:27 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:34:27 +0100 (IST)
+Received: from pjweb.concentric.net (w018.z208037036.lax-ca.dsl.cnc.net
+    [208.37.36.18]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g6RBMri26927 for <webmaster@efi.ie>; Sat, 27 Jul 2002 12:22:53 +0100
+Received: from sequencingsythawsu.com (SECURCORP01 [208.37.95.106]) by
+    pjweb.concentric.net with SMTP (Microsoft Exchange Internet Mail Service
+    Version 5.5.2653.13) id PR6PVCDP; Fri, 26 Jul 2002 22:29:00 -0700
+Message-Id: <000035343ba3$00007ade$00006997@serpentineqpiccadillyt.com>
+To: <dt@dogma.slashnull.org>
+From: cheapbargain@yahoo.com
+Subject: NORTON SYSTEMWORKS CLEARANCE SALE!                9850
+Date: Sat, 27 Jul 2002 01:26:26 -1600
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

@@ -1,0 +1,22 @@
+From usafin@insurancemail.net  Mon Jun 24 17:07:50 2002
+Return-Path: usafin@insurancemail.net
+Delivery-Date: Wed May 29 02:04:04 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4T143O09416 for <jm@jmason.org>; Wed, 29 May 2002 02:04:04
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Tue, 28 May 2002 21:03:12 -0400
+Subject: Fill a Room with 300 People
+To: <yyyy@spamassassin.taint.org>
+Date: Tue, 28 May 2002 21:03:12 -0400
+From: "USA Financial" <usafin@insurancemail.net>
+Message-Id: <3a4e9d01c206ac$9b18cab0$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIGlvY5cCc0reMkRQuUM+85oNOslQ==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 29 May 2002 01:03:12.0884 (UTC) FILETIME=[9B43AB40:01C206AC]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_385302_01C20675.6F2940B0"

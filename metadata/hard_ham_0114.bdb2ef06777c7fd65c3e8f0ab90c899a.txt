@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20566.1b-g8TkgHOAIazg9sRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6JA3QJ16226
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 19 Jul 2002 11:03:27 +0100
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Fri, 19 Jul 2002 03:04:12 -0700 (envelope-from <Online#3.20566.1b-g8TkgHOAIazg9sRR.1.b@newsletter.online.com>)
+Message-ID: <541907.1027073000497.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Fri, 19 Jul 2002 03:03:20 -0700 (PDT)
+From: AnchorDesk <Online#3.20566.1b-g8TkgHOAIazg9sRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: MS/Apple: Can this marriage be saved? (I doubt it) [ANCHORDESK]
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

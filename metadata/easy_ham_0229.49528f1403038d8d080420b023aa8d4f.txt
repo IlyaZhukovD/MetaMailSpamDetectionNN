@@ -1,0 +1,45 @@
+From skitster@hotmail.com  Wed Aug 28 10:55:28 2002
+Return-Path: <skitster@hotmail.com>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id AC12B44156
+	for <zzzz@localhost>; Wed, 28 Aug 2002 05:55:25 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Wed, 28 Aug 2002 10:55:25 +0100 (IST)
+Received: from n36.grp.scd.yahoo.com (n36.grp.scd.yahoo.com
+    [66.218.66.104]) by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id
+    g7S9EPZ17814 for <zzzz@example.com>; Wed, 28 Aug 2002 10:14:25 +0100
+X-Egroups-Return: sentto-2242572-53140-1030526071-zzzz=example.com@returns.groups.yahoo.com
+Received: from [66.218.67.198] by n36.grp.scd.yahoo.com with NNFMP;
+    28 Aug 2002 09:14:31 -0000
+X-Sender: skitster@hotmail.com
+X-Apparently-To: zzzzteana@yahoogroups.com
+Received: (EGP: mail-8_1_0_1); 28 Aug 2002 09:14:31 -0000
+Received: (qmail 85461 invoked from network); 28 Aug 2002 09:14:31 -0000
+Received: from unknown (66.218.66.218) by m5.grp.scd.yahoo.com with QMQP;
+    28 Aug 2002 09:14:31 -0000
+Received: from unknown (HELO hotmail.com) (64.4.17.167) by
+    mta3.grp.scd.yahoo.com with SMTP; 28 Aug 2002 09:14:31 -0000
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+    Wed, 28 Aug 2002 02:14:30 -0700
+Received: from 213.121.94.124 by lw11fd.law11.hotmail.msn.com with HTTP;
+    Wed, 28 Aug 2002 09:14:30 GMT
+To: clare.bunkham@prudential.co.uk, zzzzteana@yahoogroups.com,
+	forteana@taint.org
+Message-Id: <F1679yt8TcqXQ0XGa9700021ebd@hotmail.com>
+X-Originalarrivaltime: 28 Aug 2002 09:14:30.0994 (UTC) FILETIME=[512D8B20:01C24E73]
+From: "Scott Wood" <skitster@hotmail.com>
+X-Originating-Ip: [213.121.94.124]
+X-Yahoo-Profile: fromage_frenzy
+MIME-Version: 1.0
+Mailing-List: list zzzzteana@yahoogroups.com; contact
+    forteana-owner@yahoogroups.com
+Delivered-To: mailing list zzzzteana@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:zzzzteana-unsubscribe@yahoogroups.com>
+Date: Wed, 28 Aug 2002 10:14:30 +0100
+Subject: [zzzzteana] Fwd: Hill Monuments defaced to promote hunting
+Reply-To: zzzzteana@yahoogroups.com
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit

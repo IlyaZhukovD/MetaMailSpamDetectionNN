@@ -1,0 +1,412 @@
+From rathcairn@eircom.net  Mon Jun 24 17:05:37 2002
+Return-Path: rathcairn@eircom.net
+Delivery-Date: Tue May 21 16:22:21 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4LFARe13905 for
+    <jm@jmason.org>; Tue, 21 May 2002 16:10:29 +0100
+Received: from mail03.svc.cra.dublin.eircom.net
+    (mail03.svc.cra.dublin.eircom.net [159.134.118.19]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g4LFA7D26547 for
+    <jm@netnoteinc.com>; Tue, 21 May 2002 16:10:12 +0100
+Received: (qmail 26210 messnum 563502 invoked from
+    network[159.134.184.93/p93.as2.virginia1.eircom.net]); 21 May 2002
+    15:09:42 -0000
+Received: from p93.as2.virginia1.eircom.net (HELO r60qn) (159.134.184.93)
+    by mail03.svc.cra.dublin.eircom.net (qp 26210) with SMTP; 21 May 2002
+    15:09:42 -0000
+Message-Id: <00c701c200d9$a14bd540$5db8869f@r60qn>
+From: "rathcairn" <rathcairn@eircom.net>
+To: "Zofia"
+    <m22527@24h.co.jp>, <zen5@moroccomail.com>, <xxx2@ewasher.org>,
+    <x8350w24@surftimemag.com>, <wtilson19348@joymail.com>, <wfh5@wfh.org>,
+    "Werner Gebert"
+    <Werner.Gebert@t-online.de>,
+    "Wendy O'Sullivan"
+    <dwrlc@indigo.ie>,
+    "Weedman"
+    <fddgl@ella.hu>,
+    "Weedman"
+    <bxabl@dit.upm.es>,
+    "Weedman"
+    <uzicz@eagle.acadiau.ca>, <webmaster@korcin.com>, <web-cr@wallon.net>,
+    "Wasted"
+    <abykwlldfsur@egertp.ericsson.se>, <vv0033777@yahoo.com>,
+    <voiyt786@priestmail.com>, <viagraonline_376@koreainsights.com>,
+    "Viagra to your door"
+    <sales@globalscoop.com>, <veling@indigo.ie>,
+    "Vanessa Roberts"
+    <abruka@hotmail.com>,
+    "val nelson"
+    <valnelson@eircom.net>, <Vacation@msn.com>, <v522584@asia-links.com>,
+    <uweudj@yahoo.com>, <usave9507@eudoramail.com>, <usave783@arabia.com>,
+    "U.S. Bachelors"
+    <bachclub@usa.com>,
+    "trim visitor centre"
+    <trimvisitorcenter@eircom.net>, =?iso-8859-1?Q?Treasa_U=ED_Mh=E1irt=EDn?=
+    <treasauimhairtin@ireland.com>, <Tracy8753l27@yahoo.com>,
+    =?iso-8859-1?Q?Tracey_N=ED_Bhreathnach?= <treacybwalsh@hotmail.com>,
+    <tophatpub@tiscali.co.uk>, <tonylyons2744@spartan.dnet.co.uk>,
+    "Tony Parker, BBC"
+    <tony@reallife.co.uk>,
+    "Tony McManus"
+    <_mcmanust@eircom.net>,
+    "Tony Corley"
+    <t.corley@heythrop.ac.uk>, =?iso-8859-1?Q?Tom=E1s_Jim_Mac_Gearailt?=
+    <cfcdteo@iol.ie>, <tom.richardson@ie.pwcglobal.com>,
+    "Tom O'Bryan"
+    <obryanco@iol.ie>,
+    "Tom Farrell"
+    <tom@frontend.com>, <Tilliwin@aol.com>,
+    "Terence Corish"
+    <tc@clubi.ie>,
+    "Tena Duarte"
+    <drwatson8914@freemail.hu>,
+    "Ted Creighton"
+    <creighton@idirect.com>,
+    "Tamas Pelyhe"
+    <mhe@matawnet.hu>, =?iso-8859-1?Q?Tadhg_O_D=FAshl=E1ine?=
+    <Nua.Ghaeilge@may.ie>, <t3219@k.ro>, <t20476@i-france.com>,
+    <systemax20022002@yahoo.com>,
+    "System Administrator"
+    <postmaster@udaras.ie>,
+    "Sunday Times"
+    <paul.colgan@sunday-times.o.uk>,
+    "Sunday Business Post"
+    <sbpost@iol.ie>, <sue@hotmail.com>,
+    "Sue Rocks"
+    <sue@haemophilia.org.uk>,
+    "=?iso-8859-1?B?U3Rpb2bhbiDTIENvbG3haW4=?="
+    <scoleman@may.ie>,
+    "Stephen Shannon"
+    <sshannon@meathcoco.ie>,
+    "Stephen Price"
+    <sprice@todayfm.com>,
+    "Staff"
+    <loretocrumlin.ias@tinet.ie>, <spailpin@eircom.net>,
+    <sophie.lacoste@only-yellow-pages.com>,
+    "Smart Investor"
+    <newsales@fl2ny.com>, <slangermanazk1@hotmail.com>, <skls@yahoo.com>,
+    <Siobhan.NiChofaigh@infineon.com>, =?iso-8859-1?Q?Siobh=E1n_N=ED_Laoire?=
+    <slaoire@celt.dias.ie>, <SIMON.BARNES@YOUR-MOVE.CO.UK>,
+    =?iso-8859-1?B?U2ltb24g0yBDcvNpbu1u?= <simoncronin@hotmail.com>,
+    =?iso-8859-1?Q?Simon_O_Cr=F3in=EDn?= <croninsimon@ireland.com>,
+    =?iso-8859-1?Q?Simon_O_Cr=F3in=EDn?= <croininsimon@ireland.com>,
+    "Shaw Graham"
+    <shawgraham@nireland.com>,
+    "Shaquana Samples"
+    <domenic.philipp@freemail.hu>,
+    "Shane Diffily"
+    <sdiffily@comhdhail.ie>,
+    "SeXieRachel"
+    <sexyrachel@braintaco.com>, =?iso-8859-1?Q?Seosaimh=EDn_N=ED_Bheaglaoich?=
+    <nibheas@rte.ie>, <sender5736x53@aol.com>, <seftopbox@stbmail.com>,
+    =?iso-8859-1?Q?Sean-N=F3s_Cois_Life?= <seannoscoislife@eircom.net>,
+    "sean simpson"
+    <simpsonsp@hotmail.com>,
+    "Sean O'Sullivan"
+    <saosull@indigo.ie>, =?iso-8859-1?Q?Se=E1n_=D3_Riain?=
+    <seanoriain@tinet.ie>, =?iso-8859-1?Q?Se=E1n_=D3_Riain?=
+    <seanoriain@eircom.net>, =?iso-8859-1?Q?Sean_=D3_Daimh=EDn?=
+    <seanodaimh@aol.com>,
+    "Sean Mac Aoire"
+    <seanmacaoire@netscape.net>,
+    "Sean A O'Sullivan"
+    <sean_a-o'sullivan@bourns.com>,
+    "=?iso-8859-1?B?U+lhbXVzINMgTulpbGw=?="
+    <seamusoneill@weandus.com>,
+    "=?iso-8859-1?B?U+lhbXVzINMgQ3Jvc+Fpbg==?="
+    <crosson@clubi.ie>, =?iso-8859-1?Q?S=E9amus_=D3_Connaill?=
+    <jimconnell@eircom.net>, <scooney@emirates.net.ae>, <save5749@yahoo.com>,
+    <save5459@arabia.com>,
+    "Sandra Nic Iomhair"
+    <antseanbheairic@eircom.net>, <sales@assuredtraffic.com>,
+    <sadataycow9345@eudoramail.com>,
+    "sabhailteacht bothar"
+    <sabhail@yahoo.com>, <rusheicmomra@hotmail.com>,
+    "Ruairi O hUiginn"
+    <ruairi@celt.dias.ie>,
+    "Ross Robinson"
+    <ross@wfh.org>,
+    "Ross Carroll"
+    <rcarroll@operation.dublin.iona.ie>,
+    "Roselie V. Zabala"
+    <rzabala@ns.gov.gu>, =?iso-8859-1?B?UvNpc+1uIE7tIE1oaWFu4Wlu?=
+    <rnimh@indigo.ie>, <rodney@126.com>,
+    "Rod Allen and Barbara Quigley"
+    <allquig@nb.sympatico.ca>,
+    "Robbyn"
+    <M18439@communityconnect.com>, <ro3456you@email.com>,
+    "Richard Oakley"
+    <oakleyrichard@hotmail.com>,
+    "Renee Paper"
+    <hfnv@earthlink.net>,
+    "Rene McRogers"
+    <Rene.McRogers.B@bayer.com>, <REJ@MoreHGH.com>,
+    "Reggie O Riain"
+    <oreggie@hotmail.com>,
+    "=?iso-8859-1?B?UulhbW9ubiDTIENpYXLhaW4=?="
+    <reamonn.gael-linn@virgin.net>,
+    "=?iso-8859-1?B?UulhbW9ubiDTIENpYXLhaW4=?="
+    <reamonn@gael-linn.net>,
+    "Raymond Kieran"
+    <kieran31@lineone.net>, <rathcairn@eircom.net>,
+    "rastelli"
+    <zq8oc1d0lp2owu@intel.com>, =?iso-8859-1?Q?Raidi=F3_na_Life?=
+    <rnl106@iol.ie>,
+    "rafco"
+    <rafco@maptel.es>, <r6hw45esr7actionjo@aol.com>,
+    <r1207f00@altavista.co.kr>, <prwiiw@imailbox.com>,
+    <protection_now2002@yahoo.com>, <proinsias@arainnmhor.com>,
+    "Prescription"
+    <ytbzb@chat.ru>, <precision_ppp@yahoo.com>, <ppl2448_01@hotmail.com>,
+    =?iso-8859-1?Q?P=F3il=EDn_Roycroft?= <schullns.ias@eircom.net>,
+    <PogCD@aol.com>, =?iso-8859-1?Q?Phyllis_U=ED_Mheadhra?=
+    <phyllisomeara@eircom.net>,
+    "Philomena Lafferty"
+    <philafferty@eircom.net>, <Peter.Feinsinger@NAU.EDU>,
+    "Pekka Heikkila"
+    <pekka.heikkila@metos.com>, =?iso-8859-1?Q?Peigi_N=ED_Chonghaile?=
+    <plearaca@tinet.ie>,
+    "Paul Mc  Evoy"
+    <pjdent@indigo.ie>,
+    "Patti Kerr"
+    <pakerr@hotmail.com>,
+    "Patrick O'donoghue"
+    <pod2@indigo.ie>, <patgryan@oceanfree.net>,
+    "Pat Kavanagh"
+    <pk@gbgroup.ie>,
+    "Pat &Carmel Downey"
+    <pcadowney@eircom.net>,
+    "Parttraporn Israngkuranaayudhaya"
+    <rapis@mucc.mahidol.ac.th>,
+    "Pamela Aldrich"
+    <paldrich@esatclear.ie>, <padraig.ocuinneagain2@mail.dcu.ie>,
+    =?iso-8859-1?Q?P=E1draig_Swinbourne?= <PavdiealthePub@hotmail.com>,
+    =?iso-8859-1?Q?Padraig_=D3_Cinn=E9ide?= <padraig@evolution.org>,
+    "Padraig Nallen"
+    <pnallen@operation.dublin.iona.ie>,
+    "Padraig Nallen"
+    <pnallen@operation.dublin.iona.ie>,
+    =?iso-8859-1?Q?P=E1draig_Leo_O_Curraoin?= <patrickleocurran@eircom.net>,
+    "Paddy Clancy, The Sun"
+    <paddyclancy@the-sun.co.uk>, <p_mcevoy@hotmail.com>, <orlag@eircom.net>,
+    <opt-in@randbad.com>, <opportunity_nox@email.com>,
+    "Olga Vanherle"
+    <olga@wol.be>,
+    "Oideas Gael"
+    <oidsgael@iol.ie>, <ocsc@ocsc.ie>,
+    "obrienp"
+    <obrienp@iol.ie>, <o7550k46@norikomail.com>,
+    "North Dublin"
+    <ndnsp@iol.ie>,
+    "Norman Kidd"
+    <norman.k@ukonline.co.uk>,
+    "Noirin Nuadhain"
+    <noirin.nuadhain@ncca.ie>,
+    "Nils van Hinsberg"
+    <N.P.vanHinsberg@lr.tudelft.nl>, =?iso-8859-1?Q?Nicola_N=ED_Cheallaigh?=
+    <nicolakelly@mai.ie>,
+    "Nicky Petite"
+    <54t7854342@msn.com>, =?iso-8859-1?Q?NIC_MHEANMAN=2C_M=C1IRE?=
+    <NICMHEAN@educ.irlgov.ie>,
+    "Niamh McEntee"
+    <niamh.mcentee@bookham.com>,
+    "NI NUADHAIN, NOIRIN"
+    <NUADHAIN@educ.irlgov.ie>, <newmanj@iobox.fi>,
+    "Natalia Barry"
+    <natalia@haemophilia.org.uk>,
+    "Nadene"
+    <lywou@24horas.com>, <n0544k76@mailcity.lycos.co.jp>,
+    =?iso-8859-1?Q?Muireann_N=ED_Fhaotain?= <marian.whelan@hotmail.com>,
+    =?iso-8859-1?Q?Muireann_N=ED_Ch=E1rthaigh?= <muireann@comhdhail.ie>,
+    <MStenhouse@mlaw.ie>,
+    "Mr. Natural"
+    <fddgl@comptel.fi>,
+    "Morgan, Bernie"
+    <morber@dunwoody.tec.mn.us>, <monicareilly@P0PMAILER.ORG>,
+    "Moneystorm"
+    <Professional_Series@freenet.de>,
+    "Money in the Mail"
+    <singledolar@hotmail.com>,
+    "Monet"
+    <l8075@virgilio.it>,
+    "Moire Leyden"
+    <moira@asti.ie>, <moiral@asti.ie>, <mireillestryjewski3884@altavista.com>,
+    <mike3561@yahoo.com>, <MicOfiach@netscape.net>,
+    "Mick Power"
+    <Mick@vendor.ie>, =?iso-8859-1?Q?Miche=E1l_=D3_Broin?= <obroin@iol.ie>,
+    "Micheal O Broin"
+    <obroin@triskel.ie>,
+    "=?iso-8859-1?B?Te1jaGXhbCDTIEJyZWFzbOFpbg==?="
+    <dunloy@nacn.org>, <MichaelCroc@aol.com>,
+    "Michael Martin"
+    <info@reiki.ie>,
+    "Michael & Enta Butler"
+    <dabu.ias@eircom.net>,
+    "mfg teo"
+    <mfggaillimh@tinet.ie>, <merchantsworld2001@juno.com>,
+    <members@list.adult-newsletter.com>,
+    "Megan Biddles"
+    <8734ryhje@msn.com>,
+    "meas media"
+    <measmedia@eircom.net>, <mcivorpd@indigo.ie>,
+    "Maureen Monica Griffin"
+    <mamgriff@indiana.edu>, <MaryMarie2002av@about.com>,
+    <maryloulynne@arabia.com>,
+    "Mary O'Shaughnessy"
+    <mary.oshaughnessy@ucc.ie>,
+    "Mary Ng Chua"
+    <mary.chua@ibm.net>,
+    "Martin O'Brien"
+    <MartinOB@compuserve.com>,
+    "Martin Byrne"
+    <friction@eircom.net>, <marrisa691@cranfield.ac.uk>,
+    "Marrinan, Shonagh \(CAP, GCF\)"
+    <Shonagh.Marrinan@gecapital.com>, <mark_edwards1952@financier.com>,
+    "Mark Eweka"
+    <business_centre2000@yahoo.com>,
+    "Mark"
+    <errand1636@yahoo.com>,
+    "Marie Gillman"
+    <gillmam@labs.wyeth.com>,
+    "maria hickey"
+    <findmariahickey@hotmail.com>, <MargaretDunne@novo-wfh2000.com>,
+    <margaretculliton@unison.ie>,
+    "Margaret Kinder"
+    <mmk@britishlibrary.net>,
+    "Margaret Farrington"
+    <M.Farrington@liverpool.ac.uk>, =?iso-8859-1?Q?Mait_=D3_Br=E1daigh?=
+    <maitobradaigh@tinet.ie>, =?iso-8859-1?Q?M=E1ir=EDn_Seoighe?=
+    <dobhar@eircom.net>, =?iso-8859-1?Q?Mair=E9ad_Mic_Sh=EDom=F3in?=
+    <sidhebhean@eircom.net>, =?iso-8859-1?Q?M=E1ire_U=CD_Fhaogh=E1in?=
+    <ofaoghain@eircom.net>, =?iso-8859-1?Q?M=E1ire_U=ED_Dhufaigh?=
+    <muidhufaigh@hotmail.com>,
+    "Maire Ni Mhainnin"
+    <m.nimhainin@udaras.ie>, =?iso-8859-1?Q?M=E1ire_N=ED_Ghiollabh=E1in?=
+    <Maura.Kilbane@may.ie>, =?iso-8859-1?Q?M=E1ire_N=ED_Flatharta?=
+    <maire.niflatharta@daff.irlgov.ie>,
+    "Maire Hearty"
+    <m.hearty@udaras.ie>,
+    "Mail Delivery System"
+    <Mailer-Daemon@tinet.ie>, =?iso-8859-1?Q?MacTh=F3mais=2C_Uinseann?=
+    <umacthomais@ealga.ie>, <m418327@gopinoy.com>, <m1015a33@freeserve.net>,
+    <m.oreilly@unison.ie>,
+    "Lynda Kathleen Martina Iola Costelloe"
+    <lynda@gcom.ie>,
+    "Louise Carroll"
+    <jcc@nznet.gen.nz>,
+    "Lone Pedersen"
+    <lone@bloderforeningen.dk>, <loans_help88@yahoo.com>,
+    "Loan Admin"
+    <marketpro7845@gironet.nl>,
+    "Litigation Experts"
+    <LegalService@nueworld.com>, <line@wfh.org>, <linda.ni.ghriofa@tg4.ie>,
+    "Lin"
+    <bvkql@email.si>, <lifequote1aa552718@altavista.se>,
+    <life_insuranceman@yahoo.com>,
+    "Life Insurance Quote"
+    <fyvdv@i-france.com>, =?iso-8859-1?Q?Liam_Mac_R=E9amoinn?=
+    <murrisk@oceanfree.net>,
+    "Liam Mac Coil"
+    <lmaccoil@yahoo.com>,
+    "Lee Ryan"
+    <designroom@clubi.ie>,
+    "Lean Doody"
+    <Lean.Doody@operation.dublin.iona.ie>,
+    "=?iso-8859-1?B?TOE=?="
+    <eolas@nuacht.com>, <l715240@zmail.to>, <kuynjy@liveclothing.com.au>,
+    <kgillin2386@mindwerk.de>,
+    "kevin Hurley"
+    <jkevinhurley@eircom.net>,
+    "Kerry Woods"
+    <kerry@tech.boo.com>,
+    "Kellys Dunkirk"
+    <info@kellysdunkirk.com>,
+    "=?iso-8859-1?Q?Karen_N=ED_Bhreasl=E1in.?="
+    <kazbeeioi@hotmail.com>,
+    "Karen Canty"
+    <kcanty@eircom.net>, <Kaaren2238y32@surflondon.co.uk>,
+    "jyogBiff Armstrong"
+    <eoxmarmstrong6dg325sgf2@msn.com>, <jwlocke@hotmail.com>,
+    "Justin Mason"
+    <jm5@netnoteinc.com>,
+    "Justin Mason"
+    <jm@netnoteinc.com>,
+    "Juliet Fahy \(Work\)"
+    <mpbe@stjames.ie>,
+    "Juliet Fahy \(Home\)"
+    <mayday@indigo.e>,
+    "Juliet & Paddy Fahy"
+    <mayday@indigo.ie>,
+    "Judy Schaefer"
+    <jschaefer@mindspring.com>,
+    "Judy Johnson"
+    <sgwharton@cyberpopmail.com>,
+    "Judy"
+    <jfnnbptavegjzmhqok@fr.maus.de>,
+    "Jonell Baggett"
+    <fairs@polbox.com>, <john6518e28@hotmail.com>, <john@kerryseye.com>,
+    "John O'Connell"
+    <John.OConnell@may.ie>,
+    "John Lynch"
+    <mentrim@eircom.net>,
+    "John Dilly"
+    <SEPT31932@aol.com>,
+    "John Deely"
+    <j-deely@hoffman.cc.sophia.ac.jp>,
+    "Joe Weiss"
+    <joe.weiss@gmx.at>,
+    "Joe Humphries, Irish Times"
+    <jhumphries@irish-times.ie>,
+    "Joe & Maureen Guilfoyle"
+    <destiny@eircom.net>,
+    "Jessica"
+    <saucyjessica2000@yahoo.com>,
+    "Jessica"
+    <naughty_jess60691@yahoo.com>,
+    "jenny o halloran"
+    <princess4537@hotmail.com>,
+    "Jenny"
+    <jenny69@usa.net>,
+    "Jennifer Nic an Bhaird"
+    <jennifer.m.ward@may.ie>,
+    "jenks"
+    <zli31ma@usa.net>,
+    "Javier Carrera"
+    <ashegui@nexo.es>, <JasmineJones@msn.com>, <jamie002@arabia.com>,
+    <jamescarragher2@eircom.net>, <jagrad2@aol.com>,
+    <jacquettas@altavista.com>,
+    "Jack O'Brien"
+    <kjob1@mediaone.net>, <j0811t23@singmail.com>, <J.OBrien@itcilo.it>,
+    "Ivor Ferris"
+    <gaelach@iol.ie>, <itwill7@hotmail.com>,
+    "Irish Haemophilia Society"
+    <haemophiliasocitey@eircom.net>,
+    "Irish Haemophilia Society"
+    <haemophiliasociety@eircom.net>,
+    "Irina Malenko"
+    <irina.malenko@the-gem.com>,
+    "Irina Malenko"
+    <pravda@utvinternet.com>, <info@destressu.com>,
+    "Info Staff"
+    <kalil@klyvold.net>,
+    "Info Center"
+    <cannes211@freemail.hu>, <Imagesoft03@extra.hu>, <ilwbfiwevbs@yahoo.com>,
+    <abqewvbgf@iinet.net.au>, <aa1133777@yahoo.com>,
+    <a_crothers@looksmart.com.au>, <89ok7yumhjn@msn.com>,
+    <12unidiploma@msn.com>, <0gbvll2jf@solvo.spb.su>, <09886w@ams.com.br>,
+    <0815@activate.de>, <01bb91b2.7e887960@genesys.pt>, <00luke@upline.se>,
+    <0024@simba.nu>,
+    "=?iso-8859-1?B?sAw=?="
+    <dis200@indigo.ie>
+Subject: =?iso-8859-1?Q?Fw:_CD_Nua_do_dhamhsa=ED_Ch=E9il=ED?=
+Date: Tue, 21 May 2002 16:08:40 +0100
+MIME-Version: 1.0
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2919.6600
+Disposition-Notification-To: "rathcairn" <rathcairn@eircom.net>
+X-Mimeole: Produced By Microsoft MimeOLE V5.00.2919.6600
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_00AF_01C200E1.C5BDFF40"
+X-ExmhMDN: ignored

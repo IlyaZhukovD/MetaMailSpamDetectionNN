@@ -1,0 +1,53 @@
+From fork-admin@xent.com  Wed Sep 18 11:52:29 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 5CDB816F03
+	for <jm@localhost>; Wed, 18 Sep 2002 11:52:28 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 18 Sep 2002 11:52:28 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g8I7UpC19432 for <jm@jmason.org>;
+    Wed, 18 Sep 2002 08:30:54 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id CFB012940CB; Wed, 18 Sep 2002 00:27:05 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from relay.pair.com (relay1.pair.com [209.68.1.20]) by xent.com
+    (Postfix) with SMTP id 1207F29409F for <fork@xent.com>; Wed,
+    18 Sep 2002 00:26:08 -0700 (PDT)
+Received: (qmail 17500 invoked from network); 18 Sep 2002 07:29:22 -0000
+Received: from adsl-66-124-227-84.dsl.snfc21.pacbell.net (HELO golden)
+    (66.124.227.84) by relay1.pair.com with SMTP; 18 Sep 2002 07:29:22 -0000
+X-Pair-Authenticated: 66.124.227.84
+Message-Id: <008201c25ee5$1285de40$640a000a@golden>
+From: "Gordon Mohr" <gojomo@usa.net>
+To: <fork@example.com>
+References: <20020917172627.A1DBDC44D@argote.ch>
+Subject: Defending Unliked Speech Re: Hanson's Sept 11 message in the
+    National Review
+MIME-Version: 1.0
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Wed, 18 Sep 2002 00:29:01 -0700
+X-Spam-Status: No, hits=-3.3 required=7.0
+	tests=EMAIL_ATTRIBUTION,KNOWN_MAILING_LIST,QUOTED_EMAIL_TEXT,
+	      REFERENCES
+	version=2.50-cvs
+X-Spam-Level:

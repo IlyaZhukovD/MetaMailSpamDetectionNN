@@ -1,0 +1,14 @@
+Return-Path: <Online#3.19699.f7-cwsBl8-Kok0ajsRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6B95SJ17858
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 11 Jul 2002 10:05:28 +0100
+Received: from abv-sfo1-ac-agent1 (206.16.0.223) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 02:06:12 -0700 (envelope-from <Online#3.19699.f7-cwsBl8-Kok0ajsRR.1.b@newsletter.online.com>)
+Message-ID: <6359883.1026378322268.JavaMail.root@abv-sfo1-ac-agent1>
+Date: Thu, 11 Jul 2002 02:05:18 -0700 (PDT)
+From: ZDNet Delivers <Online#3.19699.f7-cwsBl8-Kok0ajsRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Shop smarter with ZDNet's price-feature analysis
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=2063203.1026378321083.JavaMail.root.abv-sfo1-ac-agent1
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

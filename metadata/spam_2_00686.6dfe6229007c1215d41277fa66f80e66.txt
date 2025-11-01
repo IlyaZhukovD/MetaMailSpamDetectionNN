@@ -1,0 +1,19 @@
+From foundmoney@consumerpackage.net  Mon Jun 24 17:49:43 2002
+Return-Path: foundmoney-3444431.13@consumerpackage.net
+Delivery-Date: Mon Jun 10 22:36:33 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g5ALaWG32229 for
+    <jm@jmason.org>; Mon, 10 Jun 2002 22:36:32 +0100
+Received: from consumerpackage.com (csum1.consumerpackage.com
+    [64.57.212.10]) by mandark.labs.netnoteinc.com (8.11.6/8.11.2) with SMTP
+    id g5ALaRm32252 for <jm@netnoteinc.com>; Mon, 10 Jun 2002 22:36:31 +0100
+Message-Id: <200206102136.g5ALaRm32252@mandark.labs.netnoteinc.com>
+Date: 10 Jun 2002 21:40:20 -0000
+X-Sender: consumerpackage.net
+X-Mailid: 3444431.13
+Complain-To: abuse@consumerpackage.com
+To: yyyy@netnoteinc.com
+From: FoundMoney <foundmoney@consumerpackage.net>
+Subject: yyyy, claim the money you never knew you had
+X-Keywords: 
+Content-Type: text/html;

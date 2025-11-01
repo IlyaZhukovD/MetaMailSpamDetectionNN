@@ -1,0 +1,16 @@
+From djohnson@allexecs.com  Mon Jun 24 17:48:33 2002
+Return-Path: djohnson@allexecs.com
+Delivery-Date: Thu Jun  6 06:18:43 2002
+Received: from allexecs.com ([211.167.174.226]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g565Ie516597 for <jm-cv@jmason.org>;
+    Thu, 6 Jun 2002 06:18:42 +0100
+Received: from allexecs.com (mail [127.0.0.1]) by allexecs.com
+    (8.12.2/8.12.2) with SMTP id g565IZ5g031953 for <jm-cv@jmason.org>;
+    Thu, 6 Jun 2002 13:18:35 +0800
+Message-Id: <200206060518.g565IZ5g031953@allexecs.com>
+Date: Thu, 06 Jun 2002 13:18:35 +0800
+From: Daniel Johnson <djohnson@allexecs.com>
+Subject: Found your resume . . . . .
+To: yyyy-cv@spamassassin.taint.org
+X-Cidl: 5625291J
+X-Keywords:

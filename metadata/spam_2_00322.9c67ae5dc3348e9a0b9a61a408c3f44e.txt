@@ -1,0 +1,20 @@
+From jhzyi@ece.concordia.ca  Mon Jun 24 17:03:51 2002
+Return-Path: jhzyi@ece.concordia.ca
+Delivery-Date: Wed May 15 10:01:10 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4F919e26178 for
+    <jm@jmason.org>; Wed, 15 May 2002 10:01:09 +0100
+Received: from [66.78.55.2] ([66.78.55.2]) by mandark.labs.netnoteinc.com
+    (8.11.2/8.11.2) with ESMTP id g4F916D24336 for <jm@netnoteinc.com>;
+    Wed, 15 May 2002 10:01:07 +0100
+Received: from francenet.fr (unverified [217.59.8.25]) by (Vircom SMTPRS
+    4.0.179) with ESMTP id <B0000426157@>; Wed, 15 May 2002 04:30:16 -0700
+Message-Id: <B0000426157@>
+To: <Undisclosed.Recipients@mandark.labs.netnoteinc.com>
+From: "Joe" <jhzyi@ece.concordia.ca>
+Subject: Keep Your Home Safe
+Date: Wed, 15 May 2002 01:39:21 -1900
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

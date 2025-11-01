@@ -1,0 +1,18 @@
+Received: from timhunt.net (ns1.timhunt.net [216.27.147.130])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6Q6r1430476
+	for <tim_timhunt_net@spamtraps.taint.org>; Fri, 26 Jul 2002 07:53:02 +0100
+Received: from minardi.isc.org (minardi.isc.org [204.152.189.14])
+	by timhunt.net (8.11.3/8.11.1) with ESMTP id g6Q6qGE47635
+	for <ibarra@fsg.com>; Fri, 26 Jul 2002 02:52:17 -0400 (EDT)
+	(envelope-from firewalls-bounce@isc.org)
+Received: from rc.isc.org (rc.isc.org [204.152.187.2])
+	by minardi.isc.org (Postfix) with ESMTP
+	id 2FA153D7C; Thu, 25 Jul 2002 23:51:42 -0700 (PDT)
+	(envelope-from firewalls-bounce@isc.org)
+Received: with ECARTIS (v1.0.0; list firewalls); Thu, 25 Jul 2002 23:51:00 -0700 (PDT)
+Date: Thu, 25 Jul 2002 23:51:00 -0700 (PDT)
+From: ISC Mailing List Manager <ecartis@isc.org>
+To: firewalls digest users <ecartis@isc.org>
+Subject: firewalls Digest V1 #33
+Precedence: bulk
+Message-Id: <20020726065142.2FA153D7C@minardi.isc.org>

@@ -1,0 +1,18 @@
+Return-Path: <Online#3.20169.fa-3pmilTNAYqM0ZdRR.1.b@newsletter.online.com>
+Received: from webnote.net (mail.webnote.net [193.120.211.219])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6GCRQJ03839
+	for <qqqqqqqqqq-zdnet@example.com>; Tue, 16 Jul 2002 13:27:26 +0100
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id NAA12807
+	for <qqqqqqqqqq-zdnet@example.com>; Tue, 16 Jul 2002 13:27:24 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Tue, 16 Jul 2002 08:28:36 -0700 (envelope-from <Online#3.20169.fa-3pmilTNAYqM0ZdRR.1.b@newsletter.online.com>)
+Message-ID: <5774445.1026822386621.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Tue, 16 Jul 2002 05:26:26 -0700 (PDT)
+From: ZDNet Tech Update Today <Online#3.20169.fa-3pmilTNAYqM0ZdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Bridging the gap between Liberty and Microsoft (Tech Update)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

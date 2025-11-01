@@ -1,0 +1,23 @@
+From jzlin@art.alcatel.fr  Mon Jun 24 17:04:18 2002
+Return-Path: jzlin@art.alcatel.fr
+Delivery-Date: Thu May 16 08:22:25 2002
+Received: from anchor-post-31.mail.demon.net
+    (anchor-post-31.mail.demon.net [194.217.242.89]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g4G7MMe23427 for <jm-fm@jmason.org>;
+    Thu, 16 May 2002 08:22:25 +0100
+Received: from emphal.demon.co.uk ([212.229.150.169] helo=denise) by
+    anchor-post-31.mail.demon.net with esmtp (Exim 3.35 #1) id
+    178FNK-000Esh-0V; Thu, 16 May 2002 08:08:34 +0100
+Received: from 213.245.7.131 by denise ([212.229.150.169] running VPOP3)
+    with ESMTP; Thu, 16 May 2002 04:27:12 +0100
+Message-Id: <000053b9491a$00005f92$000016f9@mailgate.art-net.gr>
+To: <jzlin@art.alcatel.fr>
+From: "Customer Service" <jzlin@art.alcatel.fr>
+Subject: 18cent long distance conference calls
+Date: Wed, 15 May 2002 20:32:18 -1900
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express
+X-Server: VPOP3 V1.5.0a - Registered
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

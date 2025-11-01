@@ -1,0 +1,24 @@
+From doctda@msn.com  Wed Jul 31 15:49:25 2002
+Return-Path: <doctda@msn.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 744614407C
+	for <jm@localhost>; Wed, 31 Jul 2002 10:49:22 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 31 Jul 2002 15:49:22 +0100 (IST)
+Received: from msn.com ([211.156.182.45]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g6VEg6228844 for <webmaster@efi.ie>;
+    Wed, 31 Jul 2002 15:42:07 +0100
+Reply-To: <doctda@msn.com>
+Message-Id: <006a83e56e0c$5852c1e8$5bb85ae3@humcbb>
+From: <doctda@msn.com>
+To: <webmaster@efi.ie>
+Subject: The Government grants you $25,000!
+Date: Thu, 01 Aug 2002 05:27:35 +0900
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: MIME-tools 5.503 (Entity 5.501)
+Importance: Normal
+Content-Type: text/html; charset="iso-8859-1"

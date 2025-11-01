@@ -1,0 +1,12 @@
+Return-Path: <2.20445.33-5_gUgBqXK2vm.1.b@ummail4.unitedmedia.com>
+Received: from ummail1.unitedmedia.com (ummail1.unitedmedia.com [65.114.4.73])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6CAK3J23444
+	for <qqqqqqqqqq-dilbert@example.com>; Fri, 12 Jul 2002 11:20:03 +0100
+Received: from umsan1 (10.1.1.75) by ummail1.unitedmedia.com (PowerMTA(TM) v1.5); Fri, 12 Jul 2002 06:12:05 -0400 (envelope-from <2.20445.33-5_gUgBqXK2vm.1.b@ummail4.unitedmedia.com>)
+Message-ID: <20204620.1026469116374.JavaMail.root@umsan1>
+Date: Fri, 12 Jul 2002 06:18:36 -0400 (EDT)
+From: Daily Dilbert <2.20445.33-5_gUgBqXK2vm.1@ummail4.unitedmedia.com>
+To: qqqqqqqqqq-dilbert@example.com
+Subject: Your Daily Dilbert 07/12/2002
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=18376580.1026469116368.JavaMail.root.umsan1

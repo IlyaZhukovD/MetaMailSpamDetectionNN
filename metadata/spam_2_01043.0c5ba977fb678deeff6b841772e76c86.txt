@@ -1,0 +1,31 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6P8mxi5027401
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Thu, 25 Jul 2002 03:48:59 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6P8mwuj027396
+	for cypherpunks-forward@ds.pro-ns.net; Thu, 25 Jul 2002 03:48:58 -0500 (CDT)
+Received: from slack.lne.com (dns.lne.com [209.157.136.81] (may be forged))
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6P8mpi5027361
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Thu, 25 Jul 2002 03:48:56 -0500 (CDT)
+	(envelope-from cpunk@slack.lne.com)
+X-Authentication-Warning: hq.pro-ns.net: Host dns.lne.com [209.157.136.81] (may be forged) claimed to be slack.lne.com
+Received: (from cpunk@localhost)
+	by slack.lne.com (8.12.5/8.12.5) id g6P8mnxa029579
+	for cypherpunks@ds.pro-ns.net; Thu, 25 Jul 2002 01:48:49 -0700
+Received: from web.managegroup.com (w059.z064000118.buf-ny.dsl.cnc.net [64.0.118.59])
+	by slack.lne.com (8.12.5/8.12.5) with ESMTP id g6P8mivM029570;
+	Thu, 25 Jul 2002 01:48:46 -0700
+Received: from EEK1 (w058.z064000118.buf-ny.dsl.cnc.net [64.0.118.58])
+	by web.managegroup.com (8.9.3/8.9.3) with SMTP id EAA03868;
+	Thu, 25 Jul 2002 04:45:24 -0400
+From: spyware@infonet.com
+Message-Id: <200207250845.EAA03868@web.managegroup.com>
+To: 
+Subject: Watch your TEENS or the BabySitter....& GET RICH!
+Date: Wed, 24 Jul 2002 22:54:54 -0500
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-spam: 40

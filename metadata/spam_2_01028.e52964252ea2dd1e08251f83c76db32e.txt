@@ -1,0 +1,34 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6OMt3i5094918
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Wed, 24 Jul 2002 17:55:03 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6OMt3Qn094915
+	for cypherpunks-forward@ds.pro-ns.net; Wed, 24 Jul 2002 17:55:03 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6OMsri5094843
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Wed, 24 Jul 2002 17:54:54 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6OMsqJ52924
+	for <cypherpunks@ds.pro-ns.net>; Wed, 24 Jul 2002 18:54:52 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6OMspk30807
+	for cypherpunks@ds.pro-ns.net; Wed, 24 Jul 2002 18:54:51 -0400
+Received: from nipponforex.com ([208.251.70.14])
+	by waste.minder.net (8.11.6/8.11.6) with SMTP id g6OMsjR30780
+	for <cpunks@minder.net>; Wed, 24 Jul 2002 18:54:49 -0400
+Message-Id: <200207242254.g6OMsjR30780@waste.minder.net>
+Reply-To: mail@nipponforex.com
+From: support@nipponforex.com
+To: cpunks@minder.net
+Subject: Trading for a living (All you should know about FOREX)
+Sender: support@nipponforex.com
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Wed, 24 Jul 2002 15:54:49 -0700
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by hq.pro-ns.net id g6PDYPi4039431

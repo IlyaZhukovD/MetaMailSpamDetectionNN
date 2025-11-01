@@ -1,0 +1,17 @@
+From pink2218@grabmail.com  Wed Jul  4 16:46:05 2001
+Return-Path: <pink2218@grabmail.com>
+Delivered-To: yyyy@mail.netnoteinc.com
+Received: from cpic.com.cn (unknown [202.109.110.81]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 127281140BA for
+    <jm@mail.netnoteinc.com>; Wed,  4 Jul 2001 16:45:47 +0100 (IST)
+Received: from host [216.130.52.140] by cpic.com.cn with ESMTP
+    (SMTPD32-6.06 EVAL) id A782ABE01A0; Wed, 04 Jul 2001 23:34:26 +0800
+From: "Brad Fikler" <pink2218@grabmail.com>
+Subject: New  Accounts #2C6E
+To: bills39d@netnoteinc.com
+X-Mailer: Microsoft Outlook Express 4.72.1712.3
+X-Mimeole: Produced By Microsoft MimeOLE VÐßD.1712.3
+MIME-Version: 1.0
+Date: Wed, 04 Jul 2001 11:01:44 -0500
+Content-Transfer-Encoding: 7bit
+Message-Id: <200107042335421.SM01083@host>

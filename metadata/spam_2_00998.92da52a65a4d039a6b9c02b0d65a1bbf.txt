@@ -1,0 +1,39 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6OAqlhY004815
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Wed, 24 Jul 2002 05:52:48 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6OAqlSI004813
+	for cypherpunks-forward@ds.pro-ns.net; Wed, 24 Jul 2002 05:52:47 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6OAqihY004769
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Wed, 24 Jul 2002 05:52:45 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6OAqhJ82974
+	for <cypherpunks@ds.pro-ns.net>; Wed, 24 Jul 2002 06:52:43 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6OAqg604926
+	for cypherpunks@ds.pro-ns.net; Wed, 24 Jul 2002 06:52:42 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6OAqfR04908
+	for <cpunks@minder.net>; Wed, 24 Jul 2002 06:52:41 -0400
+Received: from jans1 ([211.167.68.103])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6OAqcJ82960
+	for <cpunks@minder.net>; Wed, 24 Jul 2002 06:52:40 -0400 (EDT)
+	(envelope-from 4everyoung@telekbird.com.cn)
+Received: from db1.telekbird.com.cn [216.65.22.61] by jans1
+  (SMTPD32-7.05) id AC713BC0026; Wed, 24 Jul 2002 09:01:37 +0800
+Reply-To: <4everyoung@telekbird.com.cn>
+From: "4everyoung@telekbird.com.cn" <4everyoung@telekbird.com.cn>
+To: "0703@exclusiveinternetoffer.com" <0703@exclusiveinternetoffer.com>
+Message-ID: <1027472385.0234242887@db1.telekbird.com.cn>
+Subject: Medical Break-Though In Cell Rejuvenation 
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 24 Jul 2002 18:53:12 +0800

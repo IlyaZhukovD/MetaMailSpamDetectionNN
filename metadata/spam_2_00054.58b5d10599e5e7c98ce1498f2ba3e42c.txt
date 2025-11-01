@@ -1,0 +1,16 @@
+From regnewext@hotmail.com  Sun Jul  1 16:24:10 2001
+Return-Path: <regnewext@hotmail.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from dogma.slashnull.org (dogma.slashnull.org [212.17.35.15]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id C0E2711436F for
+    <jm@netnoteinc.com>; Sun,  1 Jul 2001 16:24:09 +0100 (IST)
+Received: from hotmail.com (01-058.036.popsite.net [216.13.183.58]) by
+    dogma.slashnull.org (8.9.3/8.9.3) with SMTP id QAA02685 for
+    <postmaster@eire.com>; Sun, 1 Jul 2001 16:23:37 +0100
+Date: Sun, 1 Jul 2001 16:23:37 +0100
+Message-Id: <200107011523.QAA02685@dogma.slashnull.org>
+To: postmaster@eire.com
+From: "RegisterNewExtensions.net" <regnewext@hotmail.com>
+X-Mailer: 2A6CF5BB.3EE05325.75522a69fab3def6023cca3183eb3b1b
+Subject: .BIZ  .INFO domain extensions
+Organization:

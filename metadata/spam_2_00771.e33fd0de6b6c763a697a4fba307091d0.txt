@@ -1,0 +1,50 @@
+From spamassassin-sightings-admin@lists.sourceforge.net  Fri Jul 19 18:21:31 2002
+Return-Path: <spamassassin-sightings-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 56546440C9
+	for <jm@localhost>; Fri, 19 Jul 2002 13:21:31 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 18:21:31 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g6JHK4J18232 for <jm-sa-sightings@jmason.org>; Fri, 19 Jul 2002 18:20:04
+    +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17VbQB-0004pl-00; Fri,
+    19 Jul 2002 10:20:03 -0700
+Received: from consort.superb.net ([209.61.216.22] helo=f7.net) by
+    usw-sf-list1.sourceforge.net with esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17VbPG-0001Vp-00 for <spamassassin-sightings@lists.sourceforge.net>;
+    Fri, 19 Jul 2002 10:19:06 -0700
+Received: (from spamassassin@localhost) by f7.net (8.11.6/8.11.6) id
+    g6JHJ0b05323 for spamassassin-sightings@lists.sourceforge.net;
+    Fri, 19 Jul 2002 13:19:00 -0400
+Received: from edamame.c9m.tv (w077.z064003084.lax-ca.dsl.cnc.net
+    [64.3.84.77]) by f7.net (8.11.6/8.11.6) with ESMTP id g6JHIuA05312 for
+    <matthew.simonton@blade.net>; Fri, 19 Jul 2002 13:18:56 -0400
+Received: (from cham@localhost) by edamame.c9m.tv (8.11.6/8.8.7) id
+    g6JDg7M23763 for matthew.simonton@blade.net; Fri, 19 Jul 2002 09:42:07
+    -0400
+Message-Id: <200207191342.g6JDg7M23763@edamame.c9m.tv>
+To: matthew.simonton@blade.net
+From: "S. B. Woo" <sbwoo@80-20initiative.net>
+Subject: [SA] EM1- Aren't we accorded equal opportunity already?
+Sender: spamassassin-sightings-admin@example.sourceforge.net
+Errors-To: spamassassin-sightings-admin@example.sourceforge.net
+X-Beenthere: spamassassin-sightings@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-sightings-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-sightings@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-sightings>,
+    <mailto:spamassassin-sightings-request@lists.sourceforge.net?subject=subscribe>
+List-Id: <spamassassin-sightings.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-sightings>,
+    <mailto:spamassassin-sightings-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-sightings>
+X-Original-Date: Fri, 19 Jul 2002 09:42:07 -0400
+Date: Fri, 19 Jul 2002 09:42:07 -0400
+    AWL version=2.40

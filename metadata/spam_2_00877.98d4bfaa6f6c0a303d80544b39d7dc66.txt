@@ -1,0 +1,31 @@
+From dave2fg7@address.com  Mon Jul 22 18:39:27 2002
+Return-Path: <dave2fg7@address.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id C1C3A440CC
+	for <jm@localhost>; Mon, 22 Jul 2002 13:39:26 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 18:39:26 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFjLI09392 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 16:45:21 +0100
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    webnote.net (8.9.3/8.9.3) with ESMTP id FAA30270 for <jm@jmason.org>;
+    Mon, 22 Jul 2002 05:13:51 +0100
+From: dave2fg7@address.com
+Received: from comet.smec.cosimo.net (agntorng@66.148.222.154.nw.nuvox.net
+    [66.148.222.154]) by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with
+    ESMTP id g6M4Dnp08463 for <jm@netnoteinc.com>; Mon, 22 Jul 2002 05:13:49
+    +0100
+Received: from postoffice.address.com (66-152-0-186.ded.btitelecom.net
+    [66.152.0.186]) by comet.smec.cosimo.net (8.8.5/SCO5) with ESMTP id
+    XAA01471; Sun, 21 Jul 2002 23:53:46 -0500 (CDT)
+Message-Id: <000068b32271$00005164$0000230b@postoffice.address.com>
+To: <Undisclosed.Recipients@comet.smec.cosimo.net>
+Subject: Your application is below. Expires July 27.
+Date: Mon, 22 Jul 2002 00:05:30 -1600
+MIME-Version: 1.0
+Reply-To: dave2fg7@address.com
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

@@ -1,0 +1,28 @@
+From jude_schleiferman6485@Flashmail.com  Wed Jul  3 12:07:37 2002
+Return-Path: <jude_schleiferman6485@Flashmail.com>
+Delivered-To: yyyy@localhost.labs.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix on SuSE Linux 8.0 (i386)) with ESMTP id 5675714F8AC
+	for <jm@localhost>; Wed,  3 Jul 2002 12:04:41 +0100 (IST)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 03 Jul 2002 12:04:41 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g45I3cu18152 for
+    <jm@jmason.org>; Sun, 5 May 2002 19:03:42 +0100
+Received: from sbtelcom.sbtelcom.com ([211.42.155.3]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g45I3TD28611 for
+    <jm@netnoteinc.com>; Sun, 5 May 2002 19:03:31 +0100
+Received: from on2mailx7104.com ([213.82.13.36]) by sbtelcom.sbtelcom.com
+    with Microsoft SMTPSVC(5.0.2195.2966); Mon, 6 May 2002 03:04:06 +0900
+From: jude_schleiferman6485@Flashmail.com
+Date: Sun, 5 May 2002 14:03:12 -0400
+Subject: Make this investigator work for you.
+X-Mailer: Microsoft Outlook Express 6.00.2600.1000
+MIME-Version: 1.0
+X-Precedence-Ref: l234056789zxc
+Message-Id: <SBTELCOMU4oEXMcb59I00000508@sbtelcom.sbtelcom.com>
+X-Originalarrivaltime: 05 May 2002 18:04:07.0000 (UTC) FILETIME=[3FA60580:01C1F45F]
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+To: undisclosed-recipients:;

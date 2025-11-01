@@ -1,0 +1,20 @@
+From knb4menu@charter.net  Mon Jun 24 17:05:33 2002
+Return-Path: knb4menu@charter.net
+Delivery-Date: Tue May 21 08:57:09 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4L7v7e27969 for
+    <jm@jmason.org>; Tue, 21 May 2002 08:57:08 +0100
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4L7v5D24369 for
+    <jm@netnoteinc.com>; Tue, 21 May 2002 08:57:05 +0100
+Received: from 24.158.53.229 (24-158-53-229.charternc.net [24.158.53.229])
+    by smtp.easydns.com (Postfix) with SMTP id 9DAC82E3A0 for
+    <jm@netnoteinc.com>; Tue, 21 May 2002 03:56:53 -0400 (EDT)
+From: knb4menu@charter.net
+To: yyyy@netnoteinc.com
+Subject: HELLO $NAME
+Content-Type: text/plain; charset=ISO-8859-1
+Message-Id: <20020521075653.9DAC82E3A0@smtp.easydns.com>
+Date: Tue, 21 May 2002 03:56:53 -0400 (EDT)
+X-Keywords: 
+Content-Transfer-Encoding: 7bit

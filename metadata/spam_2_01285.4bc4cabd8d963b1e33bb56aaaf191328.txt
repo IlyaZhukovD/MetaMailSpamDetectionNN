@@ -1,0 +1,24 @@
+From programmers@yahoo.com  Tue Aug  6 12:54:55 2002
+Return-Path: <programmers@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 9141B441B8
+	for <jm@localhost>; Tue,  6 Aug 2002 07:30:31 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 12:30:31 +0100 (IST)
+Received: from MAIL-SRV.brio.de ([213.70.75.130]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g758F1v03164 for
+    <sales@spamassassin.taint.org>; Mon, 5 Aug 2002 09:15:03 +0100
+Received: from 213.67.19.63 ([213.67.19.63]) by MAIL-SRV.brio.de with
+    Microsoft SMTPSVC(5.0.2195.2966); Mon, 5 Aug 2002 10:11:29 +0200
+From: Delores Ambrosini <programmers@yahoo.com>
+To: <sales@twmmtpfl.com>
+Date: 05 Aug 02 08:27:51 -0000
+Subject: Custom Software Development Services Available Right Now..
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000.63452
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+MIME-Version: 1.0
+Message-Id: <MAIL-SRVB1FxQFM83UV00000650@MAIL-SRV.brio.de>
+X-Originalarrivaltime: 05 Aug 2002 08:11:31.0149 (UTC) FILETIME=[B4B6B7D0:01C23C57]
+Content-Type: multipart/alternative; boundary=NS_MAIL_Boundary_07132002

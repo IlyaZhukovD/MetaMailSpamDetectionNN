@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19810.0b-J216gBVtducSVdRR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6BIxuJ27418
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 11 Jul 2002 19:59:56 +0100
+Received: from abv-sfo1-ac-agent1 (206.16.0.223) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 15:01:56 -0700 (envelope-from <Online#3.19810.0b-J216gBVtducSVdRR.1.b@newsletter.online.com>)
+Message-ID: <6558536.1026413989989.JavaMail.root@abv-sfo1-ac-agent1>
+Date: Thu, 11 Jul 2002 11:59:49 -0700 (PDT)
+From: CNET Cool Gear <Online#3.19810.0b-J216gBVtducSVdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: CNET Cool Gear:  Leica's legendary charm
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19687.75-gWr1gbt2IZA1r9RR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6AKqSJ04124
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Wed, 10 Jul 2002 21:52:28 +0100
+Received: from abv-sfo1-ac-agent6 (206.16.0.241) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 10 Jul 2002 13:53:11 -0700 (envelope-from <Online#3.19687.75-gWr1gbt2IZA1r9RR.1.b@newsletter.online.com>)
+Message-ID: <1092651.1026334340869.JavaMail.root@abv-sfo1-ac-agent6>
+Date: Wed, 10 Jul 2002 13:52:20 -0700 (PDT)
+From: "CNET News.com Daily Dispatch" <Online#3.19687.75-gWr1gbt2IZA1r9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: CNET NEWS.COM: The tech side of homeland defense
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

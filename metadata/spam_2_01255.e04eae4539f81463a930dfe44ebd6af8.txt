@@ -1,0 +1,27 @@
+From hgh8822@polbox.com  Tue Aug  6 10:57:04 2002
+Return-Path: <hgh8822@polbox.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 5555F44116
+	for <jm@localhost>; Tue,  6 Aug 2002 05:53:34 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 10:53:34 +0100 (IST)
+Received: from 100t1.com.tw (m1.100t1.com.tw [211.72.146.157] (may be forged))
+	by webnote.net (8.9.3/8.9.3) with ESMTP id EAA07010
+	for <jm@netnoteinc.com>; Sat, 3 Aug 2002 04:24:18 +0100
+Received: from smtp0552.mail.yahoo.com ([61.146.52.106])
+	by 100t1.com.tw (8.9.3/8.9.3) with SMTP id LAA34266;
+	Sat, 3 Aug 2002 11:22:41 +0800 (CST)
+	(envelope-from hgh8822@polbox.com)
+Message-Id: <200208030322.LAA34266@100t1.com.tw>
+Date: Sat, 3 Aug 2002 11:21:56 +0800
+From: "Cindy Atamturk" <hgh8822@polbox.com>
+X-Priority: 3
+To: yyyy@netnoteinc.com
+Cc: patch@local.net, 72470.0574@compuserve.com,
+	73177.2364@compuserve.com, patm36@hotmail.com
+Subject: yyyy,Free 30 day supply of HGH- $49.95 value!
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii

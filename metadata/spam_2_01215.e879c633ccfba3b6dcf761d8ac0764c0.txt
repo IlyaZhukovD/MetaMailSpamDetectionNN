@@ -1,0 +1,31 @@
+From batonbrat6@hotmail.com  Wed Jul 31 10:58:51 2002
+Return-Path: <batonbrat6@hotmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4E626440C9
+	for <jm@localhost>; Wed, 31 Jul 2002 05:58:47 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 31 Jul 2002 10:58:47 +0100 (IST)
+Received: from server.nationschurch.org (www.nationschurch.org
+    [64.133.158.158]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g6V9v0214834 for <webmaster@efi.ie>; Wed, 31 Jul 2002 10:57:06 +0100
+Received: from 1-800-doctors.com ([64.133.158.158]) by
+    server.nationschurch.org with Microsoft SMTPSVC(5.0.2195.2966);
+    Wed, 31 Jul 2002 04:55:20 -0500
+Message-Id: <0000790f270f$00005cb9$00007202@139146139.com>
+To: <gypsyhawke@aol.com>, <alder@btinternet.com>,
+	<legrosen@hotmail.com>, <murrmade@juno.com>, <sspalmer@msn.com>,
+	<undernotch@hotmail.com>, <no-fat-chicks@priest.com>,
+	<jeff0359@aol.com>, <trippguy@aol.com>
+Cc: <frankti@domovina.net>, <legros1@msn.com>,
+	<soinineh@novachem.com>, <webmaster@efi.ie>, <rheafly@aol.com>,
+	<xxplosive316@aol.com>, <ross@halleck.com>, <legros@mailcity.com>,
+	<soiniika@senet.com.au>
+From: batonbrat6@hotmail.com
+Subject: PROTECT YOUR COMPUTER,YOU NEED SYSTEMWORKS2002! 18638
+Date: Wed, 31 Jul 2002 05:57:47 -1600
+MIME-Version: 1.0
+X-Originalarrivaltime: 31 Jul 2002 09:55:21.0139 (UTC) FILETIME=[62030030:01C23878]
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

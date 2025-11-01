@@ -1,0 +1,20 @@
+Return-Path: <bounce-lgmedia-2534370@sprocket.lockergnome.com>
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6C3JvJ00512
+	for <qqqqqqqqqq-lg@example.com>; Fri, 12 Jul 2002 04:19:57 +0100
+X-Mailer: ListManager Web Interface
+Date: Thu, 11 Jul 2002 19:51:07 -0500
+Subject: [Lockergnome Digital Media]  Alphabet Speakerphone
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Digital Media <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lgmedia-2534370N@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lgmedia@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lgmedia@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lgmedia-2534370N@sprocket.lockergnome.com
+Sender: bounce-lgmedia-2534370@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534370-1673098-2002.07.11-19.52.21--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Precedence: bulk

@@ -1,0 +1,26 @@
+From mojos@ccp.com  Mon Jun 24 17:08:46 2002
+Return-Path: mojos@ccp.com
+Delivery-Date: Fri May 31 03:31:08 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4V2V3O12444 for
+    <jm@jmason.org>; Fri, 31 May 2002 03:31:07 +0100
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4V2V1710480 for
+    <jm@netnoteinc.com>; Fri, 31 May 2002 03:31:01 +0100
+Received: from testserver.m-five.co.kr ([211.218.214.91]) by webnote.net
+    (8.9.3/8.9.3) with SMTP id DAA10126 for <jm@netnoteinc.com>;
+    Fri, 31 May 2002 03:30:58 +0100
+Received: from smtp0421.mail.yahoo.com (unverified [218.24.129.137]) by
+    testserver.m-five.co.kr (EMWAC SMTPRS 0.83) with SMTP id
+    <B0000187339@testserver.m-five.co.kr>; Fri, 31 May 2002 11:20:33 +0900
+Message-Id: <B0000187339@testserver.m-five.co.kr>
+Date: Fri, 31 May 2002 10:33:55 +0800
+From: "Bertram Dumas"<mojos@ccp.com>
+X-Priority: 3
+To: yyyy@netnoteinc.com
+Cc: yyyy@netters.is, yyyy@nineplanets.net, yyyy@nons.de, yyyy@omni-comm.com
+Subject: yyyy,FREE 4 Week Sample of HGH !
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit

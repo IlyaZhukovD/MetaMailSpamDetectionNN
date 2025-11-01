@@ -1,0 +1,46 @@
+From fork-admin@xent.com  Wed Aug  7 04:33:41 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 201FC440CD
+	for <jm@localhost>; Tue,  6 Aug 2002 23:33:37 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 07 Aug 2002 04:33:37 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g773TUk07889 for <jm@jmason.org>;
+    Wed, 7 Aug 2002 04:29:37 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 848AE294099; Tue,  6 Aug 2002 20:26:04 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from mailface.roving.com (mailface.roving.com [63.251.135.75])
+    by xent.com (Postfix) with ESMTP id 707C8294098 for <fork@xent.com>;
+    Tue,  6 Aug 2002 20:25:55 -0700 (PDT)
+Received: from tracking2 (tracking2.roving.com [10.20.40.142]) by
+    mailface.roving.com (Postfix) with ESMTP id AB18E3409A for <fork@xent.com>;
+    Tue,  6 Aug 2002 23:24:00 -0400 (EDT)
+Message-Id: <1245954529.1028690797672.JavaMail.wasadmin@tracking2>
+From: PHIL SWANN <swann@TVPredictions.com>
+Reply-To: swann@TVPredictions.com
+To: fork@spamassassin.taint.org
+Subject: Special Report! TiVo: Now or Never?
+MIME-Version: 1.0
+X-Roving-Queued: 20020806 23:26.37657
+X-Mailer: Roving Constant Contact 5.0.Patch146.P121_Trellix_07_26_02
+    (http://www.constantcontact.com)
+X-Roving-Id: 1011005088243
+X-Return-Path-Hint: ESC1011005088243_1011005006660@in.roving.com
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue,  6 Aug 2002 23:24:00 -0400 (EDT)
+Content-Type: multipart/alternative; boundary="----=_Part_1210763_-1358544416.1028690797657"

@@ -1,0 +1,12 @@
+Return-Path: <2.20576.84-RV8hl0UTyzYK.1.b@ummail4.unitedmedia.com>
+Received: from ummail1.unitedmedia.com (ummail1.unitedmedia.com [65.114.4.73])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6DBoDJ24340
+	for <qqqqqqqqqq-dilbert@example.com>; Sat, 13 Jul 2002 12:50:13 +0100
+Received: from umsan1 (10.1.1.75) by ummail1.unitedmedia.com (PowerMTA(TM) v1.5); Sat, 13 Jul 2002 07:42:12 -0400 (envelope-from <2.20576.84-RV8hl0UTyzYK.1.b@ummail4.unitedmedia.com>)
+Message-ID: <4796221.1026560924959.JavaMail.root@umsan1>
+Date: Sat, 13 Jul 2002 07:48:44 -0400 (EDT)
+From: "Comics.com" <2.20576.84-RV8hl0UTyzYK.1@ummail4.unitedmedia.com>
+To: qqqqqqqqqq-dilbert@example.com
+Subject: Your Daily Jump Start
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary=6700390.1026560924954.JavaMail.root.umsan1

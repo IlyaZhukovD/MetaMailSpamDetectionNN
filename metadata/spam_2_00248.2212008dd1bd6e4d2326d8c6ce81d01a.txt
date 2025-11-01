@@ -1,0 +1,23 @@
+From cristopher@hotmail.com  Wed Jul  3 12:35:31 2002
+Return-Path: <cristopher@hotmail.com>
+Delivered-To: yyyy@localhost.labs.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix on SuSE Linux 8.0 (i386)) with ESMTP id CE33A14F913
+	for <jm@localhost>; Wed,  3 Jul 2002 12:32:43 +0100 (IST)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 03 Jul 2002 12:32:43 +0100 (IST)
+Received: from servermail.foursolution.com ([216.244.134.217]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g47BVM202697 for
+    <webmaster@efi.ie>; Tue, 7 May 2002 12:31:22 +0100
+Received: from . (1cb.com [65.64.168.10]) by servermail.foursolution.com
+    with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+    id KHMQ1ZKR; Tue, 7 May 2002 06:30:50 -0500
+Message-Id: <000058a846fd$000016c9$00004af2@.>
+To: <eo@dogma.slashnull.org>
+From: cristopher@hotmail.com
+Subject: eBay, How To Secure Your Financial Future And Increase Your Income                     23827
+Date: Tue, 07 May 2002 07:34:50 -1600
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit

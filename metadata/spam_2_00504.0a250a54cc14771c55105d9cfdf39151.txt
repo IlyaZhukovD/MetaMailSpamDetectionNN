@@ -1,0 +1,24 @@
+From JobGal@Adsini.com  Mon Jun 24 17:08:03 2002
+Return-Path: JobGal@Adsini.com
+Delivery-Date: Wed May 29 12:20:44 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4TBKhO01159 for
+    <jm@jmason.org>; Wed, 29 May 2002 12:20:43 +0100
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4TBKf702395 for
+    <jm@netnoteinc.com>; Wed, 29 May 2002 12:20:42 +0100
+Received: from mail1 (leg-63-169-229-86-nyc.sprinthome.com
+    [63.169.229.86]) by webnote.net (8.9.3/8.9.3) with ESMTP id MAA06688 for
+    <jm@netnoteinc.com>; Wed, 29 May 2002 12:20:39 +0100
+Received: from mail pickup service by mail1 with Microsoft SMTPSVC;
+    Wed, 29 May 2002 07:19:36 -0400
+From: "JobGalleries.com" <JobGal@Adsini.com>
+To: <yyyy@mailgate.earthlink.net>
+Subject: More than 100,000 U.S. Jobs Available
+Date: Wed, 29 May 2002 07:19:36 -0400
+MIME-Version: 1.0
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Message-Id: <MAIL1zgYLowspDKicUb000000cf@mail1>
+X-Originalarrivaltime: 29 May 2002 11:19:36.0811 (UTC) FILETIME=[B76713B0:01C20702]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0108_01C206E1.3013D6D0"

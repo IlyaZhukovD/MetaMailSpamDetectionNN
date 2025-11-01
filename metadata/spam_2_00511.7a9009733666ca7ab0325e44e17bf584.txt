@@ -1,0 +1,24 @@
+From hgh8728@polbox.com  Mon Jun 24 17:08:15 2002
+Return-Path: hgh8728@polbox.com
+Delivery-Date: Wed May 29 23:48:14 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4TMmCO29175 for
+    <jm@jmason.org>; Wed, 29 May 2002 23:48:12 +0100
+Received: from mail.bridgestonetj.com ([202.99.123.135]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4TMm9704848 for
+    <jm@netnoteinc.com>; Wed, 29 May 2002 23:48:10 +0100
+Message-Id: <200205292248.g4TMm9704848@mandark.labs.netnoteinc.com>
+Received: from smtp0221.mail.yahoo.com (smtp.saatchi.com.hk
+    [202.66.93.228]) by mail.bridgestonetj.com with SMTP (Microsoft Exchange
+    Internet Mail Service Version 5.5.2653.13) id L7ATQHNH; Thu,
+    30 May 2002 06:03:19 +0800
+Date: Thu, 30 May 2002 05:50:46 +0800
+From: "Geraldine Chea"<hgh8728@polbox.com>
+X-Priority: 3
+To: yyyy@netnoteinc.com
+Cc: yyyy@netters.is, yyyy@nineplanets.net, yyyy@nons.de, yyyy@omni-comm.com
+Subject: yyyy,Help 4 Health Newsletter
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit

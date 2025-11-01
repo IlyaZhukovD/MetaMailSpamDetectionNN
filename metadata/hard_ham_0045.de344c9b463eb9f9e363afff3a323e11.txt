@@ -1,0 +1,19 @@
+Return-Path: <bounce-lgweb-2534373@sprocket.lockergnome.com>
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6CJ0fJ25750
+	for <qqqqqqqqqq-lg@example.com>; Fri, 12 Jul 2002 20:00:41 +0100
+X-Mailer: ListManager Web Interface
+Date: Fri, 12 Jul 2002 11:39:07 -0500
+Subject: [Lockergnome Webmaster Weekly]  Compatible Whistles
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Webmaster Weekly <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lgweb-2534373J@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lgweb@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lgweb@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lgweb-2534373J@sprocket.lockergnome.com
+Sender: bounce-lgweb-2534373@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534373-1674170-2002.07.12-11.41.03--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii

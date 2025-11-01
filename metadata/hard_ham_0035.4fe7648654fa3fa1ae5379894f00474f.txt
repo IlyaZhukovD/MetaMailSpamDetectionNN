@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19846.2a-726zgP3UI7kTO9RR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6BNM8J12116
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 12 Jul 2002 00:22:08 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 16:24:20 -0700 (envelope-from <Online#3.19846.2a-726zgP3UI7kTO9RR.1.b@newsletter.online.com>)
+Message-ID: <5645232.1026429716737.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Thu, 11 Jul 2002 16:21:56 -0700 (PDT)
+From: "CNET News.com Investor" <Online#3.19846.2a-726zgP3UI7kTO9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: NEWS.COM INVESTOR: Battered stocks regain ground
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

@@ -1,0 +1,47 @@
+Return-Path: bounce-lgtech-2484775@sprocket.lockergnome.com
+Delivery-Date: Mon Aug 19 15:23:56 2002
+Return-Path: <bounce-lgtech-2484775@sprocket.lockergnome.com>
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mothlight.dyndns.org (8.11.6/8.11.6) with ESMTP id g7JJNts09985
+	for <nice@localhost>; Mon, 19 Aug 2002 15:23:56 -0400
+Received: from fastmail.fm [209.61.183.86]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for nice@localhost (single-drop); Mon, 19 Aug 2002 15:23:56 -0400 (EDT)
+Received: from www.fastmail.fm (server1.internal [10.202.2.132])
+	by server2.fastmail.fm (Cyrus v2.1.5) with LMTP; Mon, 19 Aug 2002 13:44:51 -0500
+X-Sieve: CMU Sieve 2.2
+Received: from www.fastmail.fm (server1.internal [10.202.2.132])
+	by www.fastmail.fm (Cyrus v2.1.3) with LMTP; Mon, 19 Aug 2002 13:44:52 -0500
+Received: from www.fastmail.fm (localhost [127.0.0.1])
+	by localhost.localdomain (Postfix) with ESMTP id B02D56D9D2
+	for <mothlight@fastmail.fm>; Mon, 19 Aug 2002 13:44:50 -0500 (CDT)
+X-Mail-from: bounce-lgtech-2484775@sprocket.lockergnome.com
+X-Delivered-to: <mothlight@fastmail.fm>
+X-Spam-score: 18.9
+X-Spam: high
+X-Spam-hits: X_LIST_HOST, MSGID_CHARS_SPAM, DOUBLE_CAPSWORD, PORN_11, CLICK_BELOW,
+  MAILTO_WITH_SUBJ, SUPERLONG_LINE, BIG_FONT, TRACKER_ID, PORN_3,
+  CTYPE_JUST_HTML
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by www.fastmail.fm (Postfix) with SMTP id E3A966DACE
+	for <mothlight@fastmail.fm>; Mon, 19 Aug 2002 13:44:22 -0500 (CDT)
+X-Mailer: ListManager Web Interface
+Date: Mon, 19 Aug 2002 10:40:34 -0500
+Subject: [Lockergnome Tech Specialist]  Transportation Rage
+To: mothlight@fastmail.fm
+From: Lockergnome Tech Specialist <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lgtech-2484775G@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lgtech@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lgtech@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lgtech-2484775G@sprocket.lockergnome.com
+Sender: bounce-lgtech-2484775@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2484775-1729840-2002.08.19-10.42.07--mothlight#fastmail.fm@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Precedence: bulk
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 14

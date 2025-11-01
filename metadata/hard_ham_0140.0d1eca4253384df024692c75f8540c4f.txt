@@ -1,0 +1,46 @@
+Return-Path: <michaelr@lindows.com>
+Received: from sunu422.rz.ruhr-uni-bochum.de (sunu422.rz.ruhr-uni-bochum.de [134.147.64.14])
+	by yoda.bph.ruhr-uni-bochum.de (8.8.8/8.8.8) with SMTP id CAA21355
+	for <Xxx@bph.ruhr-uni-bochum.de>; Wed, 3 Jul 2002 02:52:47 +0200
+Received: (qmail 14504 invoked by alias); 3 Jul 2002 00:52:42 -0000
+Received: (qmail 14497 invoked by uid 82); 3 Jul 2002 00:52:42 -0000
+Received: from michaelr@lindows.com by mailhost with qmail-scanner-1.00 (uvscan: v4.1.40/v4209. . Clean. Processed in 0.499368 secs); 03 Jul 2002 00:52:42 -0000
+Received: from sunu450.rz.ruhr-uni-bochum.de (134.147.32.69)
+  by mi-1.rz.ruhr-uni-bochum.de with SMTP; 3 Jul 2002 00:52:41 -0000
+Received: (qmail 15089 invoked by alias); 3 Jul 2002 00:52:41 -0000
+Received: (qmail 15080 invoked from network); 3 Jul 2002 00:52:40 -0000
+Received: from mx10.web.de (217.72.192.169)
+  by sunu450.rz.ruhr-uni-bochum.de with SMTP; 3 Jul 2002 00:52:40 -0000
+Received: from [130.94.123.208] (helo=lists.lindows.com)
+	by mx10.web.de with esmtp (WEB.DE(Exim) 4.70 #5)
+	id 17PYNo-0004r2-00
+	for Xxxxxxxxx.Yyyyyyy@web.de; Wed, 03 Jul 2002 02:52:36 +0200
+Received: (qmail 21676 invoked by uid 99); 3 Jul 2002 00:42:28 -0000
+To: Xxxxxxxxx.Yyyyyyy@web.de
+Date: Tue, 2 Jul 2002 16:54:22 -0800
+From: "Michael Robertson" <michaelr@lindows.com>
+Subject: Lindows.com: Michael's Minute: Do the Math...Dispel the Myths
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_LINDOWS_6a72a16a171d3ceefdc7477961871f6d"
+Message-Id: <E17PYNo-0004r2-00@mx10.web.de>
+X-Spam-Status: Yes, hits=7.9 required=5.0 tests=CLICK_BELOW,SEE_FOR_YOURSELF,CLICK_HERE_LINK,BIG_FONT,ASCII_FORM_ENTRY version=2.20
+X-Spam-Flag: YES
+X-Spam-Tag: type signature trigger Spamassassin action complain issuer mailhost.rz.ruhr-uni-bochum.de
+X-Spam-Level: *******
+X-Spam-Checker-Version: SpamAssassin 2.20 (devel $Id: SpamAssassin.pm,v 1.77 2002/04/06 19:28:30 hughescr Exp $)
+X-Spam-Report: Detailed Report
+SPAM: -------------------- Start SpamAssassin results ----------------------
+  SPAM: This mail is probably spam.  The original message has been altered
+  SPAM: so you can recognise or block similar unwanted mail in future.
+  SPAM: See http://spamassassin.org/tag/ for more details.
+  SPAM: 
+  SPAM: Content analysis details:   (7.9 hits, 5 required)
+  SPAM: Hit! (1.5 points)  BODY: Asks you to click below
+  SPAM: Hit! (2.5 points)  BODY: See for yourself
+  SPAM: Hit! (1.8 points)  BODY: Tells you to click on a URL
+  SPAM: Hit! (2.1 points)  BODY: FONT Size +2 and up or 3 and up
+  SPAM: Hit! (0.0 points)  BODY: Contains an ASCII-formatted form
+  SPAM: 
+  SPAM: -------------------- End of SpamAssassin results ---------------------
+X-Mozilla-Status2: 00000000

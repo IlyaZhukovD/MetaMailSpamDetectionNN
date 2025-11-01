@@ -1,0 +1,72 @@
+From spamassassin-devel-admin@lists.sourceforge.net  Thu Aug 29 11:05:37 2002
+Return-Path: <spamassassin-devel-admin@example.sourceforge.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 0FE664416C
+	for <jm@localhost>; Thu, 29 Aug 2002 06:04:38 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 29 Aug 2002 11:04:38 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7SIw0Z06358 for <jm@jmason.org>; Wed, 28 Aug 2002 19:58:01 +0100
+Received: from usw-sf-list1-b.sourceforge.net ([10.3.1.13]
+    helo=usw-sf-list1.sourceforge.net) by usw-sf-list2.sourceforge.net with
+    esmtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17k7z3-00009a-00; Wed,
+    28 Aug 2002 11:56:05 -0700
+Received: from dsl092-072-213.bos1.dsl.speakeasy.net ([66.92.72.213]
+    helo=blazing.arsecandle.org) by usw-sf-list1.sourceforge.net with esmtp
+    (Cipher TLSv1:DES-CBC3-SHA:168) (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17k7yt-0006FT-00 for <SpamAssassin-devel@lists.sourceforge.net>;
+    Wed, 28 Aug 2002 11:55:56 -0700
+Received: (qmail 478 invoked from network); 28 Aug 2002 18:53:06 -0000
+Received: from localhost (HELO RAGING) (rod@127.0.0.1) by localhost with
+    SMTP; 28 Aug 2002 18:53:06 -0000
+Message-Id: <008c01c24ec4$83eab9b0$b554a8c0@RAGING>
+From: "rODbegbie" <rOD@arsecandle.org>
+To: <SpamAssassin-devel@example.sourceforge.net>,
+	"Justin Mason" <jm@jmason.org>
+References: <20020828184218.399CE43F99@phobos.labs.netnoteinc.com>
+Subject: Re: [SAdev] 2.40: ready for release? *NO*
+Organization: Arsecandle Industries, Inc.
+X-Habeas-Swe-1: winter into spring
+X-Habeas-Swe-2: brightly anticipated
+X-Habeas-Swe-3: like Habeas SWE (tm)
+X-Habeas-Swe-4: Copyright 2002 Habeas (tm)
+X-Habeas-Swe-5: Sender Warranted Email (SWE) (tm). The sender of this
+X-Habeas-Swe-6: email in exchange for a license for this Habeas
+X-Habeas-Swe-7: warrant mark warrants that this is a Habeas Compliant
+X-Habeas-Swe-8: Message (HCM) and not spam. Please report use of this
+X-Habeas-Swe-9: mark in spam to <http://www.habeas.com/report>.
+MIME-Version: 1.0
+Content-Type: multipart/signed;
+    boundary="----=_NextPart_000_0088_01C24EA2.FC21D7A0";
+    micalg=SHA1;
+    protocol="application/x-pkcs7-signature"
+X-Priority: 1
+X-Msmail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2800.1050
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2800.1050
+Sender: spamassassin-devel-admin@example.sourceforge.net
+Errors-To: spamassassin-devel-admin@example.sourceforge.net
+X-Beenthere: spamassassin-devel@example.sourceforge.net
+X-Mailman-Version: 2.0.9-sf.net
+Precedence: bulk
+List-Help: <mailto:spamassassin-devel-request@example.sourceforge.net?subject=help>
+List-Post: <mailto:spamassassin-devel@example.sourceforge.net>
+List-Subscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-devel>,
+    <mailto:spamassassin-devel-request@lists.sourceforge.net?subject=subscribe>
+List-Id: SpamAssassin Developers <spamassassin-devel.example.sourceforge.net>
+List-Unsubscribe: <https://example.sourceforge.net/lists/listinfo/spamassassin-devel>,
+    <mailto:spamassassin-devel-request@lists.sourceforge.net?subject=unsubscribe>
+List-Archive: <http://www.geocrawler.com/redir-sf.php3?list=spamassassin-devel>
+X-Original-Date: Wed, 28 Aug 2002 14:55:43 -0400
+Date: Wed, 28 Aug 2002 14:55:43 -0400
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-27.3 required=7.0
+	tests=FORGED_RCVD_TRAIL,HABEAS_SWE,KNOWN_MAILING_LIST,
+	      MULTIPART_SIGNED,NOSPAM_INC,QUOTED_EMAIL_TEXT,REFERENCES,
+	      SPAM_PHRASE_02_03,USER_AGENT_OE,X_MSMAIL_PRIORITY_HIGH,
+	      X_PRIORITY_HIGH
+	version=2.40-cvs
+X-Spam-Level:

@@ -1,0 +1,27 @@
+From lowprices861@Flashmail.com  Sat Jul 20 01:37:16 2002
+Return-Path: <lowprices861@Flashmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 74D66440C8
+	for <jm@localhost>; Fri, 19 Jul 2002 20:37:15 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Sat, 20 Jul 2002 01:37:15 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6K0YSJ24551 for
+    <jm@jmason.org>; Sat, 20 Jul 2002 01:34:28 +0100
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6K0YQp02275 for
+    <jm@netnoteinc.com>; Sat, 20 Jul 2002 01:34:27 +0100
+Received: from honor.net ([204.0.40.5]) by webnote.net (8.9.3/8.9.3) with
+    ESMTP id BAA21982 for <jm@netnoteinc.com>; Sat, 20 Jul 2002 01:34:25 +0100
+From: lowprices861@Flashmail.com
+Received: from asa [217.37.87.41] by honor.net with ESMTP (SMTPD32-7.11
+    EVAL) id A4AB1E013C; Tue, 16 Jul 2002 13:23:39 -0500
+Message-Id: <00000aaf4351$0000562f$0000462e@asa>
+To: <$@webnote.net>
+Subject: ~~ 80 to 95% BELOW WHOLESALE              28534
+Date: Tue, 16 Jul 2002 13:35:48 -1900
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

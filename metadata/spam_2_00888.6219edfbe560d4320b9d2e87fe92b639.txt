@@ -1,0 +1,27 @@
+From mrhealth@btamail.net.cn  Mon Jul 22 21:41:39 2002
+Return-Path: <mrhealth@btamail.net.cn>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 560FE440CC
+	for <jm@localhost>; Mon, 22 Jul 2002 16:41:36 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 21:41:36 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MKgc427192 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 21:42:38 +0100
+Received: from server2.zayedacademy.ac.ae ([213.42.186.67]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6MKfnp11259 for
+    <jm@netnoteinc.com>; Mon, 22 Jul 2002 21:41:51 +0100
+Message-Id: <200207222041.g6MKfnp11259@mandark.labs.netnoteinc.com>
+Received: from smtp0000.mail.yahoo.com (IROUTE [4.42.141.17]) by
+    server2.zayedacademy.ac.ae with SMTP (Microsoft Exchange Internet Mail
+    Service Version 5.5.2650.21) id PMWCFKBW; Mon, 22 Jul 2002 22:22:55 +0400
+Date: Mon, 22 Jul 2002 11:25:59 -0700
+From: "Maurice Escamilla" <mrhealth@btamail.net.cn>
+X-Priority: 3
+To: adsurf@hotmail.com
+Subject: The database that Bill Gates doesnt want you to know about!!!!!
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii

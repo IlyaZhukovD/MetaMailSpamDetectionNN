@@ -1,0 +1,33 @@
+From jm@jmason.org  Fri Sep 20 13:03:34 2002
+Return-Path: <yyyy@example.com>
+Delivered-To: yyyy@example.com
+Received: by example.com (Postfix, from userid 500)
+	id 6CA7916F03; Fri, 20 Sep 2002 13:03:34 +0100 (IST)
+Received: from example.com (localhost [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP
+	id 69CACF7B1; Fri, 20 Sep 2002 13:03:34 +0100 (IST)
+To: "Michael Moncur" <mgm@starlingtech.com>
+Cc: "Justin Mason" <yyyy@example.com>,
+	"Daniel Quinlan" <quinlan@pathname.com>,
+	SpamAssassin-devel@lists.sourceforge.net
+Subject: Re: [SAdev] phew! 
+In-Reply-To: Message from "Michael Moncur" <mgm@starlingtech.com> 
+   of "Thu, 19 Sep 2002 21:42:52 MDT." <NEBBKLEDELIODOCJHLPCGEOHNCAA.mgm@starlingtech.com> 
+From: yyyy@example.com (Justin Mason)
+X-GPG-Key-Fingerprint: 0A48 2D8B 0B52 A87D 0E8A  6ADD 4137 1B50 6E58 EF0A
+X-Habeas-Swe-1: winter into spring
+X-Habeas-Swe-2: brightly anticipated
+X-Habeas-Swe-3: like Habeas SWE (tm)
+X-Habeas-Swe-4: Copyright 2002 Habeas (tm)
+X-Habeas-Swe-5: Sender Warranted Email (SWE) (tm). The sender of this
+X-Habeas-Swe-6: email in exchange for a license for this Habeas
+X-Habeas-Swe-7: warrant mark warrants that this is a Habeas Compliant
+X-Habeas-Swe-8: Message (HCM) and not spam.  Please report use of this
+X-Habeas-Swe-9: mark in spam to <http://www.habeas.com/report/>.
+Date: Fri, 20 Sep 2002 13:03:29 +0100
+Sender: yyyy@example.com
+Message-Id: <20020920120334.6CA7916F03@example.com>
+X-Spam-Status: No, hits=-6.1 required=5.0
+	tests=AWL,HABEAS_SWE,IN_REP_TO,QUOTED_EMAIL_TEXT
+	version=2.50-cvs
+X-Spam-Level:

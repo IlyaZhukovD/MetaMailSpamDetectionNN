@@ -1,0 +1,60 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MCknhY009175
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Mon, 22 Jul 2002 07:46:50 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6MCknhk009172
+	for cypherpunks-forward@ds.pro-ns.net; Mon, 22 Jul 2002 07:46:49 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MCkfhY009115
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 07:46:42 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6MCkeJ33575
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 08:46:40 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6MCke623297
+	for cypherpunks@ds.pro-ns.net; Mon, 22 Jul 2002 08:46:40 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6MCkcR23273
+	for <cpunks@minder.net>; Mon, 22 Jul 2002 08:46:38 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6MCkbJ33560
+	for <cpunks@minder.net>; Mon, 22 Jul 2002 08:46:37 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id HAA06560
+	for cpunks@minder.net; Mon, 22 Jul 2002 07:54:40 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id HAA06505
+	for cypherpunks-outgoing; Mon, 22 Jul 2002 07:53:02 -0500
+Received: from s1082.mb00.net (s1082.mb00.net [207.33.16.82])
+	by einstein.ssz.com (8.8.8/8.8.8) with ESMTP id HAA06498
+	for <cypherpunks@einstein.ssz.com>; Mon, 22 Jul 2002 07:52:56 -0500
+Received: (from pmguser@localhost)
+	by s1082.mb00.net (8.8.8pmg/8.8.5) id EAA83411
+	for :include:/usr/home/pmguser/pmgs/users/ebargains/delivery/1024851440.18684/rblk.9619; Mon, 22 Jul 2002 04:59:44 -0700 (PDT)
+Message-Id: <200207221159.EAA83411@s1082.mb00.net>
+From: Ebargains <ebargains@reply.mb00.net>
+To: cypherpunks@einstein.ssz.com
+X-Info: Message sent by MindShare Design customer with ID "ebargains"
+X-Info: Report abuse to list owner at ebargains@complaints.mb00.net
+X-PMG-Userid: ebargains
+X-PMG-Msgid: 1024851440.18684
+X-PMG-Recipient: cypherpunks@einstein.ssz.com
+Old-Subject: CDR: Get McAfee VirusScan for just $19.95! 60% Off!
+Date: Mon, 22 Jul 2002 07:46:01 EDT
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Subject: Get McAfee VirusScan for just $19.95! 60% Off!

@@ -1,0 +1,21 @@
+From sondageexpress3@ifrance.com  Mon Jun 24 17:47:06 2002
+Return-Path: sondageexpress3@ifrance.com
+Delivery-Date: Wed Apr 24 20:36:09 2002
+Received: from smtp4.9tel.net (smtp.9tel.net [213.203.124.147]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g3OJa9606593 for
+    <jm@jmason.org>; Wed, 24 Apr 2002 20:36:09 +0100
+Received: from ifrance.com (40.105-30-212.9massy1-1-ro-as-i2-2.9tel.net
+    [212.30.105.40]) by smtp4.9tel.net (Postfix) with ESMTP id 844F25CA1E;
+    Wed, 24 Apr 2002 21:34:44 +0200 (CEST)
+Message-Id: <847720024324193611984@ifrance.com>
+X-Em-Version: 5, 0, 0, 21
+X-Em-Registration: #01B0530810E603002D00
+X-Priority: 3
+Reply-To: sondageexpress3@ifrance.com
+To: "-" <sondageexpress3@ifrance.com>
+From: "SondageExpress" <sondageexpress3@ifrance.com>
+Subject: Le dernier sondage avant les élections presidentielles 2002 !
+Date: Wed, 24 Apr 2002 21:36:11 +0200
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_84815C5ABAF209EF376268C8"

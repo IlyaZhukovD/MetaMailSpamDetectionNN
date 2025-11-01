@@ -1,0 +1,43 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6N0CEhY085084
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Mon, 22 Jul 2002 19:12:14 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6N0CDCV085081
+	for cypherpunks-forward@ds.pro-ns.net; Mon, 22 Jul 2002 19:12:13 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6N0C7hX085024
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 19:12:07 -0500 (CDT)
+	(envelope-from cpunks@ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id TAA24418
+	for cypherpunks@ds.pro-ns.net; Mon, 22 Jul 2002 19:20:34 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id TAA24336
+	for cypherpunks-outgoing; Mon, 22 Jul 2002 19:19:08 -0500
+Received: from 198.64.154.101-generic ([198.64.154.101])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id TAA24130
+	for <cypherpunks@einstein.ssz.com>; Mon, 22 Jul 2002 19:17:43 -0500
+Message-Id: <200207230017.TAA24130@einstein.ssz.com>
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html
+MIME-Version: 1.0
+Date: Tue, 23 Jul 2002 00:09:12 UT
+X-X: H4F%N9&]M25821"Y9UVCC+5TC=M8PD@(I0((`VC<O71&&D.=+G4ME@@``
+Subject: Friend, Get this Cell Phone for Free!
+X-List-Unsubscribe: <unsub-7552100-335@mm53.com>
+From: "Only the Best" <OnlyTheBest_______r-7552100-335@mm53.com>
+X-Stormpost-To: cypherpunks@einstein.ssz.com 7552100 335
+To: "Friend" <cypherpunks@einstein.ssz.com>
+X-Mailer: StormPost 1.0
+Sender: owner-cypherpunks@ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish

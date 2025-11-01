@@ -1,0 +1,50 @@
+From fork-admin@xent.com  Thu Sep 19 11:04:56 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 44D5C16F03
+	for <jm@localhost>; Thu, 19 Sep 2002 11:04:55 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 19 Sep 2002 11:04:55 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g8IIcfC11476 for <jm@jmason.org>;
+    Wed, 18 Sep 2002 19:38:41 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 76BD12940AC; Wed, 18 Sep 2002 11:35:06 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from hall.mail.mindspring.net (hall.mail.mindspring.net
+    [207.69.200.60]) by xent.com (Postfix) with ESMTP id F364929409E for
+    <fork@xent.com>; Wed, 18 Sep 2002 11:34:49 -0700 (PDT)
+Received: from user-119ac86.biz.mindspring.com ([66.149.49.6]) by
+    hall.mail.mindspring.net with esmtp (Exim 3.33 #1) id 17rjiB-0006LF-00;
+    Wed, 18 Sep 2002 14:38:07 -0400
+MIME-Version: 1.0
+X-Sender: rahettinga@pop.earthlink.net
+Message-Id: <p05111a91b9ae65ce6208@[66.149.49.6]>
+In-Reply-To: <m2ptvbl0w7.fsf@maya.dyndns.org>
+References: <20020918104740.5A00BC44D@argote.ch>
+    <200209181145.50631.eh@mad.scientist.com> <m2ptvbl0w7.fsf@maya.dyndns.org>
+To: fork@example.com
+From: "R. A. Hettinga" <rah@shipwright.com>
+Subject: Re: [VoID] a new low on the personals tip...
+Cc: Digital Bearer Settlement List <dbs@philodox.com>
+Content-Type: text/plain; charset="us-ascii"
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Wed, 18 Sep 2002 14:13:32 -0400
+X-Spam-Status: No, hits=-5.1 required=7.0
+	tests=AWL,IN_REP_TO,KNOWN_MAILING_LIST,PGP_SIGNATURE,REFERENCES,
+	      SIGNATURE_SHORT_DENSE
+	version=2.50-cvs
+X-Spam-Level:

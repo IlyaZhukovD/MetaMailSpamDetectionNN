@@ -1,0 +1,23 @@
+From honey9531@btamail.net.cn  Mon Jun 24 17:06:43 2002
+Return-Path: honey9531@btamail.net.cn
+Delivery-Date: Mon May 27 01:35:03 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4R0Yve18251 for
+    <jm@jmason.org>; Mon, 27 May 2002 01:35:02 +0100
+Received: from klic2001.co.kr ([61.85.119.90]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4R0Yo722427 for
+    <jm@netnoteinc.com>; Mon, 27 May 2002 01:34:55 +0100
+Received: from smtp0421.mail.yahoo.com
+    (adsl-66-140-155-129.dsl.hstntx.swbell.net [66.140.155.129]) by
+    klic2001.co.kr (8.9.3/8.9.3) with SMTP id JAA03494; Mon, 27 May 2002
+    09:36:53 +0900 (KST)
+Message-Id: <200205270036.JAA03494@klic2001.co.kr>
+Date: Sun, 26 May 2002 17:44:36 -0700
+From: "Sean Brooks"<honey9531@btamail.net.cn>
+X-Priority: 3
+To: yyyy@netnoteinc.com
+Subject: Easy as 123 - Accept Credit Cards...
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit

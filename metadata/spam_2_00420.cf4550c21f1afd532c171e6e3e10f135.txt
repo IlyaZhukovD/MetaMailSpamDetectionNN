@@ -1,0 +1,18 @@
+From cgarnett@airfrance.fr  Mon Jun 24 17:05:51 2002
+Return-Path: cgarnett@airfrance.fr
+Delivery-Date: Wed May 22 15:39:51 2002
+Received: from cosmos.com.cn ([202.100.88.34]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g4MEdme11537; Wed, 22 May 2002 15:39:48
+    +0100
+Received: from ageless.co.za [62.156.180.246] by cosmos.com.cn with ESMTP
+    (SMTPD32-7.10 EVAL) id A8783B301DE; Wed, 22 May 2002 10:54:48 +0800
+Message-Id: <0000032f0d80$00003b6d$00007f01@smtp1.lerelaisinternet.com>
+To: <cgarnett@airfrance.fr>
+From: "E-Business News" <cgarnett@airfrance.fr>
+Subject: Government Guarantees Your Success
+Date: Tue, 21 May 2002 20:02:31 -1900
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

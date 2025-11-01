@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20504.8b-aopnlJ_w_jjk69RR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6IMTTJ20933
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 18 Jul 2002 23:29:29 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 18:31:34 -0700 (envelope-from <Online#3.20504.8b-aopnlJ_w_jjk69RR.1.b@newsletter.online.com>)
+Message-ID: <2981374.1027031363189.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Thu, 18 Jul 2002 15:29:23 -0700 (PDT)
+From: "CNET News.com Investor" <Online#3.20504.8b-aopnlJ_w_jjk69RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: NEWS.COM INVESTOR: Techs lose again with Seibel earnings miss, AOL questions
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

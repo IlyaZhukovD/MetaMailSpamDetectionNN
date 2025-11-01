@@ -1,0 +1,32 @@
+From takinitezathome@yahoo.com  Mon Jul 22 18:35:38 2002
+Return-Path: <takinitezathome@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 260DB440C8
+	for <jm@localhost>; Mon, 22 Jul 2002 13:35:38 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 18:35:38 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFiwI09189 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 16:44:58 +0100
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    webnote.net (8.9.3/8.9.3) with ESMTP id HAA30541 for <jm@jmason.org>;
+    Mon, 22 Jul 2002 07:28:43 +0100
+Received: from inter.wpec.zgora.pl ([213.76.142.33]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6M6Sfp08537 for
+    <jm@netnoteinc.com>; Mon, 22 Jul 2002 07:28:41 +0100
+Received: from QRJATYDI
+    (CPE009027cf21c6-CM00803786a1ed.cpe.net.cable.rogers.com [24.231.12.88])
+    by inter.wpec.zgora.pl (8.9.3/8.9.3) with SMTP id IAA00644; Mon,
+    22 Jul 2002 08:15:41 +0200
+Message-Id: <200207220615.IAA00644@inter.wpec.zgora.pl>
+From: "Urgent Notice Distribution" <takinitezathome@yahoo.com>
+To: 
+Subject: Buy 1 get 2 FREE: Global Opportunity
+X-Priority: 1
+X-Msmail-Priority: High
+X-Mailer: Mail for AOL V. 2.3
+Date: Mon, 22 Jul 2002 0:4:52 +-0500
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-2"

@@ -1,0 +1,27 @@
+From nfg@insurancemail.net  Thu Aug  1 00:03:47 2002
+Return-Path: <nfg@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 66B1F440A8
+	for <jm@localhost>; Wed, 31 Jul 2002 19:03:45 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 01 Aug 2002 00:03:45 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g6VN4i212571 for <jm@jmason.org>; Thu, 1 Aug 2002 00:04:46
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Wed, 31 Jul 2002 19:04:22 -0400
+Subject: An Innovative Plan for Today's Market
+To: <yyyy@spamassassin.taint.org>
+Date: Wed, 31 Jul 2002 19:04:21 -0400
+From: "IQ - National Financial Group" <nfg@insurancemail.net>
+Message-Id: <1aca1801c238e6$9b3dfe40$6b01a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+MIME-Version: 1.0
+Thread-Index: AcI40fXs//E8U3RkSdOsOMs5OSsyGw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 31 Jul 2002 23:04:22.0000 (UTC) FILETIME=[9B5D1F00:01C238E6]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_18E22D_01C238B0.6EDF1B30"

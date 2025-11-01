@@ -1,0 +1,17 @@
+From WEBMASTER@J-MEDICAL.ORG  Mon Jun 24 17:04:44 2002
+Return-Path: mmailco@mail.com
+Delivery-Date: Sat May 18 09:34:19 2002
+Received: from mail.titanhosts.net (ns2.titanhosts.net [194.93.140.152])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4I8YJe13098 for
+    <WEBMASTER@JMASON.ORG>; Sat, 18 May 2002 09:34:19 +0100
+Message-Id: <200205180834.g4I8YJe13098@dogma.slashnull.org>
+Received: from ([80.40.36.69]) by mail.titanhosts.net (Merak 4.2.1) with
+    SMTP id AAB36750; Sat, 18 May 2002 09:33:05 +0100
+From: WEBMASTER@J-MEDICAL.ORG
+Reply-To: mmailco@mail.com
+To: WEBMASTER@J-MEDICAL.ORG
+Subject: Re: Account Information
+Date: Sat, 18 May 2002 01:27:10
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="DEFAULT"

@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19902.9e-vhsslwTcJGrvPdRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta5.cnet.com (abv-sfo1-acmta5.cnet.com [206.16.1.164])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6C8SpJ16448
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 12 Jul 2002 09:28:51 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by abv-sfo1-acmta5.cnet.com (PowerMTA(TM) v1.5); Fri, 12 Jul 2002 01:21:55 -0700 (envelope-from <Online#3.19902.9e-vhsslwTcJGrvPdRR.1.b@newsletter.online.com>)
+Message-ID: <294993.1026462515518.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Fri, 12 Jul 2002 01:28:35 -0700 (PDT)
+From: AnchorDesk <Online#3.19902.9e-vhsslwTcJGrvPdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: New Sony Vaio: When small becomes TOO small [ANCHORDESK]
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

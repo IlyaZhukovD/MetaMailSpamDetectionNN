@@ -1,0 +1,17 @@
+From Promotions@ebay.com  Mon Jun 24 17:48:45 2002
+Return-Path: Promotions@ebay.com
+Delivery-Date: Fri Jun  7 10:36:54 2002
+Received: from relay2.novani.com (relay2.novani.com [66.28.83.125]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g579as522063 for
+    <webmaster@efi.ie>; Fri, 7 Jun 2002 10:36:54 +0100
+Received: from ebay.com ([66.28.83.121]) by relay2.novani.com (Post.Office
+    MTA v3.5.3 release 223 ID# 0-0U10L2S100V35) with SMTP id com for
+    <webmaster@efi.ie>; Thu, 6 Jun 2002 16:34:04 -0700
+From: <Promotions@ebay.com>
+To: webmaster@efi.ie
+Subject: Our magazine promotion
+Date: Thu, 6 Jun 2002 16:38:06
+Message-Id: <726.516943.748779@ebay.com>
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="us-ascii"

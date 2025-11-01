@@ -1,0 +1,16 @@
+X-Status: 
+X-Keywords: 
+X-Persona: <Fallingrock>
+Return-Path: <hdtrade@dreamwiz.com>
+Delivered-To: fallingrock.net%david@fallingrock.net
+Received: (cpmta 10721 invoked from network); 16 Jul 2002 11:34:10 -0700
+Received: from 61.78.78.173 (HELO localhost)
+  by smtp.c001.snv.cp.net (209.228.32.110) with SMTP; 16 Jul 2002 11:34:10 -0700
+X-Received: 16 Jul 2002 18:34:10 GMT
+Reply-To: webmaster@hyundaitrade.biz
+Return-Path: webmaster@hyundaitrade.biz
+From: Paul smith<hdtrade@dreamwiz.com>
+To: david@fallingrock.net
+Subject: Personal Alcohol Detector 
+Date: Wed, 17 Jul 2002 03:38:59 +0900
+Mime-Version: 1.0

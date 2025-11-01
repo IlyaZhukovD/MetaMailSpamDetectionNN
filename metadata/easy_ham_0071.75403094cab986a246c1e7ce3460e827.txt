@@ -1,0 +1,48 @@
+From fork-admin@xent.com  Thu Aug 29 16:52:57 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7996B44155
+	for <zzzz@localhost>; Thu, 29 Aug 2002 11:52:54 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Thu, 29 Aug 2002 16:52:54 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g7TFklZ18708 for <zzzz@example.com>;
+    Thu, 29 Aug 2002 16:46:47 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id AA6122940DA; Thu, 29 Aug 2002 08:44:09 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from smtp1.auracom.net (smtp1.auracom.net [165.154.140.23]) by
+    xent.com (Postfix) with ESMTP id 1D5E12940DA for <FoRK@xent.com>;
+    Thu, 29 Aug 2002 08:43:15 -0700 (PDT)
+Received: from maya.dyndns.org (ts5-038.ptrb.interhop.net
+    [165.154.190.102]) by smtp1.auracom.net (8.11.2/8.11.2) with ESMTP id
+    g7TFIpD06133; Thu, 29 Aug 2002 11:18:51 -0400 (EDT)
+Received: by maya.dyndns.org (Postfix, from userid 501) id 72BCA1C38A;
+    Thu, 29 Aug 2002 11:19:27 -0400 (EDT)
+To: Eirikur Hallgrimsson <eh@mad.scientist.com>
+Cc: FoRK <FoRK@xent.com>
+Subject: Re: Internet saturation (but not in Iceland)
+References: <200208290358.03815.eh@mad.scientist.com>
+From: Gary Lawrence Murphy <garym@canada.com>
+X-Home-Page: http://www.teledyn.com
+Organization: TCI Business Innovation through Open Source Computing
+Message-Id: <m2znv5y9og.fsf@maya.dyndns.org>
+Reply-To: Gary Lawrence Murphy <garym@canada.com>
+X-Url: http://www.teledyn.com/
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: 29 Aug 2002 11:19:27 -0400

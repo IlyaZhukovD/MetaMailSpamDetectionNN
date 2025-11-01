@@ -1,0 +1,22 @@
+From internetoffers@7a6a.net  Mon Jun 24 17:49:16 2002
+Return-Path: internetoffers@7a6a.net
+Delivery-Date: Sun Jun  9 06:11:54 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g595BsG03786 for
+    <jm@jmason.org>; Sun, 9 Jun 2002 06:11:54 +0100
+Received: from mailer (ATHM-216-217-xxx-163.newedgenetworks.com
+    [216.217.85.163] (may be forged)) by mandark.labs.netnoteinc.com
+    (8.11.6/8.11.2) with ESMTP id g595Bpm26030 for <jm@netnoteinc.com>;
+    Sun, 9 Jun 2002 06:11:52 +0100
+Received: from Mailer ([216.217.85.158]) by mailer with Microsoft
+    SMTPSVC(5.0.2195.4905); Sun, 9 Jun 2002 01:16:26 -0400
+Date: Sun, 09 Jun 2002 01:16:30 Eastern Daylight Time
+From: Internet Offers <internetoffers@7a6a.net>
+To: yyyy@netnoteinc.com
+Subject: Get The BEST PRICE on Your Next CAR!
+X-Mailer: Flicks Softwares OCXMail 2.2f
+X-Messageno: 32000191827
+Message-Id: <MAILERyjjbfgizGkVIg0022d167@mailer>
+X-Originalarrivaltime: 09 Jun 2002 05:16:26.0703 (UTC) FILETIME=[CE07B5F0:01C20F74]
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"

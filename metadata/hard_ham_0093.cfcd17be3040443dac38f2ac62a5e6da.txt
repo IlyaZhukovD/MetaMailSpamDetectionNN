@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20339.ef-JR6Xl18mvFh519RR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6I3waJ24890
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 18 Jul 2002 04:58:36 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 21:00:58 -0700 (envelope-from <Online#3.20339.ef-JR6Xl18mvFh519RR.1.b@newsletter.online.com>)
+Message-ID: <7096841.1026964710300.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Wed, 17 Jul 2002 20:58:30 -0700 (PDT)
+From: "ZDNet Buyer's Alert" <Online#3.20339.ef-JR6Xl18mvFh519RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Sneak Peek: NEW HP Products
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

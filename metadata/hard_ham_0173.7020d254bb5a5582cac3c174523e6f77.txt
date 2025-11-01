@@ -1,0 +1,50 @@
+From owner-worldwidewords@LISTSERV.LINGUISTLIST.ORG  Mon Aug 19 10:48:54 2002
+Return-Path: <owner-worldwidewords@LISTSERV.LINGUISTLIST.ORG>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id F1ED543C3D
+	for <zzz@localhost>; Mon, 19 Aug 2002 05:45:47 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Mon, 19 Aug 2002 10:45:48 +0100 (IST)
+Received: from listserv.linguistlist.org (listserv.linguistlist.org [164.76.102.107])
+	by webnote.net (8.9.3/8.9.3) with SMTP id FAA16631
+	for <zzz@NETNOTEINC.COM>; Sat, 17 Aug 2002 05:03:50 +0100
+Received: (qmail 26141 invoked from network); 17 Aug 2002 04:01:39 -0000
+Received: from listserv.linguistlist.org (HELO listserv) (164.76.102.107)
+  by listserv.linguistlist.org with SMTP; 17 Aug 2002 04:01:39 -0000
+Received: from LISTSERV.LINGUISTLIST.ORG by LISTSERV.LINGUISTLIST.ORG
+          (LISTSERV-TCP/IP release 1.8d) with spool id 461868 for
+          WORLDWIDEWORDS@LISTSERV.LINGUISTLIST.ORG; Sat, 17 Aug 2002 00:00:56
+          -0400
+Approved-By: DoNotUse@WORLDWIDEWORDS.ORG
+Delivered-To: worldwidewords@listserv.linguistlist.org
+Received: (qmail 22757 invoked from network); 16 Aug 2002 14:56:33 -0000
+Received: from pc-62-30-72-22-az.blueyonder.co.uk (HELO dhcp-43-393)
+          (62.30.72.22) by listserv.linguistlist.org with SMTP; 16 Aug 2002
+          14:56:33 -0000
+Received: from prospero (prospero.tempest.lan [192.168.14.10]) by dhcp-43-393
+          (8.11.6/8.11.6) with ESMTP id g7GEuVa01789 for
+          <worldwidewords@listserv.linguistlist.org>; Fri, 16 Aug 2002 15:56:31
+          +0100
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1
+Priority: normal
+X-mailer: Pegasus Mail for Win32 (v3.12c)
+Message-ID:  <3D5D20AD.21407.187C751@localhost>
+Date:         Fri, 16 Aug 2002 15:56:29 +0100
+Reply-To: DoNotUse@WORLDWIDEWORDS.ORG
+Sender: World Wide Words <worldwidewords@LISTSERV.LINGUISTLIST.ORG>
+From: Michael Quinion <DoNotUse@WORLDWIDEWORDS.ORG>
+Organization: World Wide Words
+Subject:      World Wide Words -- 17 Aug 02
+To: WORLDWIDEWORDS@LISTSERV.LINGUISTLIST.ORG
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from Quoted-printable to 8bit by webnote.net id FAA16631
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-1.2 required=7.0
+	tests=APPROVED_BY,BALANCE_FOR_LONG,FORGED_RCVD_TRAIL,
+	      LINES_OF_YELLING,SPAM_PHRASE_00_01,SUBJECT_MONTH,
+	      SUBJECT_MONTH_2,T_NOSPAM_INC
+	version=2.40
+X-Spam-Level:

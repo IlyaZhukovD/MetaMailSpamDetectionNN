@@ -1,0 +1,10 @@
+Return-Path: guido@python.org
+Delivery-Date: Sat Sep  7 06:33:23 2002
+From: guido@python.org (Guido van Rossum)
+Date: Sat, 07 Sep 2002 01:33:23 -0400
+Subject: [Spambayes] Ditching WordInfo
+In-Reply-To: Your message of "Fri, 06 Sep 2002 22:17:28 PDT."
+             <w53n0qubcpj.fsf@woozle.org> 
+References: <LNBBLJKPBEHFEDALKOLCOEKKBCAB.tim.one@comcast.net>  
+            <w53n0qubcpj.fsf@woozle.org> 
+Message-ID: <200209070533.g875XN813509@pcp02138704pcs.reston01.va.comcast.net>

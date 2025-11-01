@@ -1,0 +1,38 @@
+From fork-admin@xent.com  Wed Jul 31 22:52:28 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 364A9440C9
+	for <jm@localhost>; Wed, 31 Jul 2002 17:52:26 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 31 Jul 2002 22:52:26 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6VLkL210445 for <jm@jmason.org>;
+    Wed, 31 Jul 2002 22:46:28 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 81D622940B3; Wed, 31 Jul 2002 14:43:07 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from comprosys.com (unknown [216.242.37.114]) by xent.com
+    (Postfix) with SMTP id D9E6929409A for <fork@xent.com>; Wed,
+    31 Jul 2002 14:42:54 -0700 (PDT)
+From: "Com-Pro Systems, Inc." <emarketing@comprosys.com>
+To: <fork@spamassassin.taint.org>
+Subject: Get Your Own Great-Looking Website
+MIME-Version: 1.0
+Reply-To: "Com-Pro Systems, Inc." <info@comprosys.com>
+Message-Id: <20020731214254.D9E6929409A@xent.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Wed, 31 Jul 2002 17:42:41 -0400
+Content-Type: multipart/alternative; boundary="=Multipart Boundary 0731021742"

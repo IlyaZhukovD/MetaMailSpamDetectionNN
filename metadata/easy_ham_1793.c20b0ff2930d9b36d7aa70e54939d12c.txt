@@ -1,0 +1,7 @@
+Return-Path: anthony@interlink.com.au
+Delivery-Date: Sat Sep  7 05:10:37 2002
+From: anthony@interlink.com.au (Anthony Baxter)
+Date: Sat, 07 Sep 2002 14:10:37 +1000
+Subject: [Spambayes] Maybe change X-Spam-Disposition to something else... 
+In-Reply-To: <15737.31513.555967.915801@12-248-11-90.client.attbi.com> 
+Message-ID: <200209070410.g874Ab620880@localhost.localdomain>

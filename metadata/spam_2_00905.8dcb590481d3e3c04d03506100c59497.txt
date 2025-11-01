@@ -1,0 +1,42 @@
+From fork-admin@xent.com  Thu Jul 25 11:10:22 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id A193E440DB
+	for <jm@localhost>; Thu, 25 Jul 2002 06:09:57 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 25 Jul 2002 11:09:57 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6P6PZ401845 for <jm@jmason.org>;
+    Thu, 25 Jul 2002 07:25:35 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 4D5CC294172; Wed, 24 Jul 2002 23:24:06 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from web1 (c104-14.bas1.prp.dublin.eircom.net [159.134.104.14])
+    by xent.com (Postfix) with ESMTP id CA269294171 for <fork@xent.com>;
+    Wed, 24 Jul 2002 23:22:51 -0700 (PDT)
+Received: from  ([159.134.104.47]) by web1 with Microsoft
+    SMTPSVC(5.0.2195.2966); Tue, 23 Jul 2002 00:42:08 +0100
+From: Cards In Advance <ads@cardsinadvance.com>
+To: fork@spamassassin.taint.org
+Subject: send REAL PAPER GREETING CARDS on-line!
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+Reply-To: ads@cardsinadvance.com
+MIME-Version: 1.0
+Message-Id: <WEB1ATiyhGvDpEDiOa7000028e1@web1>
+X-Originalarrivaltime: 22 Jul 2002 23:42:08.0512 (UTC) FILETIME=[6497A800:01C231D9]
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 23 Jul 2002 00:41:58 -0000
+Content-Type: text/html; charset=us-ascii

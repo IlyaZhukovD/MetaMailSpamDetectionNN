@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19690.d9-iS5vl-4yBSBWq9RR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6AN5mJ11564
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 11 Jul 2002 00:05:48 +0100
+Received: from abv-sfo1-ac-agent1 (206.16.0.223) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 10 Jul 2002 16:06:32 -0700 (envelope-from <Online#3.19690.d9-iS5vl-4yBSBWq9RR.1.b@newsletter.online.com>)
+Message-ID: <7715077.1026342342497.JavaMail.root@abv-sfo1-ac-agent1>
+Date: Wed, 10 Jul 2002 16:05:42 -0700 (PDT)
+From: ZDNet Announcements <Online#3.19690.d9-iS5vl-4yBSBWq9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Get the Perfect Mix of ZDNet's Best Stuff!
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

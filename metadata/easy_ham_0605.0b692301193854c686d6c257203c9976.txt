@@ -1,0 +1,45 @@
+From fork-admin@xent.com  Wed Sep 11 13:49:27 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id B5D9316F03
+	for <jm@localhost>; Wed, 11 Sep 2002 13:49:24 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 11 Sep 2002 13:49:24 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g8AJEbC13175 for <jm@jmason.org>;
+    Tue, 10 Sep 2002 20:15:14 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 1860F2940B8; Tue, 10 Sep 2002 12:11:04 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from ms4.lga2.nytimes.com (ms4.lga2.nytimes.com [64.15.247.148])
+    by xent.com (Postfix) with ESMTP id 50FC229409A for <fork@xent.com>;
+    Tue, 10 Sep 2002 12:10:23 -0700 (PDT)
+Received: from email4.lga2.nytimes.com (email4 [10.0.0.169]) by
+    ms4.lga2.nytimes.com (Postfix) with ESMTP id 60C775A4D4 for
+    <fork@xent.com>; Tue, 10 Sep 2002 15:17:17 -0400 (EDT)
+Received: by email4.lga2.nytimes.com (Postfix, from userid 202) id
+    56DC6C432; Tue, 10 Sep 2002 15:06:36 -0400 (EDT)
+Reply-To: khare@alumni.caltech.edu
+From: khare@alumni.caltech.edu
+To: fork@example.com
+Subject: NYTimes.com Article: Some Friends, Indeed, Do More Harm Than Good
+Message-Id: <20020910190636.56DC6C432@email4.lga2.nytimes.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Tue, 10 Sep 2002 15:06:36 -0400 (EDT)
+X-Spam-Status: No, hits=-0.2 required=7.0
+	tests=KNOWN_MAILING_LIST,NO_REAL_NAME,ORDER_NOW,SPAM_PHRASE_01_02
+	version=2.50-cvs
+X-Spam-Level:

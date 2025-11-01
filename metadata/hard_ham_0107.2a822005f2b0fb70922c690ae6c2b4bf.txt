@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20502.53-KAuEgBlRpyKZc9RR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6IMjBJ23065
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 18 Jul 2002 23:45:11 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 15:47:34 -0700 (envelope-from <Online#3.20502.53-KAuEgBlRpyKZc9RR.1.b@newsletter.online.com>)
+Message-ID: <7683538.1027032305751.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Thu, 18 Jul 2002 15:45:04 -0700 (PDT)
+From: CNET Auctions <Online#3.20502.53-KAuEgBlRpyKZc9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Olympus Brio D-100 1.3 MegaPixel Digital Camera: Starting Bid $99
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

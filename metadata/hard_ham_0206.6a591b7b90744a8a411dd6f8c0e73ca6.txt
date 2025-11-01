@@ -1,0 +1,24 @@
+Received: from rs6000.resqnet.com (rs6000.resqnet.com [64.209.23.67])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6NGGZ409086
+	for <resqnet_com@spamtraps.taint.org>; Tue, 23 Jul 2002 17:16:35 +0100
+Received: from mailhost3 (nelson.techtarget.com [65.214.43.159])
+	by rs6000.resqnet.com (8.11.2/8.11.2) with ESMTP id g6NGFS318144
+	for <zzzarotta@resqnet.com>; Tue, 23 Jul 2002 12:15:29 -0400
+Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
+	by mailhost3 (Postfix) with ESMTP
+	id A47D33DE5B0; Tue, 23 Jul 2002 12:00:38 -0400 (EDT)
+To: "SearchSecurity" <searchSecurity@lists.techtarget.com>
+From: "SearchSecurity" <searchSecurity-F485FCCE40B794D5@lists.techtarget.com>
+Reply-To: "SearchSecurity" <searchSecurity-F485FCCE40B794D5@lists.techtarget.com>
+Subject: Today's news: Serious PHP flaw found
+Mime-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: TargetMail E-Mail By TechTarget.com
+X-Content_id: 450897
+Message-Id: <20020723160038.A47D33DE5B0@mailhost3>
+Date: Tue, 23 Jul 2002 12:00:38 -0400 (EDT)
+X-MailScanner: Found to be clean
+X-MailScanner-SpamCheck: not spam, SpamAssassin (score=0.3, required 5,
+	FROM_HAS_MIXED_NUMS, TO_LOCALPART_EQ_REAL, CLICK_BELOW,
+	COPYRIGHT_CLAIMED)

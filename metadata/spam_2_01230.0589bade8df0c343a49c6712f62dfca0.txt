@@ -1,0 +1,27 @@
+From fp@insurancemail.net  Fri Aug  2 00:01:07 2002
+Return-Path: <fp@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 5FB78440F0
+	for <jm@localhost>; Thu,  1 Aug 2002 19:01:02 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 02 Aug 2002 00:01:02 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g71MwS232687 for <jm@jmason.org>; Thu, 1 Aug 2002 23:58:29
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Thu, 1 Aug 2002 18:58:07 -0400
+Subject: We are Slashing our Term Rates!
+To: <yyyy@spamassassin.taint.org>
+Date: Thu, 1 Aug 2002 18:58:07 -0400
+From: "IQ - First Penn" <fp@insurancemail.net>
+Message-Id: <1ee90601c239ae$e6b26960$6b01a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+MIME-Version: 1.0
+Thread-Index: AcI5mkalXlnGtz3VT+KsIvW8DHkegw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 01 Aug 2002 22:58:07.0937 (UTC) FILETIME=[E6D16310:01C239AE]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_1D01C9_01C23978.C008DBE0"

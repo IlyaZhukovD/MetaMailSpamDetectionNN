@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20076.0a-BsA8gPyVcnFq3sRR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6FLKMJ07932
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Mon, 15 Jul 2002 22:20:22 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Mon, 15 Jul 2002 14:22:42 -0700 (envelope-from <Online#3.20076.0a-BsA8gPyVcnFq3sRR.1.b@newsletter.online.com>)
+Message-ID: <5999074.1026768016086.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Mon, 15 Jul 2002 14:20:15 -0700 (PDT)
+From: CNET Shopper Components Edition <Online#3.20076.0a-BsA8gPyVcnFq3sRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Still hunting for the perfect RAM upgrade? (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

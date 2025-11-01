@@ -1,0 +1,19 @@
+From beginner@linux.org  Mon Jun 24 17:51:19 2002
+Return-Path: beginner@linux.org
+Delivery-Date: Sun Jun  2 04:03:42 2002
+Received: from linux.org ([210.204.162.254]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g5233XO09773 for <webmaster@efi.ie>;
+    Sun, 2 Jun 2002 04:03:35 +0100
+Reply-To: <beginner@linux.org>
+Message-Id: <021a20e01e4e$6483a1d7$3aa81bc0@uuhjqi>
+From: <beginner@linux.org>
+To: Administrator@dogma.slashnull.org
+Subject: (no subject)
+Date: Sun, 02 Jun 2002 03:02:30 -0000
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+Importance: Normal
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"

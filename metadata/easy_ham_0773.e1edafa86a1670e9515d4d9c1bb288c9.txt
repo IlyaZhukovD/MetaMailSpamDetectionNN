@@ -1,0 +1,53 @@
+From fork-admin@xent.com  Mon Sep 23 12:09:40 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 0C92116F03
+	for <jm@localhost>; Mon, 23 Sep 2002 12:09:37 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 23 Sep 2002 12:09:37 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g8N58vC01842 for <jm@jmason.org>;
+    Mon, 23 Sep 2002 06:08:58 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id E345F2940A6; Sun, 22 Sep 2002 22:05:07 -0700 (PDT)
+Delivered-To: fork@example.com
+Received: from smtp1.superb.net (smtp1.superb.net [207.228.225.14]) by
+    xent.com (Postfix) with SMTP id 22A5029409A for <fork@xent.com>;
+    Sun, 22 Sep 2002 22:04:18 -0700 (PDT)
+Received: (qmail 8494 invoked from network); 23 Sep 2002 05:07:58 -0000
+Received: from unknown (HELO maya.dyndns.org) (207.61.5.143) by
+    smtp1.superb.net with SMTP; 23 Sep 2002 05:07:58 -0000
+Received: by maya.dyndns.org (Postfix, from userid 501) id 4C8501C4E2;
+    Mon, 23 Sep 2002 01:07:53 -0400 (EDT)
+To: fork <fork@example.com>
+Subject: Goodbye Global Warming
+From: Gary Lawrence Murphy <garym@canada.com>
+X-Home-Page: http://www.teledyn.com
+Organization: TCI Business Innovation through Open Source Computing
+Message-Id: <m2vg4x47km.fsf@maya.dyndns.org>
+Reply-To: Gary Lawrence Murphy <garym@canada.com>
+X-Url: http://www.teledyn.com/
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@example.com
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@example.com>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: 23 Sep 2002 01:07:53 -0400
+X-Spam-Status: No, hits=-2.8 required=5.0
+	tests=AWL,KNOWN_MAILING_LIST,LINES_OF_YELLING,LINES_OF_YELLING_2,
+	      LINES_OF_YELLING_3,NOSPAM_INC,OPPORTUNITY,
+	      SIGNATURE_SHORT_DENSE,WEIRD_PORT
+	version=2.50-cvs
+X-Spam-Level:

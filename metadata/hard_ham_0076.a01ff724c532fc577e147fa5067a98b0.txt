@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20230.ac-q5A1l6tzmmPhUdRR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6H34BJ14074
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 17 Jul 2002 04:04:12 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by acmta4.cnet.com (PowerMTA(TM) v1.5); Tue, 16 Jul 2002 19:58:40 -0700 (envelope-from <Online#3.20230.ac-q5A1l6tzmmPhUdRR.1.b@newsletter.online.com>)
+Message-ID: <2047095.1026875040998.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Tue, 16 Jul 2002 20:04:00 -0700 (PDT)
+From: "CNET Download.com for Mac" <Online#3.20230.ac-q5A1l6tzmmPhUdRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: This week: Marine Aquarium, QuickTime, MoonDock
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

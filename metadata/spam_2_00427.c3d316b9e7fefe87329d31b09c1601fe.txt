@@ -1,0 +1,28 @@
+From Jessica_Parker@hotmail.com  Mon Jun 24 17:05:56 2002
+Return-Path: Jessica_Parker@hotmail.com
+Delivery-Date: Thu May 23 03:02:25 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4N22Oe14415 for
+    <jm@jmason.org>; Thu, 23 May 2002 03:02:24 +0100
+Received: from 211.250.66.3 ([211.250.66.3]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g4N22JD01439 for
+    <jm@netnoteinc.com>; Thu, 23 May 2002 03:02:21 +0100
+Message-Id: <200205230202.g4N22JD01439@mandark.labs.netnoteinc.com>
+Received: from [204.80.13.95] by asy100.as122.sol.superonline.com with
+    smtp; May, 22 2002 10:01:09 PM -0000
+Received: from 192.249.166.5 ([192.249.166.5]) by rly-xw05.mx.aol.com with
+    NNFMP; May, 22 2002 8:58:07 PM -0800
+Received: from unknown (6.61.10.17) by rly-xr02.mx.aol.com with NNFMP;
+    May, 22 2002 8:07:12 PM -0100
+Received: from 213.54.67.154 ([213.54.67.154]) by sparc.isl.net with esmtp;
+    May, 22 2002 6:57:04 PM -0800
+From: Jessica <Jessica_Parker@hotmail.com>
+To: yyyy@netnoteinc.com
+Cc: 
+Subject: Hey!
+Sender: Jessica <Jessica_Parker@hotmail.com>
+MIME-Version: 1.0
+Date: Wed, 22 May 2002 22:09:30 -0400
+X-Mailer: Microsoft Outlook Build 10.0.2616
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"

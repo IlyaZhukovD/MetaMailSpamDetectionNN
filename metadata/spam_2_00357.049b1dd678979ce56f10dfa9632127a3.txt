@@ -1,0 +1,15 @@
+From othema2002@hotmail.com  Mon Jun 24 17:04:45 2002
+Return-Path: othema2002@hotmail.com
+Delivery-Date: Sat May 18 15:20:33 2002
+Received: from iis.au-laplata.com.ar (ns1.au-laplata.com.ar
+    [63.82.41.211]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g4IEKWe23360 for <jm@jmason.org>; Sat, 18 May 2002 15:20:32 +0100
+Received: from 63.82.41.211 (localhost [127.0.0.1]) by
+    iis.au-laplata.com.ar (8.11.2/8.11.2) with SMTP id g4IEAfK10137;
+    Sat, 18 May 2002 11:10:43 -0300
+Date: Sat, 18 May 02 03:06:12 EST
+From: othema2002@hotmail.com
+To: Friend@public.com
+Subject: bank inheritance
+Message-Id: <>
+X-Keywords:

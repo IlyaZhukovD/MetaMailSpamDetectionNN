@@ -1,0 +1,22 @@
+From B.Collin@dt.co.kr  Mon Jun 24 17:06:47 2002
+Return-Path: B.Collin@dt.co.kr
+Delivery-Date: Mon May 27 11:11:58 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4RABve05825 for
+    <jm@jmason.org>; Mon, 27 May 2002 11:11:57 +0100
+Received: from ns.combiweb.co.kr ([211.42.180.4]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4RABs724304 for
+    <jm@netnoteinc.com>; Mon, 27 May 2002 11:11:55 +0100
+Received: from itcomp.dabrowa.pl (ALyon-201-1-1-189.abo.wanadoo.fr
+    [193.251.84.189]) by ns.combiweb.co.kr (8.11.0/8.11.0) with ESMTP id
+    g4R9gLX12229; Mon, 27 May 2002 18:42:21 +0900
+Message-Id: <0000765e4405$00001a98$00007410@mail.dsv.su.se>
+To: <B.Collin@dt.co.kr>
+From: "Telcom Services" <B.Collin@dt.co.kr>
+Subject: Minimize your phone expenses
+Date: Mon, 27 May 2002 02:45:44 -1900
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

@@ -1,0 +1,14 @@
+From bearike@sohu.com  Mon Jun 24 17:02:57 2002
+Return-Path: bearike@sohu.com
+Delivery-Date: Sat May 11 02:09:28 2002
+Received: from ike2 ([211.162.252.54]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g4B19Le30992 for <jm@jmason.org>;
+    Sat, 11 May 2002 02:09:26 +0100
+Message-Id: <200205110109.g4B19Le30992@dogma.slashnull.org>
+From: ike <bearike@sohu.com>
+Reply-To: bearike@sohu.com
+Subject: =?gb2312?q?=C6=FB=B3=B5=A1=A2=BD=BB=CD=A8=D0=D0=D2=B5MBA_?=
+Date: Sat, 11 May 2002 09:02:48 +0800
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: multipart/mixed; boundary="3daab575-64bd-11d6-b6fa-0050ba415022"

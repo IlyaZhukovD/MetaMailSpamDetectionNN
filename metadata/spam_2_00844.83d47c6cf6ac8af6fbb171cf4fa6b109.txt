@@ -1,0 +1,27 @@
+From fitnessheaven@optinllc.com  Mon Jul 22 17:56:46 2002
+Return-Path: <fitnessheaven@optinllc.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id A815A440C9
+	for <jm@localhost>; Mon, 22 Jul 2002 12:56:42 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 17:56:42 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFw5Y14362 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 16:58:05 +0100
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    webnote.net (8.9.3/8.9.3) with ESMTP id QAA00399 for <jm@jmason.org>;
+    Mon, 22 Jul 2002 16:47:53 +0100
+From: fitnessheaven@optinllc.com
+Received: from relay12 (host.optinllc.com [64.251.23.133]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6MFlSp09939 for
+    <jm@netnoteinc.com>; Mon, 22 Jul 2002 16:47:38 +0100
+Received: from html ([192.168.0.13]) by relay12 (8.11.6/8.11.6) with SMTP
+    id g6N3hSh21207 for <jm@netnoteinc.com>; Mon, 22 Jul 2002 23:43:29 -0400
+Message-Id: <200207230343.g6N3hSh21207@relay12>
+To: yyyy@netnoteinc.com
+Subject: You've Won! Confirmation Number 567842
+Date: Sun, 21 Jul 2002 23:46:05
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"

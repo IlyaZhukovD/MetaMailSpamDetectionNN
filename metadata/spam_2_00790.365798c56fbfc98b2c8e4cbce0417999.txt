@@ -1,0 +1,34 @@
+From social-admin@linux.ie  Sat Jul 20 03:08:07 2002
+Return-Path: <social-admin@linux.ie>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 64CB9440C8
+	for <jm@localhost>; Fri, 19 Jul 2002 22:08:07 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Sat, 20 Jul 2002 03:08:07 +0100 (IST)
+Received: from lugh.tuatha.org (root@lugh.tuatha.org [194.125.145.45]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6K27TJ00951 for
+    <jm+ilug-social@jmason.org>; Sat, 20 Jul 2002 03:07:29 +0100
+Received: from lugh (root@localhost [127.0.0.1]) by lugh.tuatha.org
+    (8.9.3/8.9.3) with ESMTP id DAA12080; Sat, 20 Jul 2002 03:06:30 +0100
+Received: from ziplip.com ([12.30.255.5]) by lugh.tuatha.org (8.9.3/8.9.3)
+    with SMTP id DAA12031; Sat, 20 Jul 2002 03:06:19 +0100
+From: freesixpence1883@yahoo.com
+X-Authentication-Warning: lugh.tuatha.org: Host [12.30.255.5] claimed to
+    be ziplip.com
+Date: Fri, 19 Jul 2002 22:30:47 -0500
+X-Mailer: X-Mailer: QUALCOMM Windows Eudora Pro Version 4.1
+To: social@linux.ie
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7BIT
+Reply-To: barterinfo@btamail.net.cn
+Message-Id: <i2s42n53it4o.e4751ra4227e1fmat@ziplip.com>
+Cc: airlied@linux.ie, cork@linux.ie, social@linux.ie
+Subject: [ILUG-Social] We want to trade with you
+Sender: social-admin@linux.ie
+Errors-To: social-admin@linux.ie
+X-Mailman-Version: 1.1
+Precedence: bulk
+List-Id: Irish Linux Users' Group social events <social.linux.ie>
+X-Beenthere: social@linux.ie

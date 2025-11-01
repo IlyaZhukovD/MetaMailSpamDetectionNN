@@ -1,0 +1,28 @@
+From YIPXyvihOBZh2@ibm.com  Tue Aug  6 21:24:48 2002
+Return-Path: <YIPXyvihOBZh2@ibm.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 8592A440C9
+	for <jm@localhost>; Tue,  6 Aug 2002 16:24:42 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 21:24:42 +0100 (IST)
+Received: from usw-sf-list1.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g76KOKk17636 for <jm@jmason.org>; Tue, 6 Aug 2002 21:24:20 +0100
+Received: from [210.64.199.199] (helo=shadow) by
+    usw-sf-list1.sourceforge.net with smtp (Exim 3.31-VA-mm2 #1 (Debian)) id
+    17cAqx-0007og-00 for <jmason@users.sourceforge.net>; Tue, 06 Aug 2002
+    13:22:52 -0700
+Received: from mail by mars.seed.net.tw with SMTP id
+    QtaykOEgWmseunWd4wJ6wKAtUTC; Wed, 07 Aug 2002 04:24:21 +0800
+Message-Id: <s5sfkibMoCAE@tcts.seed.net.tw>
+From: dimon@h8h.com.tw
+To: 5438@dogma.slashnull.org
+Subject: =?big5?Q?=A6n=C5=A5=A3x=AD=B5=BC=D6=B0e=B5=B9=A7A?=
+MIME-Version: 1.0
+X-Mailer: lWaRyuay7nXORnuBAMO828V
+X-Priority: 3
+X-Msmail-Priority: Normal
+Date: Tue, 06 Aug 2002 13:22:52 -0700
+Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_xxt9w9r4F3OfnfRj5A6nlx"

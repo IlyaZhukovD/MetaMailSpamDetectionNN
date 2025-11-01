@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19965.2a-726zgP3UI7kTO9RR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6CKakJ31682
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 12 Jul 2002 21:36:46 +0100
+Received: from abv-sfo1-ac-agent1 (206.16.0.223) by acmta4.cnet.com (PowerMTA(TM) v1.5); Fri, 12 Jul 2002 13:31:21 -0700 (envelope-from <Online#3.19965.2a-726zgP3UI7kTO9RR.1.b@newsletter.online.com>)
+Message-ID: <2700610.1026506200135.JavaMail.root@abv-sfo1-ac-agent1>
+Date: Fri, 12 Jul 2002 13:36:40 -0700 (PDT)
+From: CNET Shopper Sound  Graphics <Online#3.19965.2a-726zgP3UI7kTO9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Get the most out of your games and graphics! (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

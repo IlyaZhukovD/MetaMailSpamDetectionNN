@@ -1,0 +1,23 @@
+From greenman@swbell.net  Mon Jun 24 17:05:13 2002
+Return-Path: greenman@swbell.net
+Delivery-Date: Mon May 20 11:37:49 2002
+Received: from swbell.net ([211.250.18.161]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g4KAbge02138 for <webmaster@efi.ie>;
+    Mon, 20 May 2002 11:37:43 +0100
+Received: from unknown (24.143.48.41) by f64.law4.hottestmale.com with
+    SMTP; Mon, 20 May 2002 05:37:27 -0400
+Received: from unknown (27.26.235.188) by mail.gimmixx.net with QMQP;
+    Mon, 20 May 2002 01:23:02 +0900
+Reply-To: <greenman@swbell.net>
+Message-Id: <038e66d80b4d$6442c1c3$3ab15bb3@cbxyrw>
+From: <greenman@swbell.net>
+To: <webmaster@efi.ie>
+Subject: Oh No! My Printer Died!
+Date: Mon, 20 May 2002 05:24:29 +0500
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+X-Keywords: 
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_00C8_20D83C2D.E4417B07"

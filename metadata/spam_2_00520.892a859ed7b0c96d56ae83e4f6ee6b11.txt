@@ -1,0 +1,20 @@
+From tesco.ie@emv2.com  Mon Jun 24 17:08:39 2002
+Return-Path: tesco.ie@emv2.com
+Delivery-Date: Thu May 30 19:21:32 2002
+Received: from smtp4.emv2.com (smtp4.emv2.com [195.200.172.44]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4UILVO17638 for
+    <jm@jmason.org>; Thu, 30 May 2002 19:21:31 +0100
+Received: from smtp4 (unknown [195.200.172.44]) by smtp4.emv2.com
+    (Postfix) with ESMTP id BE83E33E01 for <jm@jmason.org>; Thu,
+    30 May 2002 20:21:25 +0200 (CEST)
+Message-Id: <66315282.63609.1022782885779@smtp4>
+Date: Thu, 30 May 2002 20:21:25 +0200 (CEST)
+From: "Tesco.ie " <tesco.ie@emv2.com>
+Reply-To: online@tesco.ie
+To: "yyyy@spamassassin.taint.org" <yyyy@spamassassin.taint.org>
+Subject: Ireland's first great World Cup result
+MIME-Version: 1.0
+X-Emv-Campagneid: 63609$
+X-Emv-Memberid: 66315282$
+X-Keywords: 
+Content-Type: multipart/alternative; boundary=1715101671.1022782885778.JavaMail.root.smtp4

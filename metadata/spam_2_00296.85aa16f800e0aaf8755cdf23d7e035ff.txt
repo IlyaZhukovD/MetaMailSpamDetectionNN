@@ -1,0 +1,22 @@
+From 4s@insurancemail.net  Mon Jun 24 17:03:34 2002
+Return-Path: 4s@insurancemail.net
+Delivery-Date: Tue May 14 02:02:01 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4E120e04971 for <jm@jmason.org>; Tue, 14 May 2002 02:02:00
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Mon, 13 May 2002 21:01:25 -0400
+Subject: Upside Only Treasury-Linked Annuity
+To: <yyyy@spamassassin.taint.org>
+Date: Mon, 13 May 2002 21:01:25 -0400
+From: "Four Seasons Financial Group" <4s@insurancemail.net>
+Message-Id: <1f2b401c1fae2$def537d0$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcH6zdFWkzlQxrDSSbu4EzqS1gGdDg==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 14 May 2002 01:01:25.0526 (UTC) FILETIME=[DF13E360:01C1FAE2]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0007_01C1FAAC.4A47E870"

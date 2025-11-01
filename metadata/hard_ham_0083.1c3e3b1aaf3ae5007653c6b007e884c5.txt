@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20292.e9-wy20lAQKOdqZLsRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6HD9KJ21145
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Wed, 17 Jul 2002 14:09:20 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 06:10:04 -0700 (envelope-from <Online#3.20292.e9-wy20lAQKOdqZLsRR.1.b@newsletter.online.com>)
+Message-ID: <8035997.1026911353216.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Wed, 17 Jul 2002 06:09:12 -0700 (PDT)
+From: CNET Hardware Newsletter <Online#3.20292.e9-wy20lAQKOdqZLsRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Are bigger notebooks better?
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

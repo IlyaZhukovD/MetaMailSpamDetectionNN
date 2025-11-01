@@ -1,0 +1,36 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6LHVTCU048088
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Sun, 21 Jul 2002 12:31:29 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6LHVT6r048085
+	for cypherpunks-forward@ds.pro-ns.net; Sun, 21 Jul 2002 12:31:29 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6LHVOCU048057
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Sun, 21 Jul 2002 12:31:26 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6LHVOJ72903
+	for <cypherpunks@ds.pro-ns.net>; Sun, 21 Jul 2002 13:31:24 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6LHVNd21042
+	for cypherpunks@ds.pro-ns.net; Sun, 21 Jul 2002 13:31:23 -0400
+Received: from levee.minder.net (gigantic.davehart.net [63.102.100.7])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6LHVLR21024
+	for <cpunks@minder.net>; Sun, 21 Jul 2002 13:31:21 -0400
+Received: from 203.168.162.115 ([203.168.162.115]) by levee.minder.net with Microsoft SMTPSVC(6.0.3604.0);
+	 Sun, 21 Jul 2002 17:31:19 +0000
+From: freebie4u@sinatown.com
+To: cpunks@minder.net
+Subject: Come on! It's fun and easy!!
+X-Reply-To: freebie4u@sinatown.com
+Content-Type: text/plain; charset=ISO-8859-1
+Message-ID: <GIGANTICrvDOv5y4Fyp000001ef@levee.minder.net>
+X-OriginalArrivalTime: 21 Jul 2002 17:31:19.0892 (UTC) FILETIME=[6CF7E940:01C230DC]
+Date: 21 Jul 2002 17:31:19 +0000
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by hq.pro-ns.net id g6LLhkCT049707

@@ -1,0 +1,27 @@
+From aa@insurancemail.net  Fri Jul 19 00:17:29 2002
+Return-Path: <aa@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 0882D43F90
+	for <jm@localhost>; Thu, 18 Jul 2002 19:17:29 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 00:17:29 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g6IN0SJ25491 for <jm@jmason.org>; Fri, 19 Jul 2002 00:00:28
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Thu, 18 Jul 2002 19:01:01 -0400
+Subject: $50,000 Giveaway!
+To: <yyyy@spamassassin.taint.org>
+Date: Thu, 18 Jul 2002 19:01:00 -0400
+From: "IQ - Ann Arbor" <aa@insurancemail.net>
+Message-Id: <6280401c22eae$fc1ab0b0$6b01a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIumfQqJkUiZI08QAi0jyldK92wsA==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 18 Jul 2002 23:01:01.0062 (UTC) FILETIME=[FC39AA60:01C22EAE]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_436A1_01C22E78.6D2241B0"

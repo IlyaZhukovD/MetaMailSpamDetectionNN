@@ -1,0 +1,20 @@
+From bjchadwick@eudoramail.com  Mon Jun 24 17:48:59 2002
+Return-Path: bjchadwick@eudoramail.com
+Delivery-Date: Fri Jun  7 19:28:33 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g57ISWG13488 for
+    <jm@jmason.org>; Fri, 7 Jun 2002 19:28:32 +0100
+Received: from jsa ([211.58.229.66]) by mandark.labs.netnoteinc.com
+    (8.11.6/8.11.2) with ESMTP id g57ISUm18242; Fri, 7 Jun 2002 19:28:31 +0100
+Received: from mx2.eudoramail.com ([24.132.129.96]) by jsa with Microsoft
+    SMTPSVC(5.0.2195.2966); Sat, 8 Jun 2002 03:27:51 +0900
+Message-Id: <00004d5b3738$000065c6$0000065f@mx2.eudoramail.com>
+To: <Undisclosed.Recipients@mandark.labs.netnoteinc.com>
+From: bjchadwick@eudoramail.com
+Subject: Wait too long AND...             1147
+Date: Fri, 07 Jun 2002 14:26:59 -1900
+MIME-Version: 1.0
+X-Originalarrivaltime: 07 Jun 2002 18:27:52.0761 (UTC) FILETIME=[0919A290:01C20E51]
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

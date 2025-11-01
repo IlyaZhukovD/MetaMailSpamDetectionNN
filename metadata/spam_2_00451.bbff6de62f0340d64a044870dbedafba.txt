@@ -1,0 +1,24 @@
+From hgh4616@eudoramail.com  Mon Jun 24 17:06:34 2002
+Return-Path: hgh4616@eudoramail.com
+Delivery-Date: Sat May 25 12:46:23 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4PBkKe29214 for
+    <jm@jmason.org>; Sat, 25 May 2002 12:46:21 +0100
+Received: from mail.pas2.ne.jp ([211.123.25.250]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g4PBkH712575 for
+    <jm@netnoteinc.com>; Sat, 25 May 2002 12:46:18 +0100
+Message-Id: <200205251146.g4PBkH712575@mandark.labs.netnoteinc.com>
+Received: (qmail 30644 invoked from network); 25 May 2002 20:31:12 +0900
+Received: from localhost (HELO smtp0732.mail.yahoo.com) (127.0.0.1) by
+    localhost with SMTP; 25 May 2002 20:31:12 +0900
+Date: Sat, 25 May 2002 19:32:23 +0800
+From: "Tim Thompson"<hgh4616@eudoramail.com>
+X-Priority: 3
+To: yyyy@netnoteinc.com
+Cc: yyyy@nlgi.demon.co.uk, yyyy@normanrockwellvt.com, yyyy@ns.sol.net,
+    jm@onstott.com
+Subject: yyyy,Do You Know the HGH Differences ?
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit

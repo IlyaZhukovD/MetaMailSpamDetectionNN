@@ -1,0 +1,30 @@
+From liuj7@say-mail.com  Mon Jun 24 17:40:47 2002
+Return-Path: liuj7@say-mail.com
+Delivery-Date: Mon Feb  4 04:41:39 2002
+Received: from mail.netnoteinc.com (gw.netnoteinc.com [193.120.149.226])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g144fd823290 for
+    <jm@jmason.org>; Mon, 4 Feb 2002 04:41:39 GMT
+Received: by mail.netnoteinc.com (Postfix) id 7B4031145E7; Mon,
+    4 Feb 2002 04:41:33 +0000 (GMT)
+Delivered-To: yyyy@netnoteinc.com
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id EF5A71145E6 for
+    <jm@netnoteinc.com>; Mon,  4 Feb 2002 04:41:32 +0000 (Eire)
+Received: from say-mail.com ([211.250.205.34]) by webnote.net
+    (8.9.3/8.9.3) with SMTP id EAA20550 for <jm@netnoteinc.com>;
+    Mon, 4 Feb 2002 04:41:21 GMT
+Date: Mon, 4 Feb 2002 04:41:21 GMT
+From: liuj7@say-mail.com
+Reply-To: <liuj7@say-mail.com>
+Message-Id: <005c57c14edc$7623c1b0$7cc71cd7@dfidvd>
+To: <yyyy@netnoteinc.com>
+Subject: Software that helps you remove negative credit items (0766aExl8-42@11)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.50.4522.1200
+Importance: Normal
+X-Status: 
+X-Keywords: 
+Content-Transfer-Encoding: 8bit

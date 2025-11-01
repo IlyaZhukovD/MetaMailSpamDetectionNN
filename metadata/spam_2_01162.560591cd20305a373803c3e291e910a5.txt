@@ -1,0 +1,24 @@
+From Programmers@bellsouth.net  Mon Jul 29 11:41:19 2002
+Return-Path: <Programmers@bellsouth.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 0760544123
+	for <jm@localhost>; Mon, 29 Jul 2002 06:37:01 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:37:01 +0100 (IST)
+Received: from imit.co.kr ([210.121.248.2]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6T4Tpi10542 for <sales@taint.org>;
+    Mon, 29 Jul 2002 05:29:51 +0100
+Received: from smtp0221.mail.yahoo.com ([202.164.168.14]) by imit.co.kr
+    (8.10.2+Sun/8.10.2) with SMTP id g6T4KIS11751; Mon, 29 Jul 2002 13:20:19
+    +0900 (KST)
+Message-Id: <200207290420.g6T4KIS11751@imit.co.kr>
+Date: Sun, 28 Jul 2002 21:40:45 -0700
+From: "Carolyn Sachdeva" <Programmers@bellsouth.net>
+X-Priority: 3
+To: sales@hyyweb.com
+Subject: Custom Software Development Services Available Right Now..
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii

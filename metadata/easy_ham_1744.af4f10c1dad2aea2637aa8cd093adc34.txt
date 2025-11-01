@@ -1,0 +1,6 @@
+Return-Path: guido@python.org
+Delivery-Date: Fri Sep  6 15:31:22 2002
+From: guido@python.org (Guido van Rossum)
+Date: Fri, 06 Sep 2002 10:31:22 -0400
+Subject: [Spambayes] Deployment
+Message-ID: <200209061431.g86EVM114413@pcp02138704pcs.reston01.va.comcast.net>

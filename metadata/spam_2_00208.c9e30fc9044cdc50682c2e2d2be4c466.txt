@@ -1,0 +1,17 @@
+From spamassassin@localhost  Mon Jun 24 17:04:13 2002
+Return-Path: salestoner@bol.com.br
+Delivery-Date: Wed May 15 20:21:19 2002
+Received: from tonerbestprice.net (IDENT:squid@[210.0.140.213]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g4FJLGe22430 for
+    <webmaster@efi.ie>; Wed, 15 May 2002 20:21:17 +0100
+Message-Id: <200205151921.g4FJLGe22430@dogma.slashnull.org>
+From: "salestoner@bol.com.br"@dogma.slashnull.org
+Subject: Save you up to 70% on toner cartridges, Inkjet cartridges, and Ribbons!!!2
+Date: Thu, 25 Apr 2002 10:05:00 -0700
+MIME-Version: 1.0
+X-Priority: 3
+X-Msmail-Priority: Normal
+X-Unsent: 1
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0009_01C1EC40.AE23FA20"

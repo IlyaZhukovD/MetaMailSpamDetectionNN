@@ -1,0 +1,64 @@
+From exmh-users-admin@redhat.com  Fri Sep 13 13:36:09 2002
+Return-Path: <exmh-users-admin@example.com>
+Delivered-To: yyyy@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by jmason.org (Postfix) with ESMTP id 568FD16F03
+	for <jm@localhost>; Fri, 13 Sep 2002 13:36:09 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 13 Sep 2002 13:36:09 +0100 (IST)
+Received: from listman.example.com (listman.example.com [66.187.233.211]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g8DBXaC16246 for
+    <jm-exmh@jmason.org>; Fri, 13 Sep 2002 12:33:37 +0100
+Received: from listman.example.com (localhost.localdomain [127.0.0.1]) by
+    listman.redhat.com (Postfix) with ESMTP id E67FE3EA26; Fri, 13 Sep 2002
+    07:34:00 -0400 (EDT)
+Delivered-To: exmh-users@listman.example.com
+Received: from int-mx1.corp.example.com (int-mx1.corp.example.com
+    [172.16.52.254]) by listman.redhat.com (Postfix) with ESMTP id 2401C401C5
+    for <exmh-users@listman.redhat.com>; Fri, 13 Sep 2002 07:32:15 -0400 (EDT)
+Received: (from mail@localhost) by int-mx1.corp.example.com (8.11.6/8.11.6)
+    id g8DBW9904558 for exmh-users@listman.redhat.com; Fri, 13 Sep 2002
+    07:32:09 -0400
+Received: from mx1.example.com (mx1.example.com [172.16.48.31]) by
+    int-mx1.corp.redhat.com (8.11.6/8.11.6) with SMTP id g8DBW9k04554 for
+    <exmh-users@redhat.com>; Fri, 13 Sep 2002 07:32:09 -0400
+Received: from hobbit.linuxworks.com.au
+    (CPE-203-51-196-87.qld.bigpond.net.au [203.51.196.87]) by mx1.redhat.com
+    (8.11.6/8.11.6) with SMTP id g8DBFTw26632 for <exmh-users@redhat.com>;
+    Fri, 13 Sep 2002 07:15:29 -0400
+Received: (from tony@localhost) by hobbit.linuxworks.com.au
+    (8.11.6/8.11.6) id g8DBUZL24217; Fri, 13 Sep 2002 21:30:35 +1000
+Message-Id: <200209131130.g8DBUZL24217@hobbit.linuxworks.com.au.nospam>
+To: exmh-users@example.com
+From: Tony Nugent <tony@linuxworks.com.au>
+X-Face: ]IrGs{LrofDtGfsrG!As5=G'2HRr2zt:H>djXb5@v|Dr!jOelxzAZ`!}("]}]
+    Q!)1w#X;)nLlb'XhSu,QL>;)L/l06wsI?rv-xy6%Y1e"BUiV%)mU;]f-5<#U6
+    UthZ0QrF7\_p#q}*Cn}jd|XT~7P7ik]Q!2u%aTtvc;)zfH\:3f<[a:)M
+Organization: Linux Works for network
+X-Mailer: nmh-1.0.4 exmh-2.4
+X-Os: Linux-2.4 RedHat 7.2
+In-Reply-To: message-id <26495.1031914530@munnari.OZ.AU> of Fri,
+    Sep 13 17:55:30 2002
+Subject: Re: bad focus/click behaviours
+X-Loop: exmh-users@example.com
+Sender: exmh-users-admin@example.com
+Errors-To: exmh-users-admin@example.com
+X-Beenthere: exmh-users@example.com
+X-Mailman-Version: 2.0.1
+Precedence: bulk
+Reply-To: exmh-users@example.com
+List-Help: <mailto:exmh-users-request@example.com?subject=help>
+List-Post: <mailto:exmh-users@example.com>
+List-Subscribe: <https://listman.example.com/mailman/listinfo/exmh-users>,
+    <mailto:exmh-users-request@redhat.com?subject=subscribe>
+List-Id: Discussion list for EXMH users <exmh-users.example.com>
+List-Unsubscribe: <https://listman.example.com/mailman/listinfo/exmh-users>,
+    <mailto:exmh-users-request@redhat.com?subject=unsubscribe>
+List-Archive: <https://listman.example.com/mailman/private/exmh-users/>
+Date: Fri, 13 Sep 2002 21:30:34 +1000
+X-Spam-Status: No, hits=-14.1 required=7.0
+	tests=AWL,EMAIL_ATTRIBUTION,IN_REP_TO,KNOWN_MAILING_LIST,
+	      NOSPAM_INC,QUOTED_EMAIL_TEXT,SPAM_PHRASE_00_01,X_LOOP
+	version=2.50-cvs
+X-Spam-Level:

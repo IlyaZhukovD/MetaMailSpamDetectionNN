@@ -1,0 +1,70 @@
+From exmh-workers-admin@redhat.com  Wed Aug 28 10:46:53 2002
+Return-Path: <exmh-workers-admin@example.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B421644159
+	for <jm@localhost>; Wed, 28 Aug 2002 05:46:25 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 28 Aug 2002 10:46:25 +0100 (IST)
+Received: from listman.example.com (listman.example.com [66.187.233.211]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g7S7fqZ15069 for
+    <jm-exmh@jmason.org>; Wed, 28 Aug 2002 08:41:52 +0100
+Received: from listman.example.com (localhost.localdomain [127.0.0.1]) by
+    listman.redhat.com (Postfix) with ESMTP id B745A3EE66; Wed, 28 Aug 2002
+    03:42:02 -0400 (EDT)
+Delivered-To: exmh-workers@listman.example.com
+Received: from int-mx1.corp.example.com (int-mx1.corp.example.com
+    [172.16.52.254]) by listman.redhat.com (Postfix) with ESMTP id 085C43F409
+    for <exmh-workers@listman.redhat.com>; Wed, 28 Aug 2002 03:41:16 -0400
+    (EDT)
+Received: (from mail@localhost) by int-mx1.corp.example.com (8.11.6/8.11.6)
+    id g7S7fCQ19268 for exmh-workers@listman.redhat.com; Wed, 28 Aug 2002
+    03:41:12 -0400
+Received: from mx1.example.com (mx1.example.com [172.16.48.31]) by
+    int-mx1.corp.redhat.com (8.11.6/8.11.6) with SMTP id g7S7fCY19264 for
+    <exmh-workers@redhat.com>; Wed, 28 Aug 2002 03:41:12 -0400
+Received: from ratree.psu.ac.th ([202.28.97.6]) by mx1.example.com
+    (8.11.6/8.11.6) with SMTP id g7S7Q6l04801 for <exmh-workers@redhat.com>;
+    Wed, 28 Aug 2002 03:26:07 -0400
+Received: from delta.cs.mu.OZ.AU (dhcp253.cc.psu.ac.th [192.168.2.253]) by
+    ratree.psu.ac.th (8.11.6/8.11.6) with ESMTP id g7S7eOU14972;
+    Wed, 28 Aug 2002 14:40:24 +0700 (ICT)
+Received: from munnari.OZ.AU (localhost [127.0.0.1]) by delta.cs.mu.OZ.AU
+    (8.11.6/8.11.6) with ESMTP id g7S6pLW18368; Wed, 28 Aug 2002 13:51:21
+    +0700 (ICT)
+From: Robert Elz <kre@munnari.OZ.AU>
+To: Brent Welch <welch@panasas.com>
+Cc: Chris Garrigues <cwg-dated-1030804078.e8b0d5@DeepEddy.Com>,
+	exmh-workers@redhat.com
+Subject: Re: Anolther sequence related traceback
+In-Reply-To: <200208280108.VAA30178@blackcomb.panasas.com>
+References: <200208280108.VAA30178@blackcomb.panasas.com>
+    <1030372078.11075.TMDA@deepeddy.vircio.com>
+    <1030118301.3993.TMDA@deepeddy.vircio.com>
+    <16323.1030043119@munnari.OZ.AU> <6853.1030345218@munnari.OZ.AU>
+    <12683.1030438738@munnari.OZ.AU>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Message-Id: <18366.1030517481@munnari.OZ.AU>
+X-Loop: exmh-workers@example.com
+Sender: exmh-workers-admin@example.com
+Errors-To: exmh-workers-admin@example.com
+X-Beenthere: exmh-workers@example.com
+X-Mailman-Version: 2.0.1
+Precedence: bulk
+List-Help: <mailto:exmh-workers-request@example.com?subject=help>
+List-Post: <mailto:exmh-workers@example.com>
+List-Subscribe: <https://listman.example.com/mailman/listinfo/exmh-workers>,
+    <mailto:exmh-workers-request@redhat.com?subject=subscribe>
+List-Id: Discussion list for EXMH developers <exmh-workers.example.com>
+List-Unsubscribe: <https://listman.example.com/mailman/listinfo/exmh-workers>,
+    <mailto:exmh-workers-request@redhat.com?subject=unsubscribe>
+List-Archive: <https://listman.example.com/mailman/private/exmh-workers/>
+Date: Wed, 28 Aug 2002 13:51:21 +0700
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-12.1 required=7.0
+	tests=IN_REP_TO,KNOWN_MAILING_LIST,PATCH_UNIFIED_DIFF,REFERENCES,
+	      SPAM_PHRASE_01_02,X_LOOP
+	version=2.40-cvs
+X-Spam-Level:

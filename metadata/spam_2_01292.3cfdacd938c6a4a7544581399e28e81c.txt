@@ -1,0 +1,23 @@
+From financialfreedom@mydebtsite.com  Tue Aug  6 11:04:26 2002
+Return-Path: <financialfreedom@mydebtsite.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id D898E4413C
+	for <jm@localhost>; Tue,  6 Aug 2002 05:56:51 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 10:56:51 +0100 (IST)
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id SAA15429
+	for <jm@netnoteinc.com>; Mon, 5 Aug 2002 18:35:13 +0100
+Received: from m2.mydebtsite.com (h-66-166-162-226.MIATFLAD.covad.net [66.166.162.226])
+	by smtp.easydns.com (Postfix) with SMTP id E22AB2D42C
+	for <jm@netnoteinc.com>; Mon,  5 Aug 2002 13:34:06 -0400 (EDT)
+x-esmtp: 0 0 1
+Message-ID: <2935170-22002815144417296@m2>
+To: "FinancialCustomer" <financialfreedom@mydebtsite.com>
+From: "Financial Freedom" <financialfreedom@mydebtsite.com>
+Subject: Adv: Your road to FINANCIAL FREEDOM begins here!
+Date: Mon, 5 Aug 2002 10:44:17 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;  boundary="----=_NextPart_84815C5ABAF209EF376268C8"

@@ -1,0 +1,29 @@
+From legaliq@insurancemail.net  Mon Jul 22 17:45:01 2002
+Return-Path: <legaliq@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id D03E3440C8
+	for <jm@localhost>; Mon, 22 Jul 2002 12:44:55 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 22 Jul 2002 17:44:55 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFkkI10348 for
+    <jm@jmason.org>; Mon, 22 Jul 2002 16:46:47 +0100
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by webnote.net (8.9.3/8.9.3) with ESMTP
+    id WAA29243 for <jm@jmason.org>; Sun, 21 Jul 2002 22:54:50 +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Sun, 21 Jul 2002 17:43:54 -0400
+Subject: 35% Lifetime Renewals - Unbeatable Product!
+To: <yyyy@spamassassin.taint.org>
+Date: Sun, 21 Jul 2002 17:43:54 -0400
+From: "LegalIQ" <legaliq@insurancemail.net>
+Message-Id: <e8d5801c230ff$b5854900$6b01a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIw56iOcPN58t7tSk+gKvY6ZdHHsw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 21 Jul 2002 21:43:54.0031 (UTC) FILETIME=[B58A03F0:01C230FF]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_C9DC9_01C230C6.21818770"

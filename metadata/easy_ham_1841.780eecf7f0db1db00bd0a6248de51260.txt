@@ -1,0 +1,8 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Mon Sep  9 17:46:55 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Mon, 09 Sep 2002 12:46:55 -0400
+Subject: [Spambayes] deleting "duplicate" spam before training?  good idea
+ orbad?
+In-Reply-To: <15740.52432.861148.597750@12-248-11-90.client.attbi.com>
+Message-ID: <LNBBLJKPBEHFEDALKOLCIECKBDAB.tim.one@comcast.net>

@@ -1,0 +1,27 @@
+From sigfin@insurancemail.net  Wed Jul  3 12:07:50 2002
+Return-Path: <sigfin@insurancemail.net>
+Delivered-To: yyyy@localhost.labs.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix on SuSE Linux 8.0 (i386)) with ESMTP id 56B8914F8F4
+	for <jm@localhost>; Wed,  3 Jul 2002 12:04:54 +0100 (IST)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 03 Jul 2002 12:04:54 +0100 (IST)
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g45MQtu27229 for <jm@jmason.org>; Sun, 5 May 2002 23:26:59
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Sun, 5 May 2002 18:26:36 -0400
+Subject: 6% AVG Guaranteed for 5 Years
+To: <yyyy@spamassassin.taint.org>
+Date: Sun, 5 May 2002 18:26:36 -0400
+From: "Signature Financial" <sigfin@insurancemail.net>
+Message-Id: <212d4001c1f483$eaf6cae0$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcH0a1CXuRS3h4BGQhmetEkXFvjzGw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 05 May 2002 22:26:36.0503 (UTC) FILETIME=[EB157670:01C1F483]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_1F32E9_01C1F449.C9876C50"

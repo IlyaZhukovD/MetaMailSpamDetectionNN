@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19584.83-p1SYlJ1blFvQjRRR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g69N6ET09696
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Wed, 10 Jul 2002 00:06:14 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Tue, 9 Jul 2002 16:08:31 -0700 (envelope-from <Online#3.19584.83-p1SYlJ1blFvQjRRR.1.b@newsletter.online.com>)
+Message-ID: <428602.1026255968679.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Tue, 9 Jul 2002 16:06:08 -0700 (PDT)
+From: CNET Shopper Newsletter Alerts <Online#3.19584.83-p1SYlJ1blFvQjRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Save an extra $50 on the iPaq 3835 PDA (CNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

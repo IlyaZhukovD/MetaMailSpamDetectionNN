@@ -1,0 +1,6 @@
+Return-Path: skip@pobox.com
+Delivery-Date: Sat Sep  7 05:05:45 2002
+From: skip@pobox.com (Skip Montanaro)
+Date: Fri, 6 Sep 2002 23:05:45 -0500
+Subject: [Spambayes] Maybe change X-Spam-Disposition to something else...
+Message-ID: <15737.31513.555967.915801@12-248-11-90.client.attbi.com>

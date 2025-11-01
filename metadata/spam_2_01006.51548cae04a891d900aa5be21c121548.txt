@@ -1,0 +1,34 @@
+From infoeurope@mailcity.com  Wed Jul 24 15:12:29 2002
+Return-Path: <infoeurope@mailcity.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 3CC3E440CD
+	for <jm@localhost>; Wed, 24 Jul 2002 10:12:27 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 24 Jul 2002 15:12:27 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6OE49417477 for
+    <jm@jmason.org>; Wed, 24 Jul 2002 15:04:10 +0100
+Received: from mailcity.com (fes.mail.lycos.com [209.185.123.154]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6OE38p18646 for
+    <jm@netnoteinc.com>; Wed, 24 Jul 2002 15:03:15 +0100
+Received: from Unknown/Local ([?.?.?.?]) by mailcity.com; Wed Jul 24
+    07:02:49 2002
+To: infoeurope@lycos.com
+Date: Wed, 24 Jul 2002 15:02:49 +0100
+From: "europe info" <infoeurope@lycos.com>
+Message-Id: <FPFCKFPBAHLKCEAA@mailcity.com>
+MIME-Version: 1.0
+Content-Language: en
+X-Expiredinmiddle: true
+Reply-To: infoeurope@lycos.com
+X-Sent-Mail: off
+X-Mailer: MailCity Service
+Subject: PARTNERSHIP.
+X-Priority: 3
+X-Sender-Ip: 212.87.127.249
+Organization: Lycos Mail  (http://www.mail.lycos.com:80)
+Content-Type: text/plain; charset=us-ascii
+Content-Language: en
+Content-Transfer-Encoding: 7bit

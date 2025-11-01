@@ -1,0 +1,27 @@
+From indylife@insurancemail.net  Thu Aug  8 14:36:15 2002
+Return-Path: <indylife@insurancemail.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 879CC441F2
+	for <jm@localhost>; Thu,  8 Aug 2002 08:39:49 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 08 Aug 2002 13:39:49 +0100 (IST)
+Received: from mail1.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g77Noqk27919 for <jm@jmason.org>; Thu, 8 Aug 2002 00:50:53
+    +0100
+Received: from mail pickup service by mail1.insuranceiq.com with Microsoft
+    SMTPSVC; Wed, 7 Aug 2002 19:49:55 -0400
+Subject: The Elite Equity Indexed U.L. Policy
+To: <yyyy@spamassassin.taint.org>
+Date: Wed, 7 Aug 2002 19:49:55 -0400
+From: "IQ - Indianapolis Life" <indylife@insurancemail.net>
+Message-Id: <2e06601c23e6d$216faf00$6b01a8c0@insuranceiq.com>
+X-Mailer: Microsoft CDO for Windows 2000
+MIME-Version: 1.0
+Thread-Index: AcI+Tcsz3dQR3wqeQzSoaQD/AgwPRQ==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 07 Aug 2002 23:49:55.0515 (UTC) FILETIME=[218EA8B0:01C23E6D]
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0007_01C23E2C.44242DA0"

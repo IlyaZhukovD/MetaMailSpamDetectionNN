@@ -1,0 +1,21 @@
+From webmaster-bounce-571-2c9cb1de22e9da153a5e4518010d3a96@blo.gs  Fri Oct  4 11:09:24 2002
+Return-Path: <webmaster-bounce-571-2c9cb1de22e9da153a5e4518010d3a96@blo.gs>
+Delivered-To: zzz@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 6805416F20
+	for <zzz@localhost>; Fri,  4 Oct 2002 11:07:29 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Fri, 04 Oct 2002 11:07:29 +0100 (IST)
+Received: from trainedmonkey.com
+    (adsl-216-103-52-40.dsl.lsan03.pacbell.net [216.103.52.40]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g942niK32030 for
+    <zzz@example.com>; Fri, 4 Oct 2002 03:49:45 +0100
+Received: (qmail 15822 invoked by uid 1000); 4 Oct 2002 02:50:21 -0000
+Date: 4 Oct 2002 02:50:21 -0000
+Message-Id: <20021004025021.15821.qmail@trainedmonkey.com>
+MIME-Version: 1.0
+Subject: updated weblogs from blo.gs
+Content-Type: text/plain
+To: zzz@example.com
+From: "blo.gs" <webmaster@blo.gs>

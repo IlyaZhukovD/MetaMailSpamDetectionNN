@@ -1,0 +1,42 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MFnHhY081898
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Mon, 22 Jul 2002 10:49:17 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6MFnHXK081891
+	for cypherpunks-forward@ds.pro-ns.net; Mon, 22 Jul 2002 10:49:17 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MFlnhX081399
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 10:47:55 -0500 (CDT)
+	(envelope-from cpunks@ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id KAA12591
+	for cypherpunks@ds.pro-ns.net; Mon, 22 Jul 2002 10:56:06 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id KAA12427
+	for cypherpunks-outgoing; Mon, 22 Jul 2002 10:53:18 -0500
+Received: from 52jsp.com ([61.129.64.146])
+	by einstein.ssz.com (8.8.8/8.8.8) with ESMTP id KAA12364
+	for <cypherpunks@einstein.ssz.com>; Mon, 22 Jul 2002 10:51:52 -0500
+From: 233233@333223.com
+Received: from ME ([210.83.94.193])
+	by 52jsp.com (8.11.6/8.11.6) with SMTP id g6MFZrG00781;
+	Mon, 22 Jul 2002 23:35:54 +0800
+Date: Mon, 22 Jul 2002 23:35:54 +0800
+Message-Id: <200207221535.g6MFZrG00781@52jsp.com>
+Subject: ÊÖ»ú¶ÌÐÅÏ¢°üÔÂ¿¨ºÍ¶ÌÐÅÏ¢Èº·¢Èí¼þ
+X-Priority: 1 (Highest)
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+MIME-Version: 1.0
+Content-type: multipart/mixed; boundary="#MYBOUNDARY#"
+Sender: owner-cypherpunks@ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+To: undisclosed-recipients:;

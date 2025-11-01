@@ -1,0 +1,22 @@
+From amfin@insurancemail.net  Mon Jun 24 17:05:46 2002
+Return-Path: amfin@insurancemail.net
+Delivery-Date: Wed May 22 00:07:28 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4LN7Re01941 for <jm@jmason.org>; Wed, 22 May 2002 00:07:28
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Tue, 21 May 2002 19:06:50 -0400
+Subject: Feel The Power!
+To: <yyyy@spamassassin.taint.org>
+Date: Tue, 21 May 2002 19:06:50 -0400
+From: "American Financial" <amfin@insurancemail.net>
+Message-Id: <1fdbd501c2011c$30ae5a40$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIBBkf5zLeJ3/GZQyyyyxFrldYXPGnQ==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 21 May 2002 23:06:50.0924 (UTC) FILETIME=[30CCDEC0:01C2011C]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_1DD90E_01C200E4.C0E7B7B0"

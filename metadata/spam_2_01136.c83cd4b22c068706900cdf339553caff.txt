@@ -1,0 +1,23 @@
+From webmaster2fg7@address.com  Mon Jul 29 11:21:28 2002
+Return-Path: <webmaster2fg7@address.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id F4169440FA
+	for <jm@localhost>; Mon, 29 Jul 2002 06:20:54 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:20:55 +0100 (IST)
+Received: from ntserver1.roomscapesinc.com ([66.152.208.34])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6RCOEp31273
+	for <jm@netnoteinc.com>; Sat, 27 Jul 2002 13:24:15 +0100
+Received: from postoffice.address.com (B2V4V9 [66.169.34.86]) by ntserver1.roomscapesinc.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2653.13)
+	id PV0X1HWT; Sat, 27 Jul 2002 06:46:01 -0400
+Message-ID: <00002fe93c34$000073cd$0000672f@postoffice.address.com>
+To: <Undisclosed.Recipients@netnoteinc.com>
+From: webmaster2fg7@address.com
+Subject: Your Grant request.
+Date: Sat, 27 Jul 2002 06:58:05 -1600
+MIME-Version: 1.0
+Reply-To: webmaster2fg7@address.com
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

@@ -1,0 +1,21 @@
+Return-Path: ler@lerami.lerctr.org
+Delivery-Date: Tue Sep  3 15:02:41 2002
+Return-Path: <dms-errors@dms.netcenter.com>
+Received: from dms-mail01.netcenter.com (dms-mail01.netcenter.com [207.200.87.31])
+	by lerami.lerctr.org (8.12.2/8.12.2/20020524/$Revision: 1.30 $) with ESMTP id g83K2buK013193
+	for <ler@lerami.lerctr.org>; Tue, 3 Sep 2002 15:02:38 -0500 (CDT)
+Message-Id: <200209032002.g83K2buK013193@lerami.lerctr.org>
+Received: from dms-www1.netscape.com (dms-mailcaster-s06.netcenter.com) by dms-mail01.netcenter.com (LSMTP for Windows NT v1.1b) with SMTP id <22.0003F109@dms-mail01.netcenter.com>; Tue, 3 Sep 2002 12:57:13 -0700
+To: ler@lerami.lerctr.org
+Subject: Announcing the New Netscape 7.0 - The Fastest Netscape Browser Ever
+From: Netscape <Netscape@dms.netscape.com>
+Date: Tue, 03 Sep 2002 13:04:31 -0800
+Reply-To: Netscape Unsubscribe <dms-unsubscribe@dms.netcenter.com>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-milter (http://amavis.org/)
+Content-Type: multipart/alternative; boundary="______BoundaryOfDocument______"
+Status: RO
+X-Status: 
+X-Keywords: 
+X-UID: 1

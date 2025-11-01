@@ -1,0 +1,28 @@
+From noreply@sourceforge.net  Wed Aug 14 17:36:08 2002
+Return-Path: <noreply@sourceforge.net>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id EEAC943C32
+	for <zzz@localhost>; Wed, 14 Aug 2002 12:36:06 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Wed, 14 Aug 2002 17:36:07 +0100 (IST)
+Received: from usw-sf-list2.sourceforge.net (usw-sf-fw2.sourceforge.net
+    [216.136.171.252]) by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id
+    g7EGW3424685 for <zzz@example.com>; Wed, 14 Aug 2002 17:32:04 +0100
+Received: from usw-sf-db2-b.sourceforge.net ([10.3.1.4]
+    helo=sourceforge.net ident=tperdue) by usw-sf-list2.sourceforge.net with
+    smtp (Exim 3.31-VA-mm2 #1 (Debian)) id 17f141-00043a-00 for
+    <zzz@example.com>; Wed, 14 Aug 2002 09:32:05 -0700
+From: Mailer <noreply@sourceforge.net>
+To: "" <zzz@example.com>
+Subject: SOURCEFORGE.NET UPDATE: August 14, 2002
+Message-Id: <E17f141-00043a-00@usw-sf-list2.sourceforge.net>
+Date: Wed, 14 Aug 2002 09:32:05 -0700
+X-Pyzor: Reported 0 times.
+X-Spam-Status: No, hits=-0.1 required=7.0
+	tests=CLICK_BELOW,EXCUSE_1,LINES_OF_YELLING,LINES_OF_YELLING_2,
+	      LINES_OF_YELLING_3,SPAM_PHRASE_03_05,SUBJECT_MONTH,
+	      SUBJECT_MONTH_2,UNSUB_PAGE
+	version=2.40
+X-Spam-Level:

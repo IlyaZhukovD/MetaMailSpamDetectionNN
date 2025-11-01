@@ -1,0 +1,6 @@
+Return-Path: anthony@interlink.com.au
+Delivery-Date: Thu Sep 12 05:26:41 2002
+From: anthony@interlink.com.au (Anthony Baxter)
+Date: Thu, 12 Sep 2002 14:26:41 +1000
+Subject: [Spambayes] Current histograms 
+Message-ID: <200209120426.g8C4QfI23085@localhost.localdomain>

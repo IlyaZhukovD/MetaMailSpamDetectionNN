@@ -1,0 +1,56 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6P1SRi5055416
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Wed, 24 Jul 2002 20:28:27 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6P1SRwu055413
+	for cypherpunks-forward@ds.pro-ns.net; Wed, 24 Jul 2002 20:28:27 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6P1SBi5055341
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Wed, 24 Jul 2002 20:28:13 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6P1SAJ59756
+	for <cypherpunks@ds.pro-ns.net>; Wed, 24 Jul 2002 21:28:10 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6P1S9510934
+	for cypherpunks@ds.pro-ns.net; Wed, 24 Jul 2002 21:28:09 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6P1S1R10866
+	for <cpunks@minder.net>; Wed, 24 Jul 2002 21:28:01 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6P1RxJ59690
+	for <cpunks@minder.net>; Wed, 24 Jul 2002 21:28:00 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id UAA16970
+	for cpunks@minder.net; Wed, 24 Jul 2002 20:36:32 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id UAA16906
+	for cypherpunks-outgoing; Wed, 24 Jul 2002 20:35:58 -0500
+Received: from emailcluster.terra.com.mx (occmta08a.terra.com.mx [200.53.64.64])
+	by einstein.ssz.com (8.8.8/8.8.8) with ESMTP id UAA16874;
+	Wed, 24 Jul 2002 20:35:33 -0500
+Received: from kingproxy.kingmax.com.tw (148.246.24.237) by emailcluster.terra.com.mx (6.0.053)
+        id 3D36FA4B000BDE00; Wed, 24 Jul 2002 20:22:51 -0500
+Date: Wed, 24 Jul 2002 20:22:51 -0500 (added by postmaster@emailcluster.terra.com.mx)
+Message-ID: <3D36FA4B000BDE00@occmta08a.terra.com.mx> (added by postmaster@emailcluster.terra.com.mx)
+From: "Wanda Dallas" <williamblockeriis@kingmax.com.tw>
+To: "Inbox" <8689@qwest.net>
+Old-Subject: CDR: TRADING INFORMATION
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Subject: TRADING INFORMATION

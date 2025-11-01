@@ -1,0 +1,8 @@
+Return-Path: jeremy@alum.mit.edu
+Delivery-Date: Fri Sep  6 17:28:09 2002
+From: jeremy@alum.mit.edu (Jeremy Hylton)
+Date: Fri, 6 Sep 2002 12:28:09 -0400
+Subject: [Spambayes] Deployment
+In-Reply-To: <200209061431.g86EVM114413@pcp02138704pcs.reston01.va.comcast.net>
+References: <200209061431.g86EVM114413@pcp02138704pcs.reston01.va.comcast.net>
+Message-ID: <15736.55193.38098.486459@slothrop.zope.com>

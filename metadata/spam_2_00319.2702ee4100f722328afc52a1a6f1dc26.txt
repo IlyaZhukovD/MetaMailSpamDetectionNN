@@ -1,0 +1,22 @@
+From Emailcenter@cmmail.com  Mon Jun 24 17:04:11 2002
+Return-Path: Emailcenter@cmmail.com
+Delivery-Date: Wed May 15 18:24:55 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4FHOqe18073 for
+    <jm@jmason.org>; Wed, 15 May 2002 18:24:52 +0100
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4FHOnD27149 for
+    <jm@netnoteinc.com>; Wed, 15 May 2002 18:24:50 +0100
+Received: from cmmail.com ([218.6.2.25]) by webnote.net (8.9.3/8.9.3) with
+    SMTP id SAA09980 for <jm@netnoteinc.com>; Wed, 15 May 2002 18:24:47 +0100
+Message-Id: <200205151724.SAA09980@webnote.net>
+From: "Marketing Manager" <Emailcenter@cmmail.com>
+To: <yyyy@netnoteinc.com>
+Subject: The power of Email Marketing
+Sender: "Marketing Manager" <Emailcenter@cmmail.com>
+MIME-Version: 1.0
+Date: Thu, 16 May 2002 01:26:00 +0800
+Reply-To: "Marketing Manager" <XinLanCenter@163.com>
+X-Keywords: 
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit

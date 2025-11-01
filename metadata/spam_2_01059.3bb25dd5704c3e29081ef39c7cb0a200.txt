@@ -1,0 +1,65 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6PLp4i5035872
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Thu, 25 Jul 2002 16:51:04 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6PLp3Sv035869
+	for cypherpunks-forward@ds.pro-ns.net; Thu, 25 Jul 2002 16:51:03 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6PLoii5035764
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Thu, 25 Jul 2002 16:50:46 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6PLohJ13309
+	for <cypherpunks@ds.pro-ns.net>; Thu, 25 Jul 2002 17:50:43 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6PLog509614
+	for cypherpunks@ds.pro-ns.net; Thu, 25 Jul 2002 17:50:42 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6PLoeR09587
+	for <cpunks@minder.net>; Thu, 25 Jul 2002 17:50:40 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6PLocJ13289
+	for <cpunks@minder.net>; Thu, 25 Jul 2002 17:50:38 -0400 (EDT)
+	(envelope-from cpunks@ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id QAA03691
+	for cpunks@minder.net; Thu, 25 Jul 2002 16:59:39 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id QAA03682
+	for cypherpunks-outgoing; Thu, 25 Jul 2002 16:59:13 -0500
+Received: from pacbell.net (nobody@[211.46.17.161])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id QAA03664
+	for <cypherpunks@einstein.ssz.com>; Thu, 25 Jul 2002 16:58:43 -0500
+From: coury@pacbell.net
+Received: from unknown (20.96.195.200)
+	by rly-yk05.pesdets.com with QMQP; Fri, 26 Jul 2002 16:49:21 +0500
+Received: from 100.75.22.219 ([100.75.22.219]) by rly-xw05.oxyeli.com with SMTP; Fri, 26 Jul 2002 21:46:54 -0200
+Received: from unknown (HELO smtp013.mail.yahou.com) (52.6.138.207)
+	by rly-xr02.nikavo.net with esmtp; Fri, 26 Jul 2002 19:44:27 -1000
+Received: from q4.quickslow.com ([94.86.40.159])
+	by rly-xw01.otpalo.com with SMTP; 26 Jul 2002 09:42:00 -0800
+Received: from unknown (54.157.185.101)
+	by rly-xl05.dohuya.com with asmtp; 26 Jul 2002 01:39:33 -0400
+Message-ID: <007c01d60c5a$7888e5a4$0cb72ee1@ufutxn>
+To: <cypherpunks@einstein.ssz.com>
+Old-Subject: CDR: The Government Grants You $25,000!
+Date: Thu, 25 Jul 2002 16:35:53 +0500
+MiME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2462.0000
+Importance: Normal
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Subject: The Government Grants You $25,000!

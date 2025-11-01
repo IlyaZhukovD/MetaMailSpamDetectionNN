@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20481.4a-uljJgrvQnTKdNRRR.1.b@newsletter.online.com>
+Received: from ABV-SFO1-ACMTA6.CNET.COM (abv-sfo1-acmta6.cnet.com [206.16.1.169])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6IKhWJ06610
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 18 Jul 2002 21:43:32 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by ABV-SFO1-ACMTA6.CNET.COM (PowerMTA(TM) v1.5); Thu, 18 Jul 2002 13:45:55 -0700 (envelope-from <Online#3.20481.4a-uljJgrvQnTKdNRRR.1.b@newsletter.online.com>)
+Message-ID: <7515326.1027025006248.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Thu, 18 Jul 2002 13:43:26 -0700 (PDT)
+From: "CNET News.com Daily Dispatch" <Online#3.20481.4a-uljJgrvQnTKdNRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: CNET NEWS.COM: Selling secure laptops no open-shut case
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

@@ -1,0 +1,15 @@
+From apache@mk1.unknown.net  Tue Aug  7 12:27:07 2001
+Return-Path: <apache@mk1.unknown.net>
+Delivered-To: yyyy@netnoteinc.com
+Received: from mk1.unknown.net (unknown [163.125.6.190]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 7CF91114088 for
+    <jm@netnoteinc.com>; Tue,  7 Aug 2001 11:27:06 +0000 (Eire)
+Received: by mk1.unknown.net (Postfix, from userid 48) id B35F191346;
+    Tue,  7 Aug 2001 09:59:05 -0400 (EDT)
+To: 
+From: zacpp@uol.com.co
+Reply-To: 
+Subject: 85% APPROVAL RATE pcptu
+Message-Id: <20010807135905.B35F191346@mk1.unknown.net>
+Date: Tue,  7 Aug 2001 09:59:05 -0400 (EDT)
+Sender: apache@mk1.unknown.net

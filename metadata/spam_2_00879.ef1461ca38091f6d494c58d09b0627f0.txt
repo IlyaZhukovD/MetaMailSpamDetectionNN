@@ -1,0 +1,55 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MGLJhY095109
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Mon, 22 Jul 2002 11:21:20 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6MGLJcj095106
+	for cypherpunks-forward@ds.pro-ns.net; Mon, 22 Jul 2002 11:21:19 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MGLAhY095049
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 11:21:12 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6MGL9J40394
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 12:21:09 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6MGL7w32247
+	for cypherpunks@ds.pro-ns.net; Mon, 22 Jul 2002 12:21:07 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6MGL5R32229
+	for <cpunks@minder.net>; Mon, 22 Jul 2002 12:21:05 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6MGL2J40380
+	for <cpunks@minder.net>; Mon, 22 Jul 2002 12:21:02 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id LAA13792
+	for cpunks@minder.net; Mon, 22 Jul 2002 11:29:25 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id LAA13733
+	for cypherpunks-outgoing; Mon, 22 Jul 2002 11:27:55 -0500
+Received: from mail1.acecape.com (root@[66.114.74.12])
+	by einstein.ssz.com (8.8.8/8.8.8) with ESMTP id LAA13722
+	for <cypherpunks@einstein.ssz.com>; Mon, 22 Jul 2002 11:27:38 -0500
+Received: from sponsorclick.com (p71-94.acedsl.com [66.114.71.94])
+	by mail1.acecape.com (8.12.2/8.12.2) with ESMTP id g6MGGs6M010479
+	for <cypherpunks@einstein.ssz.com>; Mon, 22 Jul 2002 12:19:08 -0400
+Message-Id: <200207221619.g6MGGs6M010479@mail1.acecape.com>
+From: SponsorClick News <news@sponsorclick.com>
+To: <cypherpunks@einstein.ssz.com>
+Old-Subject: CDR: July 2002: Veuve Clicquot > SponsorRating >  X-Treme Sponsorship Alert > Tidbits > Special Offers > ...
+Date: 22 Jul 2002 12:20:09 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_ZnkAvjw6_o9xevs6y_MA"
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Subject: July 2002: Veuve Clicquot > SponsorRating >  X-Treme Sponsorship Alert > Tidbits > Special Offers > ...

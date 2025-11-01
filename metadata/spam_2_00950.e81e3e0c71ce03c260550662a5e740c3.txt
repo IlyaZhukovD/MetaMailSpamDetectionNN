@@ -1,0 +1,55 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NH2EhY084072
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Tue, 23 Jul 2002 12:02:15 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6NH2EgP084065
+	for cypherpunks-forward@ds.pro-ns.net; Tue, 23 Jul 2002 12:02:14 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6NH28hY084026
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 12:02:09 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6NH27J31988
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 13:02:08 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6NH27L18691
+	for cypherpunks@ds.pro-ns.net; Tue, 23 Jul 2002 13:02:07 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6NH25R18662
+	for <cpunks@minder.net>; Tue, 23 Jul 2002 13:02:05 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6NH22J31966
+	for <cpunks@minder.net>; Tue, 23 Jul 2002 13:02:02 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id MAA14655
+	for cpunks@minder.net; Tue, 23 Jul 2002 12:10:40 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id MAA14647
+	for cypherpunks-outgoing; Tue, 23 Jul 2002 12:10:36 -0500
+Received: from appsales.net ([65.168.244.19])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id MAA14639
+	for <cypherpunks@ssz.com>; Tue, 23 Jul 2002 12:10:19 -0500
+Message-Id: <200207231710.MAA14639@einstein.ssz.com>
+Received: (qmail 2356 invoked by uid 502); 23 Jul 2002 16:15:43 -0000
+Received: from unknown (HELO appsales.net) (65.168.244.26)
+  by 0 with SMTP; 23 Jul 2002 16:15:43 -0000
+From: Link It Software <sendout@appsales.net>
+Old-Subject: CDR: Maintenance Tracking/Scheduling Software, $1495
+Date: 23 Jul 2002 09:11:48 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_BkymKzPF_EOQL8qx8_MR"
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+To: undisclosed-recipients:;
+Subject: Maintenance Tracking/Scheduling Software, $1495

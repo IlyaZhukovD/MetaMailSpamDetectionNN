@@ -1,0 +1,22 @@
+From pfn@insurancemail.net  Mon Jun 24 17:05:54 2002
+Return-Path: pfn@insurancemail.net
+Delivery-Date: Thu May 23 00:30:09 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4MNU7e00818 for <jm@jmason.org>; Thu, 23 May 2002 00:30:08
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Wed, 22 May 2002 19:29:30 -0400
+Subject: Almost-Guaranteed Issue Term
+To: <yyyy@spamassassin.taint.org>
+Date: Wed, 22 May 2002 19:29:30 -0400
+From: "Producers Financial Network" <pfn@insurancemail.net>
+Message-Id: <2432d401c201e8$85627d60$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIBz5FoVGm8m73bQdeI1OuWcTYWIw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 22 May 2002 23:29:30.0366 (UTC) FILETIME=[858101E0:01C201E8]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_223205_01C201AE.0A589530"

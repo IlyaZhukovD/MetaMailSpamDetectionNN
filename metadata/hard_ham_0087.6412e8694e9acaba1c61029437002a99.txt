@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20340.74-k8cCgc95N6xNP9RR.1.b@newsletter.online.com>
+Received: from abv-sfo-acmta2.cnet.com (abv-sfo1-acmta2.cnet.com [206.16.1.161])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6HLKLJ24842
+	for <qqqqqqqqqq-zdnet@example.com>; Wed, 17 Jul 2002 22:20:21 +0100
+Received: from abv-sfo1-ac-agent6 (206.16.0.241) by abv-sfo-acmta2.cnet.com (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 17:22:25 -0700 (envelope-from <Online#3.20340.74-k8cCgc95N6xNP9RR.1.b@newsletter.online.com>)
+Message-ID: <7025608.1026940814894.JavaMail.root@abv-sfo1-ac-agent6>
+Date: Wed, 17 Jul 2002 14:20:14 -0700 (PDT)
+From: "CNET News.com Investor" <Online#3.20340.74-k8cCgc95N6xNP9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: NEWS.COM INVESTOR: Techs gain on Intel, Motorola news
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

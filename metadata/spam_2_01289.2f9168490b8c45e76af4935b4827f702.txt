@@ -1,0 +1,44 @@
+From fork-admin@xent.com  Wed Aug  7 08:27:17 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 6F392440A8
+	for <jm@localhost>; Wed,  7 Aug 2002 03:27:12 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 07 Aug 2002 08:27:12 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g777RTk15517 for <jm@jmason.org>;
+    Wed, 7 Aug 2002 08:27:32 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 785D92940B9; Wed,  7 Aug 2002 00:24:04 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from mail1.epatra.com (unknown [64.14.239.220]) by xent.com
+    (Postfix) with ESMTP id D1FCF2940AE for <fork@xent.com>; Wed,
+    7 Aug 2002 00:22:59 -0700 (PDT)
+Received: from suvi232.pugmarks.net (suvi232.pugmarks.net [64.14.239.232])
+    by mail1.epatra.com (8.11.6/8.11.6) with ESMTP id g777av301166 for
+    <fork@xent.com>; Wed, 7 Aug 2002 13:06:57 +0530
+Received: (from www@localhost) by suvi232.pugmarks.net (8.11.6/8.9.3) id
+    g75CbW531568; Mon, 5 Aug 2002 18:07:32 +0530
+Message-Id: <200208051237.g75CbW531568@suvi232.pugmarks.net>
+From: lbrahim jallow <lbrahim@epatra.com>
+To: fork@spamassassin.taint.org
+X-Eplanguage: en
+Subject: Business Proposal
+X-Originating-Ip: [207.50.228.120]
+X-Priority: 3
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Mon, 5 Aug 2002 18:07:32 +0530
+Content-Type: text/html

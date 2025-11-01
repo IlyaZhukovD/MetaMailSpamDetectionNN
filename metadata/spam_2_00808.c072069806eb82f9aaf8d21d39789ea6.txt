@@ -1,0 +1,13 @@
+Received: from hawaii.ireaye.net ([205.244.94.208])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6L4QH414517
+	for <gibbs@MIDRANGE.COM>; Sat, 20 Jul 2002 23:26:18 -0500
+Message-Id: <200207210426.g6L4QH414517@linux.midrange.com>
+Received: from alabama (192.168.4.195:1146) by hawaii.ireaye.net (LSMTP for Windows NT v1.1b) with SMTP id <82.000001A0@hawaii.ireaye.net>; 21 Jul 2002 11:28:26 -0400
+Date: Sat, 20 Jul 2002 23:02:01 -0400
+From: Callie<callie@DEALSWEEPS.IREAYE.NET>
+Subject: Discover® Platinum Clear Card New Clear Design!
+To: gibbs@MIDRANGE.COM
+Mime-Version: 1.0
+Content-Type: text/html
+X-Status: 
+X-Keywords:

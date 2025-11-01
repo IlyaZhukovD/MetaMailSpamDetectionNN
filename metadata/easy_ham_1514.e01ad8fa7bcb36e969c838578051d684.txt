@@ -1,0 +1,7 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Fri Sep  6 07:09:11 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Fri, 06 Sep 2002 02:09:11 -0400
+Subject: [Spambayes] all but one testing
+In-Reply-To: <20020905224923.GA20480@glacier.arctrix.com>
+Message-ID: <LNBBLJKPBEHFEDALKOLCCEFOBCAB.tim.one@comcast.net>

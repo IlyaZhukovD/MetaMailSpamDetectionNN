@@ -1,0 +1,23 @@
+From matchmaker2fg7@lycos.com  Tue Jul 30 04:46:33 2002
+Return-Path: <matchmaker2fg7@lycos.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 88EDB440EF
+	for <jm@localhost>; Mon, 29 Jul 2002 23:46:33 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 30 Jul 2002 04:46:33 +0100 (IST)
+Received: from server1.kideney.com (gateway.kideney.com [208.247.104.242])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6U3hrp09893;
+	Tue, 30 Jul 2002 04:43:54 +0100
+Received: from mx1.mail.lycos.com (66.168.233.157 [66.168.233.157]) by server1.kideney.com with SMTP (Microsoft Exchange Internet Mail Service Version 5.5.2448.0)
+	id P7HNHGD4; Mon, 29 Jul 2002 21:11:56 -0400
+Message-ID: <00001f286a9d$00001904$000024e6@mx1.mail.lycos.com>
+To: <Undisclosed.Recipients@netnoteinc.com>
+From: matchmaker2fg7@lycos.com
+Subject: Congratulations! Here's Your Diploma!
+Date: Mon, 29 Jul 2002 21:38:48 -1600
+MIME-Version: 1.0
+Reply-To: webmaster2fg7@lycos.com
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

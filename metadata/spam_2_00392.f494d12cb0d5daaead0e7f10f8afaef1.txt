@@ -1,0 +1,19 @@
+From jennifer@attorneyconnectionsinc.com  Mon Jun 24 17:05:28 2002
+Return-Path: jennifer@attorneyconnectionsinc.com
+Delivery-Date: Tue May 21 04:32:45 2002
+Received: from cheney.attorneysonlineinc.com
+    (ca-crlsbd-u4-c5d-242.crlsca.adelphia.net [68.64.222.242]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4L3VZe19172 for
+    <webmaster@efi.ie>; Tue, 21 May 2002 04:31:36 +0100
+Received: from local.com ([192.168.0.1]) by cheney.attorneysonlineinc.com
+    with Microsoft SMTPSVC(5.0.2195.1600); Mon, 20 May 2002 12:43:47 -0700
+From: "Jennifer Enriquez" <jennifer@attorneyconnectionsinc.com>
+To: webmaster@efi.ie
+Subject: MCLE Seminars
+Date: Mon, 20 May 2002 12:46:42 -0700
+X-Mailer: Dundas Mailer Control 1.0
+MIME-Version: 1.0
+Message-Id: <CHENEYC32qU4Z5flHgS0000166e@cheney.attorneysonlineinc.com>
+X-Originalarrivaltime: 20 May 2002 19:43:47.0899 (UTC) FILETIME=[A8BD08B0:01C20036]
+X-Keywords: 
+Content-Type: text/html; charset="US-ASCII"

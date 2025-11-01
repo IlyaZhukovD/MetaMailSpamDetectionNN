@@ -1,0 +1,9 @@
+Return-Path: guido@python.org
+Delivery-Date: Sun Sep  8 06:38:45 2002
+From: guido@python.org (Guido van Rossum)
+Date: Sun, 08 Sep 2002 01:38:45 -0400
+Subject: [Spambayes] test sets?
+In-Reply-To: Your message of "Sun, 08 Sep 2002 01:02:32 EDT."
+             <LNBBLJKPBEHFEDALKOLCEEOGBCAB.tim.one@comcast.net> 
+References: <LNBBLJKPBEHFEDALKOLCEEOGBCAB.tim.one@comcast.net> 
+Message-ID: <200209080538.g885cjk17553@pcp02138704pcs.reston01.va.comcast.net>

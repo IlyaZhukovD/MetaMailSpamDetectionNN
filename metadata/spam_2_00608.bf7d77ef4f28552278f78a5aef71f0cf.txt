@@ -1,0 +1,19 @@
+From WebConference@ananzi.co.za  Mon Jun 24 17:48:09 2002
+Return-Path: WebConference@ananzi.co.za
+Delivery-Date: Wed Jun  5 07:44:39 2002
+Received: from mail.kowpad.or.kr (IDENT:root@[211.34.99.6]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g556ia520309 for
+    <jm-fm@jmason.org>; Wed, 5 Jun 2002 07:44:38 +0100
+Received: from fso.daewoo.com.pl (h171n2fls32o836.telia.com
+    [217.208.105.171]) by mail.kowpad.or.kr (8.9.3/8.9.3) with ESMTP id
+    OAA25687; Wed, 5 Jun 2002 14:34:36 +0900
+Message-Id: <0000631876f1$000051ec$00004b4b@fso.daewoo.com.pl>
+To: <WebConference@ananzi.co.za>
+From: "E-Business Update" <WebConference@ananzi.co.za>
+Subject: Pay nothing for your conference calls!
+Date: Tue, 04 Jun 2002 23:41:03 -1900
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

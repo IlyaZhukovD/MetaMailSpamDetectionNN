@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19703.9d-Vzezlg_fmMczm9RR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6ANYqJ12962
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 11 Jul 2002 00:34:52 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by acmta4.cnet.com (PowerMTA(TM) v1.5); Wed, 10 Jul 2002 16:29:24 -0700 (envelope-from <Online#3.19703.9d-Vzezlg_fmMczm9RR.1.b@newsletter.online.com>)
+Message-ID: <2348497.1026344082049.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Wed, 10 Jul 2002 16:34:42 -0700 (PDT)
+From: "CNET: Tools for Software Developers" <Online#3.19703.9d-Vzezlg_fmMczm9RR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: This Week: FileSystem, AppletFile, PHP Master Editor
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

@@ -1,0 +1,9 @@
+Return-Path: jeremy@alum.mit.edu
+Delivery-Date: Mon Sep  9 17:37:05 2002
+From: jeremy@alum.mit.edu (Jeremy Hylton)
+Date: Mon, 9 Sep 2002 12:37:05 -0400
+Subject: [Spambayes] understanding high false negative rate
+In-Reply-To: <LNBBLJKPBEHFEDALKOLCCENKBCAB.tim.one@comcast.net>
+References: <15738.24135.294137.640570@slothrop.zope.com>
+	<LNBBLJKPBEHFEDALKOLCCENKBCAB.tim.one@comcast.net>
+Message-ID: <15740.52785.769385.831666@slothrop.zope.com>

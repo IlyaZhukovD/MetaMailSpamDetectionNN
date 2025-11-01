@@ -1,0 +1,27 @@
+From mintformer@yahoo.com.hk  Fri Jul 26 06:42:01 2002
+Return-Path: <mintformer@yahoo.com.hk>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id BF5E4440E7
+	for <jm@localhost>; Fri, 26 Jul 2002 01:41:47 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 26 Jul 2002 06:41:47 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6Q5cn426711 for
+    <jm@jmason.org>; Fri, 26 Jul 2002 06:38:51 +0100
+Received: from mfnb01 (awork009023.netvigator.com [203.198.119.23]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6Q5bQp25357 for
+    <jm@netnoteinc.com>; Fri, 26 Jul 2002 06:37:34 +0100
+Date: Fri, 26 Jul 2002 06:37:34 +0100
+Received: from tcts by sky.seed.net.tw with SMTP id
+    gcBxjIoci1R85fGPIWMJY6kc; Fri, 26 Jul 2002 13:32:42 +0800
+Message-Id: <F3Dr6ByRFurWj@tpts4.seed.net.tw>
+From: sales@filmcapacitor-st.com
+To: PURCHASING@netnoteinc.com
+Subject: Filter Film Capacitor
+MIME-Version: 1.0
+X-Mailer: guSNkATxxis4eMSP7EFMnNTcbQal
+X-Priority: 3
+X-Msmail-Priority: Normal
+Content-Type: multipart/mixed; boundary="----=_NextPart_w06gnvwSMBJCZhhJJKsn0sSgc1kn"

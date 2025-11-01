@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19856.0b-J216gBVtducSysRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6C0JDJ18144
+	for <qqqqqqqqqq-zdnet@example.com>; Fri, 12 Jul 2002 01:19:14 +0100
+Received: from abv-sfo1-ac-agent4 (206.16.0.226) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Thu, 11 Jul 2002 17:19:57 -0700 (envelope-from <Online#3.19856.0b-J216gBVtducSysRR.1.b@newsletter.online.com>)
+Message-ID: <3103542.1026433146661.JavaMail.root@abv-sfo1-ac-agent4>
+Date: Thu, 11 Jul 2002 17:19:06 -0700 (PDT)
+From: CNET Digital Dispatch <Online#3.19856.0b-J216gBVtducSysRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: CNET DIGITAL DISPATCH: Saying good-bye to free
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

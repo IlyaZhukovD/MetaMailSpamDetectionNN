@@ -1,0 +1,40 @@
+From abv@coulam1.freeserve.co.uk  Fri Jul 19 13:09:52 2002
+Return-Path: <abv@coulam1.freeserve.co.uk>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id D1F1D43F90
+	for <jm@localhost>; Fri, 19 Jul 2002 08:09:51 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 13:09:51 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6JC6qJ25472 for
+    <jm@jmason.org>; Fri, 19 Jul 2002 13:06:52 +0100
+Received: from brd.com.rw (root@[209.58.98.6]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with ESMTP id g6JC6kp00954 for
+    <jm@netnoteinc.com>; Fri, 19 Jul 2002 13:06:47 +0100
+Received: from lchost2148.com (200-161-148-157.dsl.telesp.net.br
+    [200.161.148.157]) by brd.com.rw (8.8.7/8.8.7) with SMTP id OAA28920;
+    Fri, 19 Jul 2002 14:14:36 GMT
+Message-Id: <200207191414.OAA28920@brd.com.rw>
+From: "nowar" <nowar@netfict.com>
+To: nowar@netfict.com
+Cc: myfathersplace@netfxx.com, ray@netgeninc.com,
+	arjatim@nethawaii.net, allied@nethorizons.net, dianaf@netin.com,
+	joel@netingredients.com, bart.brinkmann@netivation.com,
+	krings@netjunction.com, jsloman@netlab.com, mdra@netlifestyles.com,
+	bob@netlinkcomp.com, carriew@netlords.com, rkr@netmaine.com,
+	don@netmark.cedarcity.com, reg@netmerchants.net, avc@netnames.com,
+	firstflight@netnc.com, jm@netnoteinc.com, mwi@netok.com,
+	kink@netops.com, ab267@netpac.com, juan@netpimp.com,
+	astor@netpoint.net, phymosia@netpursuits.com,
+	mains@netresultseafood.com, design@netroactive.com,
+	bwdjvb@netropolis.com, ksiejkowski@nets.net
+Date: Fri, 19 Jul 2002 04:46:16 -0700
+Subject: Easy Summer Income
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Precedence-Ref: l234056789zxcvbnmlkjhgfq
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii

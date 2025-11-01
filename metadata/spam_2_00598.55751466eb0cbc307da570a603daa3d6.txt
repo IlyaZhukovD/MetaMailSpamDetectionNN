@@ -1,0 +1,22 @@
+From am@insurancemail.net  Mon Jun 24 17:48:08 2002
+Return-Path: am@insurancemail.net
+Delivery-Date: Wed Jun  5 01:23:46 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g550Nk502902 for <jm@jmason.org>; Wed, 5 Jun 2002 01:23:46
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Tue, 4 Jun 2002 20:22:58 -0400
+Subject: Earn 20 times your peers
+To: <yyyy@spamassassin.taint.org>
+Date: Tue, 4 Jun 2002 20:22:58 -0400
+From: "IQ - Asset Marketing" <am@insurancemail.net>
+Message-Id: <54ad5601c20c27$24feee60$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIMBjWQJbkCTN2xR+2SWNh0cCvaZw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 05 Jun 2002 00:22:58.0535 (UTC) FILETIME=[25177F70:01C20C27]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_529F67_01C20BE4.AE80C980"

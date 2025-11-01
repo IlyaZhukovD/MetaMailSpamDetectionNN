@@ -1,0 +1,20 @@
+From Polaroid@optinat.com  Mon Jun 24 17:03:31 2002
+Return-Path: Polaroid@optinat.com
+Delivery-Date: Mon May 13 17:43:54 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4DGhie12542 for
+    <jm@jmason.org>; Mon, 13 May 2002 17:43:45 +0100
+Received: from host80.optinat.net (host.optinunlimited.com
+    [65.124.111.194]) by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with
+    ESMTP id g4DGhJD15473 for <jm@netnoteinc.com>; Mon, 13 May 2002 17:43:29
+    +0100
+Received: from html ([192.168.0.253]) by host80.optinat.net
+    (8.11.6/8.11.6) with SMTP id g4D3auG05925; Sun, 12 May 2002 23:37:10 -0400
+Message-Id: <200205130337.g4D3auG05925@host80.optinat.net>
+From: Polaroid@optinat.com
+To: yyyy@ns.sympatico.ca
+Subject: Polariod Digital Cameras Only $39.95
+Date: Mon, 13 May 2002 11:12:13
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="DEFAULT"

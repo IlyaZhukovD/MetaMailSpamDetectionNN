@@ -1,0 +1,17 @@
+From WEBMASTER@TAIONE.ORG  Mon Jun 24 17:54:23 2002
+Return-Path: mmailco@mail.com
+Delivery-Date: Tue Jun  4 07:39:11 2002
+Received: from WatersTruck.com (mail.goldentriangleima.org
+    [65.116.55.171]) by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id
+    g546dAO23968 for <WEBMASTER@TAINT.ORG>; Tue, 4 Jun 2002 07:39:10 +0100
+Message-Id: <200206040639.g546dAO23968@dogma.slashnull.org>
+Received: from plain (dial-212-1-148-116.access.uk.tiscali.com
+    [212.1.148.116]) by WatersTruck.com; Mon, 03 Jun 2002 10:56:23 -0500
+From: WEBMASTER@TAIONE.ORG
+Reply-To: mmailco@mail.com
+To: WEBMASTER@TAIONE.ORG
+Subject: Re: Your Order
+Date: Mon, 3 Jun 2002 09:20:34
+MIME-Version: 1.0
+Content-Type: text/plain; charset="DEFAULT"
+X-Keywords:

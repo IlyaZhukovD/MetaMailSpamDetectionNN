@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20345.8a-FdJElUl0a335ndRR.1.b@newsletter.online.com>
+Received: from acmta3.cnet.com (abv-sfo1-acmta3.cnet.com [206.16.1.162])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6HNV1J32459
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Thu, 18 Jul 2002 00:31:01 +0100
+Received: from abv-sfo1-ac-agent5 (206.16.0.240) by acmta3.cnet.com (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 16:23:32 -0700 (envelope-from <Online#3.20345.8a-FdJElUl0a335ndRR.1.b@newsletter.online.com>)
+Message-ID: <1527461.1026948654010.JavaMail.root@abv-sfo1-ac-agent5>
+Date: Wed, 17 Jul 2002 16:30:54 -0700 (PDT)
+From: CNET Virus  Security Newsletter <Online#3.20345.8a-FdJElUl0a335ndRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: CNET: Copycat worms and a PGP Outlook flaw
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

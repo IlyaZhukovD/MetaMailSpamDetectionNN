@@ -1,0 +1,24 @@
+From aladen@postino.ch  Mon Jun 24 17:03:48 2002
+Return-Path: aladen@postino.ch
+Delivery-Date: Wed May 15 04:56:22 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4F3uLe14757 for
+    <jm@jmason.org>; Wed, 15 May 2002 04:56:21 +0100
+Received: from TDMAIL.TylerDumas.Local.com ([207.148.196.143]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4F3uJD23376;
+    Wed, 15 May 2002 04:56:20 +0100
+Received: from mail.mailbox.hu (YCTEL-SERVER [218.15.128.53]) by
+    TDMAIL.TylerDumas.Local.com with SMTP (Microsoft Exchange Internet Mail
+    Service Version 5.5.2650.21) id KM0RSC1J; Tue, 14 May 2002 23:52:17 -0400
+Message-Id: <0000178f5d50$00004a4c$00005726@mail.mailbox.hu>
+To: <Hanberg@mandark.labs.netnoteinc.com>
+From: "Bambi Haskins" <aladen@postino.ch>
+Subject: Now anyone can get a merchant accountBBHNQGHU
+Date: Tue, 14 May 2002 21:11:53 -1600
+MIME-Version: 1.0
+X-Priority: 3
+X-Mailer: AT&T Message Center Version 1 (Feb 25 2002)
+X-Msmail-Priority: Normal
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

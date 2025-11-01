@@ -1,0 +1,7 @@
+Return-Path: anthony@interlink.com.au
+Delivery-Date: Sat Sep  7 04:38:51 2002
+From: anthony@interlink.com.au (Anthony Baxter)
+Date: Sat, 07 Sep 2002 13:38:51 +1000
+Subject: [Spambayes] test sets? 
+In-Reply-To: <LNBBLJKPBEHFEDALKOLCKEICBCAB.tim.one@comcast.net> 
+Message-ID: <200209070338.g873cpp20640@localhost.localdomain>

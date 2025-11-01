@@ -1,0 +1,9 @@
+Return-Path: gward@python.net
+Delivery-Date: Fri Sep  6 14:57:18 2002
+From: gward@python.net (Greg Ward)
+Date: Fri, 6 Sep 2002 09:57:18 -0400
+Subject: [Spambayes] Re: [Python-Dev] Getting started with GBayes testing
+In-Reply-To: <200209060806.g8686ve03964@localhost.localdomain>
+References: <BIEJKCLHCIOIHAGOKOLHGEEMDKAA.tim.one@comcast.net>
+	<200209060806.g8686ve03964@localhost.localdomain>
+Message-ID: <20020906135718.GC16820@cthulhu.gerg.ca>

@@ -1,0 +1,20 @@
+From PsychicCenter@MAIL5.INB-PRODUCTIONS.COM  Mon Jun 24 17:03:25 2002
+Return-Path: root@MAIL5.INB-PRODUCTIONS.COM
+Delivery-Date: Mon May 13 05:28:14 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4D4SDe16434 for
+    <jm@jmason.org>; Mon, 13 May 2002 05:28:13 +0100
+Received: from MAIL5.INB-PRODUCTIONS.COM
+    (IDENT:root@mail5.inb-productions.com [65.162.84.129]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4D4S1D12839 for
+    <jm@netnoteinc.com>; Mon, 13 May 2002 05:28:05 +0100
+Received: (from root@localhost) by MAIL5.INB-PRODUCTIONS.COM
+    (8.11.0/8.11.0) id g4D4SfL29133; Mon, 13 May 2002 00:28:41 -0400
+Date: Mon, 13 May 2002 00:28:41 -0400
+Message-Id: <200205130428.g4D4SfL29133@MAIL5.INB-PRODUCTIONS.COM>
+To: yyyy@netnoteinc.com
+From: Psychic Center<PsychicCenter@MAIL5.INB-PRODUCTIONS.COM>
+Reply-To: service@inb-productions.com
+Subject: This is where it all begins
+X-Keywords: 
+Content-Type: text/html

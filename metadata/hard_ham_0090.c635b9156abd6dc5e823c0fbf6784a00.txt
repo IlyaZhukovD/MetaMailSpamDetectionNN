@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20351.c6-p402lCSzguclhRRR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6I0MvJ05857
+	for <qqqqqqqqqq-zdnet@example.com>; Thu, 18 Jul 2002 01:22:57 +0100
+Received: from abv-sfo1-ac-agent6 (206.16.0.241) by acmta4.cnet.com (PowerMTA(TM) v1.5); Wed, 17 Jul 2002 17:17:27 -0700 (envelope-from <Online#3.20351.c6-p402lCSzguclhRRR.1.b@newsletter.online.com>)
+Message-ID: <1365674.1026951768854.JavaMail.root@abv-sfo1-ac-agent6>
+Date: Wed, 17 Jul 2002 17:22:48 -0700 (PDT)
+From: "CNET: Tools for Software Developers" <Online#3.20351.c6-p402lCSzguclhRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: This Week: Chilkat Zip, Anfy Java, VB-PowerWrap
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

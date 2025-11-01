@@ -1,0 +1,25 @@
+From ndqED@dialup.hiwaay.net  Thu Aug  1 03:47:06 2002
+Return-Path: <ndqED@dialup.hiwaay.net>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 2C269440A8
+	for <jm@localhost>; Wed, 31 Jul 2002 22:47:06 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 01 Aug 2002 03:47:06 +0100 (IST)
+Received: from 206.48.144.50 ([206.48.144.50])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g712dGp17146
+	for <jm@netnoteinc.com>; Thu, 1 Aug 2002 03:39:18 +0100
+Message-Id: <200208010239.g712dGp17146@mandark.labs.netnoteinc.com>
+Received: from unknown (19.150.51.145) by n9.groups.yahoo.com with esmtp; Jul, 31 2002 10:24:56 PM +1100
+Received: from unknown (HELO mail.gmx.net) (171.245.226.233)by rly-xl04.mx.aol.com with local; Jul, 31 2002 9:22:39 PM +1100
+Received: from [159.218.252.32] by n7.groups.yahoo.com with SMTP; Jul, 31 2002 8:23:34 PM +0300
+From: kfaHotel <ndqED@dialup.hiwaay.net>
+To: Levelthree@level3.com
+Cc: 
+Subject: your report !  ufhvv
+Sender: kfaHotel <ndqED@dialup.hiwaay.net>
+Mime-Version: 1.0
+Date: Wed, 31 Jul 2002 22:45:06 -0400
+X-Mailer: Microsoft Outlook Express 5.00.2919.6700
+Content-Type: text/html; charset="iso-8859-1"

@@ -1,0 +1,22 @@
+From amc@insurancemail.net  Mon Jun 24 17:08:16 2002
+Return-Path: amc@insurancemail.net
+Delivery-Date: Thu May 30 00:37:02 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g4TNb1O31183 for <jm@jmason.org>; Thu, 30 May 2002 00:37:02
+    +0100
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Wed, 29 May 2002 19:36:23 -0400
+Subject: Close 90% of Your Prospects
+To: <yyyy@spamassassin.taint.org>
+Date: Wed, 29 May 2002 19:36:23 -0400
+From: "Americorp" <amc@insurancemail.net>
+Message-Id: <3e976201c20769$a4610f20$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcIHUMcZ9AdOmmtfST6knEvuaZeEAw==
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 29 May 2002 23:36:23.0259 (UTC) FILETIME=[A47FBAB0:01C20769]
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_3C9CE7_01C2072F.40093DC0"

@@ -1,0 +1,29 @@
+From Andrea_Martinae@hotmail.com  Mon Jun 24 17:05:53 2002
+Return-Path: Andrea_Martinae@hotmail.com
+Delivery-Date: Wed May 22 20:36:26 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4MJaGe23868 for
+    <jm@jmason.org>; Wed, 22 May 2002 20:36:18 +0100
+Received: from 211.46.69.253 ([211.46.69.253]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with SMTP id g4MJZoD00414 for
+    <jm@netnoteinc.com>; Wed, 22 May 2002 20:35:59 +0100
+Message-Id: <200205221935.g4MJZoD00414@mandark.labs.netnoteinc.com>
+Received: from anther.webhostingtalk.com ([88.58.121.118]) by
+    da001d2020.lax-ca.osd.concentric.net with QMQP; May, 22 2002 3:18:54 PM
+    +0300
+Received: from unknown (HELO rly-xw01.mx.aol.com) (96.213.243.25) by
+    n9.groups.yahoo.com with asmtp; May, 22 2002 2:34:40 PM +0300
+Received: from mta6.snfc21.pbi.net ([39.26.127.61]) by ssymail.ssy.co.kr
+    with esmtp; May, 22 2002 1:43:02 PM -0000
+Received: from unknown (124.215.35.163) by rly-xw01.mx.aol.com with QMQP;
+    May, 22 2002 12:35:44 PM -0000
+From: Andrea <Andrea_Martinae@hotmail.com>
+To: yyyy@netnoteinc.com
+Cc: 
+Subject: Hey!
+Sender: Andrea <Andrea_Martinae@hotmail.com>
+MIME-Version: 1.0
+Date: Wed, 22 May 2002 15:43:18 -0400
+X-Mailer: Microsoft Outlook IMO Build 9.0.2416 (9.0.2910.0)
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"

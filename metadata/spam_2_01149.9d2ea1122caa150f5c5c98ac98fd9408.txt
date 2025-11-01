@@ -1,0 +1,24 @@
+From dfbgeuvbifeigv@msn.com  Mon Jul 29 11:40:35 2002
+Return-Path: <dfbgeuvbifeigv@msn.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4A0604417D
+	for <jm@localhost>; Mon, 29 Jul 2002 06:35:46 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:35:46 +0100 (IST)
+Received: from server02.doublestar.com.cn ([61.179.116.33]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6S46Ui18554 for
+    <webmaster@efi.ie>; Sun, 28 Jul 2002 05:06:30 +0100
+Received: from smtp-gw-4.msn.com
+    (host217-35-130-233.in-addr.btopenworld.com [217.35.130.233]) by
+    server02.doublestar.com.cn with SMTP (Microsoft Exchange Internet Mail
+    Service Version 5.5.2653.13) id PVFYSX4G; Sun, 28 Jul 2002 11:36:29 +0800
+Message-Id: <000022827e80$00005716$00005db4@smtp-gw-4.msn.com>
+To: <Valued.Customers@dogma.slashnull.org>
+From: "JULIET PICKETT" <dfbgeuvbifeigv@msn.com>
+Subject: Re: Saving money - this is the plan for you        9018
+Date: Sat, 27 Jul 2002 23:28:56 -1600
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

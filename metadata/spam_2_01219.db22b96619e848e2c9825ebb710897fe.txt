@@ -1,0 +1,25 @@
+From Clear2-1268x10@lycos.com  Wed Jul 31 16:45:50 2002
+Return-Path: <Clear2-1268x10@lycos.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 9C39C440A8
+	for <jm@localhost>; Wed, 31 Jul 2002 11:45:50 -0400 (EDT)
+Received: from mandark.labs.netnoteinc.com [213.105.180.140]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 31 Jul 2002 16:45:50 +0100 (IST)
+Received: from lycos.com ([211.251.141.1])
+	by mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6VFhcp15440;
+	Wed, 31 Jul 2002 16:43:48 +0100
+Reply-To: "Mike" <Clear2-1268x10@lycos.com>
+Message-ID: <027a01b58d0e$7825a7a6$8ab33ee3@goxtst>
+From: "Mike" <Clear2-1268x10@lycos.com>
+To: <yyyy7@netnoteinc.com>
+Cc: <yyyy@netnoteinc.com>
+Subject: Line?                                        
+Date: Wed, 31 Jul 2002 19:17:12 -0400
+MiME-Version: 1.0
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+Importance: Normal
+Content-Type: text/html; charset="iso-8859-1"

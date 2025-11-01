@@ -1,0 +1,25 @@
+From moneymaker@yahoo.com  Mon Jun 24 17:08:44 2002
+Return-Path: moneymaker@yahoo.com
+Delivery-Date: Thu May 30 23:41:43 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4UMfcO27162 for
+    <jm@jmason.org>; Thu, 30 May 2002 23:41:38 +0100
+Received: from kccenter.coremation.com (customer171-176.iplannetworks.net
+    [200.61.171.176] (may be forged)) by mandark.labs.netnoteinc.com
+    (8.11.2/8.11.2) with ESMTP id g4UMfZ709881 for <jm@netnoteinc.com>;
+    Thu, 30 May 2002 23:41:36 +0100
+Received: from . (203.197.32.237 [203.197.32.237]) by
+    kccenter.coremation.com with SMTP (Microsoft Exchange Internet Mail
+    Service Version 5.5.2650.21) id LR0SFTR8; Thu, 30 May 2002 19:45:39 -0300
+Message-Id: <000026d46d81$0000489e$00004bc0@.>
+To: <yyyy@npcc.net>, <yyyy@nh.conex.net>, <yyyy@ntlworld.com>,
+    <jm@netnoteinc.com>, <jm@netvigator.com>, <jm@nusaweb.com>
+Cc: <yyyy@netquarters.net>, <yyyy@nh.ultranet.com>, <yyyy@nstar.net>,
+    <jm@newgold.net>, <jm@nwn.de>, <jm@ntr.net>
+From: moneymaker@yahoo.com
+Subject: eBay ordering8932
+Date: Thu, 30 May 2002 15:38:37 -1900
+MIME-Version: 1.0
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

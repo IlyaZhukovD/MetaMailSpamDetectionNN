@@ -1,0 +1,15 @@
+Return-Path: <Online#3.19676.e7-ldDFl1QrfB8URRRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6AIpaJ29804
+	for <qqqqqqqqqq-cnet-newsletters@example.com>; Wed, 10 Jul 2002 19:51:36 +0100
+Received: from abv-sfo1-ac-agent6 (206.16.0.241) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Wed, 10 Jul 2002 11:52:19 -0700 (envelope-from <Online#3.19676.e7-ldDFl1QrfB8URRRR.1.b@newsletter.online.com>)
+Message-ID: <3888067.1026327089578.JavaMail.root@abv-sfo1-ac-agent6>
+Date: Wed, 10 Jul 2002 11:51:29 -0700 (PDT)
+From: CNET Handhelds Newsletter <Online#3.19676.e7-ldDFl1QrfB8URRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-cnet-newsletters@example.com
+Subject: Xscale disappoints in Toshiba's e740
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

@@ -1,0 +1,25 @@
+From targetemailextractor@btamail.net.cn  Fri Jul 19 22:02:47 2002
+Return-Path: <targetemailextractor@btamail.net.cn>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id B835E440C8
+	for <jm@localhost>; Fri, 19 Jul 2002 17:02:46 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Fri, 19 Jul 2002 22:02:46 +0100 (IST)
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6JL02J03106 for
+    <jm-cv@jmason.org>; Fri, 19 Jul 2002 22:00:02 +0100
+Received: from localhost.com ([61.174.203.44]) by webnote.net
+    (8.9.3/8.9.3) with SMTP id VAA21625 for <jm-cv@jmason.org>; Fri,
+    19 Jul 2002 21:59:57 +0100
+From: targetemailextractor@btamail.net.cn
+Message-Id: <200207192059.VAA21625@webnote.net>
+Reply-To: targetemailextractor@btamail.net.cn
+To: yyyy-cv@spamassassin.taint.org
+Date: Sat, 20 Jul 2002 04:59:59 +0800
+Subject: ADV: Direct email blaster, email addresses extractor, maillist verify, maillist manager...........
+X-Mailer: QuickSender 1.05
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable

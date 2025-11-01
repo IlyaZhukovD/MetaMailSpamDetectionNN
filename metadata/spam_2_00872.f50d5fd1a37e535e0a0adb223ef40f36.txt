@@ -1,0 +1,31 @@
+From pitster265483667@hotmail.com  Tue Jul 23 01:49:32 2002
+Return-Path: <pitster265483667@hotmail.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 4F795440C8
+	for <jm@localhost>; Mon, 22 Jul 2002 20:49:32 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 23 Jul 2002 01:49:32 +0100 (IST)
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6N0n8411640 for
+    <jm@jmason.org>; Tue, 23 Jul 2002 01:49:09 +0100
+Received: from jbyp.gagitv.co.kr ([61.39.38.185]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.6) with SMTP id g6N0mKp11754 for
+    <jm@netnoteinc.com>; Tue, 23 Jul 2002 01:48:21 +0100
+Received: from 200.252.55.2 (unverified [200.252.55.2]) by
+    jbyp.gagitv.co.kr (EMWAC SMTPRS 0.83) with SMTP id
+    <B0000301343@jbyp.gagitv.co.kr>; Tue, 23 Jul 2002 09:48:22 +0900
+Message-Id: <B0000301343@jbyp.gagitv.co.kr>
+From: pitster265483667@hotmail.com
+To: dhudobenko@yahoo.com
+Cc: drjnieto@prtc.net, twizdead@hotmail.com, none700@hotmail.com,
+	akrepb@hotmail.com, creteman01@yahoo.com, bolm@mailcity.com,
+	cnaude@trusted.net, jjk7@aloha.net, tato8@hotmail.com, corker@att.net
+Date: Mon, 22 Jul 2002 08:44:32 -0400
+Subject: Get EZ Internet Privacy for peace of mind.
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-Mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii

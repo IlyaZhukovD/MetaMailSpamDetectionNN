@@ -1,0 +1,24 @@
+From imrich@nete.net  Mon Jun 24 17:03:00 2002
+Return-Path: monna@datatex.com.ni
+Delivery-Date: Sat May 11 06:30:36 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4B5UZe09440 for
+    <jm@jmason.org>; Sat, 11 May 2002 06:30:36 +0100
+Received: from dynamic2000.Dynamicchocolates.com (1960176.cipherkey.com
+    [209.53.196.176]) by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with
+    ESMTP id g4B5USD02055 for <jm@netnoteinc.com>; Sat, 11 May 2002 06:30:29
+    +0100
+Message-Id: <200205110530.g4B5USD02055@mandark.labs.netnoteinc.com>
+Received: from chekitb1822.com (pa178.plaszew.sdi.tpnet.pl
+    [213.76.216.178]) by dynamic2000.Dynamicchocolates.com with SMTP
+    (Microsoft Exchange Internet Mail Service Version 5.5.2650.21) id KRDQKHG3;
+    Fri, 10 May 2002 22:30:24 -0700
+From: "imrich" <imrich@nete.net>
+Date: Fri, 10 May 2002 22:30:21 -0700
+Subject: Your Own Desk Top Investigator
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+MIME-Version: 1.0
+X-Precedence-Ref: l234
+Content-Type: text/plain; charset=us-ascii
+X-Keywords: 
+Content-Transfer-Encoding: 7bit

@@ -1,0 +1,17 @@
+From computerupdates101@msn.com  Mon Jul 30 09:02:35 2001
+Return-Path: <computerupdates101@msn.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from dogma.slashnull.org (dogma.slashnull.org [212.17.35.15]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 6B527151C2C for
+    <jm@netnoteinc.com>; Mon, 30 Jul 2001 08:02:34 +0000 (Eire)
+Received: from indec-ntserver.indec.com.au (indecp1.lnk.telstra.net
+    [139.130.51.102]) by dogma.slashnull.org (8.9.3/8.9.3) with ESMTP id
+    JAA07687 for <postmaster@eire.com>; Mon, 30 Jul 2001 09:02:27 +0100
+Date: Mon, 30 Jul 2001 09:02:27 +0100
+From: computerupdates101@msn.com
+Message-Id: <200107300802.JAA07687@dogma.slashnull.org>
+Received: from 202 (indecp.lnk.telstra.net [139.130.38.75]) by
+    indec-ntserver.indec.com.au with SMTP (Microsoft Exchange Internet Mail
+    Service Version 5.5.2650.21) id 35KJCMA9; Sat, 28 Jul 2001 17:45:55 +1000
+To: computerupdates101@msn.com
+Subject: windows tips

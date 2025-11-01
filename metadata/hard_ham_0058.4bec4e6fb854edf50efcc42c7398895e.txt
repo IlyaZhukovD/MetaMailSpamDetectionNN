@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20034.f9-f6ASlANZLfc4HRRR.1.b@newsletter.online.com>
+Received: from abv-sfo1-acmta1.CNET.COM (abv-sfo1-acmta1.cnet.com [206.16.1.160])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6FAMMJ30493
+	for <qqqqqqqqqq-zdnet@example.com>; Mon, 15 Jul 2002 11:22:22 +0100
+Received: from abv-sfo1-ac-agent7 (206.16.0.244) by abv-sfo1-acmta1.CNET.COM (PowerMTA(TM) v1.5); Mon, 15 Jul 2002 03:23:07 -0700 (envelope-from <Online#3.20034.f9-f6ASlANZLfc4HRRR.1.b@newsletter.online.com>)
+Message-ID: <7986780.1026728536508.JavaMail.root@abv-sfo1-ac-agent7>
+Date: Mon, 15 Jul 2002 03:22:16 -0700 (PDT)
+From: ZDNet Tech Update Today <Online#3.20034.f9-f6ASlANZLfc4HRRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: What's facing FBI's new CIO? (Tech Update)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

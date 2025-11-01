@@ -1,0 +1,21 @@
+From FLN-Community@FreeLinksNetwork.com  Thu Aug  2 11:40:26 2001
+Return-Path: <FLN-Community@FreeLinksNetwork.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from rovdb001.roving.com (unknown [216.251.239.53]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 48A19114148 for
+    <jm@netnoteinc.com>; Thu,  2 Aug 2001 10:40:23 +0000 (Eire)
+Received: from rovweb003 (unknown [10.208.80.89]) by rovdb001.roving.com
+    (Postfix) with ESMTP id 65F3A1A56F3 for <jm@netnoteinc.com>;
+    Thu,  2 Aug 2001 06:30:51 -0400 (EDT)
+From: Your Membership Newsletter <FLN-Community@FreeLinksNetwork.com>
+To: yyyy@netnoteinc.com
+Subject: Your Membership Exchange, #441
+Content-Type: multipart/alternative;
+    boundary=90840724.996748272348.JavaMail.RovAdmin.rovweb003
+X-Roving-Queued: 20010802 06:31.12348
+X-Roving-Version: 4.1.Patch44.ThingOne_p44_07_18_01_PoolFix
+X-Mailer: Roving Constant Contact 4.1.Patch44.ThingOne_p44_07_18_01_PoolFi
+    x (http://www.constantcontact.com)
+X-Roving-Id: 996712293421
+Message-Id: <20010802103051.65F3A1A56F3@rovdb001.roving.com>
+Date: Thu,  2 Aug 2001 06:30:51 -0400 (EDT)

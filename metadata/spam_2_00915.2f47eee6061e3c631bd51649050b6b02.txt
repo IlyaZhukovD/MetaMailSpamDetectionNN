@@ -1,0 +1,16 @@
+Received: from uuout14smtp10.uu.flonetwork.com (uuout14smtp10.uu.flonetwork.com [205.150.6.130])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6N43ae14008
+	for <gibbs@midrange.com>; Mon, 22 Jul 2002 23:03:36 -0500
+Received: from UUCORE14PUMPER2 (uuout14relay1.uu.flonetwork.com [172.20.74.10])
+	by uuout14smtp10.uu.flonetwork.com (Postfix) with SMTP id B23003AA097
+	for <gibbs@midrange.com>; Mon, 22 Jul 2002 23:58:36 -0400 (EDT)
+Message-Id: <Kilauea264-235-26536324-1@flonetwork.com>
+From: Consumer Today <reply_3@ct2.consumertoday.net>
+To: gibbs@midrange.com
+Subject: Get 250 full-color business cards FREE
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Date: Mon, 22 Jul 2002 23:58:36 -0400 (EDT)
+X-Status: 
+X-Keywords:

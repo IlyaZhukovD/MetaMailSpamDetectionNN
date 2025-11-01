@@ -1,0 +1,15 @@
+Return-Path: <Online#3.20107.b2-zRGmlU_93Z0ezsRR.1.b@newsletter.online.com>
+Received: from acmta4.cnet.com (abv-sfo1-acmta4.cnet.com [206.16.1.163])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6G95tJ23622
+	for <qqqqqqqqqq-zdnet@example.com>; Tue, 16 Jul 2002 10:05:55 +0100
+Received: from abv-sfo1-ac-agent3 (206.16.0.225) by acmta4.cnet.com (PowerMTA(TM) v1.5); Tue, 16 Jul 2002 02:00:28 -0700 (envelope-from <Online#3.20107.b2-zRGmlU_93Z0ezsRR.1.b@newsletter.online.com>)
+Message-ID: <3521710.1026810348719.JavaMail.root@abv-sfo1-ac-agent3>
+Date: Tue, 16 Jul 2002 02:05:48 -0700 (PDT)
+From: ZDNet Shopper <Online#3.20107.b2-zRGmlU_93Z0ezsRR.1@newsletter.online.com>
+To: qqqqqqqqqq-zdnet@example.com
+Subject: Personal laser picks for students, SOHO users, and more! (ZDNET SHOPPER)
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2

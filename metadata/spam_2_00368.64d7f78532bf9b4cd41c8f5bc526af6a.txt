@@ -1,0 +1,23 @@
+From robertseviour@totalise.co.uk  Mon Jun 24 17:04:52 2002
+Return-Path: robertseviour@totalise.co.uk
+Delivery-Date: Sun May 19 10:31:59 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4J9Vwe06636 for
+    <jm@jmason.org>; Sun, 19 May 2002 10:31:58 +0100
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4J9VsD14202 for
+    <jm@netnoteinc.com>; Sun, 19 May 2002 10:31:57 +0100
+Received: from totalise.co.uk (m182-mp1-cvx1a.bre.ntl.com [62.253.68.182])
+    by smtp.easydns.com (Postfix) with SMTP id F12952D56E for
+    <jm@netnoteinc.com>; Sun, 19 May 2002 05:31:50 -0400 (EDT)
+From: "Robert Seviour" <robertseviour@totalise.co.uk>
+To: <yyyy@netnoteinc.com>
+Subject: Engineers can't sell !!
+Sender: "Robert Seviour" <robertseviour@totalise.co.uk>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Sun, 19 May 2002 10:40:36 +0100
+Reply-To: "Robert Seviour" <ukdatacd@totalise.co.uk>
+Message-Id: <20020519093150.F12952D56E@smtp.easydns.com>
+X-Keywords: 
+Content-Transfer-Encoding: 8bit

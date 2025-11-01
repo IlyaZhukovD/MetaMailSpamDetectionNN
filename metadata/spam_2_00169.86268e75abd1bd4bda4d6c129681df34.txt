@@ -1,0 +1,22 @@
+From postmaster@tfi.kpn.com  Mon Jun 24 17:40:28 2002
+Return-Path: MAILER-DAEMON@dogma.slashnull.org
+Delivery-Date: Wed Feb 27 11:54:31 2002
+Received: from relay2.kpn-telecom.nl (relay2.kpn-telecom.nl [145.7.200.7])
+    by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g1PCWYk14376 for
+    <jm@dogma.slashnull.org>; Mon, 25 Feb 2002 12:32:35 GMT
+Received: from mtpi7059.I.kpn.com (mtpi7059.kpn.com [145.7.237.59]) by
+    relay2.kpn-telecom.nl (8.11.6/8.11.6) with ESMTP id g1PCWXW14313 for
+    <jm@dogma.slashnull.org>; Mon, 25 Feb 2002 13:32:33 +0100
+Received: by mtpi7059.I.kpn.com with Internet Mail Service (5.5.2653.19)
+    id <FJT4D8Q8>; Mon, 25 Feb 2002 13:32:34 +0100
+Message-Id: <D2C2E9156113704083DD07CCE950DB73017D3065@mtpi7059.I.kpn.com>
+From: System Administrator <postmaster@tfi.kpn.com>
+To: yyyy@dogma.slashnull.org
+Subject: Undeliverable: Home Based Business for Grownups
+Date: Mon, 25 Feb 2002 13:32:33 +0100
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+X-MS-Embedded-Report: 
+X-Status: 
+X-Keywords: 
+Content-Type: multipart/mixed; boundary="----_=_NextPart_000_01C1BDF8.7FDC11CE"

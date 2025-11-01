@@ -1,0 +1,7 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Fri Sep  6 22:32:21 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Fri, 06 Sep 2002 17:32:21 -0400
+Subject: [Spambayes] Deployment
+In-Reply-To: <LNBBLJKPBEHFEDALKOLCGEIPBCAB.tim.one@comcast.net>
+Message-ID: <LNBBLJKPBEHFEDALKOLCGEJOBCAB.tim.one@comcast.net>

@@ -1,0 +1,45 @@
+From mephistopheles29@hotmail.com  Wed Aug 28 10:55:16 2002
+Return-Path: <mephistopheles29@hotmail.com>
+Delivered-To: zzzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 2367B43F99
+	for <zzzz@localhost>; Wed, 28 Aug 2002 05:55:15 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzzz@localhost (single-drop); Wed, 28 Aug 2002 10:55:15 +0100 (IST)
+Received: from n25.grp.scd.yahoo.com (n25.grp.scd.yahoo.com
+    [66.218.66.81]) by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id
+    g7S8jKZ16862 for <zzzz@example.com>; Wed, 28 Aug 2002 09:45:21 +0100
+X-Egroups-Return: sentto-2242572-53137-1030524326-zzzz=example.com@returns.groups.yahoo.com
+Received: from [66.218.67.192] by n25.grp.scd.yahoo.com with NNFMP;
+    28 Aug 2002 08:45:26 -0000
+X-Sender: mephistopheles29@hotmail.com
+X-Apparently-To: zzzzteana@yahoogroups.com
+Received: (EGP: mail-8_1_0_1); 28 Aug 2002 08:45:26 -0000
+Received: (qmail 4957 invoked from network); 28 Aug 2002 08:45:26 -0000
+Received: from unknown (66.218.66.218) by m10.grp.scd.yahoo.com with QMQP;
+    28 Aug 2002 08:45:26 -0000
+Received: from unknown (HELO n8.grp.scd.yahoo.com) (66.218.66.92) by
+    mta3.grp.scd.yahoo.com with SMTP; 28 Aug 2002 08:45:25 -0000
+Received: from [66.218.67.137] by n8.grp.scd.yahoo.com with NNFMP;
+    28 Aug 2002 08:45:25 -0000
+To: zzzzteana@yahoogroups.com
+Message-Id: <aki2j5+dc0j@eGroups.com>
+User-Agent: eGroups-EW/0.82
+X-Mailer: Yahoo Groups Message Poster
+From: "timothy_hodkinson" <mephistopheles29@hotmail.com>
+X-Originating-Ip: 62.172.206.50
+X-Yahoo-Profile: timothy_hodkinson
+MIME-Version: 1.0
+Mailing-List: list zzzzteana@yahoogroups.com; contact
+    forteana-owner@yahoogroups.com
+Delivered-To: mailing list zzzzteana@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:zzzzteana-unsubscribe@yahoogroups.com>
+Date: Wed, 28 Aug 2002 08:45:25 -0000
+Subject: [zzzzteana] Crop Idol: Crop circle competition
+Reply-To: zzzzteana@yahoogroups.com
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
+    id g7S8jKZ16862

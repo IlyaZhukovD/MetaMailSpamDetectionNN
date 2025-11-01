@@ -1,0 +1,22 @@
+From Emailcentre@up369.com  Mon Jun 24 17:49:42 2002
+Return-Path: Emailcentre@up369.com
+Delivery-Date: Mon Jun 10 22:36:23 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g5ALaMG32217 for
+    <jm@jmason.org>; Mon, 10 Jun 2002 22:36:22 +0100
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mandark.labs.netnoteinc.com (8.11.6/8.11.2) with ESMTP id g5ALaKm32249 for
+    <jm@netnoteinc.com>; Mon, 10 Jun 2002 22:36:21 +0100
+Received: from up369.com ([218.6.2.115]) by webnote.net (8.9.3/8.9.3) with
+    SMTP id WAA29178 for <jm@netnoteinc.com>; Mon, 10 Jun 2002 22:36:18 +0100
+Message-Id: <200206102136.WAA29178@webnote.net>
+From: "Marketing Manager" <Emailcentre@up369.com>
+To: <yyyy@netnoteinc.com>
+Subject: Promote Your Business
+Sender: "Marketing Manager" <Emailcentre@up369.com>
+MIME-Version: 1.0
+Date: Tue, 11 Jun 2002 05:40:40 +0800
+Reply-To: "Marketing Manager" <XinlanInternet@163.com>
+X-Keywords: 
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit

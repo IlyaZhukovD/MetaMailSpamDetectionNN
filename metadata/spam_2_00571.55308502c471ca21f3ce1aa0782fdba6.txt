@@ -1,0 +1,21 @@
+From hdtrade@dreamwiz.com  Mon Jun 24 17:52:50 2002
+Return-Path: hdtrade@dreamwiz.com
+Delivery-Date: Mon Jun  3 09:02:07 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g53826O05254 for
+    <jm@jmason.org>; Mon, 3 Jun 2002 09:02:06 +0100
+Received: from relay6.kornet.net ([211.48.62.166]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g53822726720 for
+    <jm@netnoteinc.com>; Mon, 3 Jun 2002 09:02:03 +0100
+Received: from hyundaitrade (211.196.206.210) by relay6.kornet.net;
+    3 Jun 2002 17:01:55 +0900
+Message-Id: <3cfb22733e96eeeb@relay6.kornet.net> (added by relay6.kornet.net)
+From: hdtrade@dreamwiz.com
+Subject: Personal Alcohol Detector
+To: yyyy@netnoteinc.com
+Reply-To: hyundaitrade@hyundaitrade.com
+Date: Mon, 3 Jun 2002 17:06:35 +0900
+X-Priority: 3
+X-Library: Indy 8.0.25
+X-Keywords: 
+Content-Type: text/html;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

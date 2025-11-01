@@ -1,0 +1,41 @@
+From fork-admin@xent.com  Thu Jul 25 11:19:51 2002
+Return-Path: <fork-admin@xent.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id DC842440D2
+	for <jm@localhost>; Thu, 25 Jul 2002 06:19:49 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Thu, 25 Jul 2002 11:19:49 +0100 (IST)
+Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6P3XY428141 for <jm@jmason.org>;
+    Thu, 25 Jul 2002 04:33:35 +0100
+Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
+    with ESMTP id 4F8DB294169; Wed, 24 Jul 2002 20:32:06 -0700 (PDT)
+Delivered-To: fork@spamassassin.taint.org
+Received: from run-home (h053.tr.kct.ne.jp [211.125.110.53]) by xent.com
+    (Postfix) with ESMTP id 9A6CC294163 for <fork@xent.com>; Wed,
+    24 Jul 2002 20:31:05 -0700 (PDT)
+From: Member_Service@aol.com
+To: fork@spamassassin.taint.org
+Subject: =?ISO-8859-1?Q?Lose=20fat=2C=20gain=20muscle=20with=20HGH?=
+MIME-Version: 1.0 (produced by Synapse)
+X-Mailer: Synapse - Delphi & Kylix TCP/IP library by Lukas Gebauer
+Content-Disposition: inline
+Content-Description: HTML text
+Message-Id: <20020725033105.9A6CC294163@xent.com>
+Sender: fork-admin@xent.com
+Errors-To: fork-admin@xent.com
+X-Beenthere: fork@spamassassin.taint.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+List-Help: <mailto:fork-request@xent.com?subject=help>
+List-Post: <mailto:fork@spamassassin.taint.org>
+List-Subscribe: <http://xent.com/mailman/listinfo/fork>, <mailto:fork-request@xent.com?subject=subscribe>
+List-Id: Friends of Rohit Khare <fork.xent.com>
+List-Unsubscribe: <http://xent.com/mailman/listinfo/fork>,
+    <mailto:fork-request@xent.com?subject=unsubscribe>
+List-Archive: <http://xent.com/pipermail/fork/>
+Date: Thu, 25 Jul 2002 11:10:01 +0800
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: Quoted-printable

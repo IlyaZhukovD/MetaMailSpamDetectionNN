@@ -1,0 +1,24 @@
+From cleand_my_shed@yahoo.com  Mon Jul 29 11:41:08 2002
+Return-Path: <cleand_my_shed@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id E8AFF440EC
+	for <jm@localhost>; Mon, 29 Jul 2002 06:36:46 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:36:46 +0100 (IST)
+Received: from yahoo.com (IDENT:nobody@[211.46.17.161]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g6T0xci31526 for
+    <webmaster@efi.ie>; Mon, 29 Jul 2002 01:59:39 +0100
+Reply-To: <cleand_my_shed@yahoo.com>
+Message-Id: <002d63d85c4a$4774a8a6$8bb84bb7@xufqoe>
+From: <cleand_my_shed@yahoo.com>
+To: <webmaster@efi.ie>
+Subject: The Government grants you $25,000!
+Date: Mon, 29 Jul 2002 13:51:52 +1100
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2627
+Importance: Normal
+Content-Type: text/html; charset="iso-8859-1"

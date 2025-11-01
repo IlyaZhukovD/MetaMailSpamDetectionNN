@@ -1,0 +1,24 @@
+From director@thk.jtb.co.jp  Mon Jun 24 17:06:15 2002
+Return-Path: director@thk.jtb.co.jp
+Delivery-Date: Fri May 24 12:47:44 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4OBlae02377 for
+    <jm@jmason.org>; Fri, 24 May 2002 12:47:37 +0100
+Received: from tomts8-srv.bellnexxia.net (tomts8.bellnexxia.net
+    [209.226.175.52]) by mandark.labs.netnoteinc.com (8.11.2/8.11.2) with
+    ESMTP id g4OBlR706996; Fri, 24 May 2002 12:47:28 +0100
+Received: from jtbmail.jtb.co.jp ([65.92.55.78]) by
+    tomts8-srv.bellnexxia.net (InterMail vM.5.01.04.19
+    201-253-122-122-119-20020516) with SMTP id
+    <20020524114444.HOHY14183.tomts8-srv.bellnexxia.net@jtbmail.jtb.co.jp>;
+    Fri, 24 May 2002 07:44:44 -0400
+Reply-To: <bedrockr@relay.maglab.mplik.ru>
+From: "BARBARA" <director@thk.jtb.co.jp>
+To: "," <0237@globix.net>
+Subject: Sorry they were in a meeting
+MIME-Version: 1.0
+Message-Id: <20020524114444.HOHY14183.tomts8-srv.bellnexxia.net@jtbmail.jtb.co.jp>
+Date: Fri, 24 May 2002 07:44:44 -0400
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

@@ -1,0 +1,7 @@
+Return-Path: tim.one@comcast.net
+Delivery-Date: Tue Sep 10 20:01:36 2002
+From: tim.one@comcast.net (Tim Peters)
+Date: Tue, 10 Sep 2002 15:01:36 -0400
+Subject: [Spambayes] Current histograms
+In-Reply-To: <200209100929.g8A9TJV27347@localhost.localdomain>
+Message-ID: <BIEJKCLHCIOIHAGOKOLHEEHMDKAA.tim.one@comcast.net>

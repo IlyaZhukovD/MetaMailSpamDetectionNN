@@ -1,0 +1,56 @@
+From rpm-list-admin@freshrpms.net  Wed Oct  9 10:51:58 2002
+Return-Path: <rpm-list-admin@freshrpms.net>
+Delivered-To: zzz@localhost.example.com
+Received: from localhost (jalapeno [127.0.0.1])
+	by example.com (Postfix) with ESMTP id 1C65916F1F
+	for <zzz@localhost>; Wed,  9 Oct 2002 10:51:25 +0100 (IST)
+Received: from jalapeno [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Wed, 09 Oct 2002 10:51:25 +0100 (IST)
+Received: from egwn.net (auth02.nl.egwn.net [193.172.5.4]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g996IjK22331 for
+    <zzz-rpm@example.com>; Wed, 9 Oct 2002 07:18:46 +0100
+Received: from auth02.nl.egwn.net (localhost [127.0.0.1]) by egwn.net
+    (8.11.6/8.11.6/EGWN) with ESMTP id g996G1f09135; Wed, 9 Oct 2002 08:16:01
+    +0200
+Received: from mta6.snfc21.pbi.net (mta6.snfc21.pbi.net [206.13.28.240])
+    by egwn.net (8.11.6/8.11.6/EGWN) with ESMTP id g996FAf08636 for
+    <rpm-list@freshrpms.net>; Wed, 9 Oct 2002 08:15:10 +0200
+Received: from eecs.berkeley.edu ([63.192.217.110]) by mta6.snfc21.pbi.net
+    (iPlanet Messaging Server 5.1 (built May  7 2001)) with ESMTP id
+    <0H3P00AM6AP7QI@mta6.snfc21.pbi.net> for rpm-list@freshrpms.net;
+    Tue, 08 Oct 2002 23:15:08 -0700 (PDT)
+From: Ben Liblit <liblit@eecs.berkeley.edu>
+Subject: Re: RedHat 8.0 and his own freetype
+To: rpm-list@freshrpms.net
+Message-Id: <3DA3C96B.7050007@eecs.berkeley.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="Boundary_(ID_xjiotMI3LbV/zJ0Zs39NiA)"
+X-Accept-Language: en-us, en
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.1) Gecko/20020827
+References: <20021004155451.52f9ecd5.matthias_haase@bennewitz.com>
+    <3D9E1F20.3050300@eecs.berkeley.edu>
+    <20021008202424.67c6e32c.matthias_haase@bennewitz.com>
+X-Mailscanner: Found to be clean, Found to be clean
+Sender: rpm-list-admin@freshrpms.net
+Errors-To: rpm-list-admin@freshrpms.net
+X-Beenthere: rpm-list@freshrpms.net
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: rpm-list@freshrpms.net
+List-Help: <mailto:rpm-list-request@freshrpms.net?subject=help>
+List-Post: <mailto:rpm-list@freshrpms.net>
+List-Subscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-list>,
+    <mailto:rpm-list-request@freshrpms.net?subject=subscribe>
+List-Id: Freshrpms RPM discussion list <rpm-list.freshrpms.net>
+List-Unsubscribe: <http://lists.freshrpms.net/mailman/listinfo/rpm-list>,
+    <mailto:rpm-list-request@freshrpms.net?subject=unsubscribe>
+List-Archive: <http://lists.freshrpms.net/pipermail/rpm-list/>
+X-Original-Date: Tue, 08 Oct 2002 23:15:07 -0700
+Date: Tue, 08 Oct 2002 23:15:07 -0700
+X-Spam-Status: No, hits=-0.1 required=5.0
+	tests=AWL,KNOWN_MAILING_LIST,RCVD_IN_MULTIHOP_DSBL,
+	      RCVD_IN_UNCONFIRMED_DSBL,REFERENCES,T_NONSENSE_FROM_40_50,
+	      USER_AGENT,USER_AGENT_MOZILLA_UA,X_ACCEPT_LANG
+	version=2.50-cvs
+X-Spam-Level:

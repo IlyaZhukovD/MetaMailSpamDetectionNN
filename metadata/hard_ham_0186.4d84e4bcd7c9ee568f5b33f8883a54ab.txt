@@ -1,0 +1,30 @@
+From zzz@example.com  Wed Sep  4 18:34:33 2002
+Return-Path: <zzz@example.com>
+Delivered-To: zzz@example.com
+Received: by example.com (Postfix, from userid 500)
+	id 27C6716F70; Wed,  4 Sep 2002 18:34:02 +0100 (IST)
+Received: from timhunt.net (ns1.timhunt.net [216.27.147.130])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6Q74M431124
+	for <tim_timhunt_net@spamtraps.taint.org>; Fri, 26 Jul 2002 08:04:22 +0100
+Received: from abv-sfo1-acmta5.cnet.com (abv-sfo1-acmta5.cnet.com [206.16.1.164])
+	by timhunt.net (8.11.3/8.11.1) with ESMTP id g6Q73aE47732
+	for <sdfs@fsg.com>; Fri, 26 Jul 2002 03:03:37 -0400 (EDT)
+	(envelope-from Online#3.21186.45-m2NUOKj6j6GVpsRR.1.b@newsletter.online.com)
+Received: from abv-sfo1-ac-agent2 (206.16.0.224) by abv-sfo1-acmta5.cnet.com (PowerMTA(TM) v1.5); Thu, 25 Jul 2002 23:56:36 -0700 (envelope-from <Online#3.21186.45-m2NUOKj6j6GVpsRR.1.b@newsletter.online.com>)
+Message-ID: <8050738.1027667010946.JavaMail.root@abv-sfo1-ac-agent2>
+Date: Fri, 26 Jul 2002 00:03:30 -0700 (PDT)
+From: CNET Delivers <Online#3.21186.45-m2NUOKj6j6GVpsRR.1@newsletter.online.com>
+To: sdfs@fsg.com
+Subject: UBID Auction Alert
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Accucast (http://www.accucast.com)
+X-Mailer-Version: 2.8.4-2
+X-Spam-Status: No, hits=3.4 required=7.0
+	tests=CTYPE_JUST_HTML,FORGED_RCVD_TRAIL,FROM_HAS_MIXED_NUMS,
+	      HTML_50_70,HTML_FONT_COLOR_BLUE,HTML_FONT_COLOR_GRAY,
+	      HTML_FONT_FACE_ODD,HTML_WITH_BGCOLOR,SPAM_PHRASE_01_02,
+	      WEB_BUGS
+	version=2.41-cvs
+X-Spam-Level: ***

@@ -1,0 +1,45 @@
+From aandjbaughebook@yahoo.com  Mon Jul 29 11:40:54 2002
+Return-Path: <aandjbaughebook@yahoo.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 7B9E94417F
+	for <jm@localhost>; Mon, 29 Jul 2002 06:36:14 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Mon, 29 Jul 2002 11:36:14 +0100 (IST)
+Received: from mail ([211.164.128.2]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g6SDBni06440 for <webmaster@efi.ie>;
+    Sun, 28 Jul 2002 14:11:50 +0100
+Received: (qmail 24864 invoked from network); 24 Jul 2002 01:37:25 -0000
+Received: from unknown (HELO .) ([211.79.20.251]) (envelope-sender
+    <aandjbaughebook@yahoo.com>) by 192.172.0.2 (qmail-1.03) with SMTP for
+    <webmaster@electritek.com>; 24 Jul 2002 01:37:25 -0000
+Message-Id: <0000374c572a$00004af0$0000446a@.>
+To: <webmaster@electritek.com>, <webmaster@einkauf-center.de>,
+	<webmaster@egraffiti.zzn.com>, <webmaster@egay.zzn.com>,
+	<webmaster@ecki.com>, <webmaster@eeggs.com>,
+	<webmaster@economics.zzn.com>, <webmaster@emailchoice.com>,
+	<webmaster@ekuhnle.de>, <webmaster@edv-service-shop.de>,
+	<webmaster@eddyco.com>, <webmaster@emery.com>,
+	<webmaster@elmoswelt.de>, <webmaster@elitecomputershop.com>,
+	<webmaster@ehznorth.wr.usgs.gov>, <webmaster@education-world.com>,
+	<webmaster@ecuadorarts.com>, <webmaster@electroweb.com>,
+	<webmaster@edinformatics.com>, <webmaster@elkcreeksports.com>,
+	<webmaster@eisdn.de>, <webmaster@embark.com>
+Cc: <webmaster@educationindex.com>, <webmaster@egert.de>,
+	<webmaster@elchtom.de>, <webmaster@eiffel.com>,
+	<webmaster@elektron.de>, <webmaster@egw.com>,
+	<webmaster@edysnet.com>, <webmaster@einvestigator.com>,
+	<webmaster@elliswatts.com>, <webmaster@eitzen.de>,
+	<webmaster@emmgee.com>, <webmaster@emailpals.zzn.com>,
+	<webmaster@efi.ie>, <webmaster@elitenet.com>, <webmaster@emc.se>,
+	<webmaster@eclipseonline.net>, <webmaster@eloquent.com>,
+	<webmaster@editin.com>, <webmaster@edgar-moskopp.de>,
+	<webmaster@ecreations.com>, <webmaster@electrocrack.cjb.net>,
+	<webmaster@edacom.de>
+From: aandjbaughebook@yahoo.com
+Subject: Your order#               5056
+Date: Tue, 23 Jul 2002 18:22:10 -1900
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

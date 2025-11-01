@@ -1,0 +1,22 @@
+From webdeals@7a6a.net  Mon Jun 24 17:48:34 2002
+Return-Path: webdeals@7a6a.net
+Delivery-Date: Thu Jun  6 06:32:28 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g565WR516923 for
+    <jm@jmason.org>; Thu, 6 Jun 2002 06:32:28 +0100
+Received: from smtp7a6a (ATHM-216-217-xxx-158.newedgenetworks.com
+    [216.217.85.158] (may be forged)) by mandark.labs.netnoteinc.com
+    (8.11.6/8.11.2) with ESMTP id g565WOm11443 for <jm@netnoteinc.com>;
+    Thu, 6 Jun 2002 06:32:26 +0100
+Received: from Mailer ([216.217.85.158]) by smtp7a6a with Microsoft
+    SMTPSVC(5.0.2195.4905); Thu, 6 Jun 2002 01:38:14 -0400
+Date: Thu, 06 Jun 2002 01:38:14 Eastern Daylight Time
+From: Web Deals <webdeals@7a6a.net>
+To: yyyy@netnoteinc.com
+Subject: Get The BEST PRICE on Your Next CAR!
+X-Mailer: Flicks Softwares OCXMail 2.2f
+X-Messageno: 2400073718
+Message-Id: <SMTP7A6AJeCZKgrcXcr00043b72@smtp7a6a>
+X-Originalarrivaltime: 06 Jun 2002 05:38:14.0140 (UTC) FILETIME=[5A1583C0:01C20D1C]
+X-Keywords: 
+Content-Type: text/html; charset="iso-8859-1"

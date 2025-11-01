@@ -1,0 +1,24 @@
+From fhogan@bigfoot.com  Wed Aug  7 09:15:30 2002
+Return-Path: <fhogan@bigfoot.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 8C48E440C8
+	for <jm@localhost>; Wed,  7 Aug 2002 04:15:25 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 07 Aug 2002 09:15:25 +0100 (IST)
+Received: from bigfoot.com ([212.160.153.96]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g778BPk16863 for <webmaster@efi.ie>;
+    Wed, 7 Aug 2002 09:11:25 +0100
+Reply-To: <fhogan@bigfoot.com>
+Message-Id: <031a71a07d1c$2642e6c2$4cb43cc2@aethlr>
+From: <fhogan@bigfoot.com>
+To: <webmaster@efi.ie>
+Subject: The Government Grants you $25,000!
+Date: Wed, 07 Aug 2002 16:01:49 -0800
+MIME-Version: 1.0
+X-Priority: 3 (Normal)
+X-Msmail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+Importance: Normal
+Content-Type: text/html; charset="iso-8859-1"

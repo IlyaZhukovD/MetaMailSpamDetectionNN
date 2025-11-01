@@ -1,0 +1,17 @@
+From mailings@ticketmaster.co.uk  Mon Jun 24 17:04:22 2002
+Return-Path: mailings@ticketmaster.co.uk
+Delivery-Date: Thu May 16 12:18:46 2002
+Received: from mail1.ticketweb.co.uk ([213.86.56.112]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4GBIge00369 for
+    <JM-TICKMASTER@JMASON.ORG>; Thu, 16 May 2002 12:18:46 +0100
+Received: from mail.ticketweb.co.uk (localhost [127.0.0.1]) by
+    mail1.ticketweb.co.uk (Postfix) with SMTP id 98D024DFC6 for
+    <JM-TICKMASTER@JMASON.ORG>; Thu, 16 May 2002 12:18:41 +0100 (BST)
+Date: Thu, 16 May 2002 12:14:56 +0100
+From: mailings@ticketmaster.co.uk
+Subject: Save £5.00 on Creamfields tickets
+To: mailings@ticketmaster.co.uk
+Precedence: list
+X-Bulkmail: 2.05
+Message-Id: <20020516111841.98D024DFC6@mail1.ticketweb.co.uk>
+X-Keywords:

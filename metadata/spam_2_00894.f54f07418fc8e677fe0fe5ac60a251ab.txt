@@ -1,0 +1,56 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MKW9hY095677
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Mon, 22 Jul 2002 15:32:09 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6MKW9Ga095675
+	for cypherpunks-forward@ds.pro-ns.net; Mon, 22 Jul 2002 15:32:09 -0500 (CDT)
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6MKW0hY095654
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 15:32:02 -0500 (CDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: from waste.minder.net (daemon@waste [66.92.53.73])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6MKVxJ55104
+	for <cypherpunks@ds.pro-ns.net>; Mon, 22 Jul 2002 16:32:00 -0400 (EDT)
+	(envelope-from cpunks@waste.minder.net)
+Received: (from cpunks@localhost)
+	by waste.minder.net (8.11.6/8.11.6) id g6MKVxp23634
+	for cypherpunks@ds.pro-ns.net; Mon, 22 Jul 2002 16:31:59 -0400
+Received: from locust.minder.net (locust.minder.net [66.92.53.74])
+	by waste.minder.net (8.11.6/8.11.6) with ESMTP id g6MKVvR23610
+	for <cpunks@minder.net>; Mon, 22 Jul 2002 16:31:58 -0400
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by locust.minder.net (8.11.6/8.11.6) with ESMTP id g6MKVuJ55088
+	for <cpunks@minder.net>; Mon, 22 Jul 2002 16:31:56 -0400 (EDT)
+	(envelope-from cpunks@einstein.ssz.com)
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id PAA19563
+	for cpunks@minder.net; Mon, 22 Jul 2002 15:40:21 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id PAA19515
+	for cypherpunks-outgoing; Mon, 22 Jul 2002 15:38:56 -0500
+Received: from mkt1.verticalresponse.com (mkt1.verticalresponse.com [130.94.4.19])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id PAA19509
+	for <cypherpunks@einstein.ssz.com>; Mon, 22 Jul 2002 15:38:51 -0500
+Message-Id: <200207222038.PAA19509@einstein.ssz.com>
+Received: (qmail 27616 invoked from network); 22 Jul 2002 20:30:11 -0000
+Received: from unknown (130.94.4.23)
+  by 0 with QMQP; 22 Jul 2002 20:30:11 -0000
+From: " Special Deals" <unsubs-96a0aef8be-cypherpunks=einstein.ssz.com@b.verticalresponse.com>
+To: cypherpunks@einstein.ssz.com
+Old-Subject: CDR: Learn the Secrets of Investing in Real Estate Today!
+Date: Mon, 22 Jul 2002 20:30:11 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="__________MIMEboundary__________"
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+Subject: Learn the Secrets of Investing in Real Estate Today!

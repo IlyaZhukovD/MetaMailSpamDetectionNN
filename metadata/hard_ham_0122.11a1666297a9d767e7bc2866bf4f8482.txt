@@ -1,0 +1,22 @@
+Return-Path: <bounce-lgweb-2534373@sprocket.lockergnome.com>
+Received: from webnote.net (mail.webnote.net [193.120.211.219])
+	by dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g6MFIJ902894
+	for <qqqqqqqqqq-lg@example.com>; Mon, 22 Jul 2002 16:18:20 +0100
+Received: from lockergnome.com (sprocket.lockergnome.com [130.94.96.247])
+	by webnote.net (8.9.3/8.9.3) with SMTP id LAA31326
+	for <qqqqqqqqqq-lg@example.com>; Mon, 22 Jul 2002 11:19:14 +0100
+X-Mailer: ListManager Web Interface
+Date: Mon, 22 Jul 2002 02:49:22 -0500
+Subject: [Lockergnome Webmaster Weekly]  Educational Capabilities
+To: qqqqqqqqqq-lg@example.com
+From: Lockergnome Webmaster Weekly <subscriptions@lockergnome.com>
+List-Unsubscribe: <mailto:leave-lgweb-2534373J@sprocket.lockergnome.com>
+List-Subscribe: <mailto:subscribe-lgweb@sprocket.lockergnome.com>
+List-Owner: <mailto:owner-lgweb@sprocket.lockergnome.com>
+X-URL: <http://www.lockergnome.com/>
+X-List-Host: Lockergnome <http://www.lockergnome.com/>
+Reply-To: leave-lgweb-2534373J@sprocket.lockergnome.com
+Sender: bounce-lgweb-2534373@sprocket.lockergnome.com
+Message-Id: <LISTMANAGERSQL-2534373-1687559-2002.07.22-02.50.49--qqqqqqqqqq-lg#example.com@sprocket.lockergnome.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii

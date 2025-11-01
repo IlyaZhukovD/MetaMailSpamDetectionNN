@@ -1,0 +1,23 @@
+From tba@insurancemail.net  Mon Jun 24 17:42:53 2002
+Return-Path: tba@insurancemail.net
+Delivery-Date: Thu Mar 21 00:40:06 2002
+Received: from insurance-mail.insuranceiq.com (host66.insuranceiq.com
+    [65.217.159.66] (may be forged)) by dogma.slashnull.org (8.11.6/8.11.6)
+    with ESMTP id g2L0e6g18733 for <jm@jmason.org>; Thu, 21 Mar 2002 00:40:06
+    GMT
+Received: from mail pickup service by insurance-mail.insuranceiq.com with
+    Microsoft SMTPSVC; Wed, 20 Mar 2002 19:40:11 -0500
+Subject: Let the TBA Doctor Save Your Tough Cases
+To: <yyyy@spamassassin.taint.org>
+Date: Wed, 20 Mar 2002 19:40:11 -0500
+From: "TBA" <tba@insurancemail.net>
+Message-Id: <45e7c01c1d070$f56954c0$6701a8c0@insuranceiq.com>
+MIME-Version: 1.0
+X-Mimeole: Produced By Microsoft MimeOLE V5.50.4522.1200
+Thread-Index: AcHQVHWImG5RRIvwSfm33Oy2P4PSKg==
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+X-Originalarrivaltime: 21 Mar 2002 00:40:11.0562 (UTC) FILETIME=[F56DE8A0:01C1D070]
+X-Status: 
+X-Keywords: 
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_1EA50_01C1D02A.8CB39DF0"

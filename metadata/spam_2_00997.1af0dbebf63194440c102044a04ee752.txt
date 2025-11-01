@@ -1,0 +1,24 @@
+From cgarner@carrier.co.at  Tue Jul 23 23:17:03 2002
+Return-Path: <cgarner@carrier.co.at>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id C90A4440CD
+	for <jm@localhost>; Tue, 23 Jul 2002 18:17:02 -0400 (EDT)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 23 Jul 2002 23:17:02 +0100 (IST)
+Received: from gp-education.com ([202.57.128.230]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with ESMTP id g6NMEi431974 for <jm-twiki@jmason.org>;
+    Tue, 23 Jul 2002 23:14:45 +0100
+Received: from mailhost.ORGANOX.COM.BR [62.8.227.14] by gp-education.com
+    with ESMTP (SMTPD32-6.06 EVAL) id A52E14A0140; Wed, 24 Jul 2002 05:14:06
+    +0700
+Message-Id: <0000727376bc$00005859$00007ae3@mx10.netvision.net.il>
+To: <cgarner@carrier.co.at>
+From: "Customer Support Group" <cgarner@carrier.co.at>
+Subject: $ave money on your long distance conference calls
+Date: Tue, 23 Jul 2002 15:10:19 -1900
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable

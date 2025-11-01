@@ -1,0 +1,22 @@
+Received: from mail.paulcarneymotors.com.au (117-14.dsl.connexus.net.au [203.222.117.14])
+	by linux.midrange.com (8.11.6/8.11.6) with ESMTP id g6MFqIe30019
+	for <dmgibbs@midrange.com>; Mon, 22 Jul 2002 10:52:18 -0500
+Received: from 212.120.142.242 ([212.120.142.242])
+	by mail.paulcarneymotors.com.au (8.11.6/8.9.3) with SMTP id g6MFpB406027;
+	Tue, 23 Jul 2002 01:51:15 +1000
+Message-Id: <200207221551.g6MFpB406027@mail.paulcarneymotors.com.au>
+From: pitster265059876@hotmail.com
+To: dmlnpg@hotmail.com
+CC: dmgibbs@midrange.com, dmlawn@hotmail.com, dmitmer@yahoo.com,
+   dmnf90d@yahoo.com, dmjackson17@hotmail.com, dmg6156@yahoo.com,
+   dmetrius2@yahoo.com, dmkramer@yahoo.com, dmjewel@hotmail.com,
+   dmihulka@msn.com
+Date: Mon, 22 Jul 2002 11:09:34 -0500
+Subject: YOU MAY WANT TO LOOK INTO GRANTS.
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Status: 
+X-Keywords:

@@ -1,0 +1,22 @@
+From customerservice@chaseff.com  Tue Aug  6 11:05:28 2002
+Return-Path: <customerservice@chaseff.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 6F67D44147
+	for <jm@localhost>; Tue,  6 Aug 2002 05:57:17 -0400 (EDT)
+Received: from mail.webnote.net [193.120.211.219]
+	by localhost with POP3 (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 10:57:17 +0100 (IST)
+Received: from smtp.easydns.com (smtp.easydns.com [205.210.42.30])
+	by webnote.net (8.9.3/8.9.3) with ESMTP id CAA16352
+	for <jm@netnoteinc.com>; Tue, 6 Aug 2002 02:12:37 +0100
+Received: from spammer (unknown [65.107.235.226])
+	by smtp.easydns.com (Postfix) with SMTP id D0C362D2FB
+	for <jm@netnoteinc.com>; Mon,  5 Aug 2002 21:12:20 -0400 (EDT)
+From: "customerservice@chaseff.com" <customerservice@chaseff.com>
+To: <yyyy@netnoteinc.com>
+Subject: 3.5% fixed payment 30 year loan
+Mime-Version: 1.0
+Date: Mon, 5 Aug 2002 18:14:38
+Message-Id: <20020806011220.D0C362D2FB@smtp.easydns.com>
+Content-Type: text/html; charset="iso-8859-1"

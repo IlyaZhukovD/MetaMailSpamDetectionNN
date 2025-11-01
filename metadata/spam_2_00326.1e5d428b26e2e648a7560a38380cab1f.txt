@@ -1,0 +1,27 @@
+From mojoq@mail.slip.net  Mon Jun 24 17:04:19 2002
+Return-Path: mojoq@mail.slip.net
+Delivery-Date: Thu May 16 11:03:00 2002
+Received: from mandark.labs.netnoteinc.com ([213.105.180.140]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g4GA2xe29407 for
+    <jm@jmason.org>; Thu, 16 May 2002 11:02:59 +0100
+Received: from webnote.net (mail.webnote.net [193.120.211.219]) by
+    mandark.labs.netnoteinc.com (8.11.2/8.11.2) with ESMTP id g4GA2rD28542 for
+    <jm@netnoteinc.com>; Thu, 16 May 2002 11:02:58 +0100
+Received: from server.nhlawyers.net (dsl-64-192-64-17.telocity.com
+    [64.192.64.17]) by webnote.net (8.9.3/8.9.3) with ESMTP id DAA11323 for
+    <jm@netnoteinc.com>; Thu, 16 May 2002 03:36:43 +0100
+Received: from smtp0421.mail.yahoo.com ([218.25.133.5]) by
+    server.nhlawyers.net with Microsoft SMTPSVC(5.0.2195.2096); Wed,
+    15 May 2002 22:38:51 -0400
+Date: Thu, 16 May 2002 10:37:33 +0800
+From: "Victoria Mendell"<mojoq@mail.slip.net>
+X-Priority: 3
+To: yyyy@neteze.com
+Cc: yyyy@netinternet.net, yyyy@netmagic.net, yyyy@netmore.net, yyyy@netnoteinc.com
+Subject: yyyy,Do You Know the HGH Differences ?
+MIME-Version: 1.0
+Message-Id: <SERVER8HuiEdATvACUy00002a42@server.nhlawyers.net>
+X-Originalarrivaltime: 16 May 2002 02:38:52.0203 (UTC) FILETIME=[D0CB7FB0:01C1FC82]
+X-Keywords: 
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit

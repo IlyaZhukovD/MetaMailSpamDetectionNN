@@ -1,0 +1,27 @@
+Return-Path: <hito@opentext.com>
+Received: from marconi.wl.opentext.com (marconi.wl.opentext.com [172.21.0.46])
+	by opentext.com (8.9.3/8.9.3) with ESMTP id LAA21115;
+	Thu, 11 Jul 2002 11:00:16 -0400
+Received: from vectorsvc.wl.opentext.com (krusty.wl.opentext.com [172.21.0.45])
+	by marconi.wl.opentext.com (8.12.4/8.11.6) with ESMTP id g6BF0FjQ026828;
+	Thu, 11 Jul 2002 11:00:16 -0400
+Received: from itodell (168.dhcp-wl2.opentext.com [192.168.131.168])
+	by vectorsvc.wl.opentext.com (8.9.3/8.9.3) with SMTP id LAA21072;
+	Thu, 11 Jul 2002 11:00:12 -0400
+Reply-To: <hito@opentext.com>
+From: "=?iso-2022-jp?B?GyRCMEtFbCEhP04bKEI=?=" <hito@opentext.com>
+To: "=?iso-2022-jp?B?JxskQiUiJUAlYCEmJVklcyU4JWMlXyVzGyhCJw==?=" <aebenjam@opentext.com>
+Cc: <michaelb@opentext.com>
+Subject: =?iso-2022-jp?B?GyRCRnxLXDhsJE43b0w+IUolNSVWJTglJyUvJUghSyEhJTkbKEI=?=
+	=?iso-2022-jp?B?GyRCJVElYCVhITwlayRHJE8kIiRqJF4kOyRzISobKEI=?=
+Date: Thu, 11 Jul 2002 11:01:45 -0400
+Message-ID: <000101c228eb$e04cf280$a883a8c0@wl.opentext.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0002_01C228CA.593B5280"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Archived: msg.2fcAaN@marconi.wl.opentext.com

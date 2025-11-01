@@ -1,0 +1,50 @@
+From sentto-2242572-51739-1029158217-zzz=example.com@returns.groups.yahoo.com  Mon Aug 12 14:17:20 2002
+Return-Path: <sentto-2242572-51739-1029158217-zzz=example.com@returns.groups.yahoo.com>
+Delivered-To: zzz@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id E888444178
+	for <zzz@localhost>; Mon, 12 Aug 2002 09:17:17 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for zzz@localhost (single-drop); Mon, 12 Aug 2002 14:17:17 +0100 (IST)
+Received: from n21.grp.scd.yahoo.com (n21.grp.scd.yahoo.com
+    [66.218.66.77]) by dogma.slashnull.org (8.11.6/8.11.6) with SMTP id
+    g7CDH2b14452 for <zzz@example.com>; Mon, 12 Aug 2002 14:17:03 +0100
+X-Egroups-Return: sentto-2242572-51739-1029158217-zzz=example.com@returns.groups.yahoo.com
+Received: from [66.218.67.192] by n21.grp.scd.yahoo.com with NNFMP;
+    12 Aug 2002 13:16:57 -0000
+X-Sender: barbarabarrett@orchidserve.com
+X-Apparently-To: forteana@yahoogroups.com
+Received: (EGP: mail-8_0_7_4); 12 Aug 2002 13:16:57 -0000
+Received: (qmail 50371 invoked from network); 12 Aug 2002 13:16:56 -0000
+Received: from unknown (66.218.66.217) by m10.grp.scd.yahoo.com with QMQP;
+    12 Aug 2002 13:16:56 -0000
+Received: from unknown (HELO clustermail.minx.net.uk) (212.85.249.136) by
+    mta2.grp.scd.yahoo.com with SMTP; 12 Aug 2002 13:16:56 -0000
+Received: from [80.47.231.174] (helo=orchidserve.com) by
+    clustermail.minx.net.uk with esmtp (Exim 3.22 #7) id 17eF5R-0001TM-00 for
+    forteana@yahoogroups.com; Mon, 12 Aug 2002 14:18:21 +0100
+Message-Id: <3D57B4C6.FC790DB3@orchidserve.com>
+X-Mailer: Mozilla 4.73 [en] (Win95; I)
+X-Accept-Language: en
+To: "forteana@yahoogroups.com" <forteana@yahoogroups.com>
+From: Barbara Barrett <barbarabarrett@orchidserve.com>
+X-Yahoo-Profile: nfrwalso
+MIME-Version: 1.0
+Mailing-List: list forteana@yahoogroups.com; contact
+    forteana-owner@yahoogroups.com
+Delivered-To: mailing list forteana@yahoogroups.com
+Precedence: bulk
+List-Unsubscribe: <mailto:forteana-unsubscribe@yahoogroups.com>
+Date: Mon, 12 Aug 2002 14:14:46 +0100
+Subject: [forteana] Fwd: Explorator 5.15
+Reply-To: forteana@yahoogroups.com
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by dogma.slashnull.org
+    id g7CDH2b14452
+X-Spam-Status: No, hits=-5.9 required=7.0
+	tests=FROM_EGROUPS,FWD_MSG,GAPPY_TEXT,GROUPS_YAHOO_1,
+	      OUTLOOK_FW_MSG,TO_ADDRESS_EQ_REAL,X_ACCEPT_LANG
+	version=2.40
+X-Spam-Level:
